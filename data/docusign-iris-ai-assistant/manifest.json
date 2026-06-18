@@ -1,0 +1,362 @@
+{
+  "generated_at": "2026-06-18T17:49:20Z",
+  "source": "docusign-scraper",
+  "pages": [
+    {
+      "source_url": "https://www.docusign.com/blog/ai-assisted-agreement-summaries-Q-A",
+      "site": "www.docusign.com",
+      "title": "Introducing AI-Assisted Agreement Summaries and Q&A in Docusign eSignature",
+      "breadcrumb": [
+        "Home",
+        "Home",
+        "Blog",
+        "Blog",
+        "Intelligent Agreement Management",
+        "Intelligent Agreement Management"
+      ],
+      "scraped_at": "2026-06-18T17:46:39Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "blog/ai-assisted-agreement-summaries-Q-A.md"
+    },
+    {
+      "source_url": "https://www.docusign.com/blog/ai-assisted-review",
+      "site": "www.docusign.com",
+      "title": "Turn Agreements Around Faster with Docusign AI-Assisted Review",
+      "breadcrumb": [
+        "Home",
+        "Home",
+        "Blog",
+        "Blog",
+        "Intelligent Agreement Management",
+        "Intelligent Agreement Management"
+      ],
+      "scraped_at": "2026-06-18T17:46:51Z",
+      "chunks": 10,
+      "has_content": true,
+      "markdown_path": "blog/ai-assisted-review.md"
+    },
+    {
+      "source_url": "https://www.docusign.com/blog/ai-contract-review-assistant",
+      "site": "www.docusign.com",
+      "title": "Turn Agreements Around Faster with an AI Contract Review Assistant",
+      "breadcrumb": [
+        "Home",
+        "Home",
+        "Blog",
+        "Blog",
+        "Intelligent Agreement Management",
+        "Intelligent Agreement Management"
+      ],
+      "scraped_at": "2026-06-18T17:46:56Z",
+      "chunks": 10,
+      "has_content": true,
+      "markdown_path": "blog/ai-contract-review-assistant.md"
+    },
+    {
+      "source_url": "https://www.docusign.com/blog/ai-globalization-at-docusign-empowering-customers-with-multilingual-ai",
+      "site": "www.docusign.com",
+      "title": "AI Globalization at Docusign: Empowering Customers with Multilingual AI Models",
+      "breadcrumb": [
+        "Home",
+        "Home",
+        "Blog",
+        "Blog",
+        "Intelligent Agreement Management",
+        "Intelligent Agreement Management"
+      ],
+      "scraped_at": "2026-06-18T17:47:02Z",
+      "chunks": 13,
+      "has_content": true,
+      "markdown_path": "blog/ai-globalization-at-docusign-empowering-customers-with-multilingual-ai.md"
+    },
+    {
+      "source_url": "https://www.docusign.com/blog/capabilities/ai",
+      "site": "www.docusign.com",
+      "title": "AI",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T17:46:34Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "blog/capabilities/ai.md"
+    },
+    {
+      "source_url": "https://www.docusign.com/blog/docusign-iris-agreement-ai",
+      "site": "www.docusign.com",
+      "title": "Meet Docusign Iris: The AI Behind Intelligent Agreement Management",
+      "breadcrumb": [
+        "Home",
+        "Home",
+        "Blog",
+        "Blog",
+        "Intelligent Agreement Management",
+        "Intelligent Agreement Management"
+      ],
+      "scraped_at": "2026-06-18T17:46:28Z",
+      "chunks": 15,
+      "has_content": true,
+      "markdown_path": "blog/docusign-iris-agreement-ai.md"
+    },
+    {
+      "source_url": "https://www.docusign.com/blog/smarter-esignature-experience-powered-by-ai",
+      "site": "www.docusign.com",
+      "title": "A Smarter Docusign eSignature Experience, Powered by AI",
+      "breadcrumb": [
+        "Home",
+        "Home",
+        "Blog",
+        "Blog",
+        "Intelligent Agreement Management",
+        "Intelligent Agreement Management"
+      ],
+      "scraped_at": "2026-06-18T17:46:45Z",
+      "chunks": 9,
+      "has_content": true,
+      "markdown_path": "blog/smarter-esignature-experience-powered-by-ai.md"
+    },
+    {
+      "source_url": "https://www.docusign.com/products/ai-assisted-review",
+      "site": "www.docusign.com",
+      "title": "Accelerate document review with AI",
+      "breadcrumb": [
+        "Home",
+        "Home",
+        "Products",
+        "Products",
+        "AI Assisted Review"
+      ],
+      "scraped_at": "2026-06-18T17:46:22Z",
+      "chunks": 10,
+      "has_content": true,
+      "markdown_path": "products/ai-assisted-review.md"
+    },
+    {
+      "source_url": "https://www.docusign.com/products/platform/ai",
+      "site": "www.docusign.com",
+      "title": "Agreement AI that works for every business",
+      "breadcrumb": [
+        "Home",
+        "Home",
+        "Products",
+        "Products",
+        "Platform",
+        "Platform",
+        "AI"
+      ],
+      "scraped_at": "2026-06-18T17:46:16Z",
+      "chunks": 14,
+      "has_content": true,
+      "markdown_path": "products/platform/ai.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=mapfd7284e6-b699-4527-8651-a133914111fd&topicId=bga1726768437395-xfh0ne6r.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Rule Examples for the AI-Assisted Review add-in for Agreement Desk",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T17:48:41Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/mapfd7284e6-b699-4527-8651-a133914111fd/bga1726768437395-xfh0ne6r.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=mapfd7284e6-b699-4527-8651-a133914111fd&topicId=con74e34c35-eb00-48d8-a66b-5723cf2a8273.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Support for AI-Assisted Review in Agreement Desk ​Plans",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T17:48:41Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/mapfd7284e6-b699-4527-8651-a133914111fd/con74e34c35-eb00-48d8-a66b-5723cf2a8273.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=mapfd7284e6-b699-4527-8651-a133914111fd&topicId=con7dae9192-c00f-4290-abb2-11b9068012b3.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Install the AI-Assisted Review Add-In for Agreement Desk",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T17:48:41Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/mapfd7284e6-b699-4527-8651-a133914111fd/con7dae9192-c00f-4290-abb2-11b9068012b3.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=mapfd7284e6-b699-4527-8651-a133914111fd&topicId=con96376399-7388-4391-aeea-dc1978e3a034.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Contract Review With the AI-Assisted Review add-in for Agreement Desk",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T17:48:41Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/mapfd7284e6-b699-4527-8651-a133914111fd/con96376399-7388-4391-aeea-dc1978e3a034.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=mapfd7284e6-b699-4527-8651-a133914111fd&topicId=confef1b68e-4d95-443d-a51c-7b04377874b9.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Docusign AI-Assisted Review for Agreement Desk",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T17:48:41Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/mapfd7284e6-b699-4527-8651-a133914111fd/confef1b68e-4d95-443d-a51c-7b04377874b9.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=mapfd7284e6-b699-4527-8651-a133914111fd&topicId=fje1726766463553-fwcby1ke.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Best Practices for Playbook Rule Writing in the AI-Assisted Review add-in for Agreement Desk",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T17:48:41Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/mapfd7284e6-b699-4527-8651-a133914111fd/fje1726766463553-fwcby1ke.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=mapfd7284e6-b699-4527-8651-a133914111fd&topicId=ksy1726766639378-9ssxjwhd.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Rule Writing Tips for Playbooks in the AI-Assisted Review add-in for Agreement Desk",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T17:48:41Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "support/mapfd7284e6-b699-4527-8651-a133914111fd/ksy1726766639378-9ssxjwhd.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=mapfd7284e6-b699-4527-8651-a133914111fd&topicId=sfb1726768049795-68if27q5.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Playbook Rule Optimization in the AI-Assisted Review add-in for Agreement Desk",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T17:48:41Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/mapfd7284e6-b699-4527-8651-a133914111fd/sfb1726768049795-68if27q5.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=mapfd7284e6-b699-4527-8651-a133914111fd&topicId=task-691.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Preview an Agreement Using the Docusign AI-Assisted Review Add-In for Agreement Desk",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T17:48:41Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/mapfd7284e6-b699-4527-8651-a133914111fd/task-691.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=mapfd7284e6-b699-4527-8651-a133914111fd&topicId=tsk24f896e8-9d0e-4f77-97d9-709c3f5f7b4d.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create a Playbook in the AI-Assisted Review add-in for Agreement Desk",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T17:48:41Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/mapfd7284e6-b699-4527-8651-a133914111fd/tsk24f896e8-9d0e-4f77-97d9-709c3f5f7b4d.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=mapfd7284e6-b699-4527-8651-a133914111fd&topicId=tsk31bc3eb4-f708-42aa-ab14-983e1ab3cb37.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Edit Playbook Rules in the Docusign AI-Assisted Review add-in for Agreement Desk",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T17:48:41Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/mapfd7284e6-b699-4527-8651-a133914111fd/tsk31bc3eb4-f708-42aa-ab14-983e1ab3cb37.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=mapfd7284e6-b699-4527-8651-a133914111fd&topicId=tsk34774824-f66a-440a-9006-1d618e2141c7.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Chat in the Docusign AI-Assisted Review add-in for Agreement Desk",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T17:48:42Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "support/mapfd7284e6-b699-4527-8651-a133914111fd/tsk34774824-f66a-440a-9006-1d618e2141c7.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=mapfd7284e6-b699-4527-8651-a133914111fd&topicId=tsk3cda84b5-cfd8-48cc-9cd0-d11547b87096.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Review Contracts Using the AI-Assisted Review add-in for Agreement Desk",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T17:48:41Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/mapfd7284e6-b699-4527-8651-a133914111fd/tsk3cda84b5-cfd8-48cc-9cd0-d11547b87096.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=mapfd7284e6-b699-4527-8651-a133914111fd&topicId=tsk4aa134b9-92cc-4c36-b5dc-18d2f2c1b006.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Run a Playbook in the AI-Assisted Review add-in for Agreement Desk",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T17:48:41Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/mapfd7284e6-b699-4527-8651-a133914111fd/tsk4aa134b9-92cc-4c36-b5dc-18d2f2c1b006.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=mapfd7284e6-b699-4527-8651-a133914111fd&topicId=tsk4b137e26-b4f7-4ac7-abd6-9ec0ec9e5673.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Delete a Playbook or Playbook Rule in the Docusign AI-Assisted Review add-in for Agreement Desk",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T17:48:42Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/mapfd7284e6-b699-4527-8651-a133914111fd/tsk4b137e26-b4f7-4ac7-abd6-9ec0ec9e5673.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=mapfd7284e6-b699-4527-8651-a133914111fd&topicId=tsk6d1f2a80-6402-4973-b639-882737665b5a.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Open a Document from Agreement Desk in AI-Assisted Review",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T17:48:41Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/mapfd7284e6-b699-4527-8651-a133914111fd/tsk6d1f2a80-6402-4973-b639-882737665b5a.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=mapfd7284e6-b699-4527-8651-a133914111fd&topicId=tsk76dfc02e-b1f2-4ebe-8a05-0efbfa622c0b.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Generate Playbooks Using the AI-Assisted Review add-in for Agreement Desk",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T17:48:41Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/mapfd7284e6-b699-4527-8651-a133914111fd/tsk76dfc02e-b1f2-4ebe-8a05-0efbfa622c0b.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=mapfd7284e6-b699-4527-8651-a133914111fd&topicId=tsk88fe45be-52eb-4839-92e0-29a82a4df6b1.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Export and Import Playbooks in the Docusign AI-Assisted Review add-in for Agreement Desk",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T17:48:42Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/mapfd7284e6-b699-4527-8651-a133914111fd/tsk88fe45be-52eb-4839-92e0-29a82a4df6b1.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=mapfd7284e6-b699-4527-8651-a133914111fd&topicId=tsk8b028ec5-3d65-45a6-aec6-6b3540565b75.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Set Playbook Permissions for the AI-Assisted Review add-in for Agreement Desk",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T17:48:41Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/mapfd7284e6-b699-4527-8651-a133914111fd/tsk8b028ec5-3d65-45a6-aec6-6b3540565b75.md"
+    },
+    {
+      "source_url": "https://community.docusign.com/what-s-new-at-docusign-156/docusign-iris-how-docusign-powers-ai-features-across-the-agreement-journey-23658",
+      "site": "community.docusign.com",
+      "title": "Docusign Iris: How Docusign Powers AI Features Across the Agreement Journey",
+      "breadcrumb": [
+        "Home",
+        "Home",
+        "Community Overview",
+        "Community Overview",
+        "Get Inspiration",
+        "Get Inspiration",
+        "What's new at Docusign",
+        "What's new at Docusign",
+        "Docusign Iris: How Docusign Powers AI Features Across the Agreement Journey"
+      ],
+      "scraped_at": "2026-06-18T17:47:06Z",
+      "chunks": 13,
+      "has_content": true,
+      "markdown_path": "what-s-new-at-docusign-156/docusign-iris-how-docusign-powers-ai-features-across-the-agreement-journey-23658.md"
+    }
+  ]
+}

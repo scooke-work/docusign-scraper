@@ -81,6 +81,12 @@ Currently committed under `data/`:
 - `docusign-ai-agents/` — 16 pages / 161 chunks (Docusign AI Agents: developer
   AI tooling, support AI bundle, and product/blog pages on Agent Studio, the MCP
   Server, and agentic workflows)
+- `docusign-iris-ai-assistant/` — 29 pages / 146 chunks (Docusign Iris + AI
+  Assistant: Iris platform pages, AI-Assisted Summaries/Q&A, multilingual AI, and
+  the full AI-Assisted Review add-in support docs — install, playbooks, chat)
+
+Promote an ad-hoc `output/<set>/` run into the committed corpus with
+`python scripts/promote.py <set>` (rebuilds a consistent manifest + chunks).
 
 ## Using inside another repo (git submodule)
 
