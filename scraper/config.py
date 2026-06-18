@@ -33,7 +33,11 @@ class Config:
 
     # Timing (milliseconds, Playwright convention)
     nav_timeout_ms: int = 45_000
-    selector_timeout_ms: int = 20_000
+    selector_timeout_ms: int = 20_000  # max wait for the content selector to appear
+    # Short, best-effort "settle" wait after content appears. Kept low because
+    # Salesforce Lightning pages often never reach networkidle — waiting the full
+    # selector timeout on every page was the dominant per-page cost.
+    idle_timeout_ms: int = 2_500
 
     # Behaviour
     use_cache: bool = True

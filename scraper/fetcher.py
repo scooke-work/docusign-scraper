@@ -151,13 +151,16 @@ class BrowserFetcher:
         page = self._context.new_page()
         try:
             page.goto(url, wait_until="domcontentloaded")
-            # Let XHR/Lightning data settle, then wait for real content.
-            try:
-                page.wait_for_load_state("networkidle", timeout=self.config.selector_timeout_ms)
-            except Exception:
-                pass  # networkidle is best-effort; some Lightning pages never idle
+            # Wait for real content FIRST — this resolves the moment the article
+            # renders, instead of blocking on networkidle (which Lightning pages
+            # frequently never reach, wasting the full timeout on every page).
             try:
                 page.wait_for_selector(selector, timeout=self.config.selector_timeout_ms)
+            except Exception:
+                pass
+            # Then a short, best-effort settle for any trailing XHR.
+            try:
+                page.wait_for_load_state("networkidle", timeout=self.config.idle_timeout_ms)
             except Exception:
                 pass
 
