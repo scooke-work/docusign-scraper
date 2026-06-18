@@ -75,8 +75,12 @@ Each `.md` has YAML frontmatter (`title`, `source_url`, `site`, `breadcrumb`,
 - **`output/`** is the **gitignored scratch** dir — the default `--out` target for
   ad-hoc runs. The HTML cache (`.cache/`) is gitignored too.
 
-Currently committed under `data/`: `agreement-manager-api/` (28 pages) and
-`agreement-manager-support/` (235 pages).
+Currently committed under `data/`:
+- `agreement-manager-api/` — 28 pages / 175 chunks (developer docs)
+- `agreement-manager-support/` — 235 pages / 882 chunks (support docs)
+- `docusign-ai-agents/` — 16 pages / 161 chunks (Docusign AI Agents: developer
+  AI tooling, support AI bundle, and product/blog pages on Agent Studio, the MCP
+  Server, and agentic workflows)
 
 ## Using inside another repo (git submodule)
 

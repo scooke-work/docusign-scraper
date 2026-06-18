@@ -1,0 +1,231 @@
+{
+  "generated_at": "2026-06-18T17:36:45Z",
+  "source": "docusign-scraper",
+  "pages": [
+    {
+      "source_url": "https://www.docusign.com/blog/agentic-contract-workflows-in-house-legal-teams",
+      "site": "www.docusign.com",
+      "title": "Introducing Agentic Contract Workflows for In-House Legal Teams",
+      "breadcrumb": [
+        "Home",
+        "Home",
+        "Blog",
+        "Blog",
+        "Intelligent Agreement Management",
+        "Intelligent Agreement Management"
+      ],
+      "scraped_at": "2026-06-18T17:36:18Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "blog/agentic-contract-workflows-in-house-legal-teams.md"
+    },
+    {
+      "source_url": "https://www.docusign.com/blog/developers/build-docusign-agreement-agents-microsoft-copilot-studio",
+      "site": "www.docusign.com",
+      "title": "Build Agreement Agents in Microsoft Copilot Studio Using the Docusign MCP Connector",
+      "breadcrumb": [
+        "Home",
+        "Home",
+        "Blog",
+        "Blog",
+        "Developers",
+        "Developers"
+      ],
+      "scraped_at": "2026-06-18T17:36:06Z",
+      "chunks": 17,
+      "has_content": true,
+      "markdown_path": "blog/developers/build-docusign-agreement-agents-microsoft-copilot-studio.md"
+    },
+    {
+      "source_url": "https://www.docusign.com/blog/developers/docusign-mcp-server-legal-ai-integration",
+      "site": "www.docusign.com",
+      "title": "Legal AI Integration Patterns for Docusign MCP: Query Agreements and Trigger Workflows",
+      "breadcrumb": [
+        "Home",
+        "Home",
+        "Blog",
+        "Blog",
+        "Developers",
+        "Developers"
+      ],
+      "scraped_at": "2026-06-18T17:36:12Z",
+      "chunks": 13,
+      "has_content": true,
+      "markdown_path": "blog/developers/docusign-mcp-server-legal-ai-integration.md"
+    },
+    {
+      "source_url": "https://www.docusign.com/blog/developers/momentum-26-agentic-agreement-workflows",
+      "site": "www.docusign.com",
+      "title": "How Developers Can Build Agentic Agreement Workflows on Docusign IAM",
+      "breadcrumb": [
+        "Home",
+        "Home",
+        "Blog",
+        "Blog",
+        "Developers",
+        "Developers"
+      ],
+      "scraped_at": "2026-06-18T17:35:59Z",
+      "chunks": 18,
+      "has_content": true,
+      "markdown_path": "blog/developers/momentum-26-agentic-agreement-workflows.md"
+    },
+    {
+      "source_url": "https://www.docusign.com/blog/new-ai-assistant-and-agents",
+      "site": "www.docusign.com",
+      "title": "Turning Contracts Into the Engine of Business with a New AI Assistant and Agents",
+      "breadcrumb": [
+        "Home",
+        "Home",
+        "Blog",
+        "Blog",
+        "Intelligent Agreement Management",
+        "Intelligent Agreement Management"
+      ],
+      "scraped_at": "2026-06-18T17:35:54Z",
+      "chunks": 12,
+      "has_content": true,
+      "markdown_path": "blog/new-ai-assistant-and-agents.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/iam-toolkit/",
+      "site": "developers.docusign.com",
+      "title": "IAM Toolkit overview",
+      "breadcrumb": [
+        "Home",
+        "Home",
+        "IAM Toolkit"
+      ],
+      "scraped_at": "2026-06-18T17:32:56Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "iam-toolkit.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/platform/mcp-server/",
+      "site": "developers.docusign.com",
+      "title": "Build with the Docusign MCP Server (Beta)",
+      "breadcrumb": [
+        "Platform 101",
+        "Platform 101",
+        "MCP Server"
+      ],
+      "scraped_at": "2026-06-18T17:32:49Z",
+      "chunks": 10,
+      "has_content": true,
+      "markdown_path": "platform/mcp-server.md"
+    },
+    {
+      "source_url": "https://www.docusign.com/products/agents",
+      "site": "www.docusign.com",
+      "title": "Complex contract workflows, handled",
+      "breadcrumb": [
+        "Home",
+        "Home",
+        "Products",
+        "Products",
+        "Agents"
+      ],
+      "scraped_at": "2026-06-18T17:35:48Z",
+      "chunks": 8,
+      "has_content": true,
+      "markdown_path": "products/agents.md"
+    },
+    {
+      "source_url": "https://www.docusign.com/products/platform/ai",
+      "site": "www.docusign.com",
+      "title": "Agreement AI that works for every business",
+      "breadcrumb": [
+        "Home",
+        "Home",
+        "Products",
+        "Products",
+        "Platform",
+        "Platform",
+        "AI"
+      ],
+      "scraped_at": "2026-06-18T17:35:53Z",
+      "chunks": 14,
+      "has_content": true,
+      "markdown_path": "products/platform/ai.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=fzd1707173174972&topicId=aif1751068986497.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Reporting Bugs and Unexpected Issues FAQ",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T17:33:15Z",
+      "chunks": 8,
+      "has_content": true,
+      "markdown_path": "support/fzd1707173174972/aif1751068986497.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=fzd1707173174972&topicId=dcs1708531444159.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "AI Data Controls Setting FAQs",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T17:33:15Z",
+      "chunks": 16,
+      "has_content": true,
+      "markdown_path": "support/fzd1707173174972/dcs1708531444159.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=fzd1707173174972&topicId=kjr1716822308597.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Commitment to AI Awareness",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T17:33:15Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/fzd1707173174972/kjr1716822308597.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=fzd1707173174972&topicId=uss1707173279973.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Docusign FAQs﻿ for AI",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T17:33:15Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "support/fzd1707173174972/uss1707173279973.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=fzd1707173174972&topicId=usy1712258503642.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Introduction to AI at Docusign",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T17:33:15Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "support/fzd1707173174972/usy1712258503642.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/tools/ai-assistant-vs-code/",
+      "site": "developers.docusign.com",
+      "title": "Docusign Developer AI Assistant for VS Code (Beta)",
+      "breadcrumb": [
+        "Tools",
+        "Tools",
+        "Docusign Developer AI Assistant for VS Code"
+      ],
+      "scraped_at": "2026-06-18T17:32:52Z",
+      "chunks": 12,
+      "has_content": true,
+      "markdown_path": "tools/ai-assistant-vs-code.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/tools/build-with-docusign-ai/",
+      "site": "developers.docusign.com",
+      "title": "Build with Docusign and AI",
+      "breadcrumb": [
+        "Tools",
+        "Tools",
+        "Build with Docusign and AI"
+      ],
+      "scraped_at": "2026-06-18T17:32:39Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "tools/build-with-docusign-ai.md"
+    }
+  ]
+}
