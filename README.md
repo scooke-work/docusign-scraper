@@ -117,6 +117,11 @@ Currently committed under `data/`:
   for high-volume low-risk acceptance — plus the product page)
 - `docusign-rooms/` — 296 pages / 1,086 chunks (Rooms for Real Estate/Mortgage:
   the Rooms API dev docs (complete, 161 pages), the Rooms support bundle, product)
+- `docusign-agreement-desk/` — 84 pages / 141 chunks (Agreement Desk support — the
+  IAM pre-signature intake/review/approval workspace: user guide + admin bundles)
+- `docusign-iam-platform/` — 6 pages / 48 chunks (IAM platform overview only —
+  the umbrella "what is IAM" pages incl. IAM Core / CX / Sales, plus the product
+  page. Intentionally small: IAM's depth lives in the per-product datasets above.)
 
 Promote an ad-hoc `output/<set>/` run into the committed corpus with
 `python scripts/promote.py <set>` (rebuilds a consistent manifest + chunks).

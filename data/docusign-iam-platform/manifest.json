@@ -1,0 +1,70 @@
+{
+  "generated_at": "2026-06-18T22:44:04Z",
+  "source": "docusign-scraper",
+  "pages": [
+    {
+      "source_url": "https://www.docusign.com/intelligent-agreement-management",
+      "site": "www.docusign.com",
+      "title": "Take control of your agreements",
+      "breadcrumb": [
+        "Home",
+        "Home",
+        "Intelligent Agreement Management"
+      ],
+      "scraped_at": "2026-06-18T22:42:10Z",
+      "chunks": 21,
+      "has_content": true,
+      "markdown_path": "intelligent-agreement-management.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gxt1715008698191&topicId=lor1715008727515.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Docusign Intelligent Agreement Management",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:43:53Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "support/gxt1715008698191/lor1715008727515.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gxt1715008698191&topicId=sxn1715008821053.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "IAM for CX",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:43:53Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "support/gxt1715008698191/sxn1715008821053.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gxt1715008698191&topicId=uor1715008797972.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "IAM Core",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:43:53Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "support/gxt1715008698191/uor1715008797972.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gxt1715008698191&topicId=upn1715008846097.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "IAM for Sales",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:43:53Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "support/gxt1715008698191/upn1715008846097.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=rxg1713805550541&topicId=lcf1713805578790.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Docusign Intelligent Agreement Management",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:42:05Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "support/rxg1713805550541/lcf1713805578790.md"
+    }
+  ]
+}

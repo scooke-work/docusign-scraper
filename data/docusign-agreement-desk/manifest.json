@@ -1,0 +1,846 @@
+{
+  "generated_at": "2026-06-18T22:44:04Z",
+  "source": "docusign-scraper",
+  "pages": [
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=mapf0ca9167-3825-4b36-a385-e98321f7adb5&topicId=con19e9c923-3be6-4f8f-8ceb-bf213487ae7e.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Agreement Desk Request Management",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:41:58Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/mapf0ca9167-3825-4b36-a385-e98321f7adb5/con19e9c923-3be6-4f8f-8ceb-bf213487ae7e.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=mapf0ca9167-3825-4b36-a385-e98321f7adb5&topicId=con1fc88284-aff5-46c9-ac08-15db3839fce8.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Agreement Desk Request Reports Dashboards",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:41:58Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/mapf0ca9167-3825-4b36-a385-e98321f7adb5/con1fc88284-aff5-46c9-ac08-15db3839fce8.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=mapf0ca9167-3825-4b36-a385-e98321f7adb5&topicId=dkw1746741874592.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Restore a Deleted Custom Status",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:41:59Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/mapf0ca9167-3825-4b36-a385-e98321f7adb5/dkw1746741874592.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=mapf0ca9167-3825-4b36-a385-e98321f7adb5&topicId=ibv1746742497759.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Reorder Request Statuses",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:41:58Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/mapf0ca9167-3825-4b36-a385-e98321f7adb5/ibv1746742497759.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=mapf0ca9167-3825-4b36-a385-e98321f7adb5&topicId=mkt1746739630705.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create a Custom Request Status",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:41:59Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/mapf0ca9167-3825-4b36-a385-e98321f7adb5/mkt1746739630705.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=mapf0ca9167-3825-4b36-a385-e98321f7adb5&topicId=pfa1750728666069.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Get Started with Administration for Docusign Agreement Desk",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:41:58Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/mapf0ca9167-3825-4b36-a385-e98321f7adb5/pfa1750728666069.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=mapf0ca9167-3825-4b36-a385-e98321f7adb5&topicId=rbh1746741503320.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Edit a Custom Status",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:41:58Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/mapf0ca9167-3825-4b36-a385-e98321f7adb5/rbh1746741503320.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=mapf0ca9167-3825-4b36-a385-e98321f7adb5&topicId=tsk00ba307f-bd89-4e78-964b-45ffc9b28f36.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Block Sending for Signatures for Outstanding Approvals",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:41:58Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/mapf0ca9167-3825-4b36-a385-e98321f7adb5/tsk00ba307f-bd89-4e78-964b-45ffc9b28f36.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=mapf0ca9167-3825-4b36-a385-e98321f7adb5&topicId=tsk01779417-0383-47c8-b2a2-78f2a19df672.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Grant Agreement Desk Permissions to Users",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:41:58Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/mapf0ca9167-3825-4b36-a385-e98321f7adb5/tsk01779417-0383-47c8-b2a2-78f2a19df672.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=mapf0ca9167-3825-4b36-a385-e98321f7adb5&topicId=tsk07f7841e-2151-4455-adb9-86889e57290d.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Enable Agreement Desk AI Agents for Your Users",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:41:58Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/mapf0ca9167-3825-4b36-a385-e98321f7adb5/tsk07f7841e-2151-4455-adb9-86889e57290d.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=mapf0ca9167-3825-4b36-a385-e98321f7adb5&topicId=tsk10b83d29-a73c-4ea5-a501-73c7a54e147b.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure a Custom Inbound Email Address for Messages﻿",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:41:58Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/mapf0ca9167-3825-4b36-a385-e98321f7adb5/tsk10b83d29-a73c-4ea5-a501-73c7a54e147b.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=mapf0ca9167-3825-4b36-a385-e98321f7adb5&topicId=tsk1cf545e9-1aeb-4028-821a-3285dba3af43.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Enable External Participation in Agreement Desk",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:41:58Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/mapf0ca9167-3825-4b36-a385-e98321f7adb5/tsk1cf545e9-1aeb-4028-821a-3285dba3af43.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=mapf0ca9167-3825-4b36-a385-e98321f7adb5&topicId=tsk65c2bd6e-7202-4abe-9144-7838c4d7b179.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Turn on Agreement Desk for Specific Users",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:41:58Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/mapf0ca9167-3825-4b36-a385-e98321f7adb5/tsk65c2bd6e-7202-4abe-9144-7838c4d7b179.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=mapf0ca9167-3825-4b36-a385-e98321f7adb5&topicId=tsk6a4ee268-9156-47c4-b6d7-ea000a7ac267.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Enable Agreement Desk for Your Users with One-Click",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:41:58Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/mapf0ca9167-3825-4b36-a385-e98321f7adb5/tsk6a4ee268-9156-47c4-b6d7-ea000a7ac267.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=mapf0ca9167-3825-4b36-a385-e98321f7adb5&topicId=tsk9686d786-5711-44e3-ae53-34aab8fb7aa8.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure Notifications",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:41:58Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/mapf0ca9167-3825-4b36-a385-e98321f7adb5/tsk9686d786-5711-44e3-ae53-34aab8fb7aa8.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=mapf0ca9167-3825-4b36-a385-e98321f7adb5&topicId=tska11c64b2-f659-4a02-9c03-560696783ead.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create a New Request Status",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:41:58Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/mapf0ca9167-3825-4b36-a385-e98321f7adb5/tska11c64b2-f659-4a02-9c03-560696783ead.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=mapf0ca9167-3825-4b36-a385-e98321f7adb5&topicId=tska1ea4388-3fe7-4c1e-a157-920c4fb8991c.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Specify a Default Request Type",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:41:58Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/mapf0ca9167-3825-4b36-a385-e98321f7adb5/tska1ea4388-3fe7-4c1e-a157-920c4fb8991c.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=mapf0ca9167-3825-4b36-a385-e98321f7adb5&topicId=tskb742acec-613b-4610-9264-438bd66004ae.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Duplicate a Request Type",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:41:58Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/mapf0ca9167-3825-4b36-a385-e98321f7adb5/tskb742acec-613b-4610-9264-438bd66004ae.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=mapf0ca9167-3825-4b36-a385-e98321f7adb5&topicId=tskbc35d897-762f-447a-9f97-8a7bb1b493f9.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create a New Request Type",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:41:58Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/mapf0ca9167-3825-4b36-a385-e98321f7adb5/tskbc35d897-762f-447a-9f97-8a7bb1b493f9.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=mapf0ca9167-3825-4b36-a385-e98321f7adb5&topicId=tskd3a46b9f-28f3-4e4b-b3de-0d37ee8a7fd1.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Import and Export Request Type and Status Settings",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:41:59Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/mapf0ca9167-3825-4b36-a385-e98321f7adb5/tskd3a46b9f-28f3-4e4b-b3de-0d37ee8a7fd1.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=mapf0ca9167-3825-4b36-a385-e98321f7adb5&topicId=tskf21b79e1-30b1-461b-be2a-0ab900c5c519.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Agreement Desk Reports",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:41:58Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/mapf0ca9167-3825-4b36-a385-e98321f7adb5/tskf21b79e1-30b1-461b-be2a-0ab900c5c519.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=mapf0ca9167-3825-4b36-a385-e98321f7adb5&topicId=uio1746740597462.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Delete a Custom Status",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:41:59Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/mapf0ca9167-3825-4b36-a385-e98321f7adb5/uio1746740597462.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=mapf0ca9167-3825-4b36-a385-e98321f7adb5&topicId=xlg1741793314719.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Locate Your Docusign Agreement Desk Email Address",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:41:58Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/mapf0ca9167-3825-4b36-a385-e98321f7adb5/xlg1741793314719.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=cga1741799587916.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Manage Agreement Desk Request Documents",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:42Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/cga1741799587916.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=cme1740780440870.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Assign an Owner to a Request",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:42Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/cme1740780440870.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=cns1740515049572.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Reply to Messages in Requests",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:43Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/cns1740515049572.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=con1fc88284-aff5-46c9-ac08-15db3839fce8.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Agreement Desk Request Reports Dashboards",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:44Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/con1fc88284-aff5-46c9-ac08-15db3839fce8.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=con1fc88284-aff5-46c9-ac08-15db3839fce8_1.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Agreement Desk Request Reports Dashboards",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:44Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/con1fc88284-aff5-46c9-ac08-15db3839fce8_1.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=con486db68d-874e-4355-af0b-da1594542281.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Request Approvals in IAM Unified Tasks",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:43Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/con486db68d-874e-4355-af0b-da1594542281.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=conabea0be7-0f8b-4b06-889f-944238bbda04.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Comments in Request Documents",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:43Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/conabea0be7-0f8b-4b06-889f-944238bbda04.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=conba2c6fab-dea7-487c-bf18-4a1ebf4fc04f.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Custom Request Identifiers",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:42Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/conba2c6fab-dea7-487c-bf18-4a1ebf4fc04f.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=conc18a847e-48f9-46f0-9fe0-4e86781265a6.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Contract Agents to Complete Requests in Agreement Desk",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:43Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/conc18a847e-48f9-46f0-9fe0-4e86781265a6.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=cone5f82f9c-0fb4-4eb2-af81-f5a0c0d71138.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Compare Docusign Agreement Desk and Docusign Workspaces",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:42Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/cone5f82f9c-0fb4-4eb2-af81-f5a0c0d71138.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=cqt1740782949607.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Manage Request Approvals",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:43Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/cqt1740782949607.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=cur1743111749653.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Get Started with Agreement Desk",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:42Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/cur1743111749653.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=dyu1746815580682.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Send Messages",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:43Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/dyu1746815580682.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=eig1740515096115.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "View Messages Associated with Requests",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:43Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/eig1740515096115.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=ent1747168477311.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Get Notified about Changes to Requests",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:43Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/ent1747168477311.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=eso1750186406223.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Change a Request Status",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:44Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/eso1750186406223.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=evv1736279756476.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "View Requests",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:42Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/evv1736279756476.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=fub1743087942169.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "How Does Agreement Desk Work?",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:42Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/fub1743087942169.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=grv1741279665037.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Download Documents Associated with Requests",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:43Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/grv1741279665037.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=hwx1750186254953.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Manage the Request Status",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:44Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/hwx1750186254953.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=jsp1740516519653.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Send Documents for Signature from Requests",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:43Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/jsp1740516519653.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=kad1741200501544.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Replace a Document with a Newer Version",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:42Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/kad1741200501544.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=klp1741200450602.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Delete Documents from Agreement Desk Requests",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:43Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/klp1741200450602.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=kzk1736279174395.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Manage Account Requests",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:42Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/kzk1736279174395.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=mnw1740524684012.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Delete Requests",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:42Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/mnw1740524684012.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=oan1736279133237.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Welcome to Agreement Desk",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:42Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/oan1736279133237.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=qmp1741366974050.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Manage Agreement Communications",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:43Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/qmp1741366974050.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=shn1741124725905.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Request Creation Methods",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:42Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/shn1741124725905.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=skb1747171258288.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "View Requests Updates on the Activity Feed",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:42Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/skb1747171258288.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=task-4704.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Get a Direct link to a Comment",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:43Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/task-4704.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=task-5654.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Reply to and Resolve Comments from the Sidebar",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:43Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/task-5654.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=task-6936.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "View Comment Timestamps in the Sidebar",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:43Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/task-6936.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=task-8002.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Filter Comments in the Sidebar",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:43Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/task-8002.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=task-8362.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Work with Document Comments in the Comments Sidebar",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:43Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/task-8362.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=tpa1740514877858.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create a Request from the Requests Dashboard",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:42Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/tpa1740514877858.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=tsk019a50de-2452-4f9a-a639-91c573a38cfa.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Compare Documents in Requests",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:43Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/tsk019a50de-2452-4f9a-a639-91c573a38cfa.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=tsk26e57e79-af86-46b5-8842-45898d4499ca.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Agreement Desk Request Summarization (Beta)",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:43Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/tsk26e57e79-af86-46b5-8842-45898d4499ca.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=tsk312d7aeb-7884-49d9-8b47-457ede8a7851.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create Custom Request Identifiers",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:42Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/tsk312d7aeb-7884-49d9-8b47-457ede8a7851.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=tsk475af1b3-82e8-4162-8e4a-d85df51cf038.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Mark Agreement Desk Request Documents as Complete",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:43Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/tsk475af1b3-82e8-4162-8e4a-d85df51cf038.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=tsk5ec97360-6dd8-45ff-aa59-bea4c0e41d05.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Set Up Request Notifications",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:43Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/tsk5ec97360-6dd8-45ff-aa59-bea4c0e41d05.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=tsk6484b707-95ff-4f69-abb0-a29def71ade3.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Manage Comments in Request Documents",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:43Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/tsk6484b707-95ff-4f69-abb0-a29def71ade3.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=tsk734581f9-9cc7-4ed4-b971-63e49a27136e.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Convert a PDF to a Word Document in Requests",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:43Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/tsk734581f9-9cc7-4ed4-b971-63e49a27136e.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=tsk74738a73-dd64-46a1-b58a-c8a1cb01aaae.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Assign Followers to a Request",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:42Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/tsk74738a73-dd64-46a1-b58a-c8a1cb01aaae.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=tsk884f7dee-8ff0-4647-95fa-b6e8e05080e0.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Unified Fields in Agreement Desk Searches",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:44Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/tsk884f7dee-8ff0-4647-95fa-b6e8e05080e0.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=tsk9d48e34d-fe54-4ba2-b3ec-e58fe1473656.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Saved Search for Agreement Desk Requests",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:44Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/tsk9d48e34d-fe54-4ba2-b3ec-e58fe1473656.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=tskb6689632-bcc4-41e7-8a23-cb6d173cc5fd.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "View All Agreement Desk Request Followers",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:42Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/tskb6689632-bcc4-41e7-8a23-cb6d173cc5fd.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=tskb9bdd359-8691-4eb6-a0a4-e562a81aea92.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Agreement Desk Message Drafting",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:43Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/tskb9bdd359-8691-4eb6-a0a4-e562a81aea92.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=tskca7e2a32-b9fe-46b4-9acd-f88c54b48e8d.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Manage Envelopes from Agreement Desk",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:43Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/tskca7e2a32-b9fe-46b4-9acd-f88c54b48e8d.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=tskd3a46b9f-28f3-4e4b-b3de-0d37ee8a7fd1.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Import and Export Request Type and Status Settings",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:44Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/tskd3a46b9f-28f3-4e4b-b3de-0d37ee8a7fd1.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=tske30a78d7-9149-47e5-9270-32a8a4934cb0.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Complete Envelope Activities in Agreement Desk",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:43Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/tske30a78d7-9149-47e5-9270-32a8a4934cb0.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=tske950c7d5-e5b4-4b6a-a274-d2495c5d2992.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Forward Messages",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:43Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/tske950c7d5-e5b4-4b6a-a274-d2495c5d2992.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=tskebbad5d3-e278-4ae5-b42b-e4a04fa627a1.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Agreement Desk Redline Summarization (Beta)",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:43Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/tskebbad5d3-e278-4ae5-b42b-e4a04fa627a1.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=tskf39318e6-e212-4736-bf44-2a1e57475e1d.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Review Agreement Desk Request Reports",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:44Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/tskf39318e6-e212-4736-bf44-2a1e57475e1d.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=tskf871e5e5-d006-4ec7-8043-dbdaa38578cb.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Share Requests",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:42Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/tskf871e5e5-d006-4ec7-8043-dbdaa38578cb.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=udu1740515981487.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Notifications About Changes to Requests",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:43Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/udu1740515981487.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=umt1747683535119.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create a Request through Email",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:42Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/umt1747683535119.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=wnv1740965211951.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Edit Requests",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:42Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/wnv1740965211951.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=wvc1740966803166.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "View Documents Associated with Agreement Desk Requests",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:42Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/wvc1740966803166.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=xzc1740514992382.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Documents to Agreement Desk Requests",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:42Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/xzc1740514992382.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=yao1749836146880.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Permissions By License Type",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:42Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/yao1749836146880.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=msb1736279079453&topicId=yrc1740515145178.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Search and Filter Requests",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:40:42Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/msb1736279079453/yrc1740515145178.md"
+    }
+  ]
+}
