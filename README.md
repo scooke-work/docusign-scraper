@@ -111,6 +111,8 @@ Currently committed under `data/`:
 - `docusign-sdks/` — 5 pages / 54 chunks (the developer SDKs overview docs)
 - `docusign-id-evidence/` — 13 pages / 69 chunks (ID Evidence API developer docs
   — retrieving proof of completed ID Verification)
+- `docusign-tsp/` — 18 pages / 89 chunks (TSP API developer docs — Trust Service
+  Provider program: concepts, get-started, API flow, and endpoint reference)
 
 Promote an ad-hoc `output/<set>/` run into the committed corpus with
 `python scripts/promote.py <set>` (rebuilds a consistent manifest + chunks).

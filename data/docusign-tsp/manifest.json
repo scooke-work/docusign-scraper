@@ -1,0 +1,322 @@
+{
+  "generated_at": "2026-06-18T22:15:36Z",
+  "source": "docusign-scraper",
+  "pages": [
+    {
+      "source_url": "https://developers.docusign.com/docs/tsp-api/",
+      "site": "developers.docusign.com",
+      "title": "TSP Partner Program",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Trust Service Provider API"
+      ],
+      "scraped_at": "2026-06-18T22:15:24Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/tsp-api.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/tsp-api/reference/",
+      "site": "developers.docusign.com",
+      "title": "TSP API Reference",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Trust Service Provider API",
+        "Trust Service Provider API",
+        "API Reference"
+      ],
+      "scraped_at": "2026-06-18T22:15:24Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/tsp-api/reference.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/tsp-api/reference/complete-sign-hash-session-information/",
+      "site": "developers.docusign.com",
+      "title": "TSP Complete Sign Hash Session Information",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Trust Service Provider API",
+        "Trust Service Provider API",
+        "API Reference",
+        "API Reference",
+        "Complete Sign Hash Session Information"
+      ],
+      "scraped_at": "2026-06-18T22:15:24Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "docs/tsp-api/reference/complete-sign-hash-session-information.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/tsp-api/reference/create-files/",
+      "site": "developers.docusign.com",
+      "title": "Create Files",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Trust Service Provider API",
+        "Trust Service Provider API",
+        "API Reference",
+        "API Reference",
+        "Create Files"
+      ],
+      "scraped_at": "2026-06-18T22:15:24Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/tsp-api/reference/create-files.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/tsp-api/reference/get-tsp-user-information/",
+      "site": "developers.docusign.com",
+      "title": "Get TSP User Information",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Trust Service Provider API",
+        "Trust Service Provider API",
+        "API Reference",
+        "API Reference",
+        "Get Tsp User Information"
+      ],
+      "scraped_at": "2026-06-18T22:15:24Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "docs/tsp-api/reference/get-tsp-user-information.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/tsp-api/reference/post-cms/",
+      "site": "developers.docusign.com",
+      "title": "POST CMS",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Trust Service Provider API",
+        "Trust Service Provider API",
+        "API Reference",
+        "API Reference",
+        "Post Cms"
+      ],
+      "scraped_at": "2026-06-18T22:15:24Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "docs/tsp-api/reference/post-cms.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/tsp-api/reference/post-signed-attributes/",
+      "site": "developers.docusign.com",
+      "title": "POST SignedAttributes",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Trust Service Provider API",
+        "Trust Service Provider API",
+        "API Reference",
+        "API Reference",
+        "Post Signed Attributes"
+      ],
+      "scraped_at": "2026-06-18T22:15:24Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "docs/tsp-api/reference/post-signed-attributes.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/tsp-api/reference/sign-hash-session-information/",
+      "site": "developers.docusign.com",
+      "title": "TSP Sign Hash Session Information",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Trust Service Provider API",
+        "Trust Service Provider API",
+        "API Reference",
+        "API Reference",
+        "Sign Hash Session Information"
+      ],
+      "scraped_at": "2026-06-18T22:15:24Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "docs/tsp-api/reference/sign-hash-session-information.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/tsp-api/reference/update-transaction/",
+      "site": "developers.docusign.com",
+      "title": "Update Transaction",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Trust Service Provider API",
+        "Trust Service Provider API",
+        "API Reference",
+        "API Reference",
+        "Update Transaction"
+      ],
+      "scraped_at": "2026-06-18T22:15:24Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "docs/tsp-api/reference/update-transaction.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/tsp-api/tsp101/",
+      "site": "developers.docusign.com",
+      "title": "TSP API 101 Overview",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Trust Service Provider API",
+        "Trust Service Provider API",
+        "Tsp101"
+      ],
+      "scraped_at": "2026-06-18T22:15:24Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/tsp-api/tsp101.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/tsp-api/tsp101/api-flow/",
+      "site": "developers.docusign.com",
+      "title": "TSP API Flow",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Trust Service Provider API",
+        "Trust Service Provider API",
+        "Tsp101",
+        "Tsp101",
+        "Api Flow"
+      ],
+      "scraped_at": "2026-06-18T22:15:24Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/tsp-api/tsp101/api-flow.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/tsp-api/tsp101/cms-service-api/",
+      "site": "developers.docusign.com",
+      "title": "CMS service API",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Trust Service Provider API",
+        "Trust Service Provider API",
+        "Tsp101",
+        "Tsp101",
+        "Cms Service Api"
+      ],
+      "scraped_at": "2026-06-18T22:15:24Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/tsp-api/tsp101/cms-service-api.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/tsp-api/tsp101/concepts/",
+      "site": "developers.docusign.com",
+      "title": "Trust Service Provider Concepts",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Trust Service Provider API",
+        "Trust Service Provider API",
+        "Tsp101",
+        "Tsp101",
+        "Concepts"
+      ],
+      "scraped_at": "2026-06-18T22:15:24Z",
+      "chunks": 11,
+      "has_content": true,
+      "markdown_path": "docs/tsp-api/tsp101/concepts.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/tsp-api/tsp101/design-standards-overview/",
+      "site": "developers.docusign.com",
+      "title": "Design Standards Overview",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Trust Service Provider API",
+        "Trust Service Provider API",
+        "Tsp101",
+        "Tsp101",
+        "Design Standards Overview"
+      ],
+      "scraped_at": "2026-06-18T22:15:24Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/tsp-api/tsp101/design-standards-overview.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/tsp-api/tsp101/design-standards-requirements/",
+      "site": "developers.docusign.com",
+      "title": "Design Standards Requirements",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Trust Service Provider API",
+        "Trust Service Provider API",
+        "Tsp101",
+        "Tsp101",
+        "Design Standards Requirements"
+      ],
+      "scraped_at": "2026-06-18T22:15:24Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "docs/tsp-api/tsp101/design-standards-requirements.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/tsp-api/tsp101/get-started/",
+      "site": "developers.docusign.com",
+      "title": "Getting started with your TSP integration",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Trust Service Provider API",
+        "Trust Service Provider API",
+        "Tsp101",
+        "Tsp101",
+        "Get started with the Web Forms API"
+      ],
+      "scraped_at": "2026-06-18T22:15:24Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/tsp-api/tsp101/get-started.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/tsp-api/tsp101/long-term-signature-validation/",
+      "site": "developers.docusign.com",
+      "title": "Long term validation of PDF signatures",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Trust Service Provider API",
+        "Trust Service Provider API",
+        "Tsp101",
+        "Tsp101",
+        "Long Term Signature Validation"
+      ],
+      "scraped_at": "2026-06-18T22:15:24Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "docs/tsp-api/tsp101/long-term-signature-validation.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/tsp-api/tsp101/tsp-authentication/",
+      "site": "developers.docusign.com",
+      "title": "Authentication",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Trust Service Provider API",
+        "Trust Service Provider API",
+        "Tsp101",
+        "Tsp101",
+        "Tsp Authentication"
+      ],
+      "scraped_at": "2026-06-18T22:15:24Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/tsp-api/tsp101/tsp-authentication.md"
+    }
+  ]
+}
