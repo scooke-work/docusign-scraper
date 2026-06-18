@@ -1,0 +1,412 @@
+{
+  "generated_at": "2026-06-18T18:27:40Z",
+  "source": "docusign-scraper",
+  "pages": [
+    {
+      "source_url": "https://www.docusign.com/blog/developers/custom-data-verification-connected-fields-api",
+      "site": "www.docusign.com",
+      "title": "From NIGO to STP: A developer's guide to custom data verification and the Connected Fields API",
+      "breadcrumb": [
+        "Home",
+        "Home",
+        "Blog",
+        "Blog",
+        "Developers",
+        "Developers"
+      ],
+      "scraped_at": "2026-06-18T18:27:07Z",
+      "chunks": 28,
+      "has_content": true,
+      "markdown_path": "blog/developers/custom-data-verification-connected-fields-api.md"
+    },
+    {
+      "source_url": "https://www.docusign.com/blog/developers/fast-track-your-extension-apps-with-reference-implementations",
+      "site": "www.docusign.com",
+      "title": "Fast-track your extension apps with reference implementations",
+      "breadcrumb": [
+        "Home",
+        "Home",
+        "Blog",
+        "Blog",
+        "Code Examples",
+        "Code Examples"
+      ],
+      "scraped_at": "2026-06-18T18:27:13Z",
+      "chunks": 8,
+      "has_content": true,
+      "markdown_path": "blog/developers/fast-track-your-extension-apps-with-reference-implementations.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/connected-fields-api/",
+      "site": "developers.docusign.com",
+      "title": "Connected Fields API overview",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Connected Fields API"
+      ],
+      "scraped_at": "2026-06-18T18:25:42Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/connected-fields-api.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/connected-fields-api/auth/",
+      "site": "developers.docusign.com",
+      "title": "Authentication",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Connected Fields API",
+        "Connected Fields API",
+        "Authentication"
+      ],
+      "scraped_at": "2026-06-18T18:25:43Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/connected-fields-api/auth.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/connected-fields-api/concepts/",
+      "site": "developers.docusign.com",
+      "title": "Connected Fields API concepts",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Connected Fields API",
+        "Connected Fields API",
+        "Concepts"
+      ],
+      "scraped_at": "2026-06-18T18:25:43Z",
+      "chunks": 12,
+      "has_content": true,
+      "markdown_path": "docs/connected-fields-api/concepts.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/connected-fields-api/go-live/",
+      "site": "developers.docusign.com",
+      "title": "Go-Live and API base paths",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Connected Fields API",
+        "Connected Fields API",
+        "Go-Live"
+      ],
+      "scraped_at": "2026-06-18T18:25:43Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "docs/connected-fields-api/go-live.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/connected-fields-api/reference/",
+      "site": "developers.docusign.com",
+      "title": "API Categories",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Connected Fields API",
+        "Connected Fields API",
+        "API Reference"
+      ],
+      "scraped_at": "2026-06-18T18:25:43Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/connected-fields-api/reference.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/connected-fields-api/reference/connectedfields/",
+      "site": "developers.docusign.com",
+      "title": "ConnectedFields",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Connected Fields API",
+        "Connected Fields API",
+        "API Reference",
+        "API Reference",
+        "Connectedfields"
+      ],
+      "scraped_at": "2026-06-18T18:25:43Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/connected-fields-api/reference/connectedfields.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/connected-fields-api/reference/connectedfields/tabinfo/",
+      "site": "developers.docusign.com",
+      "title": "TabInfo Resource | Connected Fields API | Docusign",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Connected Fields API",
+        "Connected Fields API",
+        "API Reference",
+        "API Reference",
+        "Connectedfields",
+        "Connectedfields",
+        "Tabinfo"
+      ],
+      "scraped_at": "2026-06-18T18:25:43Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/connected-fields-api/reference/connectedfields/tabinfo.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/connected-fields-api/reference/connectedfields/tabinfo/getconnectedfieldstabgroups/",
+      "site": "developers.docusign.com",
+      "title": ": GetConnectedFieldsTabGroups",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Connected Fields API",
+        "Connected Fields API",
+        "API Reference",
+        "API Reference",
+        "Connectedfields",
+        "Connectedfields",
+        "Tabinfo",
+        "Tabinfo",
+        "Getconnectedfieldstabgroups"
+      ],
+      "scraped_at": "2026-06-18T18:25:43Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/connected-fields-api/reference/connectedfields/tabinfo/getconnectedfieldstabgroups.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/connected-fields-api/send-envelope-with-data-verification-fields/",
+      "site": "developers.docusign.com",
+      "title": "How to send an envelope with extension app data verification fields",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Connected Fields API",
+        "Connected Fields API",
+        "Use data verification fields"
+      ],
+      "scraped_at": "2026-06-18T18:25:43Z",
+      "chunks": 12,
+      "has_content": true,
+      "markdown_path": "docs/connected-fields-api/send-envelope-with-data-verification-fields.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-apps-101/supported-extensions/connected-fields/",
+      "site": "developers.docusign.com",
+      "title": "Connected fields extension overview",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension Apps 101",
+        "Extension Apps 101",
+        "Supported Extensions",
+        "Supported Extensions",
+        "Connected Fields"
+      ],
+      "scraped_at": "2026-06-18T18:26:52Z",
+      "chunks": 13,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-apps-101/supported-extensions/connected-fields.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qki1698158012210&topicId=bpc1740167704919.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create a Private Docusign App",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:26:48Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/qki1698158012210/bpc1740167704919.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qki1698158012210&topicId=cfj1715705896400.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Docusign Data Verification Extensions",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:26:48Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/qki1698158012210/cfj1715705896400.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qki1698158012210&topicId=cpc1747074018261.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Sign a Document with Data Verification Address Auto-Suggestion Fields",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:26:49Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/qki1698158012210/cpc1747074018261.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qki1698158012210&topicId=cxe1701287400366.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Review Data Verification Events",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:26:49Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/qki1698158012210/cxe1701287400366.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qki1698158012210&topicId=gxs1698158285710.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Welcome to Docusign Data Verification",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:26:48Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "support/qki1698158012210/gxs1698158285710.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qki1698158012210&topicId=omw1740164520691.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Docusign Data Verification Field Types",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:26:48Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "support/qki1698158012210/omw1740164520691.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qki1698158012210&topicId=pju1708618710557.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Example: Enable Email Data Verification Fields",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:26:49Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/qki1698158012210/pju1708618710557.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qki1698158012210&topicId=pvs1708618763575.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Example: Enable Phone Number Data Verification Fields",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:26:49Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/qki1698158012210/pvs1708618763575.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qki1698158012210&topicId=pyp1698158616536.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Install Docusign Apps for Data Verification",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:26:48Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/qki1698158012210/pyp1698158616536.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qki1698158012210&topicId=qjs1701290377826.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use a Certificate of Completion to Review Data Verification Events",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:26:49Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/qki1698158012210/qjs1701290377826.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qki1698158012210&topicId=qnt1706208125301.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Data Verification Issues for Signing",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:26:49Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/qki1698158012210/qnt1706208125301.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qki1698158012210&topicId=qrx1741973884664.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Docusign Custom Data Verification for Your Organization",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:26:48Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/qki1698158012210/qrx1741973884664.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qki1698158012210&topicId=sxg1715711598510.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Example: Enable Postal Address Data Verification Fields",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:26:49Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/qki1698158012210/sxg1715711598510.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qki1698158012210&topicId=syn1706211314102.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Understand Docusign Extension Apps' Verification Definition",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:26:49Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/qki1698158012210/syn1706211314102.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qki1698158012210&topicId=uro1698158848949.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Envelope History to Review Data Verification Events",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:26:49Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/qki1698158012210/uro1698158848949.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qki1698158012210&topicId=vyg1698168078020.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Sign a Document With Data Verification Fields",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:26:49Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/qki1698158012210/vyg1698168078020.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qki1698158012210&topicId=xnp1746722591146.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Address Auto-Suggestion Fields",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:26:49Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/qki1698158012210/xnp1746722591146.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qki1698158012210&topicId=yvx1699550441650.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Select Data Verification Fields for Envelopes and Templates",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:26:49Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/qki1698158012210/yvx1699550441650.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qki1698158012210&topicId=zfv1749836268960.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Auto-install for Docusign Data Verification Apps",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:26:48Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/qki1698158012210/zfv1749836268960.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=vyg1698168078020.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Sign a Document With Data Verification Fields",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:26:59Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/vyg1698168078020.md"
+    }
+  ]
+}

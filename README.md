@@ -87,6 +87,9 @@ Currently committed under `data/`:
 - `docusign-maestro-workflow/` — 119 pages / 451 chunks (Maestro, now branded
   Workflow Builder: the Workflow Builder API dev docs incl. full endpoint
   reference, the Workflow Builder support bundle, and product/blog pages)
+- `docusign-connected-fields/` — 32 pages / 132 chunks (Connected Fields API +
+  custom data verification: dev API/extension docs and the Data Verification
+  support bundle — install, field types, email/phone/address, event review)
 
 Promote an ad-hoc `output/<set>/` run into the committed corpus with
 `python scripts/promote.py <set>` (rebuilds a consistent manifest + chunks).
