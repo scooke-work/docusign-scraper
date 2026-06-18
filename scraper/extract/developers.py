@@ -22,13 +22,18 @@ class DevelopersExtractor(Extractor):
         "article",
     ]
 
+    # Documentation sections on this host. Not every dev doc lives under /docs/
+    # (e.g. the extension-apps platform docs). The crawl's path-prefix bound keeps
+    # a run scoped to the seed's own section, so listing several here is safe.
+    DOC_PREFIXES = ("/docs/", "/extension-apps/", "/platform/", "/iam-toolkit/")
+
     def _nav_links(self) -> List[str]:
-        """Left-nav doc links, constrained to /docs/ on this host."""
+        """Same-host links within known documentation sections."""
         links: List[str] = []
         for a in self.soup.select("a[href]"):
             href = urljoin(self.url, a.get("href", ""))
             parsed = urlparse(href)
-            if parsed.netloc == self.host and parsed.path.startswith("/docs/"):
+            if parsed.netloc == self.host and parsed.path.startswith(self.DOC_PREFIXES):
                 links.append(href.split("#")[0])
         # de-dup, preserve order
         seen = set()

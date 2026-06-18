@@ -60,6 +60,23 @@ def test_links_absolutized():
     assert "https://developers.docusign.com/docs/auth/" in page.markdown
 
 
+def test_nav_links_cover_non_docs_sections():
+    # The extension-apps platform docs live outside /docs/; nav discovery must
+    # follow them (the crawl's prefix-bound keeps a run scoped to its section).
+    html = (
+        "<html><body><main><article><h1>Extension apps overview</h1>"
+        "<a href='/extension-apps/extension-apps-101/'>101</a>"
+        "<a href='/docs/connected-fields-api/'>cf</a>"
+        "<a href='/blog/some-post'>blog</a>"
+        "</article></main></body></html>"
+    )
+    page = get_extractor("https://developers.docusign.com/extension-apps/", html).extract()
+    links = set(page.nav_links)
+    assert "https://developers.docusign.com/extension-apps/extension-apps-101/" in links
+    assert "https://developers.docusign.com/docs/connected-fields-api/" in links
+    assert not any("/blog/" in l for l in links)  # non-doc sections excluded
+
+
 def test_chunking_carries_heading_path():
     page = _build_page("https://developers.docusign.com/docs/agreement-manager-api/", SAMPLE_HTML)
     chunks = chunk_page(page, max_chars=4000, overlap_chars=100)
