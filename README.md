@@ -84,6 +84,9 @@ Currently committed under `data/`:
 - `docusign-iris-ai-assistant/` — 29 pages / 146 chunks (Docusign Iris + AI
   Assistant: Iris platform pages, AI-Assisted Summaries/Q&A, multilingual AI, and
   the full AI-Assisted Review add-in support docs — install, playbooks, chat)
+- `docusign-maestro-workflow/` — 119 pages / 451 chunks (Maestro, now branded
+  Workflow Builder: the Workflow Builder API dev docs incl. full endpoint
+  reference, the Workflow Builder support bundle, and product/blog pages)
 
 Promote an ad-hoc `output/<set>/` run into the committed corpus with
 `python scripts/promote.py <set>` (rebuilds a consistent manifest + chunks).

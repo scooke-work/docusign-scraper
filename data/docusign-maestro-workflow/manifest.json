@@ -1,0 +1,1473 @@
+{
+  "generated_at": "2026-06-18T18:05:24Z",
+  "source": "docusign-scraper",
+  "pages": [
+    {
+      "source_url": "https://www.docusign.com/blog/maestro-tips-streamlined-setup-workflow",
+      "site": "www.docusign.com",
+      "title": "Docusign Maestro: Tips for a Streamlined Setup and Workflow",
+      "breadcrumb": [
+        "Home",
+        "Home",
+        "Blog",
+        "Blog",
+        "Intelligent Agreement Management",
+        "Intelligent Agreement Management"
+      ],
+      "scraped_at": "2026-06-18T18:04:50Z",
+      "chunks": 15,
+      "has_content": true,
+      "markdown_path": "blog/maestro-tips-streamlined-setup-workflow.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workflow-builder-api/",
+      "site": "developers.docusign.com",
+      "title": "Workflow Builder API overview",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Workflow Builder API"
+      ],
+      "scraped_at": "2026-06-18T17:59:18Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "docs/workflow-builder-api.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workflow-builder-api/auth/",
+      "site": "developers.docusign.com",
+      "title": "Authentication",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Workflow Builder API",
+        "Workflow Builder API",
+        "Authentication"
+      ],
+      "scraped_at": "2026-06-18T17:59:18Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/workflow-builder-api/auth.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workflow-builder-api/how-to/",
+      "site": "developers.docusign.com",
+      "title": "How-to guides overview",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Workflow Builder API",
+        "Workflow Builder API",
+        "How-to guides"
+      ],
+      "scraped_at": "2026-06-18T17:59:18Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "docs/workflow-builder-api/how-to.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workflow-builder-api/how-to/cancel-workflow/",
+      "site": "developers.docusign.com",
+      "title": "How to cancel a running workflow instance",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Workflow Builder API",
+        "Workflow Builder API",
+        "How-to guides",
+        "How-to guides",
+        "Cancel Workflow"
+      ],
+      "scraped_at": "2026-06-18T17:59:18Z",
+      "chunks": 9,
+      "has_content": true,
+      "markdown_path": "docs/workflow-builder-api/how-to/cancel-workflow.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workflow-builder-api/how-to/pause-workflow/",
+      "site": "developers.docusign.com",
+      "title": "How to pause the creation of workflow instances",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Workflow Builder API",
+        "Workflow Builder API",
+        "How-to guides",
+        "How-to guides",
+        "Pause Workflow"
+      ],
+      "scraped_at": "2026-06-18T17:59:18Z",
+      "chunks": 9,
+      "has_content": true,
+      "markdown_path": "docs/workflow-builder-api/how-to/pause-workflow.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workflow-builder-api/how-to/resume-workflow/",
+      "site": "developers.docusign.com",
+      "title": "How to resume the creation of workflow instances",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Workflow Builder API",
+        "Workflow Builder API",
+        "How-to guides",
+        "How-to guides",
+        "Resume Workflow"
+      ],
+      "scraped_at": "2026-06-18T17:59:18Z",
+      "chunks": 8,
+      "has_content": true,
+      "markdown_path": "docs/workflow-builder-api/how-to/resume-workflow.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workflow-builder-api/how-to/trigger-workflow/",
+      "site": "developers.docusign.com",
+      "title": "How to trigger a Workflow Builder workflow",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Workflow Builder API",
+        "Workflow Builder API",
+        "How-to guides",
+        "How-to guides",
+        "Trigger Workflow"
+      ],
+      "scraped_at": "2026-06-18T17:59:18Z",
+      "chunks": 16,
+      "has_content": true,
+      "markdown_path": "docs/workflow-builder-api/how-to/trigger-workflow.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workflow-builder-api/publishing-go-live/",
+      "site": "developers.docusign.com",
+      "title": "Publishing and Go-Live",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Workflow Builder API",
+        "Workflow Builder API",
+        "Publishing and Go-Live"
+      ],
+      "scraped_at": "2026-06-18T17:59:18Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/workflow-builder-api/publishing-go-live.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workflow-builder-api/reference/",
+      "site": "developers.docusign.com",
+      "title": "API Categories",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Workflow Builder API",
+        "Workflow Builder API",
+        "API Reference"
+      ],
+      "scraped_at": "2026-06-18T17:59:19Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/workflow-builder-api/reference.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workflow-builder-api/reference/workflowbuilder/",
+      "site": "developers.docusign.com",
+      "title": "WorkflowBuilder",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Workflow Builder API",
+        "Workflow Builder API",
+        "API Reference",
+        "API Reference",
+        "Workflowbuilder"
+      ],
+      "scraped_at": "2026-06-18T17:59:19Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/workflow-builder-api/reference/workflowbuilder.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workflow-builder-api/reference/workflowbuilder/workflowinstancemanagement/",
+      "site": "developers.docusign.com",
+      "title": "WorkflowInstanceManagement Resource | Workflow Builder API | Docusign",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Workflow Builder API",
+        "Workflow Builder API",
+        "API Reference",
+        "API Reference",
+        "Workflowbuilder",
+        "Workflowbuilder",
+        "Workflowinstancemanagement"
+      ],
+      "scraped_at": "2026-06-18T17:59:19Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/workflow-builder-api/reference/workflowbuilder/workflowinstancemanagement.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workflow-builder-api/reference/workflowbuilder/workflowinstancemanagement/cancelworkflowinstance/",
+      "site": "developers.docusign.com",
+      "title": ": cancelWorkflowInstance",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Workflow Builder API",
+        "Workflow Builder API",
+        "API Reference",
+        "API Reference",
+        "Workflowbuilder",
+        "Workflowbuilder",
+        "Workflowinstancemanagement",
+        "Workflowinstancemanagement",
+        "Cancelworkflowinstance"
+      ],
+      "scraped_at": "2026-06-18T17:59:19Z",
+      "chunks": 8,
+      "has_content": true,
+      "markdown_path": "docs/workflow-builder-api/reference/workflowbuilder/workflowinstancemanagement/cancelworkflowinstance.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workflow-builder-api/reference/workflowbuilder/workflowinstancemanagement/getworkflowinstance/",
+      "site": "developers.docusign.com",
+      "title": ": getWorkflowInstance",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Workflow Builder API",
+        "Workflow Builder API",
+        "API Reference",
+        "API Reference",
+        "Workflowbuilder",
+        "Workflowbuilder",
+        "Workflowinstancemanagement",
+        "Workflowinstancemanagement",
+        "Getworkflowinstance"
+      ],
+      "scraped_at": "2026-06-18T17:59:19Z",
+      "chunks": 8,
+      "has_content": true,
+      "markdown_path": "docs/workflow-builder-api/reference/workflowbuilder/workflowinstancemanagement/getworkflowinstance.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workflow-builder-api/reference/workflowbuilder/workflowinstancemanagement/getworkflowinstanceslist/",
+      "site": "developers.docusign.com",
+      "title": ": getWorkflowInstancesList",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Workflow Builder API",
+        "Workflow Builder API",
+        "API Reference",
+        "API Reference",
+        "Workflowbuilder",
+        "Workflowbuilder",
+        "Workflowinstancemanagement",
+        "Workflowinstancemanagement",
+        "Getworkflowinstanceslist"
+      ],
+      "scraped_at": "2026-06-18T17:59:19Z",
+      "chunks": 8,
+      "has_content": true,
+      "markdown_path": "docs/workflow-builder-api/reference/workflowbuilder/workflowinstancemanagement/getworkflowinstanceslist.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workflow-builder-api/reference/workflowbuilder/workflows/",
+      "site": "developers.docusign.com",
+      "title": "Workflows Resource | Workflow Builder API | Docusign",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Workflow Builder API",
+        "Workflow Builder API",
+        "API Reference",
+        "API Reference",
+        "Workflowbuilder",
+        "Workflowbuilder",
+        "Workflows"
+      ],
+      "scraped_at": "2026-06-18T17:59:19Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/workflow-builder-api/reference/workflowbuilder/workflows.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workflow-builder-api/reference/workflowbuilder/workflows/getworkflowslist/",
+      "site": "developers.docusign.com",
+      "title": ": getWorkflowsList",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Workflow Builder API",
+        "Workflow Builder API",
+        "API Reference",
+        "API Reference",
+        "Workflowbuilder",
+        "Workflowbuilder",
+        "Workflows",
+        "Workflows",
+        "Getworkflowslist"
+      ],
+      "scraped_at": "2026-06-18T17:59:19Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/workflow-builder-api/reference/workflowbuilder/workflows/getworkflowslist.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workflow-builder-api/reference/workflowbuilder/workflows/getworkflowtriggerrequirements/",
+      "site": "developers.docusign.com",
+      "title": ": getWorkflowTriggerRequirements",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Workflow Builder API",
+        "Workflow Builder API",
+        "API Reference",
+        "API Reference",
+        "Workflowbuilder",
+        "Workflowbuilder",
+        "Workflows",
+        "Workflows",
+        "Getworkflowtriggerrequirements"
+      ],
+      "scraped_at": "2026-06-18T17:59:19Z",
+      "chunks": 8,
+      "has_content": true,
+      "markdown_path": "docs/workflow-builder-api/reference/workflowbuilder/workflows/getworkflowtriggerrequirements.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workflow-builder-api/reference/workflowbuilder/workflows/pausenewworkflowinstances/",
+      "site": "developers.docusign.com",
+      "title": ": pauseNewWorkflowInstances",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Workflow Builder API",
+        "Workflow Builder API",
+        "API Reference",
+        "API Reference",
+        "Workflowbuilder",
+        "Workflowbuilder",
+        "Workflows",
+        "Workflows",
+        "Pausenewworkflowinstances"
+      ],
+      "scraped_at": "2026-06-18T17:59:19Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/workflow-builder-api/reference/workflowbuilder/workflows/pausenewworkflowinstances.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workflow-builder-api/reference/workflowbuilder/workflows/resumepausedworkflow/",
+      "site": "developers.docusign.com",
+      "title": ": resumePausedWorkflow",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Workflow Builder API",
+        "Workflow Builder API",
+        "API Reference",
+        "API Reference",
+        "Workflowbuilder",
+        "Workflowbuilder",
+        "Workflows",
+        "Workflows",
+        "Resumepausedworkflow"
+      ],
+      "scraped_at": "2026-06-18T17:59:19Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/workflow-builder-api/reference/workflowbuilder/workflows/resumepausedworkflow.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workflow-builder-api/reference/workflowbuilder/workflows/triggerworkflow/",
+      "site": "developers.docusign.com",
+      "title": ": triggerWorkflow",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Workflow Builder API",
+        "Workflow Builder API",
+        "API Reference",
+        "API Reference",
+        "Workflowbuilder",
+        "Workflowbuilder",
+        "Workflows",
+        "Workflows",
+        "Triggerworkflow"
+      ],
+      "scraped_at": "2026-06-18T17:59:19Z",
+      "chunks": 8,
+      "has_content": true,
+      "markdown_path": "docs/workflow-builder-api/reference/workflowbuilder/workflows/triggerworkflow.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workflow-builder-api/workflow-builder101/",
+      "site": "developers.docusign.com",
+      "title": "Workflow Builder API 101",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Workflow Builder API",
+        "Workflow Builder API",
+        "Workflow Builder101"
+      ],
+      "scraped_at": "2026-06-18T17:59:18Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "docs/workflow-builder-api/workflow-builder101.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workflow-builder-api/workflow-builder101/branching-rules/",
+      "site": "developers.docusign.com",
+      "title": "Branching rules",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Workflow Builder API",
+        "Workflow Builder API",
+        "Workflow Builder101",
+        "Workflow Builder101",
+        "Branching Rules"
+      ],
+      "scraped_at": "2026-06-18T17:59:19Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/workflow-builder-api/workflow-builder101/branching-rules.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workflow-builder-api/workflow-builder101/embed-workflow/",
+      "site": "developers.docusign.com",
+      "title": "Embed a workflow in your web application",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Workflow Builder API",
+        "Workflow Builder API",
+        "Workflow Builder101",
+        "Workflow Builder101",
+        "Embed Workflow"
+      ],
+      "scraped_at": "2026-06-18T17:59:18Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/workflow-builder-api/workflow-builder101/embed-workflow.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workflow-builder-api/workflow-builder101/monitor-workflow/",
+      "site": "developers.docusign.com",
+      "title": "Monitor a workflow",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Workflow Builder API",
+        "Workflow Builder API",
+        "Workflow Builder101",
+        "Workflow Builder101",
+        "Monitor Workflow"
+      ],
+      "scraped_at": "2026-06-18T17:59:18Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/workflow-builder-api/workflow-builder101/monitor-workflow.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workflow-builder-api/workflow-builder101/participants/",
+      "site": "developers.docusign.com",
+      "title": "Participants",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Workflow Builder API",
+        "Workflow Builder API",
+        "Workflow Builder101",
+        "Workflow Builder101",
+        "Participants"
+      ],
+      "scraped_at": "2026-06-18T17:59:19Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/workflow-builder-api/workflow-builder101/participants.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workflow-builder-api/workflow-builder101/steps/",
+      "site": "developers.docusign.com",
+      "title": "Steps",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Workflow Builder API",
+        "Workflow Builder API",
+        "Workflow Builder101",
+        "Workflow Builder101",
+        "Steps"
+      ],
+      "scraped_at": "2026-06-18T17:59:19Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/workflow-builder-api/workflow-builder101/steps.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workflow-builder-api/workflow-builder101/use-cases/",
+      "site": "developers.docusign.com",
+      "title": "Use cases",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Workflow Builder API",
+        "Workflow Builder API",
+        "Workflow Builder101",
+        "Workflow Builder101",
+        "Use cases"
+      ],
+      "scraped_at": "2026-06-18T17:59:18Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "docs/workflow-builder-api/workflow-builder101/use-cases.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workflow-builder-api/workflow-builder101/variables/",
+      "site": "developers.docusign.com",
+      "title": "Variables",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Workflow Builder API",
+        "Workflow Builder API",
+        "Workflow Builder101",
+        "Workflow Builder101",
+        "Variables"
+      ],
+      "scraped_at": "2026-06-18T17:59:19Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/workflow-builder-api/workflow-builder101/variables.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workflow-builder-api/workflow-builder101/versioning/",
+      "site": "developers.docusign.com",
+      "title": "Workflow versioning and drafts",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Workflow Builder API",
+        "Workflow Builder API",
+        "Workflow Builder101",
+        "Workflow Builder101",
+        "Versioning"
+      ],
+      "scraped_at": "2026-06-18T17:59:18Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/workflow-builder-api/workflow-builder101/versioning.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workflow-builder-api/workflow-builder101/workflows/",
+      "site": "developers.docusign.com",
+      "title": "Workflows",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Workflow Builder API",
+        "Workflow Builder API",
+        "Workflow Builder101",
+        "Workflow Builder101",
+        "Workflows"
+      ],
+      "scraped_at": "2026-06-18T17:59:19Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "docs/workflow-builder-api/workflow-builder101/workflows.md"
+    },
+    {
+      "source_url": "https://www.docusign.com/products/platform/workflow-builder",
+      "site": "www.docusign.com",
+      "title": "Your agreement processes simplified",
+      "breadcrumb": [
+        "Home",
+        "Home",
+        "Products",
+        "Products",
+        "Platform",
+        "Platform",
+        "Workflow Builder"
+      ],
+      "scraped_at": "2026-06-18T18:04:44Z",
+      "chunks": 14,
+      "has_content": true,
+      "markdown_path": "products/platform/workflow-builder.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=aak1738768393060.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Why participants can't skip identity verification in a workflow?",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:36Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/aak1738768393060.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=afu1730332596907.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Agreement Process Steps",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:36Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/afu1730332596907.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=bgb1697668738892.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Installing Extension Apps for Workflow Builder",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:35Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/bgb1697668738892.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=bqq1729024082952.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Update an Existing Workflow to Use a Start Method",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:35Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/bqq1729024082952.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=con03a49b0b-428d-4a5e-a5f0-ae8408072abd.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Workflow Migration",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:37Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/con03a49b0b-428d-4a5e-a5f0-ae8408072abd.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=con1a83f4b1-106d-4e78-8a01-30e1bc4ad500.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Limits for Branching Rules",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:37Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/con1a83f4b1-106d-4e78-8a01-30e1bc4ad500.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=con30310a57-3e53-40f2-a7f0-d9e099874eaa.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Managing Multiple Documents in Workflow Builder Envelopes: Order and Limits",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:36Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/con30310a57-3e53-40f2-a7f0-d9e099874eaa.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=con474299c9-814d-481a-9f25-ba16814197ab.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Agreement Actions and Workflow-Powered Rules",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:35Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/con474299c9-814d-481a-9f25-ba16814197ab.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=con4af9cd30-8bb6-4ea9-a995-bb969aa1a7d2.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Risk Assessment Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:36Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/con4af9cd30-8bb6-4ea9-a995-bb969aa1a7d2.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=con50a84a0e-9d14-4028-98fa-e1b2d8405b48.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Understand Manual and Automatic Sending and Sender Options",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:36Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/con50a84a0e-9d14-4028-98fa-e1b2d8405b48.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=con6fa18d3d-c2bd-49e8-90b4-38ed2ef0762b.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Workflow Builder Activity Logs",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:38Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/con6fa18d3d-c2bd-49e8-90b4-38ed2ef0762b.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=conbf387387-0435-452a-a7bb-fd1f719980eb.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Connect to Any Service Using Web Requests",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:37Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/conbf387387-0435-452a-a7bb-fd1f719980eb.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=cond11d1369-0918-4721-b25c-35149675b539.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Mapping Data From Web Forms",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:36Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/cond11d1369-0918-4721-b25c-35149675b539.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=cond7058d74-97dd-4ec3-9a23-86978310f74b.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Access and Permissions for Extension App Connections",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:38Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/cond7058d74-97dd-4ec3-9a23-86978310f74b.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=cra1749229692878.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure a Prepare Document Template Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:36Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/cra1749229692878.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=cty1738769062197.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "I Cannot Find the Identity Verification Configuration I Want for a Verify Someone's Identity Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:36Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/cty1738769062197.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=dar1749205503877.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Capture ID Evidence Data",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:38Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/dar1749205503877.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=dnx1696972415150.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Docusign Workflow Builder Overview",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:35Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/dnx1696972415150.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=gbb1696973048215.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Workflow Builder Roles and Permission Requirements",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:35Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/gbb1696973048215.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=glx1730400747416.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "How to Start a Workflow",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:38Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/glx1730400747416.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=gua1698120920620.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure a Collect Data with Web Forms Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:36Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/gua1698120920620.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=hmz1727408977389.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Enhance CLM Workflows with Workflow Builder Automation",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:35Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/hmz1727408977389.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=huu1708131883761.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure a Collect Data From an ID Data Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:36Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/huu1708131883761.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=ido1742412963235.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Move Workflows Between Accounts",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:38Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/ido1742412963235.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=iqm1698272226447.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Review and Publish a Workflow",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:37Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/iqm1698272226447.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=irb1736981148403.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Pre-Built Templates in Workflow Builder",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:35Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/irb1736981148403.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=jaf1716918359288.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configuration Details for Complex Branching Rules",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:37Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/jaf1716918359288.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=kbn1698257312051.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Unpublish or Delete a Workflow",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:37Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/kbn1698257312051.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=ker1716504515479.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure a Send an Email Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:37Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/ker1716504515479.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=kfx1698167344720.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure a Set Up Invite Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:37Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/kfx1698167344720.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=kmm1749205469137.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "ID Evidence in Workflow Builder",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:38Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/kmm1749205469137.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=mnv1698169910928.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure a Branching Rule",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:37Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/mnv1698169910928.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=ogx1738026109020.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Data Types for Workflow Variables",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:35Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/ogx1738026109020.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=oha1716325069710.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Web Form Requirements and Data-Mapping Information",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:36Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/oha1716325069710.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=otm1696972807664.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "General Limitations and Considerations for Workflow Builder",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:35Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/otm1696972807664.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=ows1742412981879.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Export a Workflow",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:38Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/ows1742412981879.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=pps1696973636517.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Build Workflows to Automate the Agreement Process",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:35Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/pps1696973636517.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=pxv1717021518914.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Success Rules for ID Verification",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:37Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/pxv1717021518914.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=qht1698126463108.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure a Verify Someone's Identity Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:36Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/qht1698126463108.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=qjh1737765697764.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Pause a Published Workflow",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:37Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/qjh1737765697764.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=qkf1716338686555.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "eSignature Requirements and Other Information",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:36Z",
+      "chunks": 10,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/qkf1716338686555.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=rpc1698682081448.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure a Show a Confirmation Screen Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:37Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/rpc1698682081448.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=task-1570.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure an Export Data to OneDrive Step﻿",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:37Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/task-1570.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=task-3588.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Test a Web Request Configuration",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:37Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/task-3588.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=task-6976.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Set Branding for a Workflow",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:35Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/task-6976.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=task-7234.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure a Create Request Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:36Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/task-7234.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=task-7876.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure an Export Data to SharePoint Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:37Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/task-7876.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=task-8583.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure a Make a Web Request Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:37Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/task-8583.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=tco1697826811758.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Creating Workflows",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:35Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/tco1697826811758.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=tdw1730332751893.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Workflow Utility Steps",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:37Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/tdw1730332751893.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=tsk0b123bf2-566a-439a-a445-927bb89f0e2f.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure an Export Data to Google Drive Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:37Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/tsk0b123bf2-566a-439a-a445-927bb89f0e2f.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=tsk104f6b9a-3b23-43ac-9b09-c9836d84abe1.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create a Workflow from a Web Form",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:35Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/tsk104f6b9a-3b23-43ac-9b09-c9836d84abe1.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=tsk1244004b-76be-4f59-b82e-08bbc5700972.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Access Rule Logs for Agreement Rules",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:36Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/tsk1244004b-76be-4f59-b82e-08bbc5700972.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=tsk1906294d-5fb2-4f24-8764-7b59448b20f3.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure a DS Sender Profile for Workflow Builder Preparer Permissions",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:35Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/tsk1906294d-5fb2-4f24-8764-7b59448b20f3.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=tsk2231627c-1c61-4c10-b538-43bdc7021507.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Automate Agreement Desk Requests with Workflow Builder",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:35Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/tsk2231627c-1c61-4c10-b538-43bdc7021507.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=tsk339f8f96-5ead-4c0e-aa35-bfb148f15530.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Store Envelope Files to Third-Party Storage from an Event",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:36Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/tsk339f8f96-5ead-4c0e-aa35-bfb148f15530.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=tsk3aff5ded-8b1a-47e2-89a4-a6bca6c990be.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create a Workflow from an eSignature Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:35Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/tsk3aff5ded-8b1a-47e2-89a4-a6bca6c990be.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=tsk5d8981be-ed99-4a20-8439-2b062bc63f76.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Send a Copy of a Completed Agreement in a Workflow",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:36Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/tsk5d8981be-ed99-4a20-8439-2b062bc63f76.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=tsk6ecf58be-0285-4608-92cd-66252f6e07a5.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure a Risk Assessment Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:36Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/tsk6ecf58be-0285-4608-92cd-66252f6e07a5.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=tsk9166c067-1d6e-49a9-91c8-641cda5f7f65.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create a Workflow from an Agreement Rule",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:35Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/tsk9166c067-1d6e-49a9-91c8-641cda5f7f65.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=tsk970caf2b-8b60-4639-a1b6-5a0a446f5f2e.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "View Account Activity Log",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:38Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/tsk970caf2b-8b60-4639-a1b6-5a0a446f5f2e.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=tsk9f5912a8-48d1-4433-9408-f0c6c9470c21.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure an Add Parallel Branches Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:37Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/tsk9f5912a8-48d1-4433-9408-f0c6c9470c21.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=tskcb8ff4d1-5b71-4a01-8816-24e6eb5b90a9.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "View Workflow and Instance Activity Logs",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:38Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/tskcb8ff4d1-5b71-4a01-8816-24e6eb5b90a9.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=tskd83cc960-fb4b-4534-9573-1041591501e2.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure a Prepare eSignature Template Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:36Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/tskd83cc960-fb4b-4534-9573-1041591501e2.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=tskdf7292c4-abe6-4125-b9b4-7ecdf30755e1.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Generate a Screenshot of a Workflow",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:37Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/tskdf7292c4-abe6-4125-b9b4-7ecdf30755e1.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=tskf086e141-baa5-4a34-bd8e-48989d01cbec.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Review a Migrated Workflow",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:37Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/tskf086e141-baa5-4a34-bd8e-48989d01cbec.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=tskf65a71fc-cb3b-40ba-ba53-02a2617619f6.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Duplicate a Workflow",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:37Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/tskf65a71fc-cb3b-40ba-ba53-02a2617619f6.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=uak1735246809132.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Verify Someone's Identity Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:36Z",
+      "chunks": 9,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/uak1735246809132.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=uhm1697826856678.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create a Basic Workflow",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:35Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/uhm1697826856678.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=uqy1698181406489.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Cancel a Running Instance",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:38Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/uqy1698181406489.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=uww1698167288211.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure a Send Documents for Signature Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:36Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/uww1698167288211.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=vcp1698707326210.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Monitor a Running Workflow Instance",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:38Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/vcp1698707326210.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=vek1698264386790.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Managing Workflows",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:37Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/vek1698264386790.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=vwg1731931235105.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Identity Claims",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:36Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/vwg1731931235105.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=wqt1698167316926.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure a Store Files in Google Drive Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:36Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/wqt1698167316926.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=wzb1738769371145.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Frequently Asked Questions About Identity Claims",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:36Z",
+      "chunks": 11,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/wzb1738769371145.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=xnw1709852160602.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Template Requirements",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:36Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/xnw1709852160602.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=xtg1749585007265.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure a Multi Branch Rule",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:37Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/xtg1749585007265.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=ycd1717021458855.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Status Rules for a Send Documents Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:37Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/ycd1717021458855.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=ylz1706299824928.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Connect Events for Workflows",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:38Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/ylz1706299824928.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=ymm1721679198157.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Build or Update a Web Form with Attachment Fields",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:38Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/ymm1721679198157.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=ypt1698264964168.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Define Workflow Participants",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:35Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/ypt1698264964168.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=ytx1720649381151.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Try Workflow Builder for Free in a Developer Demo Account",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:35Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/ytx1720649381151.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=zbf1698707257742.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Using Workflows",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:38Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/zbf1698707257742.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=zlm1698880256815.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Edit a Workflow",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:37Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/zlm1698880256815.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=zoi1742412999176.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Import a Workflow",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:38Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/zoi1742412999176.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yff1696971835267&topicId=ztb1727892686033.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Workflow Start Methods",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T18:04:35Z",
+      "chunks": 8,
+      "has_content": true,
+      "markdown_path": "support/yff1696971835267/ztb1727892686033.md"
+    }
+  ]
+}
