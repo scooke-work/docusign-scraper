@@ -104,6 +104,13 @@ Currently committed under `data/`:
   full endpoint reference incl. the v2 reference)
 - `docusign-monitor/` — 75 pages / 188 chunks (Monitor activity/security
   tracking: Monitor API dev docs, the Monitor support bundle, and product page)
+- `docusign-clm/` — 452 pages / 1,664 chunks (Contract Lifecycle Management. The
+  CLM API dev docs are complete (241 pages); the support side is a representative
+  sample (210 pages from the Introduction and Administration bundles, each capped)
+  — CLM's full support docs are very large. Plus the product page.)
+- `docusign-sdks/` — 5 pages / 54 chunks (the developer SDKs overview docs)
+- `docusign-id-evidence/` — 13 pages / 69 chunks (ID Evidence API developer docs
+  — retrieving proof of completed ID Verification)
 
 Promote an ad-hoc `output/<set>/` run into the committed corpus with
 `python scripts/promote.py <set>` (rebuilds a consistent manifest + chunks).

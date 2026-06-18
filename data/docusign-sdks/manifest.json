@@ -1,0 +1,74 @@
+{
+  "generated_at": "2026-06-18T21:49:26Z",
+  "source": "docusign-scraper",
+  "pages": [
+    {
+      "source_url": "https://developers.docusign.com/docs/sdks/",
+      "site": "developers.docusign.com",
+      "title": "Our SDKs",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:43:09Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/sdks.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/sdks/iam-c-sharp/",
+      "site": "developers.docusign.com",
+      "title": "IAM SDK - C# (beta)",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "SDKs",
+        "SDKs",
+        "C# IAM SDK"
+      ],
+      "scraped_at": "2026-06-18T21:43:09Z",
+      "chunks": 16,
+      "has_content": true,
+      "markdown_path": "docs/sdks/iam-c-sharp.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/sdks/iam-java/",
+      "site": "developers.docusign.com",
+      "title": "IAM SDK - Java (beta)",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "SDKs",
+        "SDKs",
+        "Java IAM SDK"
+      ],
+      "scraped_at": "2026-06-18T21:43:09Z",
+      "chunks": 16,
+      "has_content": true,
+      "markdown_path": "docs/sdks/iam-java.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/sdks/iam-typescript/",
+      "site": "developers.docusign.com",
+      "title": "IAM SDK - TypeScript (beta)",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "SDKs",
+        "SDKs",
+        "TypeScript IAM SDK"
+      ],
+      "scraped_at": "2026-06-18T21:43:09Z",
+      "chunks": 16,
+      "has_content": true,
+      "markdown_path": "docs/sdks/iam-typescript.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/sdks/iam-typescript/%20https:/github.com/docusign/docusign-iam-typescript-client/",
+      "site": "developers.docusign.com",
+      "title": "404",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:43:09Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/sdks/iam-typescript/_20https_/github.com/docusign/docusign-iam-typescript-client.md"
+    }
+  ]
+}
