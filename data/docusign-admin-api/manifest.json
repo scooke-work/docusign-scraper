@@ -1,0 +1,1746 @@
+{
+  "generated_at": "2026-06-18T20:29:23Z",
+  "source": "docusign-scraper",
+  "pages": [
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/",
+      "site": "developers.docusign.com",
+      "title": "Docusign Admin API overview",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API"
+      ],
+      "scraped_at": "2026-06-18T20:12:03Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/admin-api.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/admin101/",
+      "site": "developers.docusign.com",
+      "title": "Docusign Admin API 101",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "API 101"
+      ],
+      "scraped_at": "2026-06-18T20:12:03Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/admin101.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/admin101/application-auth/",
+      "site": "developers.docusign.com",
+      "title": "Application-access tokens",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "API 101",
+        "API 101",
+        "Application Auth"
+      ],
+      "scraped_at": "2026-06-18T20:12:04Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/admin101/application-auth.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/admin101/auth/",
+      "site": "developers.docusign.com",
+      "title": "Authentication",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "API 101",
+        "API 101",
+        "Authentication"
+      ],
+      "scraped_at": "2026-06-18T20:12:04Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/admin101/auth.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/admin101/clone-accounts/",
+      "site": "developers.docusign.com",
+      "title": "Clone eSignature accounts",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "API 101",
+        "API 101",
+        "Clone Accounts"
+      ],
+      "scraped_at": "2026-06-18T20:12:04Z",
+      "chunks": 21,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/admin101/clone-accounts.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/admin101/concepts/",
+      "site": "developers.docusign.com",
+      "title": "Docusign Admin API concepts",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "API 101",
+        "API 101",
+        "Concepts"
+      ],
+      "scraped_at": "2026-06-18T20:12:05Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/admin101/concepts.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/admin101/concepts/api-vs-ui-functionality/",
+      "site": "developers.docusign.com",
+      "title": "API vs UI-only functionality",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "API 101",
+        "API 101",
+        "Concepts",
+        "Concepts",
+        "Api Vs Ui Functionality"
+      ],
+      "scraped_at": "2026-06-18T20:12:06Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/admin101/concepts/api-vs-ui-functionality.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/admin101/concepts/data-model/",
+      "site": "developers.docusign.com",
+      "title": "Admin API data model",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "API 101",
+        "API 101",
+        "Concepts",
+        "Concepts",
+        "Data Model"
+      ],
+      "scraped_at": "2026-06-18T20:12:05Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/admin101/concepts/data-model.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/admin101/concepts/delete-personal-data/",
+      "site": "developers.docusign.com",
+      "title": "Delete personal data for your users",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "API 101",
+        "API 101",
+        "Concepts",
+        "Concepts",
+        "Delete Personal Data"
+      ],
+      "scraped_at": "2026-06-18T20:12:06Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/admin101/concepts/delete-personal-data.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/admin101/concepts/groups/",
+      "site": "developers.docusign.com",
+      "title": "Groups",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "API 101",
+        "API 101",
+        "Concepts",
+        "Concepts",
+        "Groups"
+      ],
+      "scraped_at": "2026-06-18T20:12:06Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/admin101/concepts/groups.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/admin101/concepts/org-admins/",
+      "site": "developers.docusign.com",
+      "title": "Organization administrators",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "API 101",
+        "API 101",
+        "Concepts",
+        "Concepts",
+        "Org Admins"
+      ],
+      "scraped_at": "2026-06-18T20:12:06Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/admin101/concepts/org-admins.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/admin101/concepts/permission-profiles/",
+      "site": "developers.docusign.com",
+      "title": "Permission profiles",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "API 101",
+        "API 101",
+        "Concepts",
+        "Concepts",
+        "Permission Profiles"
+      ],
+      "scraped_at": "2026-06-18T20:12:06Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/admin101/concepts/permission-profiles.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/admin101/create-accounts/",
+      "site": "developers.docusign.com",
+      "title": "Create new eSignature accounts",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "API 101",
+        "API 101",
+        "Create Accounts"
+      ],
+      "scraped_at": "2026-06-18T20:12:03Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/admin101/create-accounts.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/admin101/rules-and-limits/",
+      "site": "developers.docusign.com",
+      "title": "Rules and resource limits",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "API 101",
+        "API 101",
+        "Rules and resource limits"
+      ],
+      "scraped_at": "2026-06-18T20:12:04Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/admin101/rules-and-limits.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/admin101/versioning/",
+      "site": "developers.docusign.com",
+      "title": "Versioning",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "API 101",
+        "API 101",
+        "Versioning"
+      ],
+      "scraped_at": "2026-06-18T20:12:03Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/admin101/versioning.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/go-live/",
+      "site": "developers.docusign.com",
+      "title": "Go-Live",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "Go-Live"
+      ],
+      "scraped_at": "2026-06-18T20:12:05Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/go-live.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/how-to/",
+      "site": "developers.docusign.com",
+      "title": "How-to guides overview",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "How-to guides"
+      ],
+      "scraped_at": "2026-06-18T20:12:04Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/how-to.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/how-to/account-admin-delete-user-data/",
+      "site": "developers.docusign.com",
+      "title": "How to delete user data from an account as an account admin",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "How-to guides",
+        "How-to guides",
+        "Account Admin Delete User Data"
+      ],
+      "scraped_at": "2026-06-18T20:12:05Z",
+      "chunks": 10,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/how-to/account-admin-delete-user-data.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/how-to/add-users-bulk-import/",
+      "site": "developers.docusign.com",
+      "title": "How to add users via bulk import",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "How-to guides",
+        "How-to guides",
+        "Add Users Bulk Import"
+      ],
+      "scraped_at": "2026-06-18T20:12:04Z",
+      "chunks": 11,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/how-to/add-users-bulk-import.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/how-to/audit-users/",
+      "site": "developers.docusign.com",
+      "title": "How to Audit Users",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "How-to guides",
+        "How-to guides",
+        "Audit Users"
+      ],
+      "scraped_at": "2026-06-18T20:12:04Z",
+      "chunks": 14,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/how-to/audit-users.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/how-to/bulk-export-users/",
+      "site": "developers.docusign.com",
+      "title": "How to bulk export user data",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "How-to guides",
+        "How-to guides",
+        "Bulk Export Users"
+      ],
+      "scraped_at": "2026-06-18T20:12:04Z",
+      "chunks": 12,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/how-to/bulk-export-users.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/how-to/clone-account/",
+      "site": "developers.docusign.com",
+      "title": "How to clone an account",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "How-to guides",
+        "How-to guides",
+        "Clone Account"
+      ],
+      "scraped_at": "2026-06-18T20:12:05Z",
+      "chunks": 12,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/how-to/clone-account.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/how-to/code-launchers/",
+      "site": "developers.docusign.com",
+      "title": "Code example launchers",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "How-to guides",
+        "How-to guides",
+        "Code example launchers"
+      ],
+      "scraped_at": "2026-06-18T20:12:04Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/how-to/code-launchers.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/how-to/create-account/",
+      "site": "developers.docusign.com",
+      "title": "How to create an account",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "How-to guides",
+        "How-to guides",
+        "Create Account"
+      ],
+      "scraped_at": "2026-06-18T20:12:05Z",
+      "chunks": 12,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/how-to/create-account.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/how-to/create-active-clm-esign-user/",
+      "site": "developers.docusign.com",
+      "title": "How to create a new active user for CLM and eSignature",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "How-to guides",
+        "How-to guides",
+        "Create active CLM and eSignature user"
+      ],
+      "scraped_at": "2026-06-18T20:12:04Z",
+      "chunks": 11,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/how-to/create-active-clm-esign-user.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/how-to/create-active-user/",
+      "site": "developers.docusign.com",
+      "title": "How to create a new active eSignature user",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "How-to guides",
+        "How-to guides",
+        "Create Active User"
+      ],
+      "scraped_at": "2026-06-18T20:12:04Z",
+      "chunks": 11,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/how-to/create-active-user.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/how-to/delete-user-product-permission-profiles-using-email/",
+      "site": "developers.docusign.com",
+      "title": "How to delete user product permission profiles using an email address",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "How-to guides",
+        "How-to guides",
+        "Delete User Product Permission Profiles Using Email"
+      ],
+      "scraped_at": "2026-06-18T20:12:05Z",
+      "chunks": 10,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/how-to/delete-user-product-permission-profiles-using-email.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/how-to/org-admin-delete-user-data/",
+      "site": "developers.docusign.com",
+      "title": "How to delete user data from one or more accounts as an organization admin",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "How-to guides",
+        "How-to guides",
+        "Org Admin Delete User Data"
+      ],
+      "scraped_at": "2026-06-18T20:12:05Z",
+      "chunks": 10,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/how-to/org-admin-delete-user-data.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/how-to/retrieve-docusign-profile-using-email/",
+      "site": "developers.docusign.com",
+      "title": "How to retrieve the user's Docusign profile using an email address",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "How-to guides",
+        "How-to guides",
+        "Retrieve Docusign Profile Using Email"
+      ],
+      "scraped_at": "2026-06-18T20:12:05Z",
+      "chunks": 12,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/how-to/retrieve-docusign-profile-using-email.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/how-to/retrieve-docusign-profile-using-userid/",
+      "site": "developers.docusign.com",
+      "title": "How to retrieve the user's Docusign profile using a User ID",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "How-to guides",
+        "How-to guides",
+        "Retrieve Docusign Profile Using Userid"
+      ],
+      "scraped_at": "2026-06-18T20:12:05Z",
+      "chunks": 12,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/how-to/retrieve-docusign-profile-using-userid.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/how-to/update-user-product-permission-profiles-using-email/",
+      "site": "developers.docusign.com",
+      "title": "How to update user product permission profiles using an email address",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "How-to guides",
+        "How-to guides",
+        "Update User Product Permission Profiles Using Email"
+      ],
+      "scraped_at": "2026-06-18T20:12:05Z",
+      "chunks": 9,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/how-to/update-user-product-permission-profiles-using-email.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/",
+      "site": "developers.docusign.com",
+      "title": "API Categories",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "API Reference"
+      ],
+      "scraped_at": "2026-06-18T20:12:05Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/accountprovisioning/",
+      "site": "developers.docusign.com",
+      "title": "AccountProvisioning Category",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "API Reference",
+        "API Reference",
+        "Accountprovisioning"
+      ],
+      "scraped_at": "2026-06-18T20:12:07Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/accountprovisioning.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/accountprovisioning/accountcloning/",
+      "site": "developers.docusign.com",
+      "title": "AccountCloning Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "API Reference",
+        "API Reference",
+        "Accountprovisioning",
+        "Accountprovisioning",
+        "Accountcloning"
+      ],
+      "scraped_at": "2026-06-18T20:12:06Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/accountprovisioning/accountcloning.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/accountprovisioning/accountcloning/cloneassetgroupaccount/",
+      "site": "developers.docusign.com",
+      "title": ": cloneAssetGroupAccount",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:06Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/accountprovisioning/accountcloning/cloneassetgroupaccount.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/accountprovisioning/accountcloning/getassetgroupaccountclone/",
+      "site": "developers.docusign.com",
+      "title": ": getAssetGroupAccountClone",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:06Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/accountprovisioning/accountcloning/getassetgroupaccountclone.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/accountprovisioning/accountcloning/getassetgroupaccountclonesbyorgid/",
+      "site": "developers.docusign.com",
+      "title": ": getAssetGroupAccountClonesByOrgId",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:06Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/accountprovisioning/accountcloning/getassetgroupaccountclonesbyorgid.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/accountprovisioning/accountcloning/getassetgroupaccounts/",
+      "site": "developers.docusign.com",
+      "title": ": getAssetGroupAccounts",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:06Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/accountprovisioning/accountcloning/getassetgroupaccounts.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/accountprovisioning/accountcreation/",
+      "site": "developers.docusign.com",
+      "title": "AccountCreation Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "API Reference",
+        "API Reference",
+        "Accountprovisioning",
+        "Accountprovisioning",
+        "Accountcreation"
+      ],
+      "scraped_at": "2026-06-18T20:12:06Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/accountprovisioning/accountcreation.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/accountprovisioning/accountcreation/createassetgroupaccount/",
+      "site": "developers.docusign.com",
+      "title": ": CreateAssetGroupAccount",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:06Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/accountprovisioning/accountcreation/createassetgroupaccount.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/accountprovisioning/accountcreation/getorganizationplanitems/",
+      "site": "developers.docusign.com",
+      "title": ": GetOrganizationPlanItems",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:06Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/accountprovisioning/accountcreation/getorganizationplanitems.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/accountprovisioning/accountcreation/getsubaccountcreateprocessbyassetgroupworkid/",
+      "site": "developers.docusign.com",
+      "title": ": GetSubAccountCreateProcessByAssetGroupWorkId",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:06Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/accountprovisioning/accountcreation/getsubaccountcreateprocessbyassetgroupworkid.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/accountprovisioning/accountcreation/getsubaccountcreateprocessesbyorgid/",
+      "site": "developers.docusign.com",
+      "title": ": GetSubAccountCreateProcessesByOrgId",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:06Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/accountprovisioning/accountcreation/getsubaccountcreateprocessesbyorgid.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/bulkoperations/",
+      "site": "developers.docusign.com",
+      "title": "BulkOperations Category",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "API Reference",
+        "API Reference",
+        "Bulkoperations"
+      ],
+      "scraped_at": "2026-06-18T20:12:07Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/bulkoperations.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/bulkoperations/accountsettingsexport/",
+      "site": "developers.docusign.com",
+      "title": "AccountSettingsExport Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "API Reference",
+        "API Reference",
+        "Bulkoperations",
+        "Bulkoperations",
+        "Accountsettingsexport"
+      ],
+      "scraped_at": "2026-06-18T20:12:09Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/bulkoperations/accountsettingsexport.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/bulkoperations/accountsettingsexport/createaccountsettingsexport/",
+      "site": "developers.docusign.com",
+      "title": ": createAccountSettingsExport",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:09Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/bulkoperations/accountsettingsexport/createaccountsettingsexport.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/bulkoperations/accountsettingsexport/deleteaccountsettingsexport/",
+      "site": "developers.docusign.com",
+      "title": ": deleteAccountSettingsExport",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:09Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/bulkoperations/accountsettingsexport/deleteaccountsettingsexport.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/bulkoperations/accountsettingsexport/getaccountsettingsexport/",
+      "site": "developers.docusign.com",
+      "title": ": getAccountSettingsExport",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:09Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/bulkoperations/accountsettingsexport/getaccountsettingsexport.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/bulkoperations/accountsettingsexport/getaccountsettingsexports/",
+      "site": "developers.docusign.com",
+      "title": ": getAccountSettingsExports",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:09Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/bulkoperations/accountsettingsexport/getaccountsettingsexports.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/bulkoperations/accountsettingsimport/",
+      "site": "developers.docusign.com",
+      "title": "AccountSettingsImport Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "API Reference",
+        "API Reference",
+        "Bulkoperations",
+        "Bulkoperations",
+        "Accountsettingsimport"
+      ],
+      "scraped_at": "2026-06-18T20:12:09Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/bulkoperations/accountsettingsimport.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/bulkoperations/accountsettingsimport/addbulkaccountsettingsimport/",
+      "site": "developers.docusign.com",
+      "title": ": addBulkAccountSettingsImport",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:09Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/bulkoperations/accountsettingsimport/addbulkaccountsettingsimport.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/bulkoperations/accountsettingsimport/deletebulkaccountsettingsimport/",
+      "site": "developers.docusign.com",
+      "title": ": deleteBulkAccountSettingsImport",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:09Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/bulkoperations/accountsettingsimport/deletebulkaccountsettingsimport.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/bulkoperations/accountsettingsimport/getbulkaccountsettingsimport/",
+      "site": "developers.docusign.com",
+      "title": ": getBulkAccountSettingsImport",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:09Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/bulkoperations/accountsettingsimport/getbulkaccountsettingsimport.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/bulkoperations/accountsettingsimport/getbulkaccountsettingsimports/",
+      "site": "developers.docusign.com",
+      "title": ": getBulkAccountSettingsImports",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:09Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/bulkoperations/accountsettingsimport/getbulkaccountsettingsimports.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/bulkoperations/singleaccountuserimport/",
+      "site": "developers.docusign.com",
+      "title": "SingleAccountUserImport Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "API Reference",
+        "API Reference",
+        "Bulkoperations",
+        "Bulkoperations",
+        "Singleaccountuserimport"
+      ],
+      "scraped_at": "2026-06-18T20:12:09Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/bulkoperations/singleaccountuserimport.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/bulkoperations/singleaccountuserimport/createbulkimportsingleaccountaddusersrequest/",
+      "site": "developers.docusign.com",
+      "title": ": createBulkImportSingleAccountAddUsersRequest",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:09Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/bulkoperations/singleaccountuserimport/createbulkimportsingleaccountaddusersrequest.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/bulkoperations/singleaccountuserimport/createbulkimportsingleaccountupdateusersrequest/",
+      "site": "developers.docusign.com",
+      "title": ": createBulkImportSingleAccountUpdateUsersRequest",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:09Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/bulkoperations/singleaccountuserimport/createbulkimportsingleaccountupdateusersrequest.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/bulkoperations/userexport/",
+      "site": "developers.docusign.com",
+      "title": "UserExport Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "API Reference",
+        "API Reference",
+        "Bulkoperations",
+        "Bulkoperations",
+        "Userexport"
+      ],
+      "scraped_at": "2026-06-18T20:12:09Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/bulkoperations/userexport.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/bulkoperations/userexport/createuserlistexport/",
+      "site": "developers.docusign.com",
+      "title": ": createUserListExport",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:06Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/bulkoperations/userexport/createuserlistexport.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/bulkoperations/userexport/deleteuserlistexport/",
+      "site": "developers.docusign.com",
+      "title": ": deleteUserListExport",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:09Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/bulkoperations/userexport/deleteuserlistexport.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/bulkoperations/userexport/getuserlistexport/",
+      "site": "developers.docusign.com",
+      "title": ": getUserListExport",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:06Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/bulkoperations/userexport/getuserlistexport.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/bulkoperations/userexport/getuserlistexports/",
+      "site": "developers.docusign.com",
+      "title": ": getUserListExports",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:09Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/bulkoperations/userexport/getuserlistexports.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/bulkoperations/userimport/",
+      "site": "developers.docusign.com",
+      "title": "UserImport Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "API Reference",
+        "API Reference",
+        "Bulkoperations",
+        "Bulkoperations",
+        "Userimport"
+      ],
+      "scraped_at": "2026-06-18T20:12:09Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/bulkoperations/userimport.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/bulkoperations/userimport/addbulkuserimport/",
+      "site": "developers.docusign.com",
+      "title": ": addBulkUserImport",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:06Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/bulkoperations/userimport/addbulkuserimport.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/bulkoperations/userimport/closebulkexternaluserimportrequest/",
+      "site": "developers.docusign.com",
+      "title": ": closeBulkExternalUserImportRequest",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:10Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/bulkoperations/userimport/closebulkexternaluserimportrequest.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/bulkoperations/userimport/closebulkuserimportrequest/",
+      "site": "developers.docusign.com",
+      "title": ": closeBulkUserImportRequest",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:10Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/bulkoperations/userimport/closebulkuserimportrequest.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/bulkoperations/userimport/deletebulkuserimport/",
+      "site": "developers.docusign.com",
+      "title": ": deleteBulkUserImport",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:10Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/bulkoperations/userimport/deletebulkuserimport.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/bulkoperations/userimport/getbulkuserimportcsv/",
+      "site": "developers.docusign.com",
+      "title": ": getBulkUserImportCSV",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:10Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/bulkoperations/userimport/getbulkuserimportcsv.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/bulkoperations/userimport/getbulkuserimportrequest/",
+      "site": "developers.docusign.com",
+      "title": ": getBulkUserImportRequest",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:06Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/bulkoperations/userimport/getbulkuserimportrequest.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/bulkoperations/userimport/getbulkuserimportrequests/",
+      "site": "developers.docusign.com",
+      "title": ": getBulkUserImportRequests",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:10Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/bulkoperations/userimport/getbulkuserimportrequests.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/bulkoperations/userimport/updatebulkuserimports/",
+      "site": "developers.docusign.com",
+      "title": ": updateBulkUserImports",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:10Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/bulkoperations/userimport/updatebulkuserimports.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/identityproviders/",
+      "site": "developers.docusign.com",
+      "title": "IdentityProviders Category",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "API Reference",
+        "API Reference",
+        "Identityproviders"
+      ],
+      "scraped_at": "2026-06-18T20:12:07Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/identityproviders.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/identityproviders/identityproviders/",
+      "site": "developers.docusign.com",
+      "title": "IdentityProviders Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "API Reference",
+        "API Reference",
+        "Identityproviders",
+        "Identityproviders",
+        "Identityproviders"
+      ],
+      "scraped_at": "2026-06-18T20:12:10Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/identityproviders/identityproviders.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/identityproviders/identityproviders/getidentityproviders/",
+      "site": "developers.docusign.com",
+      "title": ": getIdentityProviders",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:10Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/identityproviders/identityproviders/getidentityproviders.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/organization/",
+      "site": "developers.docusign.com",
+      "title": "Organization Category",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "API Reference",
+        "API Reference",
+        "Organization"
+      ],
+      "scraped_at": "2026-06-18T20:12:07Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/organization.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/organization/connect/",
+      "site": "developers.docusign.com",
+      "title": "Connect Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "API Reference",
+        "API Reference",
+        "Organization",
+        "Organization",
+        "Connect"
+      ],
+      "scraped_at": "2026-06-18T20:12:07Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/organization/connect.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/organization/connect/createorganizationconnectconfig/",
+      "site": "developers.docusign.com",
+      "title": ": createOrganizationConnectConfig",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:07Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/organization/connect/createorganizationconnectconfig.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/organization/connect/deleteconnecthmacsecret/",
+      "site": "developers.docusign.com",
+      "title": ": deleteConnectHmacSecret",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:07Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/organization/connect/deleteconnecthmacsecret.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/organization/connect/deleteorganizationconnectconfig/",
+      "site": "developers.docusign.com",
+      "title": ": deleteOrganizationConnectConfig",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:07Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/organization/connect/deleteorganizationconnectconfig.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/organization/connect/deleteorganizationconnectoauthconfiguration/",
+      "site": "developers.docusign.com",
+      "title": ": deleteOrganizationConnectOAuthConfiguration",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:07Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/organization/connect/deleteorganizationconnectoauthconfiguration.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/organization/connect/getconnecthmacsecrets/",
+      "site": "developers.docusign.com",
+      "title": ": getConnectHmacSecrets",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:07Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/organization/connect/getconnecthmacsecrets.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/organization/connect/getorganizationconnectconfig/",
+      "site": "developers.docusign.com",
+      "title": ": getOrganizationConnectConfig",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:07Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/organization/connect/getorganizationconnectconfig.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/organization/connect/getorganizationconnectconfigs/",
+      "site": "developers.docusign.com",
+      "title": ": getOrganizationConnectConfigs",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:07Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/organization/connect/getorganizationconnectconfigs.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/organization/connect/getorganizationconnectoauthconfiguration/",
+      "site": "developers.docusign.com",
+      "title": ": getOrganizationConnectOAuthConfiguration",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:07Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/organization/connect/getorganizationconnectoauthconfiguration.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/organization/connect/postconnecthmacsecret/",
+      "site": "developers.docusign.com",
+      "title": ": postConnectHmacSecret",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:07Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/organization/connect/postconnecthmacsecret.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/organization/connect/postorganizationconnectoauthconfiguration/",
+      "site": "developers.docusign.com",
+      "title": ": postOrganizationConnectOAuthConfiguration",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:07Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/organization/connect/postorganizationconnectoauthconfiguration.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/organization/connect/putorganizationconnectoauthconfiguration/",
+      "site": "developers.docusign.com",
+      "title": ": putOrganizationConnectOAuthConfiguration",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:07Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/organization/connect/putorganizationconnectoauthconfiguration.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/organization/connect/updateorganizationconnectconfig/",
+      "site": "developers.docusign.com",
+      "title": ": updateOrganizationConnectConfig",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:08Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/organization/connect/updateorganizationconnectconfig.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/organization/organization/",
+      "site": "developers.docusign.com",
+      "title": "Organization Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "API Reference",
+        "API Reference",
+        "Organization",
+        "Organization",
+        "Organization"
+      ],
+      "scraped_at": "2026-06-18T20:12:08Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/organization/organization.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/organization/organization/getorganizations/",
+      "site": "developers.docusign.com",
+      "title": ": getOrganizations",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:06Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/organization/organization/getorganizations.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/reserveddomains/",
+      "site": "developers.docusign.com",
+      "title": "ReservedDomains Category",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "API Reference",
+        "API Reference",
+        "Reserveddomains"
+      ],
+      "scraped_at": "2026-06-18T20:12:07Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/reserveddomains.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/reserveddomains/reserveddomains/",
+      "site": "developers.docusign.com",
+      "title": "ReservedDomains Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "API Reference",
+        "API Reference",
+        "Reserveddomains",
+        "Reserveddomains",
+        "Reserveddomains"
+      ],
+      "scraped_at": "2026-06-18T20:12:10Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/reserveddomains/reserveddomains.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/reserveddomains/reserveddomains/getreserveddomains/",
+      "site": "developers.docusign.com",
+      "title": ": getReservedDomains",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:10Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/reserveddomains/reserveddomains/getreserveddomains.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/usermanagement/",
+      "site": "developers.docusign.com",
+      "title": "UserManagement Category",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "API Reference",
+        "API Reference",
+        "Usermanagement"
+      ],
+      "scraped_at": "2026-06-18T20:12:07Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/usermanagement.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/usermanagement/datadeletion/",
+      "site": "developers.docusign.com",
+      "title": "DataDeletion Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "API Reference",
+        "API Reference",
+        "Usermanagement",
+        "Usermanagement",
+        "Datadeletion"
+      ],
+      "scraped_at": "2026-06-18T20:12:08Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/usermanagement/datadeletion.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/usermanagement/datadeletion/redactindividualmembershipdata/",
+      "site": "developers.docusign.com",
+      "title": ": redactIndividualMembershipData",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:07Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/usermanagement/datadeletion/redactindividualmembershipdata.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/usermanagement/datadeletion/redactindividualuserdata/",
+      "site": "developers.docusign.com",
+      "title": ": redactIndividualUserData",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:07Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/usermanagement/datadeletion/redactindividualuserdata.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/usermanagement/esignusermanagement/",
+      "site": "developers.docusign.com",
+      "title": "eSignUserManagement Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "API Reference",
+        "API Reference",
+        "Usermanagement",
+        "Usermanagement",
+        "Esignusermanagement"
+      ],
+      "scraped_at": "2026-06-18T20:12:08Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/usermanagement/esignusermanagement.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/usermanagement/esignusermanagement/activatemembership/",
+      "site": "developers.docusign.com",
+      "title": ": activateMembership",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:08Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/usermanagement/esignusermanagement/activatemembership.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/usermanagement/esignusermanagement/addusers/",
+      "site": "developers.docusign.com",
+      "title": ": addUsers",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:06Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/usermanagement/esignusermanagement/addusers.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/usermanagement/esignusermanagement/closememberships/",
+      "site": "developers.docusign.com",
+      "title": ": closeMemberships",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:08Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/usermanagement/esignusermanagement/closememberships.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/usermanagement/esignusermanagement/createuser/",
+      "site": "developers.docusign.com",
+      "title": ": createUser",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:08Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/usermanagement/esignusermanagement/createuser.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/usermanagement/esignusermanagement/deleteidentities/",
+      "site": "developers.docusign.com",
+      "title": ": deleteIdentities",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:08Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/usermanagement/esignusermanagement/deleteidentities.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/usermanagement/esignusermanagement/getgroups/",
+      "site": "developers.docusign.com",
+      "title": ": getGroups",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:08Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/usermanagement/esignusermanagement/getgroups.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/usermanagement/esignusermanagement/getpermissions/",
+      "site": "developers.docusign.com",
+      "title": ": getPermissions",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:08Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/usermanagement/esignusermanagement/getpermissions.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/usermanagement/esignusermanagement/getuserprofiles/",
+      "site": "developers.docusign.com",
+      "title": ": getUserProfiles",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:06Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/usermanagement/esignusermanagement/getuserprofiles.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/usermanagement/esignusermanagement/updateuser/",
+      "site": "developers.docusign.com",
+      "title": ": updateUser",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:08Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/usermanagement/esignusermanagement/updateuser.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/usermanagement/multiproductusermanagement/",
+      "site": "developers.docusign.com",
+      "title": "MultiProductUserManagement Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "API Reference",
+        "API Reference",
+        "Usermanagement",
+        "Usermanagement",
+        "Multiproductusermanagement"
+      ],
+      "scraped_at": "2026-06-18T20:12:08Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/usermanagement/multiproductusermanagement.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/usermanagement/multiproductusermanagement/adddsgroup/",
+      "site": "developers.docusign.com",
+      "title": ": addDSGroup",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:08Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/usermanagement/multiproductusermanagement/adddsgroup.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/usermanagement/multiproductusermanagement/adddsgroupusers/",
+      "site": "developers.docusign.com",
+      "title": ": addDSGroupUsers",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:08Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/usermanagement/multiproductusermanagement/adddsgroupusers.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/usermanagement/multiproductusermanagement/addorupdateuser/",
+      "site": "developers.docusign.com",
+      "title": ": addOrUpdateUser",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:08Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/usermanagement/multiproductusermanagement/addorupdateuser.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/usermanagement/multiproductusermanagement/adduserproductpermissionprofiles/",
+      "site": "developers.docusign.com",
+      "title": ": addUserProductPermissionProfiles",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:08Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/usermanagement/multiproductusermanagement/adduserproductpermissionprofiles.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/usermanagement/multiproductusermanagement/adduserproductpermissionprofilesbyemail/",
+      "site": "developers.docusign.com",
+      "title": ": addUserProductPermissionProfilesByEmail",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:07Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/usermanagement/multiproductusermanagement/adduserproductpermissionprofilesbyemail.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/usermanagement/multiproductusermanagement/deletedsgroup/",
+      "site": "developers.docusign.com",
+      "title": ": deleteDSGroup",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:08Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/usermanagement/multiproductusermanagement/deletedsgroup.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/usermanagement/multiproductusermanagement/getdsgroup/",
+      "site": "developers.docusign.com",
+      "title": ": getDSGroup",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:08Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/usermanagement/multiproductusermanagement/getdsgroup.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/usermanagement/multiproductusermanagement/getdsgroups/",
+      "site": "developers.docusign.com",
+      "title": ": getDSGroups",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:08Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/usermanagement/multiproductusermanagement/getdsgroups.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/usermanagement/multiproductusermanagement/getdsgroupusers/",
+      "site": "developers.docusign.com",
+      "title": ": getDSGroupUsers",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:08Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/usermanagement/multiproductusermanagement/getdsgroupusers.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/usermanagement/multiproductusermanagement/getproductpermissionprofiles/",
+      "site": "developers.docusign.com",
+      "title": ": getProductPermissionProfiles",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:08Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/usermanagement/multiproductusermanagement/getproductpermissionprofiles.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/usermanagement/multiproductusermanagement/getuserdsprofile/",
+      "site": "developers.docusign.com",
+      "title": ": getUserDSProfile",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:06Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/usermanagement/multiproductusermanagement/getuserdsprofile.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/usermanagement/multiproductusermanagement/getuserdsprofilesbyemail/",
+      "site": "developers.docusign.com",
+      "title": ": getUserDSProfilesByEmail",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:09Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/usermanagement/multiproductusermanagement/getuserdsprofilesbyemail.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/usermanagement/multiproductusermanagement/getuserproductpermissionprofiles/",
+      "site": "developers.docusign.com",
+      "title": ": getUserProductPermissionProfiles",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:07Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/usermanagement/multiproductusermanagement/getuserproductpermissionprofiles.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/usermanagement/multiproductusermanagement/getuserproductpermissionprofilesbyemail/",
+      "site": "developers.docusign.com",
+      "title": ": getUserProductPermissionProfilesByEmail",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:07Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/usermanagement/multiproductusermanagement/getuserproductpermissionprofilesbyemail.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/usermanagement/multiproductusermanagement/removedsgroupusers/",
+      "site": "developers.docusign.com",
+      "title": ": removeDSGroupUsers",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:09Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/usermanagement/multiproductusermanagement/removedsgroupusers.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/usermanagement/multiproductusermanagement/removeuserproductpermission/",
+      "site": "developers.docusign.com",
+      "title": ": removeUserProductPermission",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:07Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/usermanagement/multiproductusermanagement/removeuserproductpermission.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/usermanagement/users/",
+      "site": "developers.docusign.com",
+      "title": "Users Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "API Reference",
+        "API Reference",
+        "Usermanagement",
+        "Usermanagement",
+        "Users"
+      ],
+      "scraped_at": "2026-06-18T20:12:09Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/usermanagement/users.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/usermanagement/users/getusers/",
+      "site": "developers.docusign.com",
+      "title": ": getUsers",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:09Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/usermanagement/users/getusers.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/reference/usermanagement/users/updateemailaddress/",
+      "site": "developers.docusign.com",
+      "title": ": updateEmailAddress",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T20:12:09Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/reference/usermanagement/users/updateemailaddress.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/admin-api/sdks/",
+      "site": "developers.docusign.com",
+      "title": "SDKs",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Docusign Admin API",
+        "Docusign Admin API",
+        "SDKs"
+      ],
+      "scraped_at": "2026-06-18T20:12:05Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/admin-api/sdks.md"
+    }
+  ]
+}
