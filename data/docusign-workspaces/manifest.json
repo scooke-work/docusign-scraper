@@ -1,0 +1,926 @@
+{
+  "generated_at": "2026-06-18T19:50:55Z",
+  "source": "docusign-scraper",
+  "pages": [
+    {
+      "source_url": "https://developers.docusign.com/docs/workspaces-api/",
+      "site": "developers.docusign.com",
+      "title": "Workspaces API overview",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Workspaces API"
+      ],
+      "scraped_at": "2026-06-18T19:36:44Z",
+      "chunks": 8,
+      "has_content": true,
+      "markdown_path": "docs/workspaces-api.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workspaces-api/%20/docs/workspaces-api/reference/",
+      "site": "developers.docusign.com",
+      "title": "404",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:36:45Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/workspaces-api/_20/docs/workspaces-api/reference.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workspaces-api/auth/",
+      "site": "developers.docusign.com",
+      "title": "Authentication",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Workspaces API",
+        "Workspaces API",
+        "Authentication"
+      ],
+      "scraped_at": "2026-06-18T19:36:45Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/workspaces-api/auth.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workspaces-api/go-live/",
+      "site": "developers.docusign.com",
+      "title": "Go Live and API base paths",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Workspaces API",
+        "Workspaces API",
+        "Go-Live"
+      ],
+      "scraped_at": "2026-06-18T19:36:45Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "docs/workspaces-api/go-live.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workspaces-api/how-to/",
+      "site": "developers.docusign.com",
+      "title": "How-to guides overview",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Workspaces API",
+        "Workspaces API",
+        "How-to guides"
+      ],
+      "scraped_at": "2026-06-18T19:36:44Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/workspaces-api/how-to.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workspaces-api/how-to/add-a-document/",
+      "site": "developers.docusign.com",
+      "title": "How to add a document to Workspace",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Workspaces API",
+        "Workspaces API",
+        "How-to guides",
+        "How-to guides",
+        "Add A Document"
+      ],
+      "scraped_at": "2026-06-18T19:36:44Z",
+      "chunks": 9,
+      "has_content": true,
+      "markdown_path": "docs/workspaces-api/how-to/add-a-document.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workspaces-api/how-to/create-workspace-upload-request/",
+      "site": "developers.docusign.com",
+      "title": "How to create a workspace upload request",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Workspaces API",
+        "Workspaces API",
+        "How-to guides",
+        "How-to guides",
+        "Create Workspace Upload Request"
+      ],
+      "scraped_at": "2026-06-18T19:36:44Z",
+      "chunks": 9,
+      "has_content": true,
+      "markdown_path": "docs/workspaces-api/how-to/create-workspace-upload-request.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workspaces-api/how-to/create-workspace-with-brand/",
+      "site": "developers.docusign.com",
+      "title": "How to create a workspace with a brand",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Workspaces API",
+        "Workspaces API",
+        "How-to guides",
+        "How-to guides",
+        "Create Workspace With Brand"
+      ],
+      "scraped_at": "2026-06-18T19:36:44Z",
+      "chunks": 11,
+      "has_content": true,
+      "markdown_path": "docs/workspaces-api/how-to/create-workspace-with-brand.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workspaces-api/how-to/create-workspace/",
+      "site": "developers.docusign.com",
+      "title": "How to create a workspace",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Workspaces API",
+        "Workspaces API",
+        "How-to guides",
+        "How-to guides",
+        "Create a workspace"
+      ],
+      "scraped_at": "2026-06-18T19:36:44Z",
+      "chunks": 9,
+      "has_content": true,
+      "markdown_path": "docs/workspaces-api/how-to/create-workspace.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workspaces-api/how-to/send-envelope-with-recipient-information/",
+      "site": "developers.docusign.com",
+      "title": "How to send an envelope with recipient information",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Workspaces API",
+        "Workspaces API",
+        "How-to guides",
+        "How-to guides",
+        "Send an envelope with recipient information"
+      ],
+      "scraped_at": "2026-06-18T19:36:44Z",
+      "chunks": 11,
+      "has_content": true,
+      "markdown_path": "docs/workspaces-api/how-to/send-envelope-with-recipient-information.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workspaces-api/reference/",
+      "site": "developers.docusign.com",
+      "title": "API Categories",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Workspaces API",
+        "Workspaces API",
+        "API Reference"
+      ],
+      "scraped_at": "2026-06-18T19:36:45Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/workspaces-api/reference.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workspaces-api/reference/accounts/workspacedocuments/getworkspacedocuments/",
+      "site": "developers.docusign.com",
+      "title": "404",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:36:45Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/workspaces-api/reference/accounts/workspacedocuments/getworkspacedocuments.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workspaces-api/reference/workspaces/",
+      "site": "developers.docusign.com",
+      "title": "Workspaces Category",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Workspaces API",
+        "Workspaces API",
+        "API Reference",
+        "API Reference",
+        "Workspaces"
+      ],
+      "scraped_at": "2026-06-18T19:36:45Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/workspaces-api/reference/workspaces.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workspaces-api/reference/workspaces/workspacedocuments/",
+      "site": "developers.docusign.com",
+      "title": "WorkspaceDocuments Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Workspaces API",
+        "Workspaces API",
+        "API Reference",
+        "API Reference",
+        "Workspaces",
+        "Workspaces",
+        "Workspacedocuments"
+      ],
+      "scraped_at": "2026-06-18T19:36:45Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/workspaces-api/reference/workspaces/workspacedocuments.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workspaces-api/reference/workspaces/workspacedocuments/addworkspacedocument/",
+      "site": "developers.docusign.com",
+      "title": ": addWorkspaceDocument",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:36:45Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/workspaces-api/reference/workspaces/workspacedocuments/addworkspacedocument.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workspaces-api/reference/workspaces/workspacedocuments/deleteworkspacedocument/",
+      "site": "developers.docusign.com",
+      "title": ": deleteWorkspaceDocument",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:36:45Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/workspaces-api/reference/workspaces/workspacedocuments/deleteworkspacedocument.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workspaces-api/reference/workspaces/workspacedocuments/getworkspacedocument/",
+      "site": "developers.docusign.com",
+      "title": ": getWorkspaceDocument",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:36:45Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/workspaces-api/reference/workspaces/workspacedocuments/getworkspacedocument.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workspaces-api/reference/workspaces/workspacedocuments/getworkspacedocumentcontents/",
+      "site": "developers.docusign.com",
+      "title": ": getWorkspaceDocumentContents",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:36:45Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/workspaces-api/reference/workspaces/workspacedocuments/getworkspacedocumentcontents.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workspaces-api/reference/workspaces/workspacedocuments/getworkspacedocuments/",
+      "site": "developers.docusign.com",
+      "title": ": getWorkspaceDocuments",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:36:45Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/workspaces-api/reference/workspaces/workspacedocuments/getworkspacedocuments.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workspaces-api/reference/workspaces/workspaces/",
+      "site": "developers.docusign.com",
+      "title": "Workspaces Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Workspaces API",
+        "Workspaces API",
+        "API Reference",
+        "API Reference",
+        "Workspaces",
+        "Workspaces",
+        "Workspaces"
+      ],
+      "scraped_at": "2026-06-18T19:36:45Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/workspaces-api/reference/workspaces/workspaces.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workspaces-api/reference/workspaces/workspaces/createworkspace/",
+      "site": "developers.docusign.com",
+      "title": ": createWorkspace",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:36:45Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/workspaces-api/reference/workspaces/workspaces/createworkspace.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workspaces-api/reference/workspaces/workspaces/createworkspaceenvelope/",
+      "site": "developers.docusign.com",
+      "title": ": createWorkspaceEnvelope",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:36:45Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/workspaces-api/reference/workspaces/workspaces/createworkspaceenvelope.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workspaces-api/reference/workspaces/workspaces/getworkspace/",
+      "site": "developers.docusign.com",
+      "title": ": getWorkspace",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:36:45Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/workspaces-api/reference/workspaces/workspaces/getworkspace.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workspaces-api/reference/workspaces/workspaces/getworkspaceassignableroles/",
+      "site": "developers.docusign.com",
+      "title": ": getWorkspaceAssignableRoles",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:36:45Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/workspaces-api/reference/workspaces/workspaces/getworkspaceassignableroles.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workspaces-api/reference/workspaces/workspaces/getworkspaceenvelopes/",
+      "site": "developers.docusign.com",
+      "title": ": getWorkspaceEnvelopes",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:36:45Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/workspaces-api/reference/workspaces/workspaces/getworkspaceenvelopes.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workspaces-api/reference/workspaces/workspaces/getworkspaces/",
+      "site": "developers.docusign.com",
+      "title": ": getWorkspaces",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:36:45Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/workspaces-api/reference/workspaces/workspaces/getworkspaces.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workspaces-api/reference/workspaces/workspaceuploadrequest/",
+      "site": "developers.docusign.com",
+      "title": "WorkspaceUploadRequest Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Workspaces API",
+        "Workspaces API",
+        "API Reference",
+        "API Reference",
+        "Workspaces",
+        "Workspaces",
+        "Workspaceuploadrequest"
+      ],
+      "scraped_at": "2026-06-18T19:36:45Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/workspaces-api/reference/workspaces/workspaceuploadrequest.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workspaces-api/reference/workspaces/workspaceuploadrequest/addworkspaceuploadrequestdocument/",
+      "site": "developers.docusign.com",
+      "title": ": addWorkspaceUploadRequestDocument",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:36:45Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/workspaces-api/reference/workspaces/workspaceuploadrequest/addworkspaceuploadrequestdocument.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workspaces-api/reference/workspaces/workspaceuploadrequest/completeworkspaceuploadrequest/",
+      "site": "developers.docusign.com",
+      "title": ": completeWorkspaceUploadRequest",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:36:45Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/workspaces-api/reference/workspaces/workspaceuploadrequest/completeworkspaceuploadrequest.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workspaces-api/reference/workspaces/workspaceuploadrequest/createworkspaceuploadrequest/",
+      "site": "developers.docusign.com",
+      "title": ": createWorkspaceUploadRequest",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:36:45Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/workspaces-api/reference/workspaces/workspaceuploadrequest/createworkspaceuploadrequest.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workspaces-api/reference/workspaces/workspaceuploadrequest/deleteworkspaceuploadrequest/",
+      "site": "developers.docusign.com",
+      "title": ": deleteWorkspaceUploadRequest",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:36:46Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/workspaces-api/reference/workspaces/workspaceuploadrequest/deleteworkspaceuploadrequest.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workspaces-api/reference/workspaces/workspaceuploadrequest/getworkspaceuploadrequest/",
+      "site": "developers.docusign.com",
+      "title": ": getWorkspaceUploadRequest",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:36:46Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/workspaces-api/reference/workspaces/workspaceuploadrequest/getworkspaceuploadrequest.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workspaces-api/reference/workspaces/workspaceuploadrequest/getworkspaceuploadrequests/",
+      "site": "developers.docusign.com",
+      "title": ": getWorkspaceUploadRequests",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:36:46Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/workspaces-api/reference/workspaces/workspaceuploadrequest/getworkspaceuploadrequests.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workspaces-api/reference/workspaces/workspaceuploadrequest/updateworkspaceuploadrequest/",
+      "site": "developers.docusign.com",
+      "title": ": updateWorkspaceUploadRequest",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:36:46Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/workspaces-api/reference/workspaces/workspaceuploadrequest/updateworkspaceuploadrequest.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workspaces-api/reference/workspaces/workspaceusers/",
+      "site": "developers.docusign.com",
+      "title": "WorkspaceUsers Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Workspaces API",
+        "Workspaces API",
+        "API Reference",
+        "API Reference",
+        "Workspaces",
+        "Workspaces",
+        "Workspaceusers"
+      ],
+      "scraped_at": "2026-06-18T19:36:46Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/workspaces-api/reference/workspaces/workspaceusers.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workspaces-api/reference/workspaces/workspaceusers/addworkspaceuser/",
+      "site": "developers.docusign.com",
+      "title": ": addWorkspaceUser",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:36:46Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/workspaces-api/reference/workspaces/workspaceusers/addworkspaceuser.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workspaces-api/reference/workspaces/workspaceusers/getworkspaceusers/",
+      "site": "developers.docusign.com",
+      "title": ": getWorkspaceUsers",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:36:46Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/workspaces-api/reference/workspaces/workspaceusers/getworkspaceusers.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workspaces-api/reference/workspaces/workspaceusers/restoreworkspaceuseraccess/",
+      "site": "developers.docusign.com",
+      "title": ": restoreWorkspaceUserAccess",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:36:46Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/workspaces-api/reference/workspaces/workspaceusers/restoreworkspaceuseraccess.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workspaces-api/reference/workspaces/workspaceusers/revokeworkspaceuseraccess/",
+      "site": "developers.docusign.com",
+      "title": ": revokeWorkspaceUserAccess",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:36:46Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/workspaces-api/reference/workspaces/workspaceusers/revokeworkspaceuseraccess.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workspaces-api/reference/workspaces/workspaceusers/updateworkspaceuser/",
+      "site": "developers.docusign.com",
+      "title": ": updateWorkspaceUser",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:36:45Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/workspaces-api/reference/workspaces/workspaceusers/updateworkspaceuser.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workspaces-api/rules-and-resource-limits/",
+      "site": "developers.docusign.com",
+      "title": "Workspaces API rules and resource limits",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Workspaces API",
+        "Workspaces API",
+        "Rules And Resource Limits"
+      ],
+      "scraped_at": "2026-06-18T19:36:45Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/workspaces-api/rules-and-resource-limits.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workspaces-api/workspaces101/",
+      "site": "developers.docusign.com",
+      "title": "Workspaces API 101",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Workspaces API",
+        "Workspaces API",
+        "API 101"
+      ],
+      "scraped_at": "2026-06-18T19:36:44Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "docs/workspaces-api/workspaces101.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workspaces-api/workspaces101/concepts/",
+      "site": "developers.docusign.com",
+      "title": "Workspaces API concepts",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Workspaces API",
+        "Workspaces API",
+        "API 101",
+        "API 101",
+        "Concepts"
+      ],
+      "scraped_at": "2026-06-18T19:36:44Z",
+      "chunks": 8,
+      "has_content": true,
+      "markdown_path": "docs/workspaces-api/workspaces101/concepts.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/workspaces-api/workspaces101/use-cases/",
+      "site": "developers.docusign.com",
+      "title": "Workspaces API use cases",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Workspaces API",
+        "Workspaces API",
+        "API 101",
+        "API 101",
+        "Use cases"
+      ],
+      "scraped_at": "2026-06-18T19:36:44Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/workspaces-api/workspaces101/use-cases.md"
+    },
+    {
+      "source_url": "https://www.docusign.com/products/workspaces",
+      "site": "www.docusign.com",
+      "title": "Bring people, agreements, and information together",
+      "breadcrumb": [
+        "Home",
+        "Home",
+        "Products",
+        "Products",
+        "Workspaces"
+      ],
+      "scraped_at": "2026-06-18T19:38:46Z",
+      "chunks": 12,
+      "has_content": true,
+      "markdown_path": "products/workspaces.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bmb1723842049882&topicId=bjr1723843306654.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Filter and Sort Workspaces",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:38:40Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/bmb1723842049882/bjr1723843306654.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bmb1723842049882&topicId=con95bde0ac-c56f-40f8-9798-012f11915915.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Workspace Templates",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:38:40Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/bmb1723842049882/con95bde0ac-c56f-40f8-9798-012f11915915.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bmb1723842049882&topicId=cond3c1b599-e7cb-42c1-8462-24848521c2fc.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Branding in Workspaces",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:38:40Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/bmb1723842049882/cond3c1b599-e7cb-42c1-8462-24848521c2fc.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bmb1723842049882&topicId=coo1744396082063.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Limitations on Docusign Workspaces Usage",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:38:40Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/bmb1723842049882/coo1744396082063.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bmb1723842049882&topicId=gjm1723842996376.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Change the Status of Workspaces",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:38:40Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/bmb1723842049882/gjm1723842996376.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bmb1723842049882&topicId=gmr1743734230189.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Document Upload Requests",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:38:40Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/bmb1723842049882/gmr1743734230189.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bmb1723842049882&topicId=gvw1750786179402.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Identity Verification",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:38:40Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/bmb1723842049882/gvw1750786179402.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bmb1723842049882&topicId=hvt1744135598022.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Envelopes to Workspaces",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:38:40Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/bmb1723842049882/hvt1744135598022.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bmb1723842049882&topicId=jrm1743786525522.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Messaging in Workspaces",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:38:40Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/bmb1723842049882/jrm1743786525522.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bmb1723842049882&topicId=lue1728571319483.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Documents to Workspaces",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:38:40Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/bmb1723842049882/lue1728571319483.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bmb1723842049882&topicId=mmj1723842888406.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Users to Workspaces",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:38:40Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/bmb1723842049882/mmj1723842888406.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bmb1723842049882&topicId=nbs1744572997089.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Download Message History",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:38:40Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/bmb1723842049882/nbs1744572997089.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bmb1723842049882&topicId=nby1725477719387.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "View the History of Workspaces",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:38:40Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/bmb1723842049882/nby1725477719387.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bmb1723842049882&topicId=nss1727472406289.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Share a Document in Workspaces",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:38:40Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/bmb1723842049882/nss1727472406289.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bmb1723842049882&topicId=oiu1731179949375.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Actions Permitted By Permission Level and Role",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:38:40Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/bmb1723842049882/oiu1731179949375.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bmb1723842049882&topicId=ovf1725900699633.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Docusign Workspaces",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:38:40Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/bmb1723842049882/ovf1725900699633.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bmb1723842049882&topicId=oxc1744405856598.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Participant Portal",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:38:40Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/bmb1723842049882/oxc1744405856598.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bmb1723842049882&topicId=pyq1743623833366.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Batch-Send for Envelopes and Upload Requests",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:38:40Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/bmb1723842049882/pyq1743623833366.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bmb1723842049882&topicId=qpa1727652018093.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Sharing Workspaces with Other Users",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:38:40Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/bmb1723842049882/qpa1727652018093.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bmb1723842049882&topicId=rtt1743788460379.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Send Messages to Workspaces Users",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:38:40Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/bmb1723842049882/rtt1743788460379.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bmb1723842049882&topicId=sha1723842408338.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create Workspaces",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:38:40Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/bmb1723842049882/sha1723842408338.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bmb1723842049882&topicId=tqa1723843343986.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Download Documents from Workspaces",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:38:40Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/bmb1723842049882/tqa1723843343986.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bmb1723842049882&topicId=tsk1ee719ee-c0a3-4b45-a688-3aa3c8971a95.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Using a Workspace Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:38:40Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/bmb1723842049882/tsk1ee719ee-c0a3-4b45-a688-3aa3c8971a95.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bmb1723842049882&topicId=tsk38fbc084-4590-4b99-b760-eb989888b82a.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add a Personalized Message to a Workspace",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:38:40Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/bmb1723842049882/tsk38fbc084-4590-4b99-b760-eb989888b82a.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bmb1723842049882&topicId=tsk8441729a-4f4f-434d-bf44-14ed75e4c7d5.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Restrict Access to a Workspace Through Identity Verification",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:38:40Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/bmb1723842049882/tsk8441729a-4f4f-434d-bf44-14ed75e4c7d5.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bmb1723842049882&topicId=tsk9d79ef25-a585-4793-a236-c39c76046824.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Disable Messaging",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:38:40Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/bmb1723842049882/tsk9d79ef25-a585-4793-a236-c39c76046824.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bmb1723842049882&topicId=tska3d83338-aa71-42f5-aec7-cd8510ee5fcf.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Publish a Workspace Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:38:40Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/bmb1723842049882/tska3d83338-aa71-42f5-aec7-cd8510ee5fcf.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bmb1723842049882&topicId=tskdd3dde17-2ad1-4d13-a0e2-eed0edf56201.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create a Workspace Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:38:40Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/bmb1723842049882/tskdd3dde17-2ad1-4d13-a0e2-eed0edf56201.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bmb1723842049882&topicId=wye1726773470395.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Rename Workspaces",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:38:40Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/bmb1723842049882/wye1726773470395.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bmb1723842049882&topicId=xab1725481932154.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Request Documents from Another User",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:38:40Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/bmb1723842049882/xab1725481932154.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bmb1723842049882&topicId=xix1741909658346.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Send Multiple Envelopes and Upload Requests in a Batch",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:38:40Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/bmb1723842049882/xix1741909658346.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bmb1723842049882&topicId=zdi1723843050086.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Delete Workspaces",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:38:40Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/bmb1723842049882/zdi1723843050086.md"
+    }
+  ]
+}

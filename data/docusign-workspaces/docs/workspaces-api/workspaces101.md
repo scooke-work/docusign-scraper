@@ -1,0 +1,98 @@
+---
+title: Workspaces API 101
+source_url: https://developers.docusign.com/docs/workspaces-api/workspaces101/
+site: developers.docusign.com
+breadcrumb:
+- APIs
+- APIs
+- Workspaces API
+- Workspaces API
+- API 101
+scraped_at: '2026-06-18T19:36:44Z'
+---
+
+# Workspaces API 101
+
+The Docusign Workspaces API enables you to create and manage workspaces. A workspace is a singular, digital place where you can bring people, agreements, and information together for your transactions.
+
+- Workspaces simplify your customer experience by providing end users with a consolidated view of all envelopes, documents, and tasks related to a particular agreement process.
+- End users will receive one notification with all of the steps they need to complete in a personalized agreement space.
+- Workspaces provides your users with a shared view into the agreement process and enables them to upload documents, add comments, and quickly find the information they need to accelerate the transaction.
+- Workspaces provide security with authentication and permission controls so that customers can ensure only the right people have access and no one sees documents they shouldn’t.
+
+## When to use workspaces
+
+Workspaces are designed to simplify complex, multistep agreement processes with the same set of participants over time. For most organizations, these complex agreements are managed digitally using many attachment-heavy emails, or using analog, paper-heavy processes. Both of these approaches are insecure and inefficient.
+
+For example, a single complex process, such as onboarding a new client, may require three new accounts to be created. Each of those accounts can require five agreements each. If all 15 agreements are sent and managed individually, it can be difficult to manage and track the status of each one; customers can become confused or overwhelmed, especially if some of the agreements are similar. 
+
+A workspace solves these problems by offering a central hub to manage your complex agreement flows, documents, and participants. Your participants get notifications about the steps they need to take for the documents they need to interact with. Whether it’s onboarding with a new financial advisor, applying for a new car loan, or enrolling for a college course, a workspace removes the hassle that frustrates end consumers and customers alike and strives to improve the completion rate and time to complete for the agreements.
+
+The Docusign Workspaces API is currently only available to American data sites and accounts, but future releases will expand its availability. Workspaces API is available in English, Portuguese, and Spanish for US and LATAM markets.
+
+## Next steps
+
+- Learn about [Workspaces API use cases](https://developers.docusign.com/docs/workspaces-api/workspaces101/use-cases/)
+- See details about [Workspaces API concepts](https://developers.docusign.com/docs/workspaces-api/workspaces101/concepts/)
+- Look at the detailed code walkthroughs from our [Workspaces API how-to overview](https://developers.docusign.com/docs/workspaces-api/how-to/) page
+
+[![Footer: Platform 101: Pre-Footer - Icon](https://images.ctfassets.net/aj9z008chlq0/1B2IgSQD94ohLe7UVvJ5AU/ef33d80a2fbfcf734362995ffd43a438/footer-icon-1.svg)
+
+Platform 101
+
+Get up to speed on our concepts and platform](https://developers.docusign.com/platform/build-integration/)[Learn More](https://developers.docusign.com/platform/build-integration/)[![Footer: Stack Overflow: Pre-Footer - Icon](https://images.ctfassets.net/aj9z008chlq0/4gZwid50MSnlXqHMTZLCdV/4cc92d22086124f2f622c781cb554844/footer-icon-2.svg)
+
+Docusign Community
+
+Get answers from our API experts and community](https://community.docusign.com/developer-59)[Learn More](https://community.docusign.com/developer-59)[![Footer: GitHub: Pre-Footer - Icon](https://images.ctfassets.net/aj9z008chlq0/208FBzUKngjwdVfL0wAgd7/f6ff4fd8071196e37c5cac5f4f12c38c/footer-icon-3.svg)
+
+GitHub
+
+Find our SDKs and other source code](https://github.com/docusign)[Learn More](https://github.com/docusign)[![Footer: Partner Directory: Pre-Footer - Icon](https://images.ctfassets.net/aj9z008chlq0/2YWAk0yl09YARzBDgoq6dN/48d159475098419d1da9b3fcf14a4791/footer-icon-4.svg)
+
+Partner Directory
+
+See the full directory of Docusign partners](https://partners.docusign.com/s/partnerfinder)[Learn More](https://partners.docusign.com/s/partnerfinder)
+
+[![Docusign.com](https://developers.docusign.com/img/docusign-logo.svg)](https://docusign.com)
+
+[![X](https://images.ctfassets.net/aj9z008chlq0/jUnMYaPzapgZma42YHdEv/375916f63ce5f10c79da650018f8cb0c/x-logo.png)](https://x.com/DocusignDevs)[![youtube](https://images.ctfassets.net/aj9z008chlq0/pYBeoyZ3yAWrQ7yx2MV6U/c3e2679fb091dd6f6dbf9b250bd5ed9a/social-icon-youtube.png)](https://www.youtube.com/@DocusignDevs)[![linkedin](https://images.ctfassets.net/aj9z008chlq0/5dZh3hbAdZ97DYDNdhijTA/19230fd1c70b76dea1eef8834779e2cd/social-icon-linkedin.png)](https://www.linkedin.com/showcase/docusigndevs/)
+
+APIs- [eSignature API](https://developers.docusign.com/docs/esign-rest-api/)
+- [Web Forms API](https://developers.docusign.com/docs/web-forms-api/)
+- [Workflow Builder API](https://developers.docusign.com/docs/workflow-builder-api/)
+- [Agreement Manager API](https://developers.docusign.com/docs/agreement-manager-api/)
+- [Docusign Admin API](https://developers.docusign.com/docs/admin-api/)
+- [View all](https://developers.docusign.com/docs/)
+
+Featured Content- [Quickstart](https://developers.docusign.com/docs/esign-rest-api/quickstart/)
+- [Sample Apps](https://developers.docusign.com/sample-apps/)
+- [Authentication](https://developers.docusign.com/platform/auth/)
+- [Webhooks](https://developers.docusign.com/platform/webhooks/)
+- [Go-Live](https://developers.docusign.com/platform/go-live/)
+- [SDKs](https://developers.docusign.com/docs/sdks/)
+
+Help- [Support](https://developers.docusign.com/support/)
+- [FAQs](https://support.docusign.com/s/articles/DocuSign-Developer-Support-FAQs)
+
+More- [Partner With Us](https://developers.docusign.com/partner/)
+- [Docusign University](https://developers.docusign.com/training/)
+- [Trust Center](https://www.docusign.com/trust)
+- [Trust Portal](https://www.docusign.com/trust-portal)
+- [ISV integration guides](https://developers.docusign.com/partner/isv-integration-guides/)
+
+[![X](https://images.ctfassets.net/aj9z008chlq0/jUnMYaPzapgZma42YHdEv/375916f63ce5f10c79da650018f8cb0c/x-logo.png)](https://x.com/DocusignDevs)[![youtube](https://images.ctfassets.net/aj9z008chlq0/pYBeoyZ3yAWrQ7yx2MV6U/c3e2679fb091dd6f6dbf9b250bd5ed9a/social-icon-youtube.png)](https://www.youtube.com/@DocusignDevs)[![linkedin](https://images.ctfassets.net/aj9z008chlq0/5dZh3hbAdZ97DYDNdhijTA/19230fd1c70b76dea1eef8834779e2cd/social-icon-linkedin.png)](https://www.linkedin.com/showcase/docusigndevs/)
+
+© 2024 Docusign, Inc.
+
+[Docusign.com](https://docusign.com)
+
+[Terms of Use](https://www.docusign.com/company/terms-and-conditions/developers)
+
+[Privacy Notice](https://www.docusign.com/company/privacy-policy)
+
+[Notice to California Residents](https://www.docusign.com/privacy#8)
+
+[Intellectual Property](https://www.docusign.com/IP)
+
+![ccpa-opt-out](https://developers.docusign.com/img/svg/ccpa-opt-out.svg)

@@ -1,0 +1,1276 @@
+{
+  "generated_at": "2026-06-18T19:50:55Z",
+  "source": "docusign-scraper",
+  "pages": [
+    {
+      "source_url": "https://developers.docusign.com/docs/web-forms-api/",
+      "site": "developers.docusign.com",
+      "title": "Web Forms API overview",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Web Forms API"
+      ],
+      "scraped_at": "2026-06-18T19:46:28Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/web-forms-api.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/web-forms-api/get-started/",
+      "site": "developers.docusign.com",
+      "title": "Get started with the Web Forms API",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Web Forms API",
+        "Web Forms API",
+        "Get started with the Web Forms API"
+      ],
+      "scraped_at": "2026-06-18T19:46:28Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "docs/web-forms-api/get-started.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/web-forms-api/go-live/",
+      "site": "developers.docusign.com",
+      "title": "Go-Live",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Web Forms API",
+        "Web Forms API",
+        "Go-Live"
+      ],
+      "scraped_at": "2026-06-18T19:46:30Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "docs/web-forms-api/go-live.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/web-forms-api/how-to/",
+      "site": "developers.docusign.com",
+      "title": "How-to guides overview",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Web Forms API",
+        "Web Forms API",
+        "How-to guides"
+      ],
+      "scraped_at": "2026-06-18T19:46:29Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/web-forms-api/how-to.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/web-forms-api/how-to/code-launchers/",
+      "site": "developers.docusign.com",
+      "title": "Code example launchers",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Web Forms API",
+        "Web Forms API",
+        "How-to guides",
+        "How-to guides",
+        "Code example launchers"
+      ],
+      "scraped_at": "2026-06-18T19:46:29Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "docs/web-forms-api/how-to/code-launchers.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/web-forms-api/how-to/create-embed-web-form-instance/",
+      "site": "developers.docusign.com",
+      "title": "How to create and embed a web form instance",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Web Forms API",
+        "Web Forms API",
+        "How-to guides",
+        "How-to guides",
+        "How to create and embed a web form instance"
+      ],
+      "scraped_at": "2026-06-18T19:46:30Z",
+      "chunks": 13,
+      "has_content": true,
+      "markdown_path": "docs/web-forms-api/how-to/create-embed-web-form-instance.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/web-forms-api/how-to/create-send-instance/",
+      "site": "developers.docusign.com",
+      "title": "How to create and send a web form instance",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Web Forms API",
+        "Web Forms API",
+        "How-to guides",
+        "How-to guides",
+        "How to create and send a web form instance"
+      ],
+      "scraped_at": "2026-06-18T19:46:30Z",
+      "chunks": 11,
+      "has_content": true,
+      "markdown_path": "docs/web-forms-api/how-to/create-send-instance.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/web-forms-api/plan-integration/",
+      "site": "developers.docusign.com",
+      "title": "Plan a Web Forms API integration",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Web Forms API",
+        "Web Forms API",
+        "Plan an integration"
+      ],
+      "scraped_at": "2026-06-18T19:46:29Z",
+      "chunks": 15,
+      "has_content": true,
+      "markdown_path": "docs/web-forms-api/plan-integration.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/web-forms-api/plan-integration/apply-custom-branding/",
+      "site": "developers.docusign.com",
+      "title": "Apply custom branding",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Web Forms API",
+        "Web Forms API",
+        "Plan an integration",
+        "Plan an integration",
+        "Apply custom branding"
+      ],
+      "scraped_at": "2026-06-18T19:46:29Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/web-forms-api/plan-integration/apply-custom-branding.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/web-forms-api/plan-integration/authentication/",
+      "site": "developers.docusign.com",
+      "title": "Authentication",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Web Forms API",
+        "Web Forms API",
+        "Plan an integration",
+        "Plan an integration",
+        "Authentication"
+      ],
+      "scraped_at": "2026-06-18T19:46:29Z",
+      "chunks": 8,
+      "has_content": true,
+      "markdown_path": "docs/web-forms-api/plan-integration/authentication.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/web-forms-api/plan-integration/deliver-remote-instances-to-users/",
+      "site": "developers.docusign.com",
+      "title": "Deliver remote web form instances to users",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Web Forms API",
+        "Web Forms API",
+        "Plan an integration",
+        "Plan an integration",
+        "Deliver remote web form instances to users"
+      ],
+      "scraped_at": "2026-06-18T19:46:29Z",
+      "chunks": 14,
+      "has_content": true,
+      "markdown_path": "docs/web-forms-api/plan-integration/deliver-remote-instances-to-users.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/web-forms-api/plan-integration/expirations-timeouts/",
+      "site": "developers.docusign.com",
+      "title": "Handle expirations and timeouts",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Web Forms API",
+        "Web Forms API",
+        "Plan an integration",
+        "Plan an integration",
+        "Handle expirations and timeouts"
+      ],
+      "scraped_at": "2026-06-18T19:46:29Z",
+      "chunks": 11,
+      "has_content": true,
+      "markdown_path": "docs/web-forms-api/plan-integration/expirations-timeouts.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/web-forms-api/plan-integration/identify-instance-users/",
+      "site": "developers.docusign.com",
+      "title": "Identify web form instance users",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Web Forms API",
+        "Web Forms API",
+        "Plan an integration",
+        "Plan an integration",
+        "Identify web form instance users"
+      ],
+      "scraped_at": "2026-06-18T19:46:29Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/web-forms-api/plan-integration/identify-instance-users.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/web-forms-api/plan-integration/instance-urls/",
+      "site": "developers.docusign.com",
+      "title": "Web form instance URLs",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Web Forms API",
+        "Web Forms API",
+        "Plan an integration",
+        "Plan an integration",
+        "Web form instance URLs"
+      ],
+      "scraped_at": "2026-06-18T19:46:29Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "docs/web-forms-api/plan-integration/instance-urls.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/web-forms-api/plan-integration/prefill-instance-fields/",
+      "site": "developers.docusign.com",
+      "title": "Prefill web form instance fields",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Web Forms API",
+        "Web Forms API",
+        "Plan an integration",
+        "Plan an integration",
+        "Prefill web form instance fields"
+      ],
+      "scraped_at": "2026-06-18T19:46:29Z",
+      "chunks": 8,
+      "has_content": true,
+      "markdown_path": "docs/web-forms-api/plan-integration/prefill-instance-fields.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/web-forms-api/plan-integration/redirect-users-form-submission/",
+      "site": "developers.docusign.com",
+      "title": "Redirect users after form submission",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Web Forms API",
+        "Web Forms API",
+        "Plan an integration",
+        "Plan an integration",
+        "Redirect users after form submission"
+      ],
+      "scraped_at": "2026-06-18T19:46:29Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/web-forms-api/plan-integration/redirect-users-form-submission.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/web-forms-api/plan-integration/render-instances/",
+      "site": "developers.docusign.com",
+      "title": "Render embedded web form instances",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Web Forms API",
+        "Web Forms API",
+        "Plan an integration",
+        "Plan an integration",
+        "Render embedded web form instances"
+      ],
+      "scraped_at": "2026-06-18T19:46:29Z",
+      "chunks": 9,
+      "has_content": true,
+      "markdown_path": "docs/web-forms-api/plan-integration/render-instances.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/web-forms-api/plan-integration/retrieve-configuration-details/",
+      "site": "developers.docusign.com",
+      "title": "Retrieve web form configuration details",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Web Forms API",
+        "Web Forms API",
+        "Plan an integration",
+        "Plan an integration",
+        "Retrieve web form configuration details"
+      ],
+      "scraped_at": "2026-06-18T19:46:29Z",
+      "chunks": 15,
+      "has_content": true,
+      "markdown_path": "docs/web-forms-api/plan-integration/retrieve-configuration-details.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/web-forms-api/plan-integration/retrieve-submitted-values/",
+      "site": "developers.docusign.com",
+      "title": "Retrieve submitted web form instance values",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Web Forms API",
+        "Web Forms API",
+        "Plan an integration",
+        "Plan an integration",
+        "Retrieve submitted web form instance values"
+      ],
+      "scraped_at": "2026-06-18T19:46:29Z",
+      "chunks": 8,
+      "has_content": true,
+      "markdown_path": "docs/web-forms-api/plan-integration/retrieve-submitted-values.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/web-forms-api/plan-integration/track-instance-and-envelope-status/",
+      "site": "developers.docusign.com",
+      "title": "Track web form instance and envelope status",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Web Forms API",
+        "Web Forms API",
+        "Plan an integration",
+        "Plan an integration",
+        "Track web form instance and envelope status"
+      ],
+      "scraped_at": "2026-06-18T19:46:29Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/web-forms-api/plan-integration/track-instance-and-envelope-status.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/web-forms-api/reference/",
+      "site": "developers.docusign.com",
+      "title": "API Categories",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Web Forms API",
+        "Web Forms API",
+        "API Reference"
+      ],
+      "scraped_at": "2026-06-18T19:46:30Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/web-forms-api/reference.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/web-forms-api/reference/webforms/",
+      "site": "developers.docusign.com",
+      "title": "WebForms Category",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Web Forms API",
+        "Web Forms API",
+        "API Reference",
+        "API Reference",
+        "Webforms"
+      ],
+      "scraped_at": "2026-06-18T19:46:30Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "docs/web-forms-api/reference/webforms.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/web-forms-api/reference/webforms/configurations/",
+      "site": "developers.docusign.com",
+      "title": "Configurations Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Web Forms API",
+        "Web Forms API",
+        "API Reference",
+        "API Reference",
+        "Webforms",
+        "Webforms",
+        "Configurations"
+      ],
+      "scraped_at": "2026-06-18T19:46:30Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/web-forms-api/reference/webforms/configurations.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/web-forms-api/reference/webforms/configurations/getform/",
+      "site": "developers.docusign.com",
+      "title": ": getForm",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:46:30Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/web-forms-api/reference/webforms/configurations/getform.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/web-forms-api/reference/webforms/configurations/listforms/",
+      "site": "developers.docusign.com",
+      "title": ": listForms",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:46:30Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/web-forms-api/reference/webforms/configurations/listforms.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/web-forms-api/reference/webforms/instances/",
+      "site": "developers.docusign.com",
+      "title": "Instances Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Web Forms API",
+        "Web Forms API",
+        "API Reference",
+        "API Reference",
+        "Webforms",
+        "Webforms",
+        "Instances"
+      ],
+      "scraped_at": "2026-06-18T19:46:30Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/web-forms-api/reference/webforms/instances.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/web-forms-api/reference/webforms/instances/createinstance/",
+      "site": "developers.docusign.com",
+      "title": ": createInstance",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:46:30Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/web-forms-api/reference/webforms/instances/createinstance.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/web-forms-api/reference/webforms/instances/getinstance/",
+      "site": "developers.docusign.com",
+      "title": ": getInstance",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:46:30Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/web-forms-api/reference/webforms/instances/getinstance.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/web-forms-api/reference/webforms/instances/listinstances/",
+      "site": "developers.docusign.com",
+      "title": ": listInstances",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:46:30Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/web-forms-api/reference/webforms/instances/listinstances.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/web-forms-api/reference/webforms/instances/refreshtoken/",
+      "site": "developers.docusign.com",
+      "title": ": refreshToken",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:46:30Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/web-forms-api/reference/webforms/instances/refreshtoken.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/web-forms-api/sdks/",
+      "site": "developers.docusign.com",
+      "title": "SDKs",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Web Forms API",
+        "Web Forms API",
+        "SDKs"
+      ],
+      "scraped_at": "2026-06-18T19:46:30Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/web-forms-api/sdks.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/web-forms-api/troubleshooting/",
+      "site": "developers.docusign.com",
+      "title": "Troubleshooting",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Web Forms API",
+        "Web Forms API",
+        "Troubleshooting"
+      ],
+      "scraped_at": "2026-06-18T19:46:30Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "docs/web-forms-api/troubleshooting.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/web-forms-api/web-forms-101/",
+      "site": "developers.docusign.com",
+      "title": "Web Forms API 101",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Web Forms API",
+        "Web Forms API",
+        "Web Forms API 101"
+      ],
+      "scraped_at": "2026-06-18T19:46:28Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/web-forms-api/web-forms-101.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/web-forms-api/web-forms-101/api-ui-functionality/",
+      "site": "developers.docusign.com",
+      "title": "API and UI functionality",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Web Forms API",
+        "Web Forms API",
+        "Web Forms API 101",
+        "Web Forms API 101",
+        "API and UI functionality"
+      ],
+      "scraped_at": "2026-06-18T19:46:29Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/web-forms-api/web-forms-101/api-ui-functionality.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/web-forms-api/web-forms-101/concepts/",
+      "site": "developers.docusign.com",
+      "title": "Web Forms concepts",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Web Forms API",
+        "Web Forms API",
+        "Web Forms API 101",
+        "Web Forms API 101",
+        "Concepts"
+      ],
+      "scraped_at": "2026-06-18T19:46:29Z",
+      "chunks": 12,
+      "has_content": true,
+      "markdown_path": "docs/web-forms-api/web-forms-101/concepts.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/web-forms-api/web-forms-101/endpoint-base-path/",
+      "site": "developers.docusign.com",
+      "title": "Endpoint base path",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Web Forms API",
+        "Web Forms API",
+        "Web Forms API 101",
+        "Web Forms API 101",
+        "Endpoint base path"
+      ],
+      "scraped_at": "2026-06-18T19:46:29Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "docs/web-forms-api/web-forms-101/endpoint-base-path.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/web-forms-api/web-forms-101/instance-processing/",
+      "site": "developers.docusign.com",
+      "title": "Web form instance processing",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Web Forms API",
+        "Web Forms API",
+        "Web Forms API 101",
+        "Web Forms API 101",
+        "Web form instance processing"
+      ],
+      "scraped_at": "2026-06-18T19:46:29Z",
+      "chunks": 8,
+      "has_content": true,
+      "markdown_path": "docs/web-forms-api/web-forms-101/instance-processing.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/web-forms-api/web-forms-101/when-to-use-embedded-or-remote-delivery/",
+      "site": "developers.docusign.com",
+      "title": "When to use embedded or remote web form instance delivery",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Web Forms API",
+        "Web Forms API",
+        "Web Forms API 101",
+        "Web Forms API 101",
+        "When to use embedded or remote delivery"
+      ],
+      "scraped_at": "2026-06-18T19:46:29Z",
+      "chunks": 10,
+      "has_content": true,
+      "markdown_path": "docs/web-forms-api/web-forms-101/when-to-use-embedded-or-remote-delivery.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=awi1670975283111.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure Web Form Fields",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:24Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/awi1670975283111.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=bna1674685085797.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "The Signature Page",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:24Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/bna1674685085797.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=bro1678386015232.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Edit Recipient Information",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:25Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/bro1678386015232.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=brp1660583998599.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Web Forms",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:23Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/brp1660583998599.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=bxf1660605149279.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Get a Web Form URL",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:25Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/bxf1660605149279.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=cew1729885982169.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Advanced Web Forms",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:24Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/cew1729885982169.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=con07d51d86-a6a0-40b8-b82a-552f16490a99.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Setting Web Form Permissions and Managing Access",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:24Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/con07d51d86-a6a0-40b8-b82a-552f16490a99.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=con09c205ca-f155-4e35-a659-02c495dba72d.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Preparing and Building Web Forms",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:24Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/con09c205ca-f155-4e35-a659-02c495dba72d.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=con145288b7-86ef-44fb-ab44-252ece5dec25.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Web Form Field Type Properties",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:24Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/con145288b7-86ef-44fb-ab44-252ece5dec25.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=con56dbba74-0e1a-4356-a265-bf7ec87913e9.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Sending a Web Form",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:25Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/con56dbba74-0e1a-4356-a265-bf7ec87913e9.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=con730ae397-f971-48eb-8580-8334e1402ace.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Template-Based Web Forms",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:25Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/con730ae397-f971-48eb-8580-8334e1402ace.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=con7f78e528-b8fa-4598-b213-98692d074965.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Activating and Managing Web Forms",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:25Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/con7f78e528-b8fa-4598-b213-98692d074965.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=con82d25b01-a9a6-4548-87b8-f80e58d3100f.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Web Forms Overview",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:23Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/con82d25b01-a9a6-4548-87b8-f80e58d3100f.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=con847e0e3b-cd19-44fa-8c84-03af5681bb35.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Recipient Experience with Web Forms",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:25Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/con847e0e3b-cd19-44fa-8c84-03af5681bb35.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=con932e4373-ac31-4557-b2e6-13958f65fa9c.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Standalone Web Forms",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:24Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/con932e4373-ac31-4557-b2e6-13958f65fa9c.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=conb88b9d75-5e97-49b1-84e9-c2f6704dd855.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Distributing Web Forms",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:25Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/conb88b9d75-5e97-49b1-84e9-c2f6704dd855.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=coned160027-6228-469f-b58d-8f7e9912a2d8.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Core Concepts",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:24Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/coned160027-6228-469f-b58d-8f7e9912a2d8.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=crq1669076320407.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Reactivate a Web Form",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:25Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/crq1669076320407.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=daj1693431228925.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Troubleshooting Web Form Template Error Messages",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:25Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/daj1693431228925.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=dly1660584518825.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Differences Between Web Forms and PowerForms",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:23Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/dly1660584518825.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=edj1716586721977.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Copy an Existing Web Form for a Workflow Builder Workflow",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:25Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/edj1716586721977.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=euk1665093155272.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Build a Web Form",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:24Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/euk1665093155272.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=fld1681156856298.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Download the Web Form CSV Results",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:25Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/fld1681156856298.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=gpc1660591510274.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "The Web Forms Builder",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:24Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/gpc1660591510274.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=hjv1686940185785.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Limitations and Considerations for Web Forms",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:24Z",
+      "chunks": 11,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/hjv1686940185785.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=hmt1669070749005.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Deactivate a Web Form",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:25Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/hmt1669070749005.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=hty1709929728541.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Populate Read-Only Fields on a Web Form",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:25Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/hty1709929728541.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=hxi1711561552438.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Make Web Form Fields Read-Only",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:24Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/hxi1711561552438.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=inc1745950777430.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Build a Multiple-Recipient Web Form",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:25Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/inc1745950777430.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=inf1660603502823.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add a Field Rule to a Web Form",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:24Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/inf1660603502823.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=iri1669070601520.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Activate a Web Form",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:25Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/iri1669070601520.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=jhh1696623705414.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Format Text in Page Subtitle and Field Description Fields",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:24Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/jhh1696623705414.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=kbg1740597699270.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Manage Access to Web Form Submission Data",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:24Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/kbg1740597699270.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=kbw1715366600901.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Build a Workflow Builder -Compatible Web Form",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:24Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/kbw1715366600901.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=kff1668121038223.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Rules to a Web Form",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:24Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/kff1668121038223.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=kfl1679340366644.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Web Form Permissions for Users",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:24Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/kfl1679340366644.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=kup1721242003741.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Prefill a Web Form By URL",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:25Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/kup1721242003741.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=leh1723234738023.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "The Hidden Data Page",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:24Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/leh1723234738023.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=lix1721767779188.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Save Envelope Custom Fields (ECFs)",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:25Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/lix1721767779188.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=mfl1706917622112.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Web Forms Accessibility",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:24Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/mfl1706917622112.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=ngb1680555719338.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Change the eSignature Sender",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:25Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/ngb1680555719338.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=olo1715625986202.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Web Form Copy Options",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:24Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/olo1715625986202.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=oyz1722621351928.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Importing Attachment Fields from an eSignature Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:25Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/oyz1722621351928.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=pbx1716585514741.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Build a Standalone Web Form",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:24Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/pbx1716585514741.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=qiw1694218426874.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Diagnose the \"Form Not Submitted\" Error",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:25Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/qiw1694218426874.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=qvz1729637084872.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add a Document Rule to a Web Form",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:25Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/qvz1729637084872.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=shn1739910970737.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Share Access to a Web Form Configuration",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:24Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/shn1739910970737.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=tpj1664990031635.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Open and Edit a Web Form",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:24Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/tpj1664990031635.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=tsk7546ec02-8707-48d8-b1d8-6c47694ffa5c.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Send a Web Form",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:25Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/tsk7546ec02-8707-48d8-b1d8-6c47694ffa5c.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=tzk1700529241643.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure Dynamic Recipients",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:25Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/tzk1700529241643.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=uwd1725382029336.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Pause and Resume a Web Form",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:25Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/uwd1725382029336.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=vcl1675991717180.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "What Recipients See on a Web Form",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:25Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/vcl1675991717180.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=vgq1683244272836.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "The Thank You Page",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:24Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/vgq1683244272836.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=vlb1680643208628.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Connect Web Form Fields to Template Fields",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:25Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/vlb1680643208628.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=vsu1689289293172.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Run a Web Form Data Report",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:24Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/vsu1689289293172.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=wor1676501633875.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "The Web Forms Builder Properties and Rules Tab",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:24Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/wor1676501633875.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=xbb1680567836531.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Transfer a Web Form Configuration File",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:25Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/xbb1680567836531.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=xfk1660607023842.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Delete a Web Form from Your Account",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:25Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/xfk1660607023842.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=xtj1660594293452.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Prepare a Template to Import to a Web Form",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:25Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/xtj1660594293452.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=yis1665092718418.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create a Data Label on a Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:25Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/yis1665092718418.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=ymm1721679198157.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Build or Update a Web Form with Attachment Fields",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:24Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/ymm1721679198157.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=ynu1689886125053.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Generate a Web Forms Field-Level Data Report",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:24Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/ynu1689886125053.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=yze1689014977633.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Web Forms for FedRAMP Accounts",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:24Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/yze1689014977633.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=zpa1664994114237.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add a Brand to a Web Form",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:24Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/zpa1664994114237.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gmi1660583110357&topicId=zvs1674670935133.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "The Web Forms Builder Center Panel",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:50:24Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gmi1660583110357/zvs1674670935133.md"
+    }
+  ]
+}

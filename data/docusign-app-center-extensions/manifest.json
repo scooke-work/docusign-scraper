@@ -1,0 +1,2204 @@
+{
+  "generated_at": "2026-06-18T19:52:03Z",
+  "source": "docusign-scraper",
+  "pages": [
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/",
+      "site": "developers.docusign.com",
+      "title": "Extension apps overview",
+      "breadcrumb": [
+        "Home",
+        "Home",
+        "Extension Apps"
+      ],
+      "scraped_at": "2026-06-18T19:51:48Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "extension-apps.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/best-practices/",
+      "site": "developers.docusign.com",
+      "title": "Extension app best practices",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Best Practices"
+      ],
+      "scraped_at": "2026-06-18T19:51:49Z",
+      "chunks": 11,
+      "has_content": true,
+      "markdown_path": "extension-apps/best-practices.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/best-practices/connection-behaviors-and-best-practices/",
+      "site": "developers.docusign.com",
+      "title": "Connection behaviors and best practices",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Best Practices",
+        "Best Practices",
+        "Connection Behaviors And Best Practices"
+      ],
+      "scraped_at": "2026-06-18T19:51:49Z",
+      "chunks": 11,
+      "has_content": true,
+      "markdown_path": "extension-apps/best-practices/connection-behaviors-and-best-practices.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/build-an-extension-app/",
+      "site": "developers.docusign.com",
+      "title": "Build an extension app",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Build An Extension App"
+      ],
+      "scraped_at": "2026-06-18T19:51:48Z",
+      "chunks": 12,
+      "has_content": true,
+      "markdown_path": "extension-apps/build-an-extension-app.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/build-an-extension-app/delete/",
+      "site": "developers.docusign.com",
+      "title": "Delete an extension app",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Build An Extension App",
+        "Build An Extension App",
+        "Delete"
+      ],
+      "scraped_at": "2026-06-18T19:51:48Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "extension-apps/build-an-extension-app/delete.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/build-an-extension-app/example-use-case/",
+      "site": "developers.docusign.com",
+      "title": "Example extension app use cases",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Build An Extension App",
+        "Build An Extension App",
+        "Example use cases"
+      ],
+      "scraped_at": "2026-06-18T19:51:48Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "extension-apps/build-an-extension-app/example-use-case.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/build-an-extension-app/it-infrastructure/",
+      "site": "developers.docusign.com",
+      "title": "Set up your IT infrastructure",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Build An Extension App",
+        "Build An Extension App",
+        "IT Infrastructure"
+      ],
+      "scraped_at": "2026-06-18T19:51:50Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "extension-apps/build-an-extension-app/it-infrastructure.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/build-an-extension-app/it-infrastructure/api-proxy/",
+      "site": "developers.docusign.com",
+      "title": "API proxy",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Build An Extension App",
+        "Build An Extension App",
+        "IT Infrastructure",
+        "IT Infrastructure",
+        "API Proxy"
+      ],
+      "scraped_at": "2026-06-18T19:51:50Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "extension-apps/build-an-extension-app/it-infrastructure/api-proxy.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/build-an-extension-app/it-infrastructure/authorization/",
+      "site": "developers.docusign.com",
+      "title": "Authorization",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Build An Extension App",
+        "Build An Extension App",
+        "IT Infrastructure",
+        "IT Infrastructure",
+        "Authorization"
+      ],
+      "scraped_at": "2026-06-18T19:51:50Z",
+      "chunks": 14,
+      "has_content": true,
+      "markdown_path": "extension-apps/build-an-extension-app/it-infrastructure/authorization.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/build-an-extension-app/it-infrastructure/network-configuration/",
+      "site": "developers.docusign.com",
+      "title": "Network configuration",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Build An Extension App",
+        "Build An Extension App",
+        "IT Infrastructure",
+        "IT Infrastructure",
+        "Network Configuration"
+      ],
+      "scraped_at": "2026-06-18T19:51:51Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "extension-apps/build-an-extension-app/it-infrastructure/network-configuration.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/build-an-extension-app/monitor-usage/",
+      "site": "developers.docusign.com",
+      "title": "Monitor extension app usage",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Build An Extension App",
+        "Build An Extension App",
+        "Monitor Usage"
+      ],
+      "scraped_at": "2026-06-18T19:51:48Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "extension-apps/build-an-extension-app/monitor-usage.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/build-an-extension-app/publish/",
+      "site": "developers.docusign.com",
+      "title": "Publish an extension app to the Docusign App Center",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Build An Extension App",
+        "Build An Extension App",
+        "Publish"
+      ],
+      "scraped_at": "2026-06-18T19:51:50Z",
+      "chunks": 14,
+      "has_content": true,
+      "markdown_path": "extension-apps/build-an-extension-app/publish.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/build-an-extension-app/publish/guidelines/",
+      "site": "developers.docusign.com",
+      "title": "App Center publishing guidelines",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Build An Extension App",
+        "Build An Extension App",
+        "Publish",
+        "Publish",
+        "Guidelines"
+      ],
+      "scraped_at": "2026-06-18T19:51:51Z",
+      "chunks": 16,
+      "has_content": true,
+      "markdown_path": "extension-apps/build-an-extension-app/publish/guidelines.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/build-an-extension-app/register/",
+      "site": "developers.docusign.com",
+      "title": "Register an extension app",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Build An Extension App",
+        "Build An Extension App",
+        "Register"
+      ],
+      "scraped_at": "2026-06-18T19:51:50Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "extension-apps/build-an-extension-app/register.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/build-an-extension-app/register/use-form/",
+      "site": "developers.docusign.com",
+      "title": "Use a form to register an extension app",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Build An Extension App",
+        "Build An Extension App",
+        "Register",
+        "Register",
+        "Use Form"
+      ],
+      "scraped_at": "2026-06-18T19:51:50Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "extension-apps/build-an-extension-app/register/use-form.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/build-an-extension-app/register/use-form/app-center-listing/",
+      "site": "developers.docusign.com",
+      "title": "Update App Center listing",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Build An Extension App",
+        "Build An Extension App",
+        "Register",
+        "Register",
+        "Use Form",
+        "Use Form",
+        "App Center Listing"
+      ],
+      "scraped_at": "2026-06-18T19:51:51Z",
+      "chunks": 10,
+      "has_content": true,
+      "markdown_path": "extension-apps/build-an-extension-app/register/use-form/app-center-listing.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/build-an-extension-app/register/use-form/integration-details/",
+      "site": "developers.docusign.com",
+      "title": "Update integration details",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Build An Extension App",
+        "Build An Extension App",
+        "Register",
+        "Register",
+        "Use Form",
+        "Use Form",
+        "Integration Details"
+      ],
+      "scraped_at": "2026-06-18T19:51:51Z",
+      "chunks": 9,
+      "has_content": true,
+      "markdown_path": "extension-apps/build-an-extension-app/register/use-form/integration-details.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/build-an-extension-app/register/use-manifest/",
+      "site": "developers.docusign.com",
+      "title": "Use a manifest file to register an extension app",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Build An Extension App",
+        "Build An Extension App",
+        "Register",
+        "Register",
+        "Use Manifest"
+      ],
+      "scraped_at": "2026-06-18T19:51:50Z",
+      "chunks": 11,
+      "has_content": true,
+      "markdown_path": "extension-apps/build-an-extension-app/register/use-manifest.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/build-an-extension-app/status/",
+      "site": "developers.docusign.com",
+      "title": "Extension app status and distribution",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Build An Extension App",
+        "Build An Extension App",
+        "Status"
+      ],
+      "scraped_at": "2026-06-18T19:51:49Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "extension-apps/build-an-extension-app/status.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/build-an-extension-app/test/",
+      "site": "developers.docusign.com",
+      "title": "Test an extension app",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Build An Extension App",
+        "Build An Extension App",
+        "Test"
+      ],
+      "scraped_at": "2026-06-18T19:51:50Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "extension-apps/build-an-extension-app/test.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/build-an-extension-app/test/functional-tests/",
+      "site": "developers.docusign.com",
+      "title": "Functional tests",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Build An Extension App",
+        "Build An Extension App",
+        "Test",
+        "Test",
+        "Functional Tests"
+      ],
+      "scraped_at": "2026-06-18T19:51:51Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "extension-apps/build-an-extension-app/test/functional-tests.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/build-an-extension-app/test/functional-tests/connected-fields-envelope/",
+      "site": "developers.docusign.com",
+      "title": "Connected fields extension envelope test",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Build An Extension App",
+        "Build An Extension App",
+        "Test",
+        "Test",
+        "Functional Tests",
+        "Functional Tests",
+        "Connected Fields Envelope"
+      ],
+      "scraped_at": "2026-06-18T19:51:52Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "extension-apps/build-an-extension-app/test/functional-tests/connected-fields-envelope.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/build-an-extension-app/test/functional-tests/data-io-workflow/",
+      "site": "developers.docusign.com",
+      "title": "Data IO extension workflow test",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Build An Extension App",
+        "Build An Extension App",
+        "Test",
+        "Test",
+        "Functional Tests",
+        "Functional Tests",
+        "Data IO workflow"
+      ],
+      "scraped_at": "2026-06-18T19:51:52Z",
+      "chunks": 15,
+      "has_content": true,
+      "markdown_path": "extension-apps/build-an-extension-app/test/functional-tests/data-io-workflow.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/build-an-extension-app/test/functional-tests/data-verification-envelope/",
+      "site": "developers.docusign.com",
+      "title": "Data verification extension envelope test",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Build An Extension App",
+        "Build An Extension App",
+        "Test",
+        "Test",
+        "Functional Tests",
+        "Functional Tests",
+        "Data Verification Envelope"
+      ],
+      "scraped_at": "2026-06-18T19:51:53Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "extension-apps/build-an-extension-app/test/functional-tests/data-verification-envelope.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/build-an-extension-app/test/functional-tests/file-input-cloud-storage-agreement-manager/",
+      "site": "developers.docusign.com",
+      "title": "File input cloud storage extension Agreement Manager test",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Build An Extension App",
+        "Build An Extension App",
+        "Test",
+        "Test",
+        "Functional Tests",
+        "Functional Tests",
+        "File Input Cloud Storage Agreement Manager"
+      ],
+      "scraped_at": "2026-06-18T19:51:53Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "extension-apps/build-an-extension-app/test/functional-tests/file-input-cloud-storage-agreement-manager.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/build-an-extension-app/test/functional-tests/file-output-cloud-storage-workflow/",
+      "site": "developers.docusign.com",
+      "title": "File output cloud storage extension workflow test",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Build An Extension App",
+        "Build An Extension App",
+        "Test",
+        "Test",
+        "Functional Tests",
+        "Functional Tests",
+        "File Output Cloud Storage Workflow"
+      ],
+      "scraped_at": "2026-06-18T19:51:52Z",
+      "chunks": 13,
+      "has_content": true,
+      "markdown_path": "extension-apps/build-an-extension-app/test/functional-tests/file-output-cloud-storage-workflow.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/build-an-extension-app/test/functional-tests/file-output-system-of-record-event-triggers-workflow/",
+      "site": "developers.docusign.com",
+      "title": "File output system of record test: An event triggers the workflow (beta)",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Build An Extension App",
+        "Build An Extension App",
+        "Test",
+        "Test",
+        "Functional Tests",
+        "Functional Tests",
+        "File Output System Of Record Event Triggers Workflow"
+      ],
+      "scraped_at": "2026-06-18T19:51:53Z",
+      "chunks": 10,
+      "has_content": true,
+      "markdown_path": "extension-apps/build-an-extension-app/test/functional-tests/file-output-system-of-record-event-triggers-workflow.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/build-an-extension-app/test/functional-tests/file-output-system-of-record-workflow-step-creates-envelopes/",
+      "site": "developers.docusign.com",
+      "title": "File output system of record test: Workflow step creates envelopes (beta)",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Build An Extension App",
+        "Build An Extension App",
+        "Test",
+        "Test",
+        "Functional Tests",
+        "Functional Tests",
+        "File Output System Of Record Workflow Step Creates Envelopes"
+      ],
+      "scraped_at": "2026-06-18T19:51:53Z",
+      "chunks": 11,
+      "has_content": true,
+      "markdown_path": "extension-apps/build-an-extension-app/test/functional-tests/file-output-system-of-record-workflow-step-creates-envelopes.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/build-an-extension-app/test/functional-tests/file-output-tabular-format-workflow/",
+      "site": "developers.docusign.com",
+      "title": "File output tabular format extension workflow test",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Build An Extension App",
+        "Build An Extension App",
+        "Test",
+        "Test",
+        "Functional Tests",
+        "Functional Tests",
+        "File Output Tabular Format Workflow"
+      ],
+      "scraped_at": "2026-06-18T19:51:53Z",
+      "chunks": 11,
+      "has_content": true,
+      "markdown_path": "extension-apps/build-an-extension-app/test/functional-tests/file-output-tabular-format-workflow.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/build-an-extension-app/test/integration-tests/",
+      "site": "developers.docusign.com",
+      "title": "Integration tests",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Build An Extension App",
+        "Build An Extension App",
+        "Test",
+        "Test",
+        "Integration Tests"
+      ],
+      "scraped_at": "2026-06-18T19:51:51Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "extension-apps/build-an-extension-app/test/integration-tests.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/build-an-extension-app/update-registration/",
+      "site": "developers.docusign.com",
+      "title": "Update an extension app registration",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Build An Extension App",
+        "Build An Extension App",
+        "Update Registration"
+      ],
+      "scraped_at": "2026-06-18T19:51:50Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "extension-apps/build-an-extension-app/update-registration.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/build-an-extension-app/update-registration/use-form/",
+      "site": "developers.docusign.com",
+      "title": "Use a form to update a registration",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Build An Extension App",
+        "Build An Extension App",
+        "Update Registration",
+        "Update Registration",
+        "Use Form"
+      ],
+      "scraped_at": "2026-06-18T19:51:51Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "extension-apps/build-an-extension-app/update-registration/use-form.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/build-an-extension-app/update-registration/use-manifest/",
+      "site": "developers.docusign.com",
+      "title": "Use a manifest file to update a registration",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Build An Extension App",
+        "Build An Extension App",
+        "Update Registration",
+        "Update Registration",
+        "Use Manifest"
+      ],
+      "scraped_at": "2026-06-18T19:51:51Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "extension-apps/build-an-extension-app/update-registration/use-manifest.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/build-an-extension-app/versioning/",
+      "site": "developers.docusign.com",
+      "title": "Extension app versioning",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Build An Extension App",
+        "Build An Extension App",
+        "Versioning"
+      ],
+      "scraped_at": "2026-06-18T19:51:49Z",
+      "chunks": 11,
+      "has_content": true,
+      "markdown_path": "extension-apps/build-an-extension-app/versioning.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/developer-console-overview/",
+      "site": "developers.docusign.com",
+      "title": "Developer Console overview",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Developer Console Overview"
+      ],
+      "scraped_at": "2026-06-18T19:51:48Z",
+      "chunks": 9,
+      "has_content": true,
+      "markdown_path": "extension-apps/developer-console-overview.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-app-reference/",
+      "site": "developers.docusign.com",
+      "title": "Extension app reference",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension App Reference"
+      ],
+      "scraped_at": "2026-06-18T19:51:49Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-app-reference.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-app-reference/app-manifest-reference/",
+      "site": "developers.docusign.com",
+      "title": "App manifest reference",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension App Reference",
+        "Extension App Reference",
+        "App Manifest Reference"
+      ],
+      "scraped_at": "2026-06-18T19:51:49Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-app-reference/app-manifest-reference.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-app-reference/app-manifest-reference/action/",
+      "site": "developers.docusign.com",
+      "title": "Action schema",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension App Reference",
+        "Extension App Reference",
+        "App Manifest Reference",
+        "App Manifest Reference",
+        "Action"
+      ],
+      "scraped_at": "2026-06-18T19:51:51Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-app-reference/app-manifest-reference/action.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-app-reference/app-manifest-reference/connection/",
+      "site": "developers.docusign.com",
+      "title": "Connection schema",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension App Reference",
+        "Extension App Reference",
+        "App Manifest Reference",
+        "App Manifest Reference",
+        "Connection"
+      ],
+      "scraped_at": "2026-06-18T19:51:51Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-app-reference/app-manifest-reference/connection.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-app-reference/app-manifest-reference/extension/",
+      "site": "developers.docusign.com",
+      "title": "Extension schema",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension App Reference",
+        "Extension App Reference",
+        "App Manifest Reference",
+        "App Manifest Reference",
+        "Extension"
+      ],
+      "scraped_at": "2026-06-18T19:51:51Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-app-reference/app-manifest-reference/extension.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-app-reference/app-manifest-reference/troubleshooting-manifest-errors/",
+      "site": "developers.docusign.com",
+      "title": "Troubleshooting manifest errors",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension App Reference",
+        "Extension App Reference",
+        "App Manifest Reference",
+        "App Manifest Reference",
+        "Troubleshooting Manifest Errors"
+      ],
+      "scraped_at": "2026-06-18T19:51:51Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-app-reference/app-manifest-reference/troubleshooting-manifest-errors.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-app-reference/extension-contracts/",
+      "site": "developers.docusign.com",
+      "title": "Extension contracts",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension App Reference",
+        "Extension App Reference",
+        "Extension Contracts"
+      ],
+      "scraped_at": "2026-06-18T19:51:51Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-app-reference/extension-contracts.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-app-reference/extension-contracts/bank-account-owner-verification/",
+      "site": "developers.docusign.com",
+      "title": "Bank account owner verification extension contract reference",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension App Reference",
+        "Extension App Reference",
+        "Extension Contracts",
+        "Extension Contracts",
+        "Bank Account Owner Verification"
+      ],
+      "scraped_at": "2026-06-18T19:51:52Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-app-reference/extension-contracts/bank-account-owner-verification.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-app-reference/extension-contracts/bank-account-verification/",
+      "site": "developers.docusign.com",
+      "title": "Bank account verification extension contract reference",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension App Reference",
+        "Extension App Reference",
+        "Extension Contracts",
+        "Extension Contracts",
+        "Bank Account Verification"
+      ],
+      "scraped_at": "2026-06-18T19:51:52Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-app-reference/extension-contracts/bank-account-verification.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-app-reference/extension-contracts/business-fein-verification/",
+      "site": "developers.docusign.com",
+      "title": "Business FEIN verification extension contract reference",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension App Reference",
+        "Extension App Reference",
+        "Extension Contracts",
+        "Extension Contracts",
+        "Business FEIN verification"
+      ],
+      "scraped_at": "2026-06-18T19:51:52Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-app-reference/extension-contracts/business-fein-verification.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-app-reference/extension-contracts/connected-fields/",
+      "site": "developers.docusign.com",
+      "title": "Connected fields extension contract reference",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension App Reference",
+        "Extension App Reference",
+        "Extension Contracts",
+        "Extension Contracts",
+        "Connected Fields"
+      ],
+      "scraped_at": "2026-06-18T19:51:51Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-app-reference/extension-contracts/connected-fields.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-app-reference/extension-contracts/custom-query-language/",
+      "site": "developers.docusign.com",
+      "title": "Custom query language reference",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension App Reference",
+        "Extension App Reference",
+        "Extension Contracts",
+        "Extension Contracts",
+        "Custom Query Language"
+      ],
+      "scraped_at": "2026-06-18T19:51:53Z",
+      "chunks": 10,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-app-reference/extension-contracts/custom-query-language.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-app-reference/extension-contracts/data-io/",
+      "site": "developers.docusign.com",
+      "title": "Data IO extension contract reference",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension App Reference",
+        "Extension App Reference",
+        "Extension Contracts",
+        "Extension Contracts",
+        "Data IO"
+      ],
+      "scraped_at": "2026-06-18T19:51:52Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-app-reference/extension-contracts/data-io.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-app-reference/extension-contracts/email-address-verification/",
+      "site": "developers.docusign.com",
+      "title": "Email address verification extension contract reference",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension App Reference",
+        "Extension App Reference",
+        "Extension Contracts",
+        "Extension Contracts",
+        "Email Address Verification"
+      ],
+      "scraped_at": "2026-06-18T19:51:52Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-app-reference/extension-contracts/email-address-verification.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-app-reference/extension-contracts/file-input-cloud-storage/",
+      "site": "developers.docusign.com",
+      "title": "File input cloud storage extension contract reference",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension App Reference",
+        "Extension App Reference",
+        "Extension Contracts",
+        "Extension Contracts",
+        "File Input Cloud Storage"
+      ],
+      "scraped_at": "2026-06-18T19:51:52Z",
+      "chunks": 27,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-app-reference/extension-contracts/file-input-cloud-storage.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-app-reference/extension-contracts/file-input-system-of-record/",
+      "site": "developers.docusign.com",
+      "title": "File input system of record extension contract reference (beta)",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension App Reference",
+        "Extension App Reference",
+        "Extension Contracts",
+        "Extension Contracts",
+        "File Input System Of Record"
+      ],
+      "scraped_at": "2026-06-18T19:51:52Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-app-reference/extension-contracts/file-input-system-of-record.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-app-reference/extension-contracts/file-output-cloud-storage/",
+      "site": "developers.docusign.com",
+      "title": "File output cloud storage extension contract reference",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension App Reference",
+        "Extension App Reference",
+        "Extension Contracts",
+        "Extension Contracts",
+        "File Output Cloud Storage"
+      ],
+      "scraped_at": "2026-06-18T19:51:52Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-app-reference/extension-contracts/file-output-cloud-storage.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-app-reference/extension-contracts/file-output-system-of-record/",
+      "site": "developers.docusign.com",
+      "title": "File output system of record extension contract reference (beta)",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension App Reference",
+        "Extension App Reference",
+        "Extension Contracts",
+        "Extension Contracts",
+        "File Output System Of Record"
+      ],
+      "scraped_at": "2026-06-18T19:51:52Z",
+      "chunks": 21,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-app-reference/extension-contracts/file-output-system-of-record.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-app-reference/extension-contracts/file-output-tabular-format/",
+      "site": "developers.docusign.com",
+      "title": "File output tabular format extension contract reference",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension App Reference",
+        "Extension App Reference",
+        "Extension Contracts",
+        "Extension Contracts",
+        "File Output Tabular Format"
+      ],
+      "scraped_at": "2026-06-18T19:51:52Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-app-reference/extension-contracts/file-output-tabular-format.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-app-reference/extension-contracts/phone-verification/",
+      "site": "developers.docusign.com",
+      "title": "Phone verification extension contract reference",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension App Reference",
+        "Extension App Reference",
+        "Extension Contracts",
+        "Extension Contracts",
+        "Phone Verification"
+      ],
+      "scraped_at": "2026-06-18T19:51:52Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-app-reference/extension-contracts/phone-verification.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-app-reference/extension-contracts/postal-address-verification/",
+      "site": "developers.docusign.com",
+      "title": "Postal address verification extension contract reference",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension App Reference",
+        "Extension App Reference",
+        "Extension Contracts",
+        "Extension Contracts",
+        "Postal Address Verification"
+      ],
+      "scraped_at": "2026-06-18T19:51:52Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-app-reference/extension-contracts/postal-address-verification.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-app-reference/extension-contracts/ssn-verification/",
+      "site": "developers.docusign.com",
+      "title": "SSN verification extension contract reference",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension App Reference",
+        "Extension App Reference",
+        "Extension Contracts",
+        "Extension Contracts",
+        "SSN verification"
+      ],
+      "scraped_at": "2026-06-18T19:51:52Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-app-reference/extension-contracts/ssn-verification.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-apps-101/",
+      "site": "developers.docusign.com",
+      "title": "Extension apps 101",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension Apps 101"
+      ],
+      "scraped_at": "2026-06-18T19:51:48Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-apps-101.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-apps-101/app-center/",
+      "site": "developers.docusign.com",
+      "title": "App Center",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension Apps 101",
+        "Extension Apps 101",
+        "App Center"
+      ],
+      "scraped_at": "2026-06-18T19:51:49Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-apps-101/app-center.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-apps-101/choosing-private-distribution/",
+      "site": "developers.docusign.com",
+      "title": "Choosing private distribution instead of public",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension Apps 101",
+        "Extension Apps 101",
+        "Choosing Private Distribution"
+      ],
+      "scraped_at": "2026-06-18T19:51:49Z",
+      "chunks": 12,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-apps-101/choosing-private-distribution.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-apps-101/concepts/",
+      "site": "developers.docusign.com",
+      "title": "Extension app concepts",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension Apps 101",
+        "Extension Apps 101",
+        "Concepts"
+      ],
+      "scraped_at": "2026-06-18T19:51:50Z",
+      "chunks": 12,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-apps-101/concepts.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-apps-101/concepts/actions/",
+      "site": "developers.docusign.com",
+      "title": "Actions",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension Apps 101",
+        "Extension Apps 101",
+        "Concepts",
+        "Concepts",
+        "Actions"
+      ],
+      "scraped_at": "2026-06-18T19:51:50Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-apps-101/concepts/actions.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-apps-101/concepts/capabilities/",
+      "site": "developers.docusign.com",
+      "title": "Capabilities",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension Apps 101",
+        "Extension Apps 101",
+        "Concepts",
+        "Concepts",
+        "Capabilities"
+      ],
+      "scraped_at": "2026-06-18T19:51:50Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-apps-101/concepts/capabilities.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-apps-101/concepts/connections/",
+      "site": "developers.docusign.com",
+      "title": "Connections",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension Apps 101",
+        "Extension Apps 101",
+        "Concepts",
+        "Concepts",
+        "Connections"
+      ],
+      "scraped_at": "2026-06-18T19:51:50Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-apps-101/concepts/connections.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-apps-101/concepts/extension-app-manifest/",
+      "site": "developers.docusign.com",
+      "title": "Extension app manifest",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension Apps 101",
+        "Extension Apps 101",
+        "Concepts",
+        "Concepts",
+        "Extension App Manifest"
+      ],
+      "scraped_at": "2026-06-18T19:51:50Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-apps-101/concepts/extension-app-manifest.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-apps-101/concepts/extensions-and-extension-points/",
+      "site": "developers.docusign.com",
+      "title": "Extensions and extension points",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension Apps 101",
+        "Extension Apps 101",
+        "Concepts",
+        "Concepts",
+        "Extensions And Extension Points"
+      ],
+      "scraped_at": "2026-06-18T19:51:50Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-apps-101/concepts/extensions-and-extension-points.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-apps-101/extension-app-vs-api-integrations/",
+      "site": "developers.docusign.com",
+      "title": "How extension apps differ from API integrations",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension Apps 101",
+        "Extension Apps 101",
+        "Extension apps vs API integrations"
+      ],
+      "scraped_at": "2026-06-18T19:51:48Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-apps-101/extension-app-vs-api-integrations.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-apps-101/globalization/",
+      "site": "developers.docusign.com",
+      "title": "Globalization",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension Apps 101",
+        "Extension Apps 101",
+        "Globalization"
+      ],
+      "scraped_at": "2026-06-18T19:51:50Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-apps-101/globalization.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-apps-101/how-extension-apps-work/",
+      "site": "developers.docusign.com",
+      "title": "How extension apps work",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension Apps 101",
+        "Extension Apps 101",
+        "How Extension Apps Work"
+      ],
+      "scraped_at": "2026-06-18T19:51:48Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-apps-101/how-extension-apps-work.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-apps-101/inside-an-extension-app/",
+      "site": "developers.docusign.com",
+      "title": "What's inside an extension app registration",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension Apps 101",
+        "Extension Apps 101",
+        "Inside An Extension App"
+      ],
+      "scraped_at": "2026-06-18T19:51:48Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-apps-101/inside-an-extension-app.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-apps-101/supported-extensions/",
+      "site": "developers.docusign.com",
+      "title": "Supported extensions",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension Apps 101",
+        "Extension Apps 101",
+        "Supported Extensions"
+      ],
+      "scraped_at": "2026-06-18T19:51:49Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-apps-101/supported-extensions.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-apps-101/supported-extensions/connected-fields/",
+      "site": "developers.docusign.com",
+      "title": "Connected fields extension overview",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension Apps 101",
+        "Extension Apps 101",
+        "Supported Extensions",
+        "Supported Extensions",
+        "Connected Fields"
+      ],
+      "scraped_at": "2026-06-18T19:51:49Z",
+      "chunks": 13,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-apps-101/supported-extensions/connected-fields.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-apps-101/supported-extensions/data-io/",
+      "site": "developers.docusign.com",
+      "title": "Data IO extension overview",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension Apps 101",
+        "Extension Apps 101",
+        "Supported Extensions",
+        "Supported Extensions",
+        "Data IO"
+      ],
+      "scraped_at": "2026-06-18T19:51:51Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-apps-101/supported-extensions/data-io.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-apps-101/supported-extensions/data-model/",
+      "site": "developers.docusign.com",
+      "title": "Data model",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension Apps 101",
+        "Extension Apps 101",
+        "Supported Extensions",
+        "Supported Extensions",
+        "Data Model"
+      ],
+      "scraped_at": "2026-06-18T19:51:49Z",
+      "chunks": 22,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-apps-101/supported-extensions/data-model.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-apps-101/supported-extensions/file-input-cloud-storage/",
+      "site": "developers.docusign.com",
+      "title": "File input cloud storage extension overview",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension Apps 101",
+        "Extension Apps 101",
+        "Supported Extensions",
+        "Supported Extensions",
+        "File Input Cloud Storage"
+      ],
+      "scraped_at": "2026-06-18T19:51:49Z",
+      "chunks": 14,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-apps-101/supported-extensions/file-input-cloud-storage.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-apps-101/supported-extensions/file-input-system-of-record/",
+      "site": "developers.docusign.com",
+      "title": "File input system of record extension overview (beta)",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension Apps 101",
+        "Extension Apps 101",
+        "Supported Extensions",
+        "Supported Extensions",
+        "File Input System Of Record"
+      ],
+      "scraped_at": "2026-06-18T19:51:49Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-apps-101/supported-extensions/file-input-system-of-record.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-apps-101/supported-extensions/file-output-cloud-storage/",
+      "site": "developers.docusign.com",
+      "title": "File output cloud storage extension overview",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension Apps 101",
+        "Extension Apps 101",
+        "Supported Extensions",
+        "Supported Extensions",
+        "File Output Cloud Storage"
+      ],
+      "scraped_at": "2026-06-18T19:51:49Z",
+      "chunks": 13,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-apps-101/supported-extensions/file-output-cloud-storage.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-apps-101/supported-extensions/file-output-system-of-record/",
+      "site": "developers.docusign.com",
+      "title": "File output system of record extension overview (beta)",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension Apps 101",
+        "Extension Apps 101",
+        "Supported Extensions",
+        "Supported Extensions",
+        "File Output System Of Record"
+      ],
+      "scraped_at": "2026-06-18T19:51:51Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-apps-101/supported-extensions/file-output-system-of-record.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-apps-101/supported-extensions/file-output-system-of-record/extensions-and-actions/",
+      "site": "developers.docusign.com",
+      "title": "Extensions and actions (beta)",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension Apps 101",
+        "Extension Apps 101",
+        "Supported Extensions",
+        "Supported Extensions",
+        "File Output System Of Record",
+        "File Output System Of Record",
+        "Extensions And Actions"
+      ],
+      "scraped_at": "2026-06-18T19:51:51Z",
+      "chunks": 10,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-apps-101/supported-extensions/file-output-system-of-record/extensions-and-actions.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-apps-101/supported-extensions/file-output-system-of-record/identify-destination-records/",
+      "site": "developers.docusign.com",
+      "title": "Identify destination records (beta)",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension Apps 101",
+        "Extension Apps 101",
+        "Supported Extensions",
+        "Supported Extensions",
+        "File Output System Of Record",
+        "File Output System Of Record",
+        "Identify Destination Records"
+      ],
+      "scraped_at": "2026-06-18T19:51:51Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-apps-101/supported-extensions/file-output-system-of-record/identify-destination-records.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-apps-101/supported-extensions/file-output-system-of-record/identify-file-source/",
+      "site": "developers.docusign.com",
+      "title": "Identify the file source (beta)",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension Apps 101",
+        "Extension Apps 101",
+        "Supported Extensions",
+        "Supported Extensions",
+        "File Output System Of Record",
+        "File Output System Of Record",
+        "Identify File Source"
+      ],
+      "scraped_at": "2026-06-18T19:51:51Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-apps-101/supported-extensions/file-output-system-of-record/identify-file-source.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-apps-101/supported-extensions/file-output-system-of-record/plan-implementation/",
+      "site": "developers.docusign.com",
+      "title": "Plan an implementation (beta)",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension Apps 101",
+        "Extension Apps 101",
+        "Supported Extensions",
+        "Supported Extensions",
+        "File Output System Of Record",
+        "File Output System Of Record",
+        "Plan Implementation"
+      ],
+      "scraped_at": "2026-06-18T19:51:52Z",
+      "chunks": 9,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-apps-101/supported-extensions/file-output-system-of-record/plan-implementation.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-apps-101/supported-extensions/file-output-system-of-record/workflow-configuration/",
+      "site": "developers.docusign.com",
+      "title": "Workflow configuration for file output scenarios (beta)",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension Apps 101",
+        "Extension Apps 101",
+        "Supported Extensions",
+        "Supported Extensions",
+        "File Output System Of Record",
+        "File Output System Of Record",
+        "Workflow Configuration"
+      ],
+      "scraped_at": "2026-06-18T19:51:51Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-apps-101/supported-extensions/file-output-system-of-record/workflow-configuration.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-apps-101/supported-extensions/file-output-tabular-format/",
+      "site": "developers.docusign.com",
+      "title": "File output tabular format extension overview",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension Apps 101",
+        "Extension Apps 101",
+        "Supported Extensions",
+        "Supported Extensions",
+        "File Output Tabular Format"
+      ],
+      "scraped_at": "2026-06-18T19:51:50Z",
+      "chunks": 13,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-apps-101/supported-extensions/file-output-tabular-format.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/extension-apps-101/use-cases/",
+      "site": "developers.docusign.com",
+      "title": "Extension app use cases",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Extension Apps 101",
+        "Extension Apps 101",
+        "Use cases"
+      ],
+      "scraped_at": "2026-06-18T19:51:48Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "extension-apps/extension-apps-101/use-cases.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/glossary/",
+      "site": "developers.docusign.com",
+      "title": "Extension app glossary",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Glossary"
+      ],
+      "scraped_at": "2026-06-18T19:51:49Z",
+      "chunks": 26,
+      "has_content": true,
+      "markdown_path": "extension-apps/glossary.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/support-faqs/",
+      "site": "developers.docusign.com",
+      "title": "Support resources and FAQs",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Support resources and FAQs"
+      ],
+      "scraped_at": "2026-06-18T19:51:49Z",
+      "chunks": 16,
+      "has_content": true,
+      "markdown_path": "extension-apps/support-faqs.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/troubleshooting/",
+      "site": "developers.docusign.com",
+      "title": "Troubleshooting",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Troubleshooting"
+      ],
+      "scraped_at": "2026-06-18T19:51:49Z",
+      "chunks": 9,
+      "has_content": true,
+      "markdown_path": "extension-apps/troubleshooting.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/troubleshooting/connected-fields/",
+      "site": "developers.docusign.com",
+      "title": "Troubleshooting for connected fields extensions",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Troubleshooting",
+        "Troubleshooting",
+        "Connected Fields"
+      ],
+      "scraped_at": "2026-06-18T19:51:49Z",
+      "chunks": 17,
+      "has_content": true,
+      "markdown_path": "extension-apps/troubleshooting/connected-fields.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/troubleshooting/review-logs/",
+      "site": "developers.docusign.com",
+      "title": "Review extension app logs",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Troubleshooting",
+        "Troubleshooting",
+        "Review Logs"
+      ],
+      "scraped_at": "2026-06-18T19:51:49Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "extension-apps/troubleshooting/review-logs.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/extension-apps/workflows/",
+      "site": "developers.docusign.com",
+      "title": "Use extensions in Workflow Builder workflows",
+      "breadcrumb": [
+        "Extension Apps",
+        "Extension Apps",
+        "Workflows"
+      ],
+      "scraped_at": "2026-06-18T19:51:48Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "extension-apps/workflows.md"
+    },
+    {
+      "source_url": "https://www.docusign.com/products/platform/app-center",
+      "site": "www.docusign.com",
+      "title": "Customize and extend your agreement processes",
+      "breadcrumb": [
+        "Home",
+        "Home",
+        "Products",
+        "Products",
+        "Platform",
+        "Platform",
+        "App Center"
+      ],
+      "scraped_at": "2026-06-18T19:45:19Z",
+      "chunks": 8,
+      "has_content": true,
+      "markdown_path": "products/platform/app-center.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=aak1747679824594.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Approved Apps",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:12Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/aak1747679824594.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=bid1727290690554.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Set Up the Docusign App Center ServiceNow Instance, Step 3: Update the System Property",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:13Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/bid1727290690554.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=bkt1740757069317.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Access Docusign Apps",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:11Z",
+      "chunks": 8,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/bkt1740757069317.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=bpc1740167704919.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create a Private Docusign App",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:12Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/bpc1740167704919.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=bur1727290839878.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Troubleshoot Installing the Docusign IAM for ServiceNow App",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:13Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/bur1727290839878.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=bvm1727290749720.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Set Up the Docusign App Center ServiceNow Instance, Step 6: Create Access Controls",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:13Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/bvm1727290749720.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=con0d1fa720-d466-4a40-8678-e3106b5ca7f4.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Docusign Apps Configuration Information",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:12Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/con0d1fa720-d466-4a40-8678-e3106b5ca7f4.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=con5c7c664f-0f3a-482b-89d9-0766a9544b4c.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Docusign App Center to Manage App Connections",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:12Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/con5c7c664f-0f3a-482b-89d9-0766a9544b4c.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=con65055de1-505c-4b28-8ba3-50828c94d059.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Docusign App Center Connected Apps Workflow",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:12Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/con65055de1-505c-4b28-8ba3-50828c94d059.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=con6b1580f7-ff51-469e-81c4-242ed0aa9822.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Take Action on App Center Connection Notifications",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:12Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/con6b1580f7-ff51-469e-81c4-242ed0aa9822.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=con81e64917-4912-40c5-a4aa-69f2053f312a.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Docusign Extension App Regional Availability",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:11Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/con81e64917-4912-40c5-a4aa-69f2053f312a.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=con8f35c78f-56b7-466c-91e6-c0ea7d03c516.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Docusign Workflow Templates in the App Center",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:11Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/con8f35c78f-56b7-466c-91e6-c0ea7d03c516.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=cone7f31b50-43c1-40a1-b6ed-d7ae1425ce61.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Docusign FedRAMP-Certified Apps",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:12Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/cone7f31b50-43c1-40a1-b6ed-d7ae1425ce61.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=ctg1698170340729.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Install Apps in the Docusign App Center",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:11Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/ctg1698170340729.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=dfb1706110409817.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure a Box Store Files Step in an Agreement Workflow",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:12Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/dfb1706110409817.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=dnf1727290653940.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Set Up the Docusign App Center ServiceNow Instance, Step 1: Install the Docusign IAM for ServiceNow App",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:13Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/dnf1727290653940.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=ejl1711393084084.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create the ServiceNow App Writeback Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:13Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/ejl1711393084084.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=fsm1739994935577.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure a Workato Workflow in a Workflow Builder Agreement Flow",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:12Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/fsm1739994935577.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=fvp1714404040516.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Install Google Docs for Docusign CLM",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:13Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/fvp1714404040516.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=gdt1703022023238.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Switch Between Docusign App Center Environments",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:11Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/gdt1703022023238.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=haj1706107382131.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure a SharePoint Store Files Step in an Agreement Workflow",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:12Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/haj1706107382131.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=hno1706034267152.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure Docusign Apps in an Agreement Workflow",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:12Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/hno1706034267152.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=idr1713985144297.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure a Read from Salesforce Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:13Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/idr1713985144297.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=ijy1698170251179.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Welcome to Docusign App Center",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:11Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/ijy1698170251179.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=irr1741677562959.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure a Read From Dynamics 365 Step in Agreement Workflows﻿",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:12Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/irr1741677562959.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=iyj1747853313043.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Administrator: Work with Approved Apps",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:12Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/iyj1747853313043.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=jdz1741636618872.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure a Writeback to Dynamics 365 Step in an Agreement Workflow",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:12Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/jdz1741636618872.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=jgz1727290675860.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Set Up the Docusign App Center ServiceNow Instance, Step 2: Generate a New Client Secret for OAuth",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:13Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/jgz1727290675860.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=ljy1744998611944.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Locate Docusign Apps for Your Workflow Processes",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:11Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/ljy1744998611944.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=mmt1727290788022.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Set Up the Docusign App Center ServiceNow Instance, Step 8: Install the ServiceNow App From the Docusign App Center",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:13Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/mmt1727290788022.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=oct1747682633917.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Administrator: View and Manage Approved Apps",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:12Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/oct1747682633917.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=odd1705955030831.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure a Writeback to HubSpot Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:13Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/odd1705955030831.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=pen1706132774147.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure a Writeback to Salesforce Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:13Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/pen1706132774147.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=pnb1716320193292.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Delete a Docusign App Connection",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:12Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/pnb1716320193292.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=qau1712843715884.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Set Up the Docusign App Center ServiceNow Instance",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:13Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/qau1712843715884.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=qkv1716320270335.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Reconnect a Docusign App Connection",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:12Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/qkv1716320270335.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=qvz1727290705170.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Set Up the Docusign App Center ServiceNow Instance, Step 4: Assign the User Role",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:13Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/qvz1727290705170.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=rfs1716320067530.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Edit Docusign App Connections",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:12Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/rfs1716320067530.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=rgp1706110555492.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure a Dropbox Store Files Step in an Agreement Workflow",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:12Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/rgp1706110555492.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=sdo1727290722252.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Set Up the Docusign App Center ServiceNow Instance, Step 5: Assign Application Access to ServiceNow Tables",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:13Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/sdo1727290722252.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=stg1748631650074.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Docusign App Center Regional Availability",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:11Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/stg1748631650074.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=tap1706106447233.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure a Stripe Writeback Step in an Agreement Workflow",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:13Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/tap1706106447233.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=task-9904.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Access Docusign eSignature Integrations in App Center",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:11Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/task-9904.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=task-9904_1.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Access Docusign eSignature Integrations in App Center",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:11Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/task-9904_1.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=tnz1716393629304.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Access Docusign App Center Connections",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:12Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/tnz1716393629304.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=tsk21fd564c-a922-4828-be49-cd9fa262dbc7.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Remove or Disable a Docusign App with an Associated Rule",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:12Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/tsk21fd564c-a922-4828-be49-cd9fa262dbc7.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=tsk67b65868-395c-4908-b377-0764c351873e.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure a Store Files in Dynamics 365 Step in an Agreement Workflow",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:12Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/tsk67b65868-395c-4908-b377-0764c351873e.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=tsk690ec2d2-3831-400b-9602-027ce7798756.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Access Docusign Workflow Builder Templates in the App Center",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:11Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/tsk690ec2d2-3831-400b-9602-027ce7798756.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=tsk87654143-68fd-4f1e-a123-3bae309dba0d.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use the Learn Feature to Access App Learning Resources",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:13Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/tsk87654143-68fd-4f1e-a123-3bae309dba0d.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=tskb5fc25e7-dfa6-4823-bfe4-588fe4dffe60.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Access AI Integrations in App Center",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:11Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/tskb5fc25e7-dfa6-4823-bfe4-588fe4dffe60.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=tskb5fc25e7-dfa6-4823-bfe4-588fe4dffe60_1.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Access AI Integrations in App Center",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:11Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/tskb5fc25e7-dfa6-4823-bfe4-588fe4dffe60_1.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=vsu1723229054066.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure a Read from HubSpot Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:13Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/vsu1723229054066.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=wir1706111649199.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure a Stores Files in Microsoft OneDrive in an Agreement Workflow",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:12Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/wir1706111649199.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=xkg1702568563800.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use App Detail Pages to Learn About Docusign Apps",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:11Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/xkg1702568563800.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=xni1748970087448.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Non-admin Users: Work with Approved Apps",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:12Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/xni1748970087448.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=xyw1716318604389.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Work with Docusign App Connections",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:12Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/xyw1716318604389.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=yjb1727290763658.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Set Up the Docusign App Center ServiceNow Instance, Step 7: Create Cross-Scope Privilege Records",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:13Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/yjb1727290763658.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=zqo1712846235553.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure a ServiceNow Writeback Step in an Agreement Workflow",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:13Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/zqo1712846235553.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=zsb1714159452358.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create Docusign App Connections",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:12Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/zsb1714159452358.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ous1698169987748&topicId=zxa1698170686717.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Manage Apps in the Docusign App Center",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T19:45:12Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ous1698169987748/zxa1698170686717.md"
+    }
+  ]
+}

@@ -90,6 +90,13 @@ Currently committed under `data/`:
 - `docusign-connected-fields/` — 32 pages / 132 chunks (Connected Fields API +
   custom data verification: dev API/extension docs and the Data Verification
   support bundle — install, field types, email/phone/address, event review)
+- `docusign-workspaces/` — 77 pages / 304 chunks (Workspaces collaborative hub:
+  Workspaces API dev docs, support bundle, product page)
+- `docusign-app-center-extensions/` — 152 pages / 837 chunks (App Center +
+  Extension Apps: the full /extension-apps/ developer platform docs, the App
+  Center support bundle, and product page)
+- `docusign-web-forms/` — 103 pages / 345 chunks (Web Forms: Web Forms API dev
+  docs and the Web Forms support bundle)
 
 Promote an ad-hoc `output/<set>/` run into the committed corpus with
 `python scripts/promote.py <set>` (rebuilds a consistent manifest + chunks).
