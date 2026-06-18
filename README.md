@@ -121,6 +121,16 @@ Currently committed under `data/`:
 Promote an ad-hoc `output/<set>/` run into the committed corpus with
 `python scripts/promote.py <set>` (rebuilds a consistent manifest + chunks).
 
+### Not included (by choice)
+
+- **eSignature SOAP API** (`/docs/esign-soap-api/`) — intentionally skipped. The
+  SOAP API is legacy; the eSignature REST API (`docusign-esignature-rest-api/`) is
+  the current, fully-captured interface. Add it later with
+  `docusign-scraper crawl "https://developers.docusign.com/docs/esign-soap-api/" --out output/docusign-esign-soap-api --max-pages 600`
+  then `python scripts/promote.py docusign-esign-soap-api` if it's ever needed.
+- **CLM support docs** are a representative sample, not exhaustive — see the
+  `docusign-clm/` entry above.
+
 ## Using inside another repo (git submodule)
 
 To consume this scraper + its `data/` corpus from a `cowork` (or any) project,
