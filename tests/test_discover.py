@@ -40,6 +40,29 @@ def test_seed_redirect_is_canonicalized_and_bounded(monkeypatch):
     assert OTHER not in urls
 
 
+def test_support_url_variants_render_once(monkeypatch):
+    monkeypatch.setattr(discover, "_try_sitemap", lambda *a, **k: [])
+    base = "https://support.docusign.com/s/document-item"
+    seed = f"{base}?language=en_US&bundleId=B&topicId=T1.html&_LANG=enus"
+    # The seed page links to T2 in two equivalent variants + T1 (itself) variant.
+    t2_a = f"{base}?bundleId=B&topicId=T2.html&_LANG=enus"
+    t2_b = f"{base}?topicId=T2&bundleId=B"  # no .html, different order
+    t1_self = f"{base}?bundleId=B&topicId=T1"
+    page_html = f'<article><a href="{t2_a}">a</a><a href="{t2_b}">b</a><a href="{t1_self}">self</a></article>'
+
+    calls = []
+
+    def fake_fetch(u):
+        calls.append(u)
+        return FetchResult(page_html if "T1" in u else "<article>t2</article>", u)
+
+    urls = discover.discover_urls(seed, Config(max_pages=50), fake_fetch)
+
+    # Exactly two distinct topics fetched (T1 seed + T2 once), not three+ variants.
+    assert len(calls) == 2
+    assert len(urls) == 2
+
+
 def test_two_urls_redirecting_to_same_page_dedup(monkeypatch):
     monkeypatch.setattr(discover, "_try_sitemap", lambda *a, **k: [])
     # Both the seed and a discovered link resolve to AM -> AM appears once.

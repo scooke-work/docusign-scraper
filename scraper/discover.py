@@ -17,12 +17,30 @@ from __future__ import annotations
 import re
 from collections import deque
 from typing import Callable, List, Set
-from urllib.parse import urljoin, urlparse
+from urllib.parse import parse_qs, urljoin, urlparse
 from urllib.request import Request, urlopen
 
 from .config import Config
 from .extract import get_extractor
 from .fetcher import FetchResult
+
+
+def _dedup_key(url: str) -> str:
+    """Canonical identity for dedup, collapsing equivalent URL variants.
+
+    Support article URLs arrive in several forms for the same topic (with/without
+    ``.html``, with/without ``language``/``_LANG`` params, differing param order).
+    Keying on ``bundleId`` + ``topicId`` means each article is rendered once
+    instead of once per variant. Other URLs key on host + path (no fragment,
+    trailing slash normalized).
+    """
+    p = urlparse(url)
+    if "/s/document-item" in p.path:
+        qs = parse_qs(p.query)
+        bundle = qs.get("bundleId", [""])[0]
+        topic = qs.get("topicId", [""])[0].replace(".html", "")
+        return f"{p.netloc}/document-item?{bundle}:{topic}"
+    return f"{p.netloc}{p.path.rstrip('/')}"
 
 
 def _path_prefix(url: str) -> str:
@@ -80,26 +98,27 @@ def discover_urls(seed_url: str, config: Config, fetch: Callable[[str], FetchRes
 
     while queue and len(ordered) < config.max_pages:
         url = queue.popleft()
-        if url in seen:
+        key = _dedup_key(url)
+        if key in seen:  # variant of an already-handled page — don't re-render
             continue
-        seen.add(url)
+        seen.add(key)
         try:
             res = fetch(url)
         except Exception:
             continue
-        final = res.final_url
-        if final in seen and final != url:  # redirected onto an already-seen page
+        final_key = _dedup_key(res.final_url)
+        if final_key != key and final_key in seen:  # redirected onto a seen page
             continue
-        seen.add(final)
+        seen.add(final_key)
         if dev and prefix is None:
-            prefix = _path_prefix(final)
-        ordered.append(final)
-        for link in get_extractor(final, res.html).extract().nav_links:
+            prefix = _path_prefix(res.final_url)
+        ordered.append(res.final_url)
+        for link in get_extractor(res.final_url, res.html).extract().nav_links:
             lp = urlparse(link)
             if lp.netloc != host:
                 continue
             if prefix and not lp.path.startswith(prefix):
                 continue
-            if link not in seen:
+            if _dedup_key(link) not in seen:
                 queue.append(link)
     return ordered[: config.max_pages]
