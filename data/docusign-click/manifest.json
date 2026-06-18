@@ -1,0 +1,642 @@
+{
+  "generated_at": "2026-06-18T22:33:20Z",
+  "source": "docusign-scraper",
+  "pages": [
+    {
+      "source_url": "https://developers.docusign.com/docs/click-api/",
+      "site": "developers.docusign.com",
+      "title": "Click API overview",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Click API"
+      ],
+      "scraped_at": "2026-06-18T22:18:19Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/click-api.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/click-api/click101/",
+      "site": "developers.docusign.com",
+      "title": "Click API 101",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Click API",
+        "Click API",
+        "API 101"
+      ],
+      "scraped_at": "2026-06-18T22:18:19Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/click-api/click101.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/click-api/click101/auth/",
+      "site": "developers.docusign.com",
+      "title": "Authentication",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Click API",
+        "Click API",
+        "API 101",
+        "API 101",
+        "Authentication"
+      ],
+      "scraped_at": "2026-06-18T22:18:19Z",
+      "chunks": 8,
+      "has_content": true,
+      "markdown_path": "docs/click-api/click101/auth.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/click-api/click101/callbacks/",
+      "site": "developers.docusign.com",
+      "title": "Elastic signing event callbacks",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Click API",
+        "Click API",
+        "API 101",
+        "API 101",
+        "Callbacks"
+      ],
+      "scraped_at": "2026-06-18T22:18:20Z",
+      "chunks": 9,
+      "has_content": true,
+      "markdown_path": "docs/click-api/click101/callbacks.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/click-api/click101/concepts/",
+      "site": "developers.docusign.com",
+      "title": "Elastic signing concepts",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Click API",
+        "Click API",
+        "API 101",
+        "API 101",
+        "Concepts"
+      ],
+      "scraped_at": "2026-06-18T22:18:19Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/click-api/click101/concepts.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/click-api/click101/customize-elastic-template-appearance/",
+      "site": "developers.docusign.com",
+      "title": "Customize elastic template appearance",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Click API",
+        "Click API",
+        "API 101",
+        "API 101",
+        "Customize Elastic Template Appearance"
+      ],
+      "scraped_at": "2026-06-18T22:18:20Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/click-api/click101/customize-elastic-template-appearance.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/click-api/click101/customize-elastic-template-fields/",
+      "site": "developers.docusign.com",
+      "title": "Customize elastic template fields",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Click API",
+        "Click API",
+        "API 101",
+        "API 101",
+        "Customize Elastic Template Fields"
+      ],
+      "scraped_at": "2026-06-18T22:18:20Z",
+      "chunks": 8,
+      "has_content": true,
+      "markdown_path": "docs/click-api/click101/customize-elastic-template-fields.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/click-api/click101/managing-elastic-templates/",
+      "site": "developers.docusign.com",
+      "title": "Managing elastic templates",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Click API",
+        "Click API",
+        "API 101",
+        "API 101",
+        "Managing Elastic Templates"
+      ],
+      "scraped_at": "2026-06-18T22:18:19Z",
+      "chunks": 10,
+      "has_content": true,
+      "markdown_path": "docs/click-api/click101/managing-elastic-templates.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/click-api/click101/rules-and-limits/",
+      "site": "developers.docusign.com",
+      "title": "API rules and resource limits",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Click API",
+        "Click API",
+        "API 101",
+        "API 101",
+        "Rules and resource limits"
+      ],
+      "scraped_at": "2026-06-18T22:18:20Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "docs/click-api/click101/rules-and-limits.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/click-api/go-live/",
+      "site": "developers.docusign.com",
+      "title": "Go-Live",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Click API",
+        "Click API",
+        "Go-Live"
+      ],
+      "scraped_at": "2026-06-18T22:18:20Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "docs/click-api/go-live.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/click-api/how-to/",
+      "site": "developers.docusign.com",
+      "title": "How-to guides overview",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Click API",
+        "Click API",
+        "How-to guides"
+      ],
+      "scraped_at": "2026-06-18T22:18:20Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "docs/click-api/how-to.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/click-api/how-to/activate-elastic-template/",
+      "site": "developers.docusign.com",
+      "title": "How to activate an elastic template",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Click API",
+        "Click API",
+        "How-to guides",
+        "How-to guides",
+        "Activate Elastic Template"
+      ],
+      "scraped_at": "2026-06-18T22:18:20Z",
+      "chunks": 9,
+      "has_content": true,
+      "markdown_path": "docs/click-api/how-to/activate-elastic-template.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/click-api/how-to/code-launchers/",
+      "site": "developers.docusign.com",
+      "title": "Code example launchers",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Click API",
+        "Click API",
+        "How-to guides",
+        "How-to guides",
+        "Code example launchers"
+      ],
+      "scraped_at": "2026-06-18T22:18:20Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "docs/click-api/how-to/code-launchers.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/click-api/how-to/create-elastic-templates/",
+      "site": "developers.docusign.com",
+      "title": "How to create an elastic template",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Click API",
+        "Click API",
+        "How-to guides",
+        "How-to guides",
+        "Create Elastic Templates"
+      ],
+      "scraped_at": "2026-06-18T22:18:20Z",
+      "chunks": 10,
+      "has_content": true,
+      "markdown_path": "docs/click-api/how-to/create-elastic-templates.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/click-api/how-to/customize-elastic-template-appearance/",
+      "site": "developers.docusign.com",
+      "title": "How to customize an elastic template's appearance",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Click API",
+        "Click API",
+        "How-to guides",
+        "How-to guides",
+        "Customize Elastic Template Appearance"
+      ],
+      "scraped_at": "2026-06-18T22:18:20Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "docs/click-api/how-to/customize-elastic-template-appearance.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/click-api/how-to/elastic-template-versioning/",
+      "site": "developers.docusign.com",
+      "title": "How to create a new elastic template version",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Click API",
+        "Click API",
+        "How-to guides",
+        "How-to guides",
+        "Elastic Template Versioning"
+      ],
+      "scraped_at": "2026-06-18T22:18:20Z",
+      "chunks": 9,
+      "has_content": true,
+      "markdown_path": "docs/click-api/how-to/elastic-template-versioning.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/click-api/how-to/embed-elastic-templates/",
+      "site": "developers.docusign.com",
+      "title": "How to embed an elastic signing agreement",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Click API",
+        "Click API",
+        "How-to guides",
+        "How-to guides",
+        "Embed Elastic Templates"
+      ],
+      "scraped_at": "2026-06-18T22:18:20Z",
+      "chunks": 11,
+      "has_content": true,
+      "markdown_path": "docs/click-api/how-to/embed-elastic-templates.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/click-api/how-to/get-elastic-template-responses/",
+      "site": "developers.docusign.com",
+      "title": "How to get elastic template responses",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Click API",
+        "Click API",
+        "How-to guides",
+        "How-to guides",
+        "Get Elastic Template Responses"
+      ],
+      "scraped_at": "2026-06-18T22:18:20Z",
+      "chunks": 8,
+      "has_content": true,
+      "markdown_path": "docs/click-api/how-to/get-elastic-template-responses.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/click-api/how-to/retrieve-elastic-templates/",
+      "site": "developers.docusign.com",
+      "title": "How to get a list of elastic templates",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Click API",
+        "Click API",
+        "How-to guides",
+        "How-to guides",
+        "Retrieve Elastic Templates"
+      ],
+      "scraped_at": "2026-06-18T22:18:20Z",
+      "chunks": 8,
+      "has_content": true,
+      "markdown_path": "docs/click-api/how-to/retrieve-elastic-templates.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/click-api/how-to/test-elastic-template/",
+      "site": "developers.docusign.com",
+      "title": "How to test an elastic template",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Click API",
+        "Click API",
+        "How-to guides",
+        "How-to guides",
+        "Test Elastic Template"
+      ],
+      "scraped_at": "2026-06-18T22:18:20Z",
+      "chunks": 8,
+      "has_content": true,
+      "markdown_path": "docs/click-api/how-to/test-elastic-template.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/click-api/reference/",
+      "site": "developers.docusign.com",
+      "title": "API Categories",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Click API",
+        "Click API",
+        "API Reference"
+      ],
+      "scraped_at": "2026-06-18T22:18:20Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/click-api/reference.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/click-api/reference/accounts/",
+      "site": "developers.docusign.com",
+      "title": "Accounts Category",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Click API",
+        "Click API",
+        "API Reference",
+        "API Reference",
+        "Accounts"
+      ],
+      "scraped_at": "2026-06-18T22:18:21Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/click-api/reference/accounts.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/click-api/reference/accounts/clickwraps/",
+      "site": "developers.docusign.com",
+      "title": "ClickWraps Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Click API",
+        "Click API",
+        "API Reference",
+        "API Reference",
+        "Accounts",
+        "Accounts",
+        "Clickwraps"
+      ],
+      "scraped_at": "2026-06-18T22:18:21Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "docs/click-api/reference/accounts/clickwraps.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/click-api/reference/accounts/clickwraps/createbulkclickwrapagreements/",
+      "site": "developers.docusign.com",
+      "title": ": createBulkClickwrapAgreements",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:18:21Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/click-api/reference/accounts/clickwraps/createbulkclickwrapagreements.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/click-api/reference/accounts/clickwraps/createclickwrap/",
+      "site": "developers.docusign.com",
+      "title": ": createClickwrap",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:18:21Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/click-api/reference/accounts/clickwraps/createclickwrap.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/click-api/reference/accounts/clickwraps/createclickwrapversion/",
+      "site": "developers.docusign.com",
+      "title": ": createClickwrapVersion",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:18:21Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/click-api/reference/accounts/clickwraps/createclickwrapversion.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/click-api/reference/accounts/clickwraps/createhasagreed/",
+      "site": "developers.docusign.com",
+      "title": ": createHasAgreed",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:18:21Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/click-api/reference/accounts/clickwraps/createhasagreed.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/click-api/reference/accounts/clickwraps/deleteclickwrap/",
+      "site": "developers.docusign.com",
+      "title": ": deleteClickwrap",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:18:21Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/click-api/reference/accounts/clickwraps/deleteclickwrap.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/click-api/reference/accounts/clickwraps/deleteclickwraps/",
+      "site": "developers.docusign.com",
+      "title": ": deleteClickwraps",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:18:21Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/click-api/reference/accounts/clickwraps/deleteclickwraps.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/click-api/reference/accounts/clickwraps/deleteclickwrapversion/",
+      "site": "developers.docusign.com",
+      "title": ": deleteClickwrapVersion",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:18:21Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/click-api/reference/accounts/clickwraps/deleteclickwrapversion.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/click-api/reference/accounts/clickwraps/deleteclickwrapversions/",
+      "site": "developers.docusign.com",
+      "title": ": deleteClickwrapVersions",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:18:21Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/click-api/reference/accounts/clickwraps/deleteclickwrapversions.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/click-api/reference/accounts/clickwraps/getagreement/",
+      "site": "developers.docusign.com",
+      "title": ": getAgreement",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:18:21Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/click-api/reference/accounts/clickwraps/getagreement.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/click-api/reference/accounts/clickwraps/getagreementdocument/",
+      "site": "developers.docusign.com",
+      "title": ": getAgreementDocument",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:18:21Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/click-api/reference/accounts/clickwraps/getagreementdocument.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/click-api/reference/accounts/clickwraps/getagreementpdf/",
+      "site": "developers.docusign.com",
+      "title": ": getAgreementPdf",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:18:21Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/click-api/reference/accounts/clickwraps/getagreementpdf.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/click-api/reference/accounts/clickwraps/getclickwrap/",
+      "site": "developers.docusign.com",
+      "title": ": getClickwrap",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:18:21Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/click-api/reference/accounts/clickwraps/getclickwrap.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/click-api/reference/accounts/clickwraps/getclickwrapagreements/",
+      "site": "developers.docusign.com",
+      "title": ": getClickwrapAgreements",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:18:21Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/click-api/reference/accounts/clickwraps/getclickwrapagreements.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/click-api/reference/accounts/clickwraps/getclickwraps/",
+      "site": "developers.docusign.com",
+      "title": ": getClickwraps",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:18:21Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/click-api/reference/accounts/clickwraps/getclickwraps.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/click-api/reference/accounts/clickwraps/getclickwrapversion/",
+      "site": "developers.docusign.com",
+      "title": ": getClickwrapVersion",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:18:21Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/click-api/reference/accounts/clickwraps/getclickwrapversion.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/click-api/reference/accounts/clickwraps/getclickwrapversionagreements/",
+      "site": "developers.docusign.com",
+      "title": ": getClickwrapVersionAgreements",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:18:21Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/click-api/reference/accounts/clickwraps/getclickwrapversionagreements.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/click-api/reference/accounts/clickwraps/getclickwrapversions/",
+      "site": "developers.docusign.com",
+      "title": ": getClickwrapVersions",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:18:21Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/click-api/reference/accounts/clickwraps/getclickwrapversions.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/click-api/reference/accounts/clickwraps/getserviceinformation/",
+      "site": "developers.docusign.com",
+      "title": ": getServiceInformation",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:18:21Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "docs/click-api/reference/accounts/clickwraps/getserviceinformation.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/click-api/reference/accounts/clickwraps/updateclickwrap/",
+      "site": "developers.docusign.com",
+      "title": ": updateClickwrap",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:18:21Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/click-api/reference/accounts/clickwraps/updateclickwrap.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/click-api/reference/accounts/clickwraps/updateclickwrapversion/",
+      "site": "developers.docusign.com",
+      "title": ": updateClickwrapVersion",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:18:21Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/click-api/reference/accounts/clickwraps/updateclickwrapversion.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/click-api/sdks/",
+      "site": "developers.docusign.com",
+      "title": "SDKs",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Click API",
+        "Click API",
+        "SDKs"
+      ],
+      "scraped_at": "2026-06-18T22:18:20Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/click-api/sdks.md"
+    },
+    {
+      "source_url": "https://www.docusign.com/products/click",
+      "site": "www.docusign.com",
+      "title": "Capture consent to standard terms with a single click",
+      "breadcrumb": [
+        "Home",
+        "Home",
+        "Products",
+        "Products",
+        "Click"
+      ],
+      "scraped_at": "2026-06-18T22:18:27Z",
+      "chunks": 9,
+      "has_content": true,
+      "markdown_path": "products/click.md"
+    }
+  ]
+}

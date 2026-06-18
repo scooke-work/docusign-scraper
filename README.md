@@ -113,6 +113,10 @@ Currently committed under `data/`:
   — retrieving proof of completed ID Verification)
 - `docusign-tsp/` — 18 pages / 89 chunks (TSP API developer docs — Trust Service
   Provider program: concepts, get-started, API flow, and endpoint reference)
+- `docusign-click/` — 45 pages / 288 chunks (Click API developer docs — clickwrap
+  for high-volume low-risk acceptance — plus the product page)
+- `docusign-rooms/` — 296 pages / 1,086 chunks (Rooms for Real Estate/Mortgage:
+  the Rooms API dev docs (complete, 161 pages), the Rooms support bundle, product)
 
 Promote an ad-hoc `output/<set>/` run into the committed corpus with
 `python scripts/promote.py <set>` (rebuilds a consistent manifest + chunks).

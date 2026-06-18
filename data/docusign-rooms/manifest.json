@@ -1,0 +1,3600 @@
+{
+  "generated_at": "2026-06-18T22:33:21Z",
+  "source": "docusign-scraper",
+  "pages": [
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/",
+      "site": "developers.docusign.com",
+      "title": "Rooms API overview",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API"
+      ],
+      "scraped_at": "2026-06-18T22:33:01Z",
+      "chunks": 8,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/go-live/",
+      "site": "developers.docusign.com",
+      "title": "Go-Live",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "Go-Live"
+      ],
+      "scraped_at": "2026-06-18T22:33:02Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/go-live.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/how-to/",
+      "site": "developers.docusign.com",
+      "title": "How-to guides overview",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "How-to guides"
+      ],
+      "scraped_at": "2026-06-18T22:33:01Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/how-to.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/how-to/access-form-group/",
+      "site": "developers.docusign.com",
+      "title": "How to grant office access to a form group",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "How-to guides",
+        "How-to guides",
+        "Access Form Group"
+      ],
+      "scraped_at": "2026-06-18T22:33:02Z",
+      "chunks": 10,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/how-to/access-form-group.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/how-to/add-form-to-room/",
+      "site": "developers.docusign.com",
+      "title": "How to add forms to a room",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "How-to guides",
+        "How-to guides",
+        "Add forms to a room"
+      ],
+      "scraped_at": "2026-06-18T22:33:02Z",
+      "chunks": 9,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/how-to/add-form-to-room.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/how-to/assign-form-group/",
+      "site": "developers.docusign.com",
+      "title": "How to assign a form to a form group",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "How-to guides",
+        "How-to guides",
+        "Assign Form Group"
+      ],
+      "scraped_at": "2026-06-18T22:33:02Z",
+      "chunks": 14,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/how-to/assign-form-group.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/how-to/code-launchers/",
+      "site": "developers.docusign.com",
+      "title": "Code example launchers",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "How-to guides",
+        "How-to guides",
+        "Code example launchers"
+      ],
+      "scraped_at": "2026-06-18T22:33:01Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/how-to/code-launchers.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/how-to/create-form-group/",
+      "site": "developers.docusign.com",
+      "title": "How to create a form group",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "How-to guides",
+        "How-to guides",
+        "Create Form Group"
+      ],
+      "scraped_at": "2026-06-18T22:33:02Z",
+      "chunks": 9,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/how-to/create-form-group.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/how-to/create-room-with-data/",
+      "site": "developers.docusign.com",
+      "title": "How to create a room with data",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "How-to guides",
+        "How-to guides",
+        "Create a room with data"
+      ],
+      "scraped_at": "2026-06-18T22:33:01Z",
+      "chunks": 9,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/how-to/create-room-with-data.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/how-to/create-room-with-template/",
+      "site": "developers.docusign.com",
+      "title": "How to create a room with a template",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "How-to guides",
+        "How-to guides",
+        "Create a room with a template"
+      ],
+      "scraped_at": "2026-06-18T22:33:01Z",
+      "chunks": 11,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/how-to/create-room-with-template.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/how-to/export-room-data/",
+      "site": "developers.docusign.com",
+      "title": "How to export data from a room",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "How-to guides",
+        "How-to guides",
+        "Export data from a room"
+      ],
+      "scraped_at": "2026-06-18T22:33:01Z",
+      "chunks": 8,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/how-to/export-room-data.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/how-to/external-form-fill/",
+      "site": "developers.docusign.com",
+      "title": "How to create and embed an external form fill session",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "How-to guides",
+        "How-to guides",
+        "create an external form fillable session"
+      ],
+      "scraped_at": "2026-06-18T22:33:02Z",
+      "chunks": 11,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/how-to/external-form-fill.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/how-to/get-room-with-filters/",
+      "site": "developers.docusign.com",
+      "title": "How to get a room with filters",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "How-to guides",
+        "How-to guides",
+        "Get a room with filters"
+      ],
+      "scraped_at": "2026-06-18T22:33:02Z",
+      "chunks": 15,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/how-to/get-room-with-filters.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/",
+      "site": "developers.docusign.com",
+      "title": "API Categories",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API Reference"
+      ],
+      "scraped_at": "2026-06-18T22:33:02Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/accounts/",
+      "site": "developers.docusign.com",
+      "title": "Accounts Category",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API Reference",
+        "API Reference",
+        "Accounts"
+      ],
+      "scraped_at": "2026-06-18T22:33:03Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/accounts.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/accounts/accounts/",
+      "site": "developers.docusign.com",
+      "title": "Accounts Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API Reference",
+        "API Reference",
+        "Accounts",
+        "Accounts",
+        "Accounts"
+      ],
+      "scraped_at": "2026-06-18T22:33:05Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/accounts/accounts.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/accounts/accounts/getaccountinformation/",
+      "site": "developers.docusign.com",
+      "title": ": GetAccountInformation",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:06Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/accounts/accounts/getaccountinformation.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/documents/",
+      "site": "developers.docusign.com",
+      "title": "Documents Category",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API Reference",
+        "API Reference",
+        "Documents"
+      ],
+      "scraped_at": "2026-06-18T22:33:03Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/documents.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/documents/documents/",
+      "site": "developers.docusign.com",
+      "title": "Documents Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API Reference",
+        "API Reference",
+        "Documents",
+        "Documents",
+        "Documents"
+      ],
+      "scraped_at": "2026-06-18T22:33:06Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/documents/documents.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/documents/documents/createdocumentuser/",
+      "site": "developers.docusign.com",
+      "title": ": CreateDocumentUser",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:06Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/documents/documents/createdocumentuser.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/documents/documents/deletedocument/",
+      "site": "developers.docusign.com",
+      "title": ": DeleteDocument",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:06Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/documents/documents/deletedocument.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/documents/documents/getdocument/",
+      "site": "developers.docusign.com",
+      "title": ": GetDocument",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:06Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/documents/documents/getdocument.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/esignpermissionprofiles/",
+      "site": "developers.docusign.com",
+      "title": "ESignPermissionProfiles Category",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API Reference",
+        "API Reference",
+        "Esignpermissionprofiles"
+      ],
+      "scraped_at": "2026-06-18T22:33:03Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/esignpermissionprofiles.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/esignpermissionprofiles/esignpermissionprofiles/",
+      "site": "developers.docusign.com",
+      "title": "ESignPermissionProfiles Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API Reference",
+        "API Reference",
+        "Esignpermissionprofiles",
+        "Esignpermissionprofiles",
+        "Esignpermissionprofiles"
+      ],
+      "scraped_at": "2026-06-18T22:33:04Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/esignpermissionprofiles/esignpermissionprofiles.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/esignpermissionprofiles/esignpermissionprofiles/getesignpermissionprofiles/",
+      "site": "developers.docusign.com",
+      "title": ": GetESignPermissionProfiles",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:02Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/esignpermissionprofiles/esignpermissionprofiles/getesignpermissionprofiles.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/fields/",
+      "site": "developers.docusign.com",
+      "title": "Fields Category",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API Reference",
+        "API Reference",
+        "Fields"
+      ],
+      "scraped_at": "2026-06-18T22:33:03Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/fields.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/fields/fields/",
+      "site": "developers.docusign.com",
+      "title": "Fields Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API Reference",
+        "API Reference",
+        "Fields",
+        "Fields",
+        "Fields"
+      ],
+      "scraped_at": "2026-06-18T22:33:06Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/fields/fields.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/fields/fields/getfieldset/",
+      "site": "developers.docusign.com",
+      "title": ": GetFieldSet",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:06Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/fields/fields/getfieldset.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/forms/",
+      "site": "developers.docusign.com",
+      "title": "Forms Category",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API Reference",
+        "API Reference",
+        "Forms"
+      ],
+      "scraped_at": "2026-06-18T22:33:03Z",
+      "chunks": 8,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/forms.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/forms/externalformfillsessions/",
+      "site": "developers.docusign.com",
+      "title": "ExternalFormFillSessions Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API Reference",
+        "API Reference",
+        "Forms",
+        "Forms",
+        "Externalformfillsessions"
+      ],
+      "scraped_at": "2026-06-18T22:33:05Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/forms/externalformfillsessions.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/forms/externalformfillsessions/createexternalformfillsession/",
+      "site": "developers.docusign.com",
+      "title": ": CreateExternalFormFillSession",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:03Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/forms/externalformfillsessions/createexternalformfillsession.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/forms/formdetails/",
+      "site": "developers.docusign.com",
+      "title": "FormDetails Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API Reference",
+        "API Reference",
+        "Forms",
+        "Forms",
+        "Formdetails"
+      ],
+      "scraped_at": "2026-06-18T22:33:05Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/forms/formdetails.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/forms/formdetails/getformdetails/",
+      "site": "developers.docusign.com",
+      "title": ": GetFormDetails",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:05Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/forms/formdetails/getformdetails.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/forms/formgroups/",
+      "site": "developers.docusign.com",
+      "title": "FormGroups Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API Reference",
+        "API Reference",
+        "Forms",
+        "Forms",
+        "Formgroups"
+      ],
+      "scraped_at": "2026-06-18T22:33:05Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/forms/formgroups.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/forms/formgroups/assignformgroupform/",
+      "site": "developers.docusign.com",
+      "title": ": AssignFormGroupForm",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:03Z",
+      "chunks": 8,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/forms/formgroups/assignformgroupform.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/forms/formgroups/createformgroup/",
+      "site": "developers.docusign.com",
+      "title": ": CreateFormGroup",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:03Z",
+      "chunks": 8,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/forms/formgroups/createformgroup.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/forms/formgroups/deleteformgroup/",
+      "site": "developers.docusign.com",
+      "title": ": DeleteFormGroup",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:05Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/forms/formgroups/deleteformgroup.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/forms/formgroups/getformgroup/",
+      "site": "developers.docusign.com",
+      "title": ": GetFormGroup",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:05Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/forms/formgroups/getformgroup.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/forms/formgroups/getformgroupforms/",
+      "site": "developers.docusign.com",
+      "title": ": GetFormGroupForms",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:05Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/forms/formgroups/getformgroupforms.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/forms/formgroups/getformgroups/",
+      "site": "developers.docusign.com",
+      "title": ": GetFormGroups",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:03Z",
+      "chunks": 8,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/forms/formgroups/getformgroups.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/forms/formgroups/grantofficeaccesstoformgroup/",
+      "site": "developers.docusign.com",
+      "title": ": GrantOfficeAccessToFormGroup",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:03Z",
+      "chunks": 8,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/forms/formgroups/grantofficeaccesstoformgroup.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/forms/formgroups/removeformgroupform/",
+      "site": "developers.docusign.com",
+      "title": ": RemoveFormGroupForm",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:05Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/forms/formgroups/removeformgroupform.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/forms/formgroups/renameformgroup/",
+      "site": "developers.docusign.com",
+      "title": ": RenameFormGroup",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:05Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/forms/formgroups/renameformgroup.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/forms/formgroups/revokeofficeaccessfromformgroup/",
+      "site": "developers.docusign.com",
+      "title": ": RevokeOfficeAccessFromFormGroup",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:05Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/forms/formgroups/revokeofficeaccessfromformgroup.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/forms/formlibraries/",
+      "site": "developers.docusign.com",
+      "title": "FormLibraries Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API Reference",
+        "API Reference",
+        "Forms",
+        "Forms",
+        "Formlibraries"
+      ],
+      "scraped_at": "2026-06-18T22:33:03Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/forms/formlibraries.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/forms/formlibraries/getformlibraries/",
+      "site": "developers.docusign.com",
+      "title": ": GetFormLibraries",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:03Z",
+      "chunks": 8,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/forms/formlibraries/getformlibraries.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/forms/formlibraries/getformlibraryforms/",
+      "site": "developers.docusign.com",
+      "title": ": GetFormLibraryForms",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:05Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/forms/formlibraries/getformlibraryforms.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/forms/formproviders/",
+      "site": "developers.docusign.com",
+      "title": "FormProviders Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API Reference",
+        "API Reference",
+        "Forms",
+        "Forms",
+        "Formproviders"
+      ],
+      "scraped_at": "2026-06-18T22:33:05Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/forms/formproviders.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/forms/formproviders/getformproviderassociations/",
+      "site": "developers.docusign.com",
+      "title": ": GetFormProviderAssociations",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:05Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/forms/formproviders/getformproviderassociations.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/globalresources/",
+      "site": "developers.docusign.com",
+      "title": "GlobalResources Category",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API Reference",
+        "API Reference",
+        "Globalresources"
+      ],
+      "scraped_at": "2026-06-18T22:33:03Z",
+      "chunks": 18,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/globalresources.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/globalresources/closingstatuses/",
+      "site": "developers.docusign.com",
+      "title": "ClosingStatuses Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API Reference",
+        "API Reference",
+        "Globalresources",
+        "Globalresources",
+        "Closingstatuses"
+      ],
+      "scraped_at": "2026-06-18T22:33:06Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/globalresources/closingstatuses.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/globalresources/closingstatuses/getclosingstatuses/",
+      "site": "developers.docusign.com",
+      "title": ": GetClosingStatuses",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:06Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/globalresources/closingstatuses/getclosingstatuses.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/globalresources/contactsides/",
+      "site": "developers.docusign.com",
+      "title": "ContactSides Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API Reference",
+        "API Reference",
+        "Globalresources",
+        "Globalresources",
+        "Contactsides"
+      ],
+      "scraped_at": "2026-06-18T22:33:06Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/globalresources/contactsides.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/globalresources/contactsides/getcontactsides/",
+      "site": "developers.docusign.com",
+      "title": ": GetContactSides",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:06Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/globalresources/contactsides/getcontactsides.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/globalresources/countries/",
+      "site": "developers.docusign.com",
+      "title": "Countries Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API Reference",
+        "API Reference",
+        "Globalresources",
+        "Globalresources",
+        "Countries"
+      ],
+      "scraped_at": "2026-06-18T22:33:06Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/globalresources/countries.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/globalresources/countries/getcountries/",
+      "site": "developers.docusign.com",
+      "title": ": GetCountries",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:06Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/globalresources/countries/getcountries.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/globalresources/currencies/",
+      "site": "developers.docusign.com",
+      "title": "Currencies Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API Reference",
+        "API Reference",
+        "Globalresources",
+        "Globalresources",
+        "Currencies"
+      ],
+      "scraped_at": "2026-06-18T22:33:06Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/globalresources/currencies.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/globalresources/currencies/getcurrencies/",
+      "site": "developers.docusign.com",
+      "title": ": GetCurrencies",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:06Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/globalresources/currencies/getcurrencies.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/globalresources/financingtypes/",
+      "site": "developers.docusign.com",
+      "title": "FinancingTypes Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API Reference",
+        "API Reference",
+        "Globalresources",
+        "Globalresources",
+        "Financingtypes"
+      ],
+      "scraped_at": "2026-06-18T22:33:06Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/globalresources/financingtypes.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/globalresources/financingtypes/getfinancingtypes/",
+      "site": "developers.docusign.com",
+      "title": ": GetFinancingTypes",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:06Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/globalresources/financingtypes/getfinancingtypes.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/globalresources/originsofleads/",
+      "site": "developers.docusign.com",
+      "title": "OriginsOfLeads Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API Reference",
+        "API Reference",
+        "Globalresources",
+        "Globalresources",
+        "Originsofleads"
+      ],
+      "scraped_at": "2026-06-18T22:33:06Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/globalresources/originsofleads.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/globalresources/originsofleads/getoriginsofleads/",
+      "site": "developers.docusign.com",
+      "title": ": GetOriginsOfLeads",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:06Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/globalresources/originsofleads/getoriginsofleads.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/globalresources/propertytypes/",
+      "site": "developers.docusign.com",
+      "title": "PropertyTypes Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API Reference",
+        "API Reference",
+        "Globalresources",
+        "Globalresources",
+        "Propertytypes"
+      ],
+      "scraped_at": "2026-06-18T22:33:06Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/globalresources/propertytypes.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/globalresources/propertytypes/getpropertytypes/",
+      "site": "developers.docusign.com",
+      "title": ": GetPropertyTypes",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:06Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/globalresources/propertytypes/getpropertytypes.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/globalresources/roomcontacttypes/",
+      "site": "developers.docusign.com",
+      "title": "RoomContactTypes Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API Reference",
+        "API Reference",
+        "Globalresources",
+        "Globalresources",
+        "Roomcontacttypes"
+      ],
+      "scraped_at": "2026-06-18T22:33:06Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/globalresources/roomcontacttypes.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/globalresources/roomcontacttypes/getroomcontacttypes/",
+      "site": "developers.docusign.com",
+      "title": ": GetRoomContactTypes",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:06Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/globalresources/roomcontacttypes/getroomcontacttypes.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/globalresources/sellerdecisiontypes/",
+      "site": "developers.docusign.com",
+      "title": "SellerDecisionTypes Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API Reference",
+        "API Reference",
+        "Globalresources",
+        "Globalresources",
+        "Sellerdecisiontypes"
+      ],
+      "scraped_at": "2026-06-18T22:33:07Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/globalresources/sellerdecisiontypes.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/globalresources/sellerdecisiontypes/getsellerdecisiontypes/",
+      "site": "developers.docusign.com",
+      "title": ": GetSellerDecisionTypes",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:07Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/globalresources/sellerdecisiontypes/getsellerdecisiontypes.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/globalresources/specialcircumstancetypes/",
+      "site": "developers.docusign.com",
+      "title": "SpecialCircumstanceTypes Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API Reference",
+        "API Reference",
+        "Globalresources",
+        "Globalresources",
+        "Specialcircumstancetypes"
+      ],
+      "scraped_at": "2026-06-18T22:33:07Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/globalresources/specialcircumstancetypes.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/globalresources/specialcircumstancetypes/getspecialcircumstancetypes/",
+      "site": "developers.docusign.com",
+      "title": ": GetSpecialCircumstanceTypes",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:07Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/globalresources/specialcircumstancetypes/getspecialcircumstancetypes.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/globalresources/states/",
+      "site": "developers.docusign.com",
+      "title": "States Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API Reference",
+        "API Reference",
+        "Globalresources",
+        "Globalresources",
+        "States"
+      ],
+      "scraped_at": "2026-06-18T22:33:07Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/globalresources/states.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/globalresources/states/getstates/",
+      "site": "developers.docusign.com",
+      "title": ": GetStates",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:07Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/globalresources/states/getstates.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/globalresources/taskdatetypes/",
+      "site": "developers.docusign.com",
+      "title": "TaskDateTypes Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API Reference",
+        "API Reference",
+        "Globalresources",
+        "Globalresources",
+        "Taskdatetypes"
+      ],
+      "scraped_at": "2026-06-18T22:33:07Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/globalresources/taskdatetypes.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/globalresources/taskdatetypes/gettaskdatetypes/",
+      "site": "developers.docusign.com",
+      "title": ": GetTaskDateTypes",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:07Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/globalresources/taskdatetypes/gettaskdatetypes.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/globalresources/taskresponsibilitytypes/",
+      "site": "developers.docusign.com",
+      "title": "TaskResponsibilityTypes Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API Reference",
+        "API Reference",
+        "Globalresources",
+        "Globalresources",
+        "Taskresponsibilitytypes"
+      ],
+      "scraped_at": "2026-06-18T22:33:07Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/globalresources/taskresponsibilitytypes.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/globalresources/taskresponsibilitytypes/gettaskresponsibilitytypes/",
+      "site": "developers.docusign.com",
+      "title": ": GetTaskResponsibilityTypes",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:07Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/globalresources/taskresponsibilitytypes/gettaskresponsibilitytypes.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/globalresources/taskstatuses/",
+      "site": "developers.docusign.com",
+      "title": "TaskStatuses Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API Reference",
+        "API Reference",
+        "Globalresources",
+        "Globalresources",
+        "Taskstatuses"
+      ],
+      "scraped_at": "2026-06-18T22:33:07Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/globalresources/taskstatuses.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/globalresources/taskstatuses/gettaskstatuses/",
+      "site": "developers.docusign.com",
+      "title": ": GetTaskStatuses",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:07Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/globalresources/taskstatuses/gettaskstatuses.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/globalresources/timezones/",
+      "site": "developers.docusign.com",
+      "title": "TimeZones Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API Reference",
+        "API Reference",
+        "Globalresources",
+        "Globalresources",
+        "Timezones"
+      ],
+      "scraped_at": "2026-06-18T22:33:07Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/globalresources/timezones.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/globalresources/timezones/gettimezones/",
+      "site": "developers.docusign.com",
+      "title": ": GetTimeZones",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:07Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/globalresources/timezones/gettimezones.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/globalresources/transactionsides/",
+      "site": "developers.docusign.com",
+      "title": "TransactionSides Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API Reference",
+        "API Reference",
+        "Globalresources",
+        "Globalresources",
+        "Transactionsides"
+      ],
+      "scraped_at": "2026-06-18T22:33:07Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/globalresources/transactionsides.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/globalresources/transactionsides/gettransactionsides/",
+      "site": "developers.docusign.com",
+      "title": ": GetTransactionSides",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:07Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/globalresources/transactionsides/gettransactionsides.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/offices/",
+      "site": "developers.docusign.com",
+      "title": "Offices Category",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API Reference",
+        "API Reference",
+        "Offices"
+      ],
+      "scraped_at": "2026-06-18T22:33:03Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/offices.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/offices/offices/",
+      "site": "developers.docusign.com",
+      "title": "Offices Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API Reference",
+        "API Reference",
+        "Offices",
+        "Offices",
+        "Offices"
+      ],
+      "scraped_at": "2026-06-18T22:33:05Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/offices/offices.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/offices/offices/createoffice/",
+      "site": "developers.docusign.com",
+      "title": ": CreateOffice",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:05Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/offices/offices/createoffice.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/offices/offices/deleteoffice/",
+      "site": "developers.docusign.com",
+      "title": ": DeleteOffice",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:05Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/offices/offices/deleteoffice.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/offices/offices/getoffice/",
+      "site": "developers.docusign.com",
+      "title": ": GetOffice",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:05Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/offices/offices/getoffice.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/offices/offices/getoffices/",
+      "site": "developers.docusign.com",
+      "title": ": GetOffices",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:03Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/offices/offices/getoffices.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/offices/offices/getreferencecounts/",
+      "site": "developers.docusign.com",
+      "title": ": GetReferenceCounts",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:05Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/offices/offices/getreferencecounts.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/regions/",
+      "site": "developers.docusign.com",
+      "title": "Regions Category",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API Reference",
+        "API Reference",
+        "Regions"
+      ],
+      "scraped_at": "2026-06-18T22:33:03Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/regions.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/regions/regions/",
+      "site": "developers.docusign.com",
+      "title": "Regions Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API Reference",
+        "API Reference",
+        "Regions",
+        "Regions",
+        "Regions"
+      ],
+      "scraped_at": "2026-06-18T22:33:07Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/regions/regions.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/regions/regions/createregion/",
+      "site": "developers.docusign.com",
+      "title": ": CreateRegion",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:07Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/regions/regions/createregion.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/regions/regions/deleteregion/",
+      "site": "developers.docusign.com",
+      "title": ": DeleteRegion",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:07Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/regions/regions/deleteregion.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/regions/regions/getregion/",
+      "site": "developers.docusign.com",
+      "title": ": GetRegion",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:07Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/regions/regions/getregion.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/regions/regions/getregionreferencecounts/",
+      "site": "developers.docusign.com",
+      "title": ": GetRegionReferenceCounts",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:07Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/regions/regions/getregionreferencecounts.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/regions/regions/getregions/",
+      "site": "developers.docusign.com",
+      "title": ": GetRegions",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:07Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/regions/regions/getregions.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/roles/",
+      "site": "developers.docusign.com",
+      "title": "Roles Category",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API Reference",
+        "API Reference",
+        "Roles"
+      ],
+      "scraped_at": "2026-06-18T22:33:02Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/roles.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/roles/roles/",
+      "site": "developers.docusign.com",
+      "title": "Roles Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API Reference",
+        "API Reference",
+        "Roles",
+        "Roles",
+        "Roles"
+      ],
+      "scraped_at": "2026-06-18T22:33:04Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/roles/roles.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/roles/roles/createrole/",
+      "site": "developers.docusign.com",
+      "title": ": CreateRole",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:02Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/roles/roles/createrole.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/roles/roles/deleterole/",
+      "site": "developers.docusign.com",
+      "title": ": DeleteRole",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:04Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/roles/roles/deleterole.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/roles/roles/getrole/",
+      "site": "developers.docusign.com",
+      "title": ": GetRole",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:04Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/roles/roles/getrole.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/roles/roles/getroles/",
+      "site": "developers.docusign.com",
+      "title": ": GetRoles",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:03Z",
+      "chunks": 8,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/roles/roles/getroles.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/roles/roles/updaterole/",
+      "site": "developers.docusign.com",
+      "title": ": UpdateRole",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:04Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/roles/roles/updaterole.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/rooms/",
+      "site": "developers.docusign.com",
+      "title": "Rooms Category",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API Reference",
+        "API Reference",
+        "Rooms"
+      ],
+      "scraped_at": "2026-06-18T22:33:03Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/rooms.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/rooms/roomfolders/",
+      "site": "developers.docusign.com",
+      "title": "RoomFolders Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API Reference",
+        "API Reference",
+        "Rooms",
+        "Rooms",
+        "Roomfolders"
+      ],
+      "scraped_at": "2026-06-18T22:33:04Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/rooms/roomfolders.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/rooms/roomfolders/getroomfolders/",
+      "site": "developers.docusign.com",
+      "title": ": GetRoomFolders",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:04Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/rooms/roomfolders/getroomfolders.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/rooms/rooms/",
+      "site": "developers.docusign.com",
+      "title": "Rooms Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API Reference",
+        "API Reference",
+        "Rooms",
+        "Rooms",
+        "Rooms"
+      ],
+      "scraped_at": "2026-06-18T22:33:04Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/rooms/rooms.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/rooms/rooms/adddocumenttoroom/",
+      "site": "developers.docusign.com",
+      "title": ": AddDocumentToRoom",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:04Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/rooms/rooms/adddocumenttoroom.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/rooms/rooms/adddocumenttoroomviafileupload/",
+      "site": "developers.docusign.com",
+      "title": ": AddDocumentToRoomViaFileUpload",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:04Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/rooms/rooms/adddocumenttoroomviafileupload.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/rooms/rooms/addformtoroom/",
+      "site": "developers.docusign.com",
+      "title": ": AddFormToRoom",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:02Z",
+      "chunks": 8,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/rooms/rooms/addformtoroom.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/rooms/rooms/createroom/",
+      "site": "developers.docusign.com",
+      "title": ": CreateRoom",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:03Z",
+      "chunks": 8,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/rooms/rooms/createroom.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/rooms/rooms/createroomenvelope/",
+      "site": "developers.docusign.com",
+      "title": ": CreateRoomEnvelope",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:04Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/rooms/rooms/createroomenvelope.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/rooms/rooms/deleteroom/",
+      "site": "developers.docusign.com",
+      "title": ": DeleteRoom",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:04Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/rooms/rooms/deleteroom.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/rooms/rooms/getassignableroles/",
+      "site": "developers.docusign.com",
+      "title": ": GetAssignableRoles",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:04Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/rooms/rooms/getassignableroles.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/rooms/rooms/getdocuments/",
+      "site": "developers.docusign.com",
+      "title": ": GetDocuments",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:04Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/rooms/rooms/getdocuments.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/rooms/rooms/getroom/",
+      "site": "developers.docusign.com",
+      "title": ": GetRoom",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:04Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/rooms/rooms/getroom.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/rooms/rooms/getroomfielddata/",
+      "site": "developers.docusign.com",
+      "title": ": GetRoomFieldData",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:04Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/rooms/rooms/getroomfielddata.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/rooms/rooms/getroomfieldset/",
+      "site": "developers.docusign.com",
+      "title": ": GetRoomFieldSet",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:03Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/rooms/rooms/getroomfieldset.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/rooms/rooms/getrooms/",
+      "site": "developers.docusign.com",
+      "title": ": GetRooms",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:03Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/rooms/rooms/getrooms.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/rooms/rooms/getroomusers/",
+      "site": "developers.docusign.com",
+      "title": ": GetRoomUsers",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:04Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/rooms/rooms/getroomusers.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/rooms/rooms/inviteuser/",
+      "site": "developers.docusign.com",
+      "title": ": InviteUser",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:04Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/rooms/rooms/inviteuser.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/rooms/rooms/putroomuser/",
+      "site": "developers.docusign.com",
+      "title": ": PutRoomUser",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:04Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/rooms/rooms/putroomuser.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/rooms/rooms/restoreroomuseraccess/",
+      "site": "developers.docusign.com",
+      "title": ": RestoreRoomUserAccess",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:04Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/rooms/rooms/restoreroomuseraccess.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/rooms/rooms/revokeroomuseraccess/",
+      "site": "developers.docusign.com",
+      "title": ": RevokeRoomUserAccess",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:05Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/rooms/rooms/revokeroomuseraccess.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/rooms/rooms/updatepicture/",
+      "site": "developers.docusign.com",
+      "title": ": UpdatePicture",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:05Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/rooms/rooms/updatepicture.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/rooms/rooms/updateroomfielddata/",
+      "site": "developers.docusign.com",
+      "title": ": UpdateRoomFieldData",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:05Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/rooms/rooms/updateroomfielddata.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/roomtemplates/",
+      "site": "developers.docusign.com",
+      "title": "RoomTemplates Category",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API Reference",
+        "API Reference",
+        "Roomtemplates"
+      ],
+      "scraped_at": "2026-06-18T22:33:03Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/roomtemplates.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/roomtemplates/roomtemplates/",
+      "site": "developers.docusign.com",
+      "title": "RoomTemplates Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API Reference",
+        "API Reference",
+        "Roomtemplates",
+        "Roomtemplates",
+        "Roomtemplates"
+      ],
+      "scraped_at": "2026-06-18T22:33:05Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/roomtemplates/roomtemplates.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/roomtemplates/roomtemplates/getroomtemplates/",
+      "site": "developers.docusign.com",
+      "title": ": GetRoomTemplates",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:03Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/roomtemplates/roomtemplates/getroomtemplates.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/tasklists/",
+      "site": "developers.docusign.com",
+      "title": "TaskLists Category",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API Reference",
+        "API Reference",
+        "Tasklists"
+      ],
+      "scraped_at": "2026-06-18T22:33:03Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/tasklists.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/tasklists/tasklists/",
+      "site": "developers.docusign.com",
+      "title": "TaskLists Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API Reference",
+        "API Reference",
+        "Tasklists",
+        "Tasklists",
+        "Tasklists"
+      ],
+      "scraped_at": "2026-06-18T22:33:07Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/tasklists/tasklists.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/tasklists/tasklists/createtasklist/",
+      "site": "developers.docusign.com",
+      "title": ": CreateTaskList",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:08Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/tasklists/tasklists/createtasklist.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/tasklists/tasklists/deletetasklist/",
+      "site": "developers.docusign.com",
+      "title": ": DeleteTaskList",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:08Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/tasklists/tasklists/deletetasklist.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/tasklists/tasklists/gettasklists/",
+      "site": "developers.docusign.com",
+      "title": ": GetTaskLists",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:08Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/tasklists/tasklists/gettasklists.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/tasklists/tasklisttemplates/",
+      "site": "developers.docusign.com",
+      "title": "TaskListTemplates Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API Reference",
+        "API Reference",
+        "Tasklists",
+        "Tasklists",
+        "Tasklisttemplates"
+      ],
+      "scraped_at": "2026-06-18T22:33:08Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/tasklists/tasklisttemplates.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/tasklists/tasklisttemplates/gettasklisttemplates/",
+      "site": "developers.docusign.com",
+      "title": ": GetTaskListTemplates",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:08Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/tasklists/tasklisttemplates/gettasklisttemplates.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/users/",
+      "site": "developers.docusign.com",
+      "title": "Users Category",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API Reference",
+        "API Reference",
+        "Users"
+      ],
+      "scraped_at": "2026-06-18T22:33:04Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/users.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/users/users/",
+      "site": "developers.docusign.com",
+      "title": "Users Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API Reference",
+        "API Reference",
+        "Users",
+        "Users",
+        "Users"
+      ],
+      "scraped_at": "2026-06-18T22:33:08Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/users/users.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/users/users/addusertooffice/",
+      "site": "developers.docusign.com",
+      "title": ": AddUserToOffice",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:08Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/users/users/addusertooffice.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/users/users/addusertoregion/",
+      "site": "developers.docusign.com",
+      "title": ": AddUserToRegion",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:08Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/users/users/addusertoregion.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/users/users/getuser/",
+      "site": "developers.docusign.com",
+      "title": ": GetUser",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:08Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/users/users/getuser.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/users/users/getusers/",
+      "site": "developers.docusign.com",
+      "title": ": GetUsers",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:08Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/users/users/getusers.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/users/users/inviteuser/",
+      "site": "developers.docusign.com",
+      "title": ": InviteUser",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:08Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/users/users/inviteuser.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/users/users/lockuser/",
+      "site": "developers.docusign.com",
+      "title": ": LockUser",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:08Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/users/users/lockuser.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/users/users/reinviteuser/",
+      "site": "developers.docusign.com",
+      "title": ": ReinviteUser",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:08Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/users/users/reinviteuser.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/users/users/removeuser/",
+      "site": "developers.docusign.com",
+      "title": ": RemoveUser",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:08Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/users/users/removeuser.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/users/users/removeuserfromoffice/",
+      "site": "developers.docusign.com",
+      "title": ": RemoveUserFromOffice",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:08Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/users/users/removeuserfromoffice.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/users/users/removeuserfromregion/",
+      "site": "developers.docusign.com",
+      "title": ": RemoveUserFromRegion",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:08Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/users/users/removeuserfromregion.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/users/users/unlockuser/",
+      "site": "developers.docusign.com",
+      "title": ": UnlockUser",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:08Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/users/users/unlockuser.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/reference/users/users/updateuser/",
+      "site": "developers.docusign.com",
+      "title": ": UpdateUser",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:33:08Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/reference/users/users/updateuser.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/rooms101/",
+      "site": "developers.docusign.com",
+      "title": "Rooms API 101",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API 101"
+      ],
+      "scraped_at": "2026-06-18T22:33:01Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/rooms101.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/rooms101/auth/",
+      "site": "developers.docusign.com",
+      "title": "Authentication",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API 101",
+        "API 101",
+        "Authentication"
+      ],
+      "scraped_at": "2026-06-18T22:33:01Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/rooms101/auth.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/rooms101/concepts/",
+      "site": "developers.docusign.com",
+      "title": "Rooms concepts",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API 101",
+        "API 101",
+        "Concepts"
+      ],
+      "scraped_at": "2026-06-18T22:33:01Z",
+      "chunks": 13,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/rooms101/concepts.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/rooms101/create-account/",
+      "site": "developers.docusign.com",
+      "title": "Creating a Rooms developer account",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API 101",
+        "API 101",
+        "Create Account"
+      ],
+      "scraped_at": "2026-06-18T22:33:01Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/rooms101/create-account.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/rooms101/forms/",
+      "site": "developers.docusign.com",
+      "title": "Forms",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API 101",
+        "API 101",
+        "Forms"
+      ],
+      "scraped_at": "2026-06-18T22:33:02Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/rooms101/forms.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/rooms101/forms/managing-forms-rooms/",
+      "site": "developers.docusign.com",
+      "title": "Managing forms",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API 101",
+        "API 101",
+        "Forms",
+        "Forms",
+        "Managing forms"
+      ],
+      "scraped_at": "2026-06-18T22:33:02Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/rooms101/forms/managing-forms-rooms.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/rooms101/forms/using-forms-in-a-room/",
+      "site": "developers.docusign.com",
+      "title": "Using forms in a room",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API 101",
+        "API 101",
+        "Forms",
+        "Forms",
+        "Using forms in a room"
+      ],
+      "scraped_at": "2026-06-18T22:33:02Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/rooms101/forms/using-forms-in-a-room.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/rooms101/rules-and-limits/",
+      "site": "developers.docusign.com",
+      "title": "API rules and resource limits",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API 101",
+        "API 101",
+        "Rules and resource limits"
+      ],
+      "scraped_at": "2026-06-18T22:33:01Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/rooms101/rules-and-limits.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/rooms101/templates/",
+      "site": "developers.docusign.com",
+      "title": "Using room templates and task lists",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API 101",
+        "API 101",
+        "Templates"
+      ],
+      "scraped_at": "2026-06-18T22:33:01Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/rooms101/templates.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/rooms101/upgrading/",
+      "site": "developers.docusign.com",
+      "title": "Upgrading from Docusign Rooms API v1.0 to v2.0",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "API 101",
+        "API 101",
+        "Upgrading"
+      ],
+      "scraped_at": "2026-06-18T22:33:01Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/rooms101/upgrading.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/rooms-api/sdks/",
+      "site": "developers.docusign.com",
+      "title": "SDKs",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Rooms API",
+        "Rooms API",
+        "SDKs"
+      ],
+      "scraped_at": "2026-06-18T22:33:02Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/rooms-api/sdks.md"
+    },
+    {
+      "source_url": "https://www.docusign.com/products/rooms",
+      "site": "www.docusign.com",
+      "title": "Page not found",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:22Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "products/rooms.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=aks1572968392261.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Task Components in Docusign Rooms",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:12Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/aks1572968392261.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=bbc1592232156484.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create Templates for Room Invitation Email Messages",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:12Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/bbc1592232156484.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=bbe1614800114754.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Take Action on All Documents in a Folder",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:15Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/bbe1614800114754.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=bhe1643042971178.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Get Started With Docusign Rooms for Real Estate",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:13Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/bhe1643042971178.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=bir1572968393341.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create Room Templates to Auto-Populate New Rooms With Task Lists",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:12Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/bir1572968393341.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=bwe1603828530036.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add a Task to a Room",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/bwe1603828530036.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=bww1594071595363.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Update Task Roles in the CSV File",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:12Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/bww1594071595363.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=byb1572968392935.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Task reminders",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/byb1572968392935.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=cdn1604341928001.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Task Details, Documents, People, and Reminders",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:16Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/cdn1604341928001.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=clo1585005785186.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Access a Room Using Two-Step Verification",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:12Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/clo1585005785186.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=clu1581094346278.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Troubleshoot Your NRDS Information",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:16Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/clu1581094346278.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=cmh1587756814410.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create Envelopes To Obtain Signatures on Your Transaction Documents",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:14Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/cmh1587756814410.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=cnm1572968391308.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add a Region",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:12Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/cnm1572968391308.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=cox1579197521096.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add or Remove Someone From a Message",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:14Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/cox1579197521096.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=cre1602011658263.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Download Documents",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:15Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/cre1602011658263.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=cxe1582309322791.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Split or Combine PDF Documents in Docusign Rooms",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:15Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/cxe1582309322791.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=doz1572968393138.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Room Templates to Auto-Populate New Rooms With Task Lists",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/doz1572968393138.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=dpn1572968404075.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Document Management in Docusign Rooms",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:14Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/dpn1572968404075.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=drq1572968393730.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Edit or Rename a Room Detail Field",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:13Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/drq1572968393730.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=dsw1620231015798.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Form Templates To Pre-Fill Association Forms",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/dsw1620231015798.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=dwx1594071762479.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Upload the CSV File",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:12Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/dwx1594071762479.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=eam1572968413988.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Your My Docs Folder To Store Private Documents",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:15Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/eam1572968413988.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=ebg1591912525243.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Send an Email Conversation to Docusign Rooms as a PDF Document",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:15Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/ebg1591912525243.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=eja1623968854142.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Give a Member Access to Your Real Estate Forms Anytime You Are Both in a Room",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/eja1623968854142.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=eny1585942529914.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add a Detail Field to Company Rooms",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:13Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/eny1585942529914.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=eqh1602094027385.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Lock a Member Account To Prevent Them From Logging in Temporarily",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:13Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/eqh1602094027385.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=eth1572968411652.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Stop Receiving Message Notifications",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:14Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/eth1572968411652.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=exn1594070712914.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Export Your Task List Templates",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:12Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/exn1594070712914.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=fdr1572968394763.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Change a Member's Access Level, Office, Region, or eSignature Permission Profile",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:13Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/fdr1572968394763.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=fxd1588601606110.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Trusted URLs for Docusign Rooms Redirects",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:13Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/fxd1588601606110.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=fxm1578607133650.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use In-App Help To Access Resources",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:13Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/fxm1578607133650.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=fzm1572968398778.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Customize Your Docusign Rooms Email Address",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:13Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/fzm1572968398778.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=gbh1652286113793.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "View the Status or Results of a Member's Room Access Update",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:13Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/gbh1652286113793.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=gcr1585942916457.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Remove a Detail Field From Company Rooms",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:13Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/gcr1585942916457.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=giu1572968394496.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add a New Member Account",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:13Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/giu1572968394496.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=gob1649781750571.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Assign Offices to a Form Library or Packet",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:13Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/gob1649781750571.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=gqi1591826277364.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Email Documents Directly to a Room",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:15Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/gqi1591826277364.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=grk1623969285270.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "View Which Real Estate Forms You Are Sharing",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/grk1623969285270.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=gxn1572968412341.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Room History To Review the Audit Trail for a Transaction",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:14Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/gxn1572968412341.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=hdk1605127966968.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Review Individual Tasks",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/hdk1605127966968.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=hdw1623968246770.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Share Your Real Estate Form Access With a Room Member",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/hdw1623968246770.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=hhe1579109996534.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Download Your Messages To Save a Local Copy",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:14Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/hhe1579109996534.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=hmc1572968404536.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Folders To Organize Room Documents",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:15Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/hmc1572968404536.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=hql1590700372717.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Combine Documents",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:15Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/hql1590700372717.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=hro1589904432127.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Considerations When Disabling Roles Already in Use",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:12Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/hro1589904432127.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=hry1588261708110.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Redirect Members After They Activate Their Docusign Rooms Account",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:13Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/hry1588261708110.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=htx1582572099940.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create Templates To Split PDF Documents",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:12Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/htx1582572099940.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=ixd1572968391574.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add an Office Location",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:12Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/ixd1572968391574.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=izd1583871959476.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create a Folder",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:15Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/izd1583871959476.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=jbb1605127993065.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Review a Task List",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/jbb1605127993065.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=jcj1591824331892.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Email Documents From Your Docusign Rooms Account",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:15Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/jcj1591824331892.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=jdw1649784525289.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Assign Form Libraries or Packets to an Office",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:13Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/jdw1649784525289.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=jgf1582309216959.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Split a PDF Document Using a Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:15Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/jgf1582309216959.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=jhb1572968400027.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Copy a Room To Create a New, Similar Room",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:14Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/jhb1572968400027.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=jhk1603828441554.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Attach a Task List to a Room",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/jhk1603828441554.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=jkt1572968415230.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use the Docusign Rooms Directory To Find Members of Your Company",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/jkt1572968415230.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=joc1600187550640.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Split a PDF Document",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:15Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/joc1600187550640.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=jsy1572968404730.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Docusign Forms to a Room",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:15Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/jsy1572968404730.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=jxv1588001645096.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Delete a Room To Remove It Permanently",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:14Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/jxv1588001645096.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=jyt1572968390277.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Understand Roles and Permissions in Docusign Rooms",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:12Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/jyt1572968390277.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=kbt1572968389824.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure Your Company Settings",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:11Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/kbt1572968389824.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=kds1649800980756.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Templates in Docusign Rooms To Automate and Simplify Processes",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:12Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/kds1649800980756.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=kli1632772145601.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Update Your Name, Email Address, or Profile Photo",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:14Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/kli1632772145601.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=kpv1572968398105.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Update Your Email Notification Preferences",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:13Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/kpv1572968398105.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=ksr1572968393545.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure Detail Fields for Company Rooms",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:12Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/ksr1572968393545.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=lhc1643042414571.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Set Up Your Rooms for Real Estate Company Account",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:11Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/lhc1643042414571.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=lkn1572968392044.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create Task List Templates to Group Common Transaction Activities",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:12Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/lkn1572968392044.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=lkp1572968390512.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create a Role to Group Member Permissions",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:12Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/lkp1572968390512.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=lph1578525405612.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Check Your Company Role Permissions",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:14Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/lph1578525405612.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=mat1602597970878.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Submit a Task List for Review",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/mat1602597970878.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=mdf1572968403855.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Tasks To Keep Track of Transaction Activities and Due Dates",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/mdf1572968403855.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=mjs1584993982662.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Enable Two-Step Verification for a Role",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:12Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/mjs1584993982662.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=mqa1583872121614.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Move Documents Between Folders",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:15Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/mqa1583872121614.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=mup1572968399324.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Switch Between eSignature and Rooms",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:14Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/mup1572968399324.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=mzh1585944658248.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Manage Room Detail Fields That Capture Contact Information",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:13Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/mzh1585944658248.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=nkp1572968404293.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Documents in Docusign Rooms",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:15Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/nkp1572968404293.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=nmo1601563201908.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Disable a Room Template To Hide It From Members",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:12Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/nmo1601563201908.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=ntt1612385905414.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Correct an Envelope in Docusign Rooms",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:14Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/ntt1612385905414.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=nue1600976538454.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Schedule an Overnight Process to Bulk Update a Member's Room Access",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:13Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/nue1600976538454.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=nzz1642613220764.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Access Your Real Estate Forms From Your Docusign Rooms Account",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:15Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/nzz1642613220764.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=oan1621445038923.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Change the Transaction Side of a Room Owner",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:14Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/oan1621445038923.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=oay1621440907680.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Change the Transaction Side of a Room",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:14Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/oay1621440907680.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=ogi1602600311621.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Review Tasks and Task Lists",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/ogi1602600311621.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=oqh1632851752811.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "A “New Version” Notification Displays When I Apply a Form Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:16Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/oqh1632851752811.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=osx1572968392511.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Task documents",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/osx1572968392511.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=oyf1627421625031.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Docusign Rooms System Requirements",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:11Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/oyf1627421625031.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=pcm1572968399008.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Connect Your Docusign Rooms Account to Dropbox, Google Drive, or Box",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:13Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/pcm1572968399008.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=pda1572968399777.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create Rooms To Collaborate on Transactions",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:14Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/pda1572968399777.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=pli1572968392747.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Task people",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:16Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/pli1572968392747.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=pmv1620666133586.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Remove Yourself From a Message",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:14Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/pmv1620666133586.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=pnm1576711889492.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Change a Member's Company Role",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:13Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/pnm1576711889492.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=qay1620231543154.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Apply a Form Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/qay1620231543154.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=qff1600181293209.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Documents to Your Personal My Docs Library",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:15Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/qff1600181293209.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=qpx1623968070656.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Share Form Access So Team Members Can Add or Edit Your Forms",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/qpx1623968070656.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=qyi1602017320822.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Print Documents",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:15Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/qyi1602017320822.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=rba1662490431785.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Completed Envelopes in Rooms",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:15Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/rba1662490431785.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=rdy1601563229534.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Copy a room template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:17Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/rdy1601563229534.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=rqf1600180642906.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add a Document to a Room To Share It With Others",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:15Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/rqf1600180642906.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=rrk1651679235754.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Supported File Formats in Docusign Rooms",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:15Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/rrk1651679235754.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=seh1590702443190.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Room Document Permissions, Ownership, and Sharing",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:15Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/seh1590702443190.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=sgd1572968415935.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Your Personal Contacts to Docusign Rooms",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:16Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/sgd1572968415935.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=ssl1598377699550.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "What's the difference between a company role and a room role?",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:14Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/ssl1598377699550.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=sxz1572968411216.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Messages To Communicate With Other People Working on a Transaction",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:14Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/sxz1572968411216.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=syg1649801551045.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Task List Templates To Standardize Tasks",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:12Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/syg1649801551045.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=tjf1572968391027.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Regions and Offices To Define Your Company Structure",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:12Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/tjf1572968391027.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=tqv1611263682100.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Considerations When Inviting External People to a Room",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:14Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/tqv1611263682100.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=tty1620231522576.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create a Form Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/tty1620231522576.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=tuf1649779382479.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Assign Form Libraries and Packets to Specific Offices To Limit Form Visibility",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:13Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/tuf1649779382479.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=tvk1572968413121.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Your Docusign Rooms Inbox",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:15Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/tvk1572968413121.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=ufk1652299389159.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Work With Real Estate Forms in Docusign Rooms",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:15Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/ufk1652299389159.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=umd1612988185190.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Why Do I See a “Sample” Watermark on My Association Forms?",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/umd1612988185190.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=upx1572968403449.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Populate Room Details to Capture Transaction Data and Pre-Fill Forms",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:14Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/upx1572968403449.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=uyz1572968411434.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Start a New Message To Connect With Room Members",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:14Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/uyz1572968411434.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=vei1594066753573.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Bulk Update Roles on Task List Templates",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:12Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/vei1594066753573.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=vha1572968406855.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Designate Other People As Room Owners To Share Document Access",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:14Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/vha1572968406855.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=vmk1572968403155.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Get Started With Rooms",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:11Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/vmk1572968403155.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=vob1572968404982.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Invite Someone to a Room to Collaborate on a Transaction",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:14Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/vob1572968404982.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=vyl1586819879134.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Read Your Messages",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:14Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/vyl1586819879134.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=wdo1572968406403.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Resend a Room Invitation",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:14Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/wdo1572968406403.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=wdz1572968390747.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Role Permissions List",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:12Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/wdz1572968390747.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=wnc1584925746471.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Require Two-Step Verification To Access a Room",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:12Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/wnc1584925746471.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=wqx1572968395464.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Group Real Estate Forms and Make Them Visible to Offices",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:13Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/wqx1572968395464.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=wzm1602099567922.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Unlock a Member Account",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:13Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/wzm1602099567922.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=xad1572968394026.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create Room Detail Fields To Track the Different Stages of a Room",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:13Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/xad1572968394026.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=xen1611251817329.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Share a Document To Make It Visible to Other Room Members",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:15Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/xen1611251817329.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=xep1572968406638.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Remove or Restore Someone's Room Access",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:14Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/xep1572968406638.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=xoa1590703561686.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Email Documents to Your Docusign Rooms Inbox",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:15Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/xoa1590703561686.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=xrt1584925782982.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Hide a User Role To Prevent Members From Selecting It",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:12Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/xrt1584925782982.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=yos1643042789525.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Manage Member Accounts",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:13Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/yos1643042789525.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=yqy1602099773080.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Close a Member Account To Delete It Permanently",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:13Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/yqy1602099773080.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=zbb1604082971176.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Complete a Task",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/zbb1604082971176.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=zkf1584977175560.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Disable a Role To Hide It From Users",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:12Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/zkf1584977175560.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=zxs1572968414546.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Manage Your Docusign Rooms Contacts",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/zxs1572968414546.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=clr1643042075783&topicId=zyf1600976408469.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Make Bulk Changes to a Member's Room Access",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T22:30:13Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/clr1643042075783/zyf1600976408469.md"
+    }
+  ]
+}
