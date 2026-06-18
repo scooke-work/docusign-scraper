@@ -122,6 +122,10 @@ Currently committed under `data/`:
 - `docusign-iam-platform/` — 6 pages / 48 chunks (IAM platform overview only —
   the umbrella "what is IAM" pages incl. IAM Core / CX / Sales, plus the product
   page. Intentionally small: IAM's depth lives in the per-product datasets above.)
+- `docusign-esignature-support/` — 174 pages / 281 chunks (eSignature end-user
+  guides: sending/"Welcome to Docusign", the signer experience, and templates)
+- `docusign-account-admin/` — 326 pages / 428 chunks (Account Administration —
+  users, permissions, security, branding, and account settings; complete)
 
 Promote an ad-hoc `output/<set>/` run into the committed corpus with
 `python scripts/promote.py <set>` (rebuilds a consistent manifest + chunks).

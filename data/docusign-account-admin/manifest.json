@@ -1,0 +1,3266 @@
+{
+  "generated_at": "2026-06-18T23:38:46Z",
+  "source": "docusign-scraper",
+  "pages": [
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=aba1744139590145.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Purchase an IAM Plan",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:21Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/aba1744139590145.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=abv1583277431292.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Bulk Actions Log",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:27Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/abv1583277431292.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=acx1583277379820.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Reminders",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:34Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/acx1583277379820.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=ajx1744145187045.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Purchase Extensions for an IAM Plan",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:22Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/ajx1744145187045.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=akz1705531751402.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Undo Pending Changes to Your Subscription",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:22Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/akz1705531751402.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=aqg1583277336549.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Electronic Record and Signature Disclosure",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:33Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/aqg1583277336549.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=aqj1583277341866.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Custom Logos for Sending Brands",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:24Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/aqj1583277341866.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=auj1661539165096.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Account Settings Permission Access Levels",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:28Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/auj1661539165096.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=avm1690403225347.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Deactivate and Activate Identity Verification Configurations﻿",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:36Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/avm1690403225347.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=avp1586306569390.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Change Account Plan Type",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:22Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/avp1586306569390.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=azr1583277379565.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Set Account Reminders and Expiration Defaults",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:33Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/azr1583277379565.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=bag1715626582402.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Email Security",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:24Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/bag1715626582402.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=bbj1698278387700.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Shared Access",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:31Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/bbj1698278387700.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=bcy1583277350761.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Recipient Roles",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:31Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/bcy1583277350761.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=bhs1740099648152.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "License Management in Account Administration",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:26Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/bhs1740099648152.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=bja1583277435075.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Update Multiple Users through a Bulk Action",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:27Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/bja1583277435075.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=bjh1583277352580.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Sending Settings",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:31Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/bjh1583277352580.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=bnc1661539776975.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Signing Groups Permission Access Levels",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:28Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/bnc1661539776975.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=bog1583277373884.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Bulk Transfer of Envelopes and Templates with a CSV File",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:33Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/bog1583277373884.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=bot1583277404151.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Purge Queue and Notifications",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:32Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/bot1583277404151.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=bqb1744142468604.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Manage Your IAM Plan",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:22Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/bqb1744142468604.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=btt1594673504460.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create and Manage Agreement Rules",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:37Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/btt1594673504460.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=bxf1583277438312.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Examples of User List Downloads",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:27Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/bxf1583277438312.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=bxg1658437206892.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Administrative Actions and Related Permissions",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:28Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/bxg1658437206892.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=bxo1583277344678.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Change Brands Assigned to Groups",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:29Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/bxo1583277344678.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=byg1583277338658.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add a Signing Brand for Recipients",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:24Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/byg1583277338658.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=bzr1583359141662.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Domains",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:38Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/bzr1583359141662.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=cex1583277417267.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Stamps",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:25Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/cex1583277417267.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=cfa1733760394819.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Identity Verification Configurations﻿ for Liveness Detection for Simple and Advanced Signatures",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:35Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/cfa1733760394819.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=cfb1652366420238.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Search for Users",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:26Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/cfb1652366420238.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=chp1583277361564.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Delete Permission Profiles",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:28Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/chp1583277361564.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=chp1744141521429.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Upgrade from an eSignature Plan to an IAM Plan",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:22Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/chp1744141521429.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=cim1716240857171.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "User Invitation and Activation Process",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:26Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/cim1716240857171.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=ciy1583277407858.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Enable Stamps to be Used for Accounts",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:25Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/ciy1583277407858.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=cnn1583277397175.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Integrations",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:36Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/cnn1583277397175.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=cno1583277333030.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Advanced Configuration for Signing Brands",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:24Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/cno1583277333030.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=cnw1598646827061.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Connect an Application",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:38Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/cnw1598646827061.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=con136df38a-18a8-4c57-9d7c-69d9e8e9d9cd.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "ID Verification with IC-chip Reading for Japan Configuration",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:36Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/con136df38a-18a8-4c57-9d7c-69d9e8e9d9cd.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=con1b98f947-485d-4855-b66f-97000e633a3a.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "ID Verification for EU Qualified Configuration",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:34Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/con1b98f947-485d-4855-b66f-97000e633a3a.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=con2a7e04ae-10a8-4b2e-bc30-68067b6c8618.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "AI Tools in the Signing Experience",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:30Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/con2a7e04ae-10a8-4b2e-bc30-68067b6c8618.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=con427cc6d7-6044-4e8b-aaff-a2a09cbf69ae.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "ID Verification for NYCRR500 Compliance Configuration",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:35Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/con427cc6d7-6044-4e8b-aaff-a2a09cbf69ae.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=con9458a66a-d468-4931-8679-46bb3fe0367f.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "User Password Reset with the AI Agent",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:26Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/con9458a66a-d468-4931-8679-46bb3fe0367f.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=cond86bd297-3f9b-4473-a54f-875ae9286957.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Responsive Signing Optimize View Setting for Administrators",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:30Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/cond86bd297-3f9b-4473-a54f-875ae9286957.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=cpw1583277357995.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Signature Styles",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:31Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/cpw1583277357995.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=cpx1599852519793.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Agreement Rules Modification",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:37Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/cpx1599852519793.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=crp1583277382187.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Document Custom Fields",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:34Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/crp1583277382187.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=csa1583277405898.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Custom Logos and Specify Brand Colors",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:24Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/csa1583277405898.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=ctp1661539662041.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Shared Access Permission Access Levels",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:28Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/ctp1661539662041.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=ctr1717097479649.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Review Seat Requests From Users",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:23Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/ctr1717097479649.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=cuj1583277384946.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Reports and Envelope Custom Fields",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:34Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/cuj1583277384946.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=cuv1583277363488.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Groups",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:29Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/cuv1583277363488.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=cwz1663702052434.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Sample Default Legal Disclosure",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:33Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/cwz1663702052434.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=cym1583277376006.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Transfer Templates from Your Account",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:33Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/cym1583277376006.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=dct1583277369801.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Users and Groups Management",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:26Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/dct1583277369801.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=ddd1660785625415.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Share Access with Other Users",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:27Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/ddd1660785625415.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=ddf1583277339628.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Delete Signing Brands",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:24Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/ddf1583277339628.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=dhc1646154755378.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Agreement Rules Logs",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:37Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/dhc1646154755378.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=dhy1646610015070.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Recipient Identification Using Bank Logins",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:35Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/dhy1646610015070.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=dnh1583277456343.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Identity Verification Configurations",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:34Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/dnh1583277456343.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=dpc1583277401793.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Update Your Account Name and Address",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:23Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/dpc1583277401793.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=dqc1583277355406.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure Signature Adoption Options",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:30Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/dqc1583277355406.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=drn1583277425195.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Resend Activation Emails to Pending New Users",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:26Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/drn1583277425195.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=dsy1583277442868.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Set Default Email Notification Preferences for New Users",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:29Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/dsy1583277442868.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=dsz1583277358168.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Signature Adoption Configuration",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:30Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/dsz1583277358168.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=eat1583277361347.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add and Copy Permission Profiles",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:28Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/eat1583277361347.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=ebi1583277352404.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Document Sources",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:31Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/ebi1583277352404.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=edh1583277351016.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Templates",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:31Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/edh1583277351016.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=eiv1661542707163.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Document Retention Permission Access Levels",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:28Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/eiv1661542707163.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=emp1638237872959.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Signature Pads",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:31Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/emp1638237872959.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=emu1593207862708.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Bulk Add New Users",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:38Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/emu1593207862708.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=erp1583277407535.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Specify Post-Signing Destinations",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:25Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/erp1583277407535.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=ett1690403409655.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Activate Identity Verification Configurations﻿",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:36Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/ett1690403409655.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=eya1583277454804.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Identity Verification Configurations",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:34Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/eya1583277454804.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=ffj1708642939873.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Try an Add-On for Free",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:23Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/ffj1708642939873.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=fko1583277371787.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Transfer of Envelopes and Templates to Account Users",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:32Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/fko1583277371787.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=fnh1654559601241.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Turn Off KBA in a New Identity Verification Configuration",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:35Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/fnh1654559601241.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=fov1583277421582.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Assign Groups to Stamps",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:25Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/fov1583277421582.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=fqn1583277414453.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Edit Stamps",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:25Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/fqn1583277414453.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=frb1583277400628.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Docusign Account Settings Overview Page",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:21Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/frb1583277400628.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=frq1583277404325.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Document Retention",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:32Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/frq1583277404325.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=fti1583277399373.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Provide Feedback in Docusign Community",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:21Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/fti1583277399373.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=fub1583277412598.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Assignment of Users and Groups to Stamps",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:25Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/fub1583277412598.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=fur1583277359739.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Envelope Delivery",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:30Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/fur1583277359739.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=fzj1738097706732.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Connect",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:36Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/fzj1738097706732.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=ggp1715622165552.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Set Draft Envelope Retention Periods",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:32Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/ggp1715622165552.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=gih1583277347533.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Delegated Permissions",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:28Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/gih1583277347533.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=goc1583277441501.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Manage Envelope Sharing Among Users",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:27Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/goc1583277441501.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=gqi1583277401551.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Account Administrator Notifications",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:21Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/gqi1583277401551.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=gqm1583277374771.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Transfer of Envelopes",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:33Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/gqm1583277374771.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=gso1583359141256.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Claim a Domain",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:38Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/gso1583359141256.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=gsr1583277453390.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Edit the Default Legal Disclosure",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:33Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/gsr1583277453390.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=gsw1583277453155.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use a Brand Company Name in the Electronic Record and Signature Disclosure",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:33Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/gsw1583277453155.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=gvk1750157423662.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Risk-Based Verification Configuration",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:35Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/gvk1750157423662.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=gxu1583277378267.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Delete Custody Transfer Rules",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:32Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/gxu1583277378267.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=haf1593211353978.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "User List Exports",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:38Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/haf1593211353978.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=hdd1583277363122.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Delete Groups",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:29Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/hdd1583277363122.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=hek1583277342739.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Reset the Default Docusign Sending Brand",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:24Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/hek1583277342739.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=hfx1583277360853.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "View Users Assigned to Permission Profiles",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:27Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/hfx1583277360853.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=hgz1583277369467.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Delete Signing Groups",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:29Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/hgz1583277369467.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=hkq1583277357154.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Minimum Pixel Size",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:31Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/hkq1583277357154.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=hkz1583277370453.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Email Archive Addresses",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:31Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/hkz1583277370453.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=hqw1726085705155.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Access Account Administration Settings from Your Docusign Account",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:21Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/hqw1726085705155.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=hsc1744145551916.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Capacity for an IAM Plan",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:22Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/hsc1744145551916.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=hsj1690403483909.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Copy Identity Verification Configurations",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:35Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/hsj1690403483909.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=htt1583277369178.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Edit or View Signing Groups",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:29Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/htt1583277369178.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=hvs1583277346278.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Administrator Permissions",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:28Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/hvs1583277346278.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=hxu1592870438489.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "eSignature Value Calculator",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:25Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/hxu1592870438489.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=hzy1594673444380.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Automate Common Post-Signature Tasks With Agreement Actions",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:37Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/hzy1594673444380.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=iab1652809474209.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Download a Sample CSV File for the Add Users Bulk Action",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:27Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/iab1652809474209.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=iby1583277366335.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Assign Brands to Groups",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:29Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/iby1583277366335.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=icf1708642963951.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Buy an Add-On",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:23Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/icf1708642963951.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=ick1708642781940.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add-Ons to Your Subscription",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:23Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/ick1708642781940.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=iiq1682212661387.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Cross-Origin Resource Sharing for Applications",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:36Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/iiq1682212661387.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=iiz1583277332597.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Customize Header and Footer Links",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:25Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/iiz1583277332597.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=ijc1583277417078.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "What the Signer Sees When Using Stamps",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:25Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/ijc1583277417078.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=imk1656607611659.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Manage Shared Access to Envelopes",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:27Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/imk1656607611659.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=inl1583277459789.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "eNote Credentials",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:36Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/inl1583277459789.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=ipm1583277400373.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Direct Access to Account Administration Settings",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:21Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/ipm1583277400373.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=irr1699904537705.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Turn Off Account Discovery",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:24Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/irr1699904537705.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=iuq1583277427270.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Reactivate Users",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:26Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/iuq1583277427270.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=iuy1583277419370.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Assign Users to Stamps",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:25Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/iuy1583277419370.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=iuz1642975470453.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Delegation",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:30Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/iuz1642975470453.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=ixb1583277365937.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "User Management",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:26Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/ixb1583277365937.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=jbc1666049037612.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "PDF/A Conversion and Compliance",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:31Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/jbc1666049037612.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=jca1583277369608.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Signing Groups Administration",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:29Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/jca1583277369608.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=jfa1744145901711.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Cancel Your IAM Subscription",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:22Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/jfa1744145901711.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=jku1583277398537.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Bulk Actions Log",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:37Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/jku1583277398537.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=jmn1740414695882.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "View Subscription and Usage",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:22Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/jmn1740414695882.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=jmr1703363228042.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Identity Verification for FINTRAC Compliance",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:36Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/jmr1703363228042.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=joi1583277428502.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "CSV File Format for User Additions",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:27Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/joi1583277428502.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=jpa1583277351277.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Envelope Correct",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:31Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/jpa1583277351277.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=jpz1583277424305.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Users to Accounts",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:26Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/jpz1583277424305.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=jrx1583277385322.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Signing and Sending",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:29Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/jrx1583277385322.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=jub1589318086105.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Domains",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:38Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/jub1589318086105.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=jux1679004702413.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Find Templates Where a Removed User Is a Recipient or Signer",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:26Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/jux1679004702413.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=jwk1593209395373.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Bulk Update Users",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:38Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/jwk1593209395373.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=jwu1731890669598.1.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Identity Verification Configurations for Phone Authentication",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:35Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/jwu1731890669598.1.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=jwu1731890669598.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Identity Verification Configurations for Phone Authentication",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:37Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/jwu1731890669598.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=jxh1593210657819.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Build a CSV to Bulk Update Users",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:38Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/jxh1593210657819.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=kcb1583277378645.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Purging Envelopes",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:32Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/kcb1583277378645.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=kjy1583277371217.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Reactivate Email Archive Addresses",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:32Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/kjy1583277371217.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=kkl1663020114594.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "API Usage Center for eSignature Developers",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:37Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/kkl1663020114594.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=kla1705531597804.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Manage Seats in Your Subscription",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:22Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/kla1705531597804.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=kvt1583277461283.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "View and Export the Audit Logs",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:37Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/kvt1583277461283.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=kwe1745022773920.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Bulk Uploads to Update License Assignments for Users",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:26Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/kwe1745022773920.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=kxd1583277413822.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Remove Users and Groups from Stamps",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:25Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/kxd1583277413822.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=kyl1661539199379.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Connect Permission Access Levels",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:28Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/kyl1661539199379.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=kzt1583277327503.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Define Security Settings",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:23Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/kzt1583277327503.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=lfr1583277366660.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Brands",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:24Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/lfr1583277366660.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=lgm1583277370706.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "View the History for Email Archive Addresses",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:32Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/lgm1583277370706.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=lgw1686301721729.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Remove Signature Types",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:36Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/lgw1686301721729.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=lir1583277460060.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add eNote Credentials",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:37Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/lir1583277460060.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=ltj1583277460266.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Edit or Delete eNote Credentials",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:37Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/ltj1583277460266.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=ltt1589833679552.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Set Signing Brand Languages",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:25Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/ltt1589833679552.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=lue1583277359885.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Signing Settings",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:29Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/lue1583277359885.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=lut1644434676152.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Set Password Rules",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:24Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/lut1644434676152.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=lva1583277327185.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Account Profile",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:23Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/lva1583277327185.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=lvx1583277454347.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Enable Comments on Envelopes",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:34Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/lvx1583277454347.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=lyr1583277364866.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Reset User Passwords",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:26Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/lyr1583277364866.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=mat1583277377998.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Disable or Enable Custody Transfer Rules",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:32Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/mat1583277377998.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=mbg1583277362677.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Groups",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:29Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/mbg1583277362677.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=mee1606866850692.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Prevent Access to Personal Docusign Accounts",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:38Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/mee1606866850692.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=mfo1583277335304.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Enable the Electronic Record and Signature Disclosure for Your Account",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:33Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/mfo1583277335304.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=mfo1583277360424.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Permission Profile Options",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:28Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/mfo1583277360424.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=mhs1741642403695.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create a Docusign Support Case from the Help Menu",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:21Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/mhs1741642403695.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=mlm1645719108809.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add a VAT or GST Number to Accounts",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:22Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/mlm1645719108809.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=moe1583277322917.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "What Is a Docusign Account?",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:21Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/moe1583277322917.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=mtb1732061156936.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "View Your Account Subscription",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:22Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/mtb1732061156936.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=muh1583277327950.1.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Authentication Settings",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:38Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/muh1583277327950.1.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=muh1583277327950.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Authentication Settings",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:23Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/muh1583277327950.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=mvm1583277436708.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Download User Lists and Permission Profiles",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:27Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/mvm1583277436708.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=mvu1583277383029.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Custom Fields to Envelopes",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:34Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/mvu1583277383029.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=mxm1583277431469.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "User Bulk Actions",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:26Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/mxm1583277431469.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=naj1686300753902.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Change the Order of Signature Types Available to Senders for Envelope Creation",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:36Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/naj1686300753902.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=nfw1583277366851.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Account Settings",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:21Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/nfw1583277366851.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=ngj1583277448218.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Download a CSV File of Envelope or Template Information",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:33Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/ngj1583277448218.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=njf1750155136303.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Risk-Based Verification Configuration",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:35Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/njf1750155136303.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=njp1583359138365.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Docusign Single Sign-On Overview",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:38Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/njp1583359138365.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=nkj1583359134234.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create an Organization",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:38Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/nkj1583359134234.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=nnb1583277412312.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Generate a Stamp Using Shachihata (Japanese Version Only)",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:25Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/nnb1583277412312.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=nvf1648497452396.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "View the Bulk Actions Log",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:37Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/nvf1648497452396.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=nyk1742475721499.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Identity Verification Configurations for Japanese IDs",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:35Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/nyk1742475721499.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=odr1583277453624.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Settings to Allow Comments on Documents and Envelopes",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:34Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/odr1583277453624.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=odt1743803573103.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "IAM Plans",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:21Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/odt1743803573103.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=oeq1701991218229.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Account Discovery",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:24Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/oeq1701991218229.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=oes1583277328190.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "General Authentication Settings",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:23Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/oes1583277328190.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=okg1583277354516.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Document Date and Time Format",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:30Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/okg1583277354516.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=onc1583277380729.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Envelope Expiration",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:34Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/onc1583277380729.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=owk1719445912945.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Envelopes and Seats for Plans Purchased Online",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:22Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/owk1719445912945.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=pel1679345889295.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use the Template Report to Find Templates Where a Removed User Is a Recipient or Signer",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:26Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/pel1679345889295.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=pgo1583277399109.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Major Sections of Docusign Account Administration",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:21Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/pgo1583277399109.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=ply1661539719027.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Reporting Permission Access Levels",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:28Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/ply1661539719027.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=pmp1583277397015.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Apps and Keys",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:36Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/pmp1583277397015.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=poe1725403720043.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Envelope Download",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:30Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/poe1725403720043.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=pof1583277362435.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Permission Profiles",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:27Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/pof1583277362435.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=psr1715011261710.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Electronic Seal Administration",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:29Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/psr1715011261710.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=ptl1654559627796.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Turn Off KBA in an Existing Identity Verification Configuration",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:35Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/ptl1654559627796.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=pyx1678128186236.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Identity Verification Configurations for EU Qualified Electronic Signatures",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:34Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/pyx1678128186236.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=qaq1746735180030.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "View Your Organization Administrators",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:23Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/qaq1746735180030.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=qbb1583277443154.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Related User Guides",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:31Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/qbb1583277443154.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=qfv1583277383755.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Edit Custom Fields for Envelopes",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:34Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/qfv1583277383755.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=qgo1583277323320.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Multiple Docusign Account Administrators",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:21Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/qgo1583277323320.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=qgz1713823940160.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Regional Signature Validators and the Docusign Seal",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:30Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/qgz1713823940160.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=qjb1661539813627.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Stamps Permission Access Levels",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:29Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/qjb1661539813627.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=qjp1732061199260.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Update Your Account Subscription",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:22Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/qjp1732061199260.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=qor1583277385137.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Custom Fields for Envelopes",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:34Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/qor1583277385137.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=qrk1583277404564.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Resources Related to Document Retention and Purging",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:32Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/qrk1583277404564.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=qrk1646610617740.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Turn Off Bank Login Identity Verification for a Specific Country or Region",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:35Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/qrk1646610617740.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=qsi1583277450851.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Transfer Sent Envelopes",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:33Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/qsi1583277450851.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=qsr1583277446998.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Transfer Ownership of Envelopes and Templates Between Users",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:32Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/qsr1583277446998.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=quz1654557525377.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Recipient Identification Using Knowledge-Based Authentication (KBA)",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:35Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/quz1654557525377.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=qzx1583277361124.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "View and Edit Permission Profiles",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:27Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/qzx1583277361124.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=rdu1583277368001.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Signing Groups",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:29Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/rdu1583277368001.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=rga1593054537902.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Display Language Values",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:38Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/rga1593054537902.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=rgk1583277353500.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Signing Experience Settings",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:30Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/rgk1583277353500.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=rgw1583277335923.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Signing Brand Company Name",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:33Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/rgw1583277335923.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=rmy1690403357985.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Deactivate Identity Verification Configurations﻿",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:36Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/rmy1690403357985.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=rqq1583277382027.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Delete Document Custom Fields",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:34Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/rqq1583277382027.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=rra1583277381176.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Reminders and Expirations - Account Defaults",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:33Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/rra1583277381176.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=rzj1583277377711.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Envelope Custody Transfer Rules",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:32Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/rzj1583277377711.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=sfp1583277438486.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "User Lists and Permission Profiles Downloads",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:27Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/sfp1583277438486.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=shx1583277429436.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "CSV File Format for User Updates",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:27Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/shx1583277429436.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=shy1583277370204.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Email Archive Configuration View",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:31Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/shy1583277370204.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=sko1583277326930.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Plan and Billing Information",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:21Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/sko1583277326930.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=sle1593057084011.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Update User Email Addresses",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:38Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/sle1593057084011.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=slx1583277403913.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Set Document Retention Periods",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:32Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/slx1583277403913.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=srv1583277356044.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Signing Options Limits",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:30Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/srv1583277356044.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=swo1648237648476.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Subscribe to Account Administrator Email Notifications",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:21Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/swo1648237648476.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=sza1583277442325.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Download Permission Profiles Data",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:28Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/sza1583277442325.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=tad1583277330037.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Destination URLs for Post-Signing Navigation",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:25Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/tad1583277330037.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=task-8446.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Reset User Passwords with the AI Agent",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:26Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/task-8446.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=tbf1583277425453.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "View or Edit a User",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:26Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/tbf1583277425453.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=tde1583277415096.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Delete Stamps",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:25Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/tde1583277415096.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=tes1661539690800.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Envelope Transfer Permission Access Levels",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:28Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/tes1661539690800.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=tfs1583277354215.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Options for Envelope Recipients",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:30Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/tfs1583277354215.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=tif1583359135245.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Organizations",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:38Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/tif1583359135245.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=tjn1583277343997.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Assign Brands to Groups",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:29Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/tjn1583277343997.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=tkw1583277347981.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Define Sending Settings",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:31Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/tkw1583277347981.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=tkx1648575795345.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Export to Spreadsheet Action",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:37Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/tkx1648575795345.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=tqb1583277374517.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Custody Transfer Rules for Envelopes",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:33Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/tqb1583277374517.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=tsk2fcf9245-97f7-473b-a0e8-3d32656f967d.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Turn Off the AI Tools for Signing Setting in Account Administration",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:30Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/tsk2fcf9245-97f7-473b-a0e8-3d32656f967d.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=tsk7fec762f-d47a-4a55-9710-678c6684a9aa.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Change the AI Data Controls Setting for an Account",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:25Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/tsk7fec762f-d47a-4a55-9710-678c6684a9aa.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=tsk92d2cf56-3d67-462e-b1bc-73fe3fbde25e.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Customize your Docusign ID Verification with IC-chip Reading for Japan Configuration",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:35Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/tsk92d2cf56-3d67-462e-b1bc-73fe3fbde25e.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=tska76f96ed-e87c-46b4-a014-e1190771e6d2.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "View Feature Usage",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:22Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/tska76f96ed-e87c-46b4-a014-e1190771e6d2.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=tskb0f0fbe1-8be0-4099-87a0-e2150c720000.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "View the ID Verification for NYCRR500 Compliance read-only configuration",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:35Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/tskb0f0fbe1-8be0-4099-87a0-e2150c720000.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=tskf0815d30-802b-4c1e-aef1-6a34c1233f09.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Identity Verification Configuration with CLEAR",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:35Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/tskf0815d30-802b-4c1e-aef1-6a34c1233f09.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=tskfe329305-15fb-46b5-af90-24a8e89a63b5.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Download an Invoice",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:22Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/tskfe329305-15fb-46b5-af90-24a8e89a63b5.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=tuw1583277327743.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Account Security",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:23Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/tuw1583277327743.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=typ1583277362264.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Permission Profiles Data in CSV Format",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:28Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/typ1583277362264.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=ubq1583277336391.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create and Edit Custom Electronic Records and Signature Disclosures",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:33Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/ubq1583277336391.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=ucq1583277457764.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Delete Identity Verification Configurations",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:36Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/ucq1583277457764.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=uio1686302663212.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Set the Default Signature Type",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:36Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/uio1686302663212.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=ukx1583277433205.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Multiple Users through Bulk Actions",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:26Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/ukx1583277433205.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=uml1583277325331.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "View Plan and Billing Information",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:21Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/uml1583277325331.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=uod1583277366502.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Topics Related to Configuring and Using Brands",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:24Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/uod1583277366502.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=uqb1583359141519.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Additional Information for Claiming Domains",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:39Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/uqb1583359141519.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=uqh1583277442597.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Email Preferences",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:29Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/uqh1583277442597.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=uqn1725403701960.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Docusign Seal",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:30Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/uqn1725403701960.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=uqo1652284379256.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Disable Comments on Envelopes",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:34Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/uqo1652284379256.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=usm1658251082653.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create an Agreement Rule to Create Another Envelope",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:37Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/usm1658251082653.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=uwb1583277426266.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Remove Users from Accounts",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:26Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/uwb1583277426266.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=uwh1583277457043.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Edit Identity Verification Configurations",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:35Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/uwh1583277457043.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=uzg1583277438725.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Envelope Sharing Between Account Users",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:27Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/uzg1583277438725.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=vcm1744144329235.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Switch Your IAM Plan",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:22Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/vcm1744144329235.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=vit1583277397519.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Audit Logs",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:37Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/vit1583277397519.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=vkq1583277322201.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Introduction to Docusign Account Administration",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:21Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/vkq1583277322201.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=vsh1583277329131.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "User Personal Information",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:24Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/vsh1583277329131.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=vyz1583277376194.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Transfer of Envelopes and Templates Between Users",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:32Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/vyz1583277376194.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=vzr1648575860068.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Start Workflow Action",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:37Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/vzr1648575860068.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=wat1583277427901.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Default Language Values for CSV Upload File",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:27Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/wat1583277427901.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=wbh1599607019871.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Archive To Action",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:37Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/wbh1599607019871.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=wcx1583277362899.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Rename a Group",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:29Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/wcx1583277362899.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=wec1593211169952.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Build a CSV to Bulk Add Users",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:38Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/wec1593211169952.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=wfj1661539843707.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Users and Groups Permission Access Levels",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:29Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/wfj1661539843707.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=wjk1705531666684.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Reduce the Number of Seats in Your Subscription",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:22Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/wjk1705531666684.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=wjq1669418756360.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Shared Access Events in Audit Logs",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:27Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/wjq1669418756360.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=wkx1717097417753.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Seat Request Management",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:23Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/wkx1717097417753.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=wqg1596767500566.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create an Agreement Rule",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:37Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/wqg1596767500566.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=wvk1583277402362.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Set Up Custom Help Contacts",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:23Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/wvk1583277402362.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=wyk1583277329566.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Time Zone, Date Format, and Language",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:24Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/wyk1583277329566.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=wyw1660833684014.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "View or Remove Shared Access with a User",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:27Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/wyw1660833684014.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=wzi1583277342486.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Customize Sending Brand Header and Footer Links",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:24Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/wzi1583277342486.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=wzx1705531793663.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Increase the Number of Seats in Your Subscription",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:23Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/wzx1705531793663.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=xcj1743796915919.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Seats, Envelopes, and Add-Ons for Plans Purchased from a Sales Representative",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:22Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/xcj1743796915919.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=xdk1583277356612.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Default Mode for Signature Adoption",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:31Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/xdk1583277356612.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=xfs1583277328406.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Access Codes",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:23Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/xfs1583277328406.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=xgg1583277350154.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Fields and Properties",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:31Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/xgg1583277350154.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=xjm1583277371373.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Email Archive Configuration",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:31Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/xjm1583277371373.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=xlh1583277384045.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Delete Envelope Custom Fields",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:34Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/xlh1583277384045.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=xlq1583277370944.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Close Email Archive Addresses",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:32Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/xlq1583277370944.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=xob1685524149026.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Signature Types",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:36Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/xob1685524149026.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=xoj1648237468517.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Administrator Email Notification Subscriptions",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:21Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/xoj1648237468517.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=xpa1703363262722.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Activate the Identity Verification for FINTRAC Compliance",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:36Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/xpa1703363262722.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=xpg1583277398727.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Logs of Account Changes and Bulk Actions",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:37Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/xpg1583277398727.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=xqx1583277378404.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Custody Transfer Rules",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:32Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/xqx1583277378404.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=xvp1583277452361.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Transfer Shared Envelopes",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:33Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/xvp1583277452361.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=xyt1583277373629.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Transfer Envelopes and Templates Between Users",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:32Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/xyt1583277373629.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=xzx1653866087362.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure the Authentication Failure Redirect Page",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:36Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/xzx1653866087362.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=yeq1686228229315.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Signature Types",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:36Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/yeq1686228229315.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=yfn1583277328637.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Password Security",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:23Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/yfn1583277328637.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=ynk1583359206013.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Connected Apps",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:38Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/ynk1583359206013.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=yph1583277445642.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Locate and Purge Envelopes for a Signer or Sender",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:32Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/yph1583277445642.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=yqi1583277353239.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Define Signing Settings",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:30Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/yqi1583277353239.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=yqs1583277358930.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Signature Adoption and Format",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:30Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/yqs1583277358930.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=ytp1583277409740.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Upload Stamps",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:25Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/ytp1583277409740.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=yum1583277332870.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Resource Files",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:25Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/yum1583277332870.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=yuz1583277329300.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Security Settings",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:23Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/yuz1583277329300.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=yzk1583277339390.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Set Default Signing Brands",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:24Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/yzk1583277339390.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=zah1583359147774.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Setting a User Login Policy",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:38Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/zah1583359147774.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=zcd1651786477391.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Replace a Brand With the Resource File of Another Brand",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:24Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/zcd1651786477391.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=zei1583277449323.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Transfer Envelopes and Templates in Bulk with a CSV File",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:33Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/zei1583277449323.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=zgm1638238193525.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Differences in Signing with a Signature Pad",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:31Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/zgm1638238193525.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=zjl1583277333205.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "What can you configure for signing and sending brands?",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:24Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/zjl1583277333205.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=znw1583277367219.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Signing Groups Overview",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:29Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/znw1583277367219.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=zoa1644444718595.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Set Watermarks",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:30Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/zoa1644444718595.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=zoz1583277340848.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Customize Themes for Sending Brands",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:24Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/zoz1583277340848.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=zsf1583277381771.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Edit Custom Fields from Documents",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:34Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/zsf1583277381771.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=zso1648238657482.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Manage Your Subscription to Account Administrator Email Notifications",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:21Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/zso1648238657482.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=zsq1583277359502.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Supplemental Documents",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:30Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/zsq1583277359502.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=ztg1583277323451.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Access to Docusign Account Administration",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:21Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/ztg1583277323451.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=zun1661539748163.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Security Settings Permission Access Levels",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:28Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/zun1661539748163.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=zuo1583277376422.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Envelope Custody Transfer Rules",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:32Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/zuo1583277376422.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=zus1583277381502.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create Custom Fields for Documents",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:34Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/zus1583277381502.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=zya1654558048963.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create an Identity Verification Configuration with Only KBA",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:35Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/zya1654558048963.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=zzj1584562722803.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Custom Messages to the Banner",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:23Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/zzj1584562722803.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pik1583277475390&topicId=zzo1583277336171.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Default Electronic Record and Signature Disclosure Customization",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:38:33Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pik1583277475390/zzo1583277336171.md"
+    }
+  ]
+}

@@ -1,0 +1,1746 @@
+{
+  "generated_at": "2026-06-18T23:38:46Z",
+  "source": "docusign-scraper",
+  "pages": [
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ulp1643236876813&topicId=alk1578456282186.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Field Properties",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:11:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ulp1643236876813/alk1578456282186.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ulp1643236876813&topicId=crk1578456412036.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Documents to an Envelope",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:11:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ulp1643236876813/crk1578456412036.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ulp1643236876813&topicId=dlv1578456270921.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Align Fields",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:11:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ulp1643236876813/dlv1578456270921.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ulp1643236876813&topicId=dyh1578456260672.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Sign a Document",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:11:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ulp1643236876813/dyh1578456260672.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ulp1643236876813&topicId=ezn1578456259592.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Welcome to Docusign",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:11:15Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/ulp1643236876813/ezn1578456259592.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ulp1643236876813&topicId=fna1578456503209.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Optional Fields",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:11:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ulp1643236876813/fna1578456503209.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ulp1643236876813&topicId=ilj1578456480955.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Set Signing Order and View the Order Diagram",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:11:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ulp1643236876813/ilj1578456480955.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ulp1643236876813&topicId=jar1578456351432.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Recipients",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:11:16Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/ulp1643236876813/jar1578456351432.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ulp1643236876813&topicId=jmf1578456409198.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Related Topics",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:11:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ulp1643236876813/jmf1578456409198.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ulp1643236876813&topicId=jwm1578456503575.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Visibility of Read-Only Fields",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:11:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ulp1643236876813/jwm1578456503575.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ulp1643236876813&topicId=kcb1578456479440.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Set a Signing Order",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:11:16Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/ulp1643236876813/kcb1578456479440.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ulp1643236876813&topicId=kgk1630452863687.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Log In to Your Docusign Account",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:11:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ulp1643236876813/kgk1630452863687.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ulp1643236876813&topicId=kww1578456275056.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Edit Field Properties",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:11:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ulp1643236876813/kww1578456275056.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ulp1643236876813&topicId=lak1578456412477.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Sending Documents for Signature",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:11:16Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/ulp1643236876813/lak1578456412477.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ulp1643236876813&topicId=lek1578456504446.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Read-Only Fields",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:11:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ulp1643236876813/lek1578456504446.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ulp1643236876813&topicId=lyi1578456502456.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Required and Optional Fields",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:11:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ulp1643236876813/lyi1578456502456.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ulp1643236876813&topicId=mpf1578456350875.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Messages",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:11:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ulp1643236876813/mpf1578456350875.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ulp1643236876813&topicId=odn1578456409392.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Fields to Documents",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:11:16Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/ulp1643236876813/odn1578456409392.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ulp1643236876813&topicId=oeg1578456408976.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Preview and Send",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:11:16Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/ulp1643236876813/oeg1578456408976.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ulp1643236876813&topicId=oiu1578456458990.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "System Requirements",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:11:15Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/ulp1643236876813/oiu1578456458990.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ulp1643236876813&topicId=pah1578456451991.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "The Signing Experience",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:11:17Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "support/ulp1643236876813/pah1578456451991.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ulp1643236876813&topicId=pun1578456504279.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Read-Only Fields to a Document",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:11:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ulp1643236876813/pun1578456504279.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ulp1643236876813&topicId=rav1578456503065.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Make a Field Optional",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:11:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ulp1643236876813/rav1578456503065.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ulp1643236876813&topicId=rex1578456503702.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Field Types With a Read-Only Option",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:11:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ulp1643236876813/rex1578456503702.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ulp1643236876813&topicId=skq1578456501994.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Field Types With a Required Option",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:11:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ulp1643236876813/skq1578456501994.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ulp1643236876813&topicId=spo1578456459828.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Supported Languages",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:11:15Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ulp1643236876813/spo1578456459828.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ulp1643236876813&topicId=sqo1578456318623.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "How to Add Recipients",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:11:16Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/ulp1643236876813/sqo1578456318623.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ulp1643236876813&topicId=ubz1578456491180.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add a Message to All Recipients",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:11:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ulp1643236876813/ubz1578456491180.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ulp1643236876813&topicId=ugr1578456275295.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Basic Field Properties",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:11:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ulp1643236876813/ugr1578456275295.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ulp1643236876813&topicId=uvb1578456455634.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Get to Know Docusign",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:11:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ulp1643236876813/uvb1578456455634.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ulp1643236876813&topicId=uwk1578456325571.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use the Contacts List to Add Recipients",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:11:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ulp1643236876813/uwk1578456325571.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ulp1643236876813&topicId=vds1578456270396.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Fields to a Document",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:11:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ulp1643236876813/vds1578456270396.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ulp1643236876813&topicId=vfk1578456408630.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Field Types",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:11:16Z",
+      "chunks": 8,
+      "has_content": true,
+      "markdown_path": "support/ulp1643236876813/vfk1578456408630.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ulp1643236876813&topicId=voe1578456350694.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Private Messages to Individual Recipients",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:11:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ulp1643236876813/voe1578456350694.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ulp1643236876813&topicId=wab1578456491723.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Remove a Private Message",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:11:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ulp1643236876813/wab1578456491723.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ulp1643236876813&topicId=wpl1578456263594.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add a Document to an Envelope",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:11:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/ulp1643236876813/wpl1578456263594.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=ulp1643236876813&topicId=ync1727285786817.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "eSignature Basic Terminology",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:11:16Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/ulp1643236876813/ync1727285786817.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=bat1578456393880.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Merge Fields in the Template Message Subject to Customize Envelopes",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:26Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/bat1578456393880.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=bbm1578456625528.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Check and Set Matching Behavior on a Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:28Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/bbm1578456625528.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=bfz1578456402250.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Folders for Shared Templates",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:27Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/bfz1578456402250.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=brp1660583998599.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Welcome to Web Forms",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:28Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/brp1660583998599.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=cik1578456605580.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Delete a Template You Own",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:27Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/cik1578456605580.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=clw1578456603100.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Download a Document From a Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:26Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/clw1578456603100.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=dfu1578456291276.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Locked items on a template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:27Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/dfu1578456291276.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=dok1578456403210.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Search for a Shared Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:27Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/dok1578456403210.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=dqj1578456412286.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Working With Templates",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:26Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/dqj1578456412286.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=dzg1578456370393.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Cancel Changes When Editing a Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:27Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/dzg1578456370393.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=eel1578456606185.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Deleting Templates for Administrators",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:27Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/eel1578456606185.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=efl1578456294755.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create, Edit, and Delete Folders",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:28Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/efl1578456294755.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=ega1578456608438.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Example Searches",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:27Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/ega1578456608438.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=elb1578456401151.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Remove a Template From a Shared Template Folder",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:27Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/elb1578456401151.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=elr1578456623909.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Related topics",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:28Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/elr1578456623909.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=epp1578456404448.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Locate Templates",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:27Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/epp1578456404448.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=eqx1578456602156.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Specify Sender Permission Settings for a Field",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:26Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/eqx1578456602156.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=esj1578456395591.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Protect Your Shared Templates",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:27Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/esj1578456395591.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=fhg1578456290990.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add a Template to an Envelope",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:27Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/fhg1578456290990.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=fwk1578456600433.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Specify the Template Usage Option",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:26Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/fwk1578456600433.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=gdk1578456601514.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Specify Recipient Modification Settings",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:26Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/gdk1578456601514.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=gdz1578456609353.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "When Can I Merge Recipients?",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:28Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/gdz1578456609353.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=ggo1578456394726.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add a Password to a Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:26Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/ggo1578456394726.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=goi1578456371791.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Template Passwords",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:27Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/goi1578456371791.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=gsz1578456308195.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Limit Changes to Templates and Template Fields",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:26Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/gsz1578456308195.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=guh1578456296073.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Move a Template Into a Folder",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:28Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/guh1578456296073.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=hjz1578456397317.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Share a Template With a User or Group",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:27Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/hjz1578456397317.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=hqu1578456395263.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Change or Remove a Template Password",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:26Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/hqu1578456395263.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=huu1578456612903.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Include or Exclude Templates From Template Matching",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:28Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/huu1578456612903.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=hvk1578456307812.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Recipient Modification Settings",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:26Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/hvk1578456307812.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=iaq1578456372471.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Templates with PowerForms",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:27Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/iaq1578456372471.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=jjd1578456627966.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Download and Upload Templates",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:28Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/jjd1578456627966.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=kaj1578456293129.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Search for a Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:27Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/kaj1578456293129.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=kjb1578456404736.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Templates",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:27Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/kjb1578456404736.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=lkl1578456604127.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Related topics",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:26Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/lkl1578456604127.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=lrh1578456401532.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Share Templates",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:27Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/lrh1578456401532.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=lsg1578456368117.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "How To Create a Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:26Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/lsg1578456368117.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=lxh1578456624053.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Set Template Matching Behavior",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:28Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/lxh1578456624053.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=mdr1578456623463.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Set Custom IDR Zones",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:28Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/mdr1578456623463.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=moa1578456402483.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use a Shared Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:27Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/moa1578456402483.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=mpq1578456404101.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Using Shared Templates",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:27Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/mpq1578456404101.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=mud1578456606421.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Deleting a template with an associated PowerForm",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:27Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/mud1578456606421.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=muu1578456610944.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "How to Merge Duplicate Recipients",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:28Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/muu1578456610944.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=myq1578456404593.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Related topics",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:27Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/myq1578456404593.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=nxv1578456289719.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use a Template to Create an Envelope",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:27Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/nxv1578456289719.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=omh1578456603868.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Download Individual Pages From a Template Document",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:26Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/omh1578456603868.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=opk1578456289004.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Complete Templates",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:27Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/opk1578456289004.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=opp1578456626879.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Download Templates",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:28Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/opp1578456626879.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=oqb1611172929107.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create a Template and Add Pre-fill Fields",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:26Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/oqb1611172929107.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=oxu1578456609566.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Can I Merge Different Roles?",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:28Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/oxu1578456609566.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=oxv1578456598913.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Template Basics",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:26Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/oxv1578456598913.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=poy1578456398194.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Shared Template Folders",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:27Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/poy1578456398194.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=prv1578456606781.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Delete Templates",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:27Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/prv1578456606781.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=qen1578456401396.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Related topics",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:27Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/qen1578456401396.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=tba1578456393017.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create a Template with Merge Fields for Bulk Send",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:26Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/tba1578456393017.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=tcn1578456371535.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Template History",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:27Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/tcn1578456371535.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=tnn1578456627813.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Common Use Cases",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:28Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/tnn1578456627813.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=tzv1578456604253.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Download Template Documents",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:26Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/tzv1578456604253.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=uab1578456394214.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create Templates",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:26Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/uab1578456394214.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=uvw1578456369720.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Edit a Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:27Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/uvw1578456369720.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=wbk1578456299248.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Template Modification Settings",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:26Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/wbk1578456299248.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=wkm1578456373568.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Merge Fields to a Template Message Subject",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:26Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/wkm1578456373568.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=wux1578456611310.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Merging Duplicate Recipients",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:28Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/wux1578456611310.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=wws1578456368842.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Copy a Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:26Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/wws1578456368842.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=xgc1578456399690.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Sharing Templates by Adding Them to a Shared Template Folder",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:27Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/xgc1578456399690.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=xjd1578456403940.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Identify Who Owns a Shared Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:28Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/xjd1578456403940.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=xnd1578456308051.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Sender Permission Field Properties",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:26Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/xnd1578456308051.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=xns1578456372645.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Edit Templates",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:26Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/xns1578456372645.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=xoq1578456627577.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Upload Templates",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:28Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/xoq1578456627577.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=xwo1578456395432.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Template Passwords",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:26Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/xwo1578456395432.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=xzv1578456623686.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Template Matching Considerations",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:28Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/xzv1578456623686.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=ykc1578456292087.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Template Collections",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:27Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/ykc1578456292087.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=ynt1578456599846.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Specify Template Modification Settings",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:26Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/ynt1578456599846.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=yww1578456609051.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Locate a Template ID",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:28Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/yww1578456609051.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=zak1578456296231.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Template Folders",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:28Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/zak1578456296231.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=zak1578456299489.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Template Usage Options",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:26Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/zak1578456299489.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=xry1643227563338&topicId=zpv1578456404275.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Related topics",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:19:27Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/xry1643227563338/zpv1578456404275.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=aas1646334384936.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Sign Through an SMS Text Notification",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:45Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/aas1646334384936.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=abb1578679305324.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Download or Print a Supplement From an Email Notification",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:45Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/abb1578679305324.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=abm1573854992359.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Complete the Signing Session",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:45Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/abm1573854992359.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=anf1573854985078.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Freeform Signing",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:45Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/anf1573854985078.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=ava1696596479046.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Sign Documents With the Signer-Held Mexican SAT Qualified Certificate",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:46Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/ava1696596479046.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=cfh1573855008547.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Save or Print Document Supplements",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:45Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/cfh1573855008547.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=chd1715195344747.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Signer-Held Digital Certificates Example",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:46Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/chd1715195344747.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=cpc1747074018261.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Sign a Document with Data Verification Address Auto-Suggestion Fields",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:45Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/cpc1747074018261.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=ctc1573855014359.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Upload Signed Documents",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:45Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/ctc1573855014359.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=dga1573854990297.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Adopt Your Signature",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:45Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/dga1573854990297.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=dqx1653912396942.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Sign With the Evrotrust Trust Service Provider to Issue Qualified Electronic Signatures in the European Union",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:46Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/dqx1653912396942.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=dvd1751051359819.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Docusign AI-Assisted Signing Features",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:44Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/dvd1751051359819.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=fqo1573855017663.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Decline To Sign an Envelope",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:45Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/fqo1573855017663.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=gmv1634333991091.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Sign a Document Received through Email",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:44Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/gmv1634333991091.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=gum1573855008188.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "How Do I Handle Supplemental Documents?",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:45Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/gum1573855008188.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=hic1573854992515.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Information to Documents",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:44Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/hic1573854992515.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=hxl1594246065723.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Digital Signatures for Enhanced Agreement Security",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:46Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/hxl1594246065723.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=ivg1573855015484.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Fax Your Documents",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:45Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/ivg1573855015484.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=jxh1573855003469.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "View Comments and Replies Through the Notification Center",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:45Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/jxh1573855003469.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=ljq1573855001125.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Comments To Ask and Answer Questions About a Document",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:45Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/ljq1573855001125.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=lou1573854977109.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Docusign eSignature Signing Process",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:44Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/lou1573854977109.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=lpb1607560293943.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Sign Documents With Signer-Held Digital Certificates",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:46Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/lpb1607560293943.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=ltr1631215267154.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Document Mark Up To Negotiate Changes",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:45Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/ltr1631215267154.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=mbg1573854981921.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Verify Your Identity",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:44Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/mbg1573854981921.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=mnk1573855001422.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "View Comments and Replies",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:45Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/mnk1573855001422.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=mrs1573855013078.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Change Your Signature",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:45Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/mrs1573855013078.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=mvo1597869792951.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Drawings to Documents You Sign",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:45Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/mvo1597869792951.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=myf1663337058692.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Sign With the A-Trust Trust Service Provider (TSP) to Issue Qualified Electronic Signatures (QES) in the European Union",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:46Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/myf1663337058692.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=nbl1573854991156.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Attachments to a Document to Provide Supporting Information",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:45Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/nbl1573854991156.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=ocw1639176426115.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Sign as a Delegated Signer",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:45Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/ocw1639176426115.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=odv1749750673856.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Verify a Signature Request",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:44Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/odv1749750673856.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=oud1687889413195.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Install the Docusign Browser Extension and PKI Application on Microsoft Edge",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:46Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/oud1687889413195.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=oxc1687889259474.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Install the Docusign Browser Extension and PKI Application on Mozilla Firefox",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:46Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/oxc1687889259474.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=pas1597872182396.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Additional Signing Actions",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:45Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/pas1597872182396.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=pcq1630402787015.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Sign With the DigiCert QuoVadis Trust Service Provider to Issue Qualified Electronic Signatures in the Netherlands and the European Union",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:46Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/pcq1630402787015.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=qdy1573854987499.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Other Signing Actions",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:45Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/qdy1573854987499.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=qnt1706208125301.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Data Verification Issues for Signing",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:45Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/qnt1706208125301.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=qtp1635247113600.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Sign With IDnow - EU Qualified to Issue GwG Compliant and Qualified Electronic Signatures﻿",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:46Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/qtp1635247113600.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=spi1696604140420.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "There was an unexpected fault (I get an error while using My SAT certificate )",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:46Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/spi1696604140420.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=stx1745592232844.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Supported Languages for Signing",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:44Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/stx1745592232844.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=szd1651082001008.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Sign a Document With Supplements",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:45Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/szd1651082001008.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=thx1573854978578.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "System Requirements for Signing",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:44Z",
+      "chunks": 9,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/thx1573854978578.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=tir1687888983224.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Install the Docusign Browser Extension and PKI Application on Google Chrome",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:46Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/tir1687888983224.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=tpz1620246007465.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Why Can't I Change My Signature?",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:45Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/tpz1620246007465.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=tsk6e687574-8446-4b7a-9674-4136bc248a06.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Search for Text in a Document",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:44Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/tsk6e687574-8446-4b7a-9674-4136bc248a06.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=uec1690221505200.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Report Abuse or Fraudulent Activity",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:45Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/uec1690221505200.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=uin1573855010064.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Change Signing Responsibility",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:45Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/uin1573855010064.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=ukt1742396525044.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "IDnow GwG Compliant and Qualified Electronic Signatures",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:46Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/ukt1742396525044.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=und1710507404637.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Sign With the UAE PASS",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:46Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/und1710507404637.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=uwx1573854978359.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Get Started on the Docusign Signing Welcome Page",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:44Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/uwx1573854978359.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=vyg1698168078020.1.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Sign a Document With Data Verification Fields",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:45Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/vyg1698168078020.1.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=vyg1698168078020.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Sign a Document With Data Verification Fields",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:46Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/vyg1698168078020.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=wdr1573855014901.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Print and Sign Documents",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:45Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/wdr1573855014901.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=xhc1615577299246.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Sign With Singpass",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:46Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/xhc1615577299246.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=ygd1618248813570.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Why Do I Keep Getting Email Reminders to Sign with Docusign ?",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:45Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/ygd1618248813570.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=yhj1686759861406.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Select Your Default eSignature Account",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:44Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/yhj1686759861406.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=yzu1573855023673.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Sign Part 11 Module Enabled Documents",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:46Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/yzu1573855023673.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=zac1573854978796.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Accessibility at Docusign",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:44Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/zac1573854978796.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=zhb1615567467223.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Sign With itsme",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:46Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/zhb1615567467223.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=yca1573855023892&topicId=zyl1706284885148.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Access your Docusign Account with a Passkey",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T23:14:44Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/yca1573855023892/zyl1706284885148.md"
+    }
+  ]
+}
