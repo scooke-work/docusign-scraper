@@ -22,6 +22,7 @@ from urllib.request import Request, urlopen
 
 from .config import Config
 from .extract import get_extractor
+from .fetcher import FetchResult
 
 
 def _path_prefix(url: str) -> str:
@@ -52,7 +53,7 @@ def _try_sitemap(seed_url: str, config: Config) -> List[str]:
     return out
 
 
-def discover_urls(seed_url: str, config: Config, fetch: Callable[[str], str]) -> List[str]:
+def discover_urls(seed_url: str, config: Config, fetch: Callable[[str], FetchResult]) -> List[str]:
     """Return an ordered, de-duplicated list of URLs to scrape (incl. the seed).
 
     ``fetch`` renders a URL to HTML (typically ``BrowserFetcher.fetch``); it is
@@ -68,7 +69,11 @@ def discover_urls(seed_url: str, config: Config, fetch: Callable[[str], str]) ->
             return ordered[: config.max_pages]
 
     # General path: BFS over rendered-page nav links, bounded by host + prefix.
-    prefix = _path_prefix(seed_url) if host == "developers.docusign.com" else None
+    # The prefix is derived from the seed's *final* (post-redirect) URL on the
+    # first fetch, so a redirecting seed (e.g. navigator-api -> agreement-manager-api)
+    # still bounds the crawl to the section it actually landed on.
+    dev = host == "developers.docusign.com"
+    prefix = None
     seen: Set[str] = set()
     ordered: List[str] = []
     queue: deque[str] = deque([seed_url])
@@ -78,12 +83,18 @@ def discover_urls(seed_url: str, config: Config, fetch: Callable[[str], str]) ->
         if url in seen:
             continue
         seen.add(url)
-        ordered.append(url)
         try:
-            html = fetch(url)
+            res = fetch(url)
         except Exception:
             continue
-        for link in get_extractor(url, html).extract().nav_links:
+        final = res.final_url
+        if final in seen and final != url:  # redirected onto an already-seen page
+            continue
+        seen.add(final)
+        if dev and prefix is None:
+            prefix = _path_prefix(final)
+        ordered.append(final)
+        for link in get_extractor(final, res.html).extract().nav_links:
             lp = urlparse(link)
             if lp.netloc != host:
                 continue

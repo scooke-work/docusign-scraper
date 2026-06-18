@@ -17,6 +17,7 @@ from __future__ import annotations
 
 import hashlib
 import time
+from dataclasses import dataclass
 from pathlib import Path
 from typing import Optional
 from urllib.parse import urlparse
@@ -42,6 +43,20 @@ SALESFORCE_ERROR_MARKERS = ("Sorry to interrupt", "CSS Error")
 
 class TransientRenderError(RuntimeError):
     """Raised when a page rendered into a known error/loader state."""
+
+
+@dataclass
+class FetchResult:
+    """Rendered HTML plus the URL the browser actually landed on.
+
+    ``final_url`` differs from the requested URL when the site redirects (e.g.
+    ``/docs/navigator-api/`` -> ``/docs/agreement-manager-api/``). Callers should
+    use ``final_url`` as the canonical identity for output and dedup so content
+    is never mislabeled with the pre-redirect URL.
+    """
+
+    html: str
+    final_url: str
 
 
 class BrowserFetcher:
@@ -84,18 +99,26 @@ class BrowserFetcher:
         return self.config.cache_dir / host / f"{digest}.html"
 
     # -- fetching ----------------------------------------------------------
-    def fetch(self, url: str) -> str:
-        """Return rendered HTML for ``url`` (cache-first)."""
+    def fetch(self, url: str) -> FetchResult:
+        """Return rendered HTML + final (post-redirect) URL for ``url``.
+
+        Cache-first: the resolved ``final_url`` is persisted in a ``.url`` sidecar
+        next to the cached HTML so redirects survive cache hits. Pre-sidecar
+        caches fall back to the requested URL.
+        """
         cache_path = self._cache_path(url)
+        meta_path = cache_path.with_suffix(".url")
         if self.config.use_cache and cache_path.exists():
-            return cache_path.read_text(encoding="utf-8")
+            final_url = meta_path.read_text(encoding="utf-8").strip() if meta_path.exists() else url
+            return FetchResult(cache_path.read_text(encoding="utf-8"), final_url or url)
 
         self._respect_rate_limit()
-        html = self._render(url)
+        html, final_url = self._render(url)
 
         cache_path.parent.mkdir(parents=True, exist_ok=True)
         cache_path.write_text(html, encoding="utf-8")
-        return html
+        meta_path.write_text(final_url, encoding="utf-8")
+        return FetchResult(html, final_url)
 
     def _respect_rate_limit(self) -> None:
         elapsed = time.monotonic() - self._last_nav
@@ -110,7 +133,7 @@ class BrowserFetcher:
         wait=wait_fixed(2),
         reraise=True,
     )
-    def _render(self, url: str) -> str:
+    def _render(self, url: str) -> tuple[str, str]:
         host = urlparse(url).netloc
         selector = CONTENT_READY_SELECTORS.get(host, DEFAULT_READY_SELECTOR)
 
@@ -128,10 +151,11 @@ class BrowserFetcher:
                 pass
 
             html = page.content()
+            final_url = page.url or url
             if any(marker in html for marker in SALESFORCE_ERROR_MARKERS) and (
                 "slds-rich-text" not in html and "article" not in html.lower()
             ):
                 raise TransientRenderError(f"Loader/error shell still present for {url}")
-            return html
+            return html, final_url
         finally:
             page.close()

@@ -24,8 +24,8 @@ def scrape_url(url: str, config: Config) -> dict:
     with BrowserFetcher(config) as fetcher, OutputWriter(
         config.out_dir, config.output_format, config.append
     ) as writer:
-        html = fetcher.fetch(url)
-        record = _process_url(url, html, config, writer)
+        res = fetcher.fetch(url)
+        record = _process_url(res.final_url, res.html, config, writer)
     return record
 
 
@@ -36,11 +36,15 @@ def scrape_crawl(seed_url: str, config: Config) -> List[dict]:
     ) as writer:
         urls = discover_urls(seed_url, config, fetcher.fetch)
         records = []
+        seen_final = set()
         for url in urls:
             try:
-                html = fetcher.fetch(url)
+                res = fetcher.fetch(url)
             except Exception as exc:  # noqa: BLE001 - record and continue
                 records.append({"source_url": url, "error": str(exc), "has_content": False})
                 continue
-            records.append(_process_url(url, html, config, writer))
+            if res.final_url in seen_final:  # two requests redirected to same page
+                continue
+            seen_final.add(res.final_url)
+            records.append(_process_url(res.final_url, res.html, config, writer))
     return records
