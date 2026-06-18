@@ -1,10 +1,9 @@
-playwright>=1.44
-beautifulsoup4>=4.12
-lxml>=5.0
-markdownify>=0.12
-tenacity>=8.2
-pyyaml>=6.0
-# optional: accurate token counts for chunks; falls back to a heuristic if absent
-tiktoken>=0.7
-# dev/test only
-pytest>=8.0
+# Dependencies are declared in pyproject.toml. This file installs the package
+# (and its runtime deps) so `pip install -r requirements.txt` keeps working.
+#
+#   Runtime only:        pip install -r requirements.txt
+#   Dev + token counts:  pip install -e '.[dev,tokens]'
+#   Then (required):     python -m playwright install chromium
+#
+# Or just run:  make setup
+-e .

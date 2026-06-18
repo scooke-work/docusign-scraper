@@ -1,0 +1,2356 @@
+{
+  "generated_at": "2026-06-18T17:24:01Z",
+  "source": "docusign-scraper",
+  "pages": [
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=aak1747679824594.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Approved Apps",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:55:05Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/aak1747679824594.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=ach1724363496037.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Download Documents from the Agreement List Table",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:27:32Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/ach1724363496037.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=adf1702945446135.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Agreement Manager Overview and Onboarding",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:52:10Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/adf1702945446135.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=ahg1742251814403.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Job Monitoring for Agreement Uploads and Processing",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:33:02Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/ahg1742251814403.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=ahu1702944631418.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Agreement Manager for Contract Managers and Analyzers",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:23:13Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/ahu1702944631418.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=aif1751068986497.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Reporting Bugs and Unexpected Issues FAQ",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:54:00Z",
+      "chunks": 8,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/aif1751068986497.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=arm1738168238587.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Access Your Completed Envelopes and Documents",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:20:22Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/arm1738168238587.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=art1702945261900.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Case: Locate Non-Disclosure Agreements (NDAs) for a Customer",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:23:55Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/art1702945261900.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=ask1749568023897.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Import Documents from Email Attachments",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:31:30Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/ask1749568023897.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=ato1712248318394.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Enter Values for Empty Attribute Fields",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:29:42Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/ato1712248318394.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=bec1702945765624.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Agreements Dashboard",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:34:20Z",
+      "chunks": 10,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/bec1702945765624.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=bkt1740757069317.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Access Docusign Apps",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:56:57Z",
+      "chunks": 8,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/bkt1740757069317.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=bmm1703025356925.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Case: Give Groups Permission to View All Agreements in an Account",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:22:58Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/bmm1703025356925.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=bpv1742428468463.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "IAM Party Hub",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:49:05Z",
+      "chunks": 10,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/bpv1742428468463.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=bqq1734490394449.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "View Obligations at the Party Level",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:38:46Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/bqq1734490394449.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=brh1742456493450.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "View Obligations for Selected Parties and Groups",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:49:50Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/brh1742456493450.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=bti1750999198357.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Display the \"Sets\" Column in the Agreement List Table",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:42:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/bti1750999198357.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=buj1712251122371.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Renewal Notifications and Subscriptions",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:40:13Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/buj1712251122371.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=byx1727376126901.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "File Ingestion from Third-Party Cloud Storage Providers",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:31:50Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/byx1727376126901.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=cfy1747077418341.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Agreement Type Definitions",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:44:03Z",
+      "chunks": 18,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/cfy1747077418341.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=cgn1740452596841.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Activate Your Custom Agreement Types",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:46:00Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/cgn1740452596841.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=chh1702944587769.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Case: Give Users Permission to View All Agreements in an Account",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:22:38Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/chh1702944587769.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=ciq1738201081422.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "View the Activity Log for an Agreement",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:51:25Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/ciq1738201081422.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=cnr1702944833994.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Case: View Agreements Associated with a Specific Party",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:23:13Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/cnr1702944833994.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=con0213702d-d2af-424a-9512-1dfae7765cc5.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Agreement Types Across the IAM Platform",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:43:42Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/con0213702d-d2af-424a-9512-1dfae7765cc5.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=con1b654754-bd6d-4fbd-ac0c-8c44a9b1d666.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Agreement Hierarchies",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:49:50Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/con1b654754-bd6d-4fbd-ac0c-8c44a9b1d666.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=con1fd61482-84a9-460b-a6d4-0ef254b9dcf4.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Brazilian Portuguese Language Support",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:20:46Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/con1fd61482-84a9-460b-a6d4-0ef254b9dcf4.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=con22821364-8601-4fc5-b768-e19f07c43462.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "IAM Agreement Types Manager",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:44:26Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/con22821364-8601-4fc5-b768-e19f07c43462.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=con348c8352-534d-4bd4-9469-626106da6206.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "English (U.S.) Language Support",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:21:28Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/con348c8352-534d-4bd4-9469-626106da6206.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=con36bb809c-725e-42fa-aeae-7b7e0f4faee4.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Overview Dashboard",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:33:59Z",
+      "chunks": 9,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/con36bb809c-725e-42fa-aeae-7b7e0f4faee4.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=con385b72ac-9d5b-4037-bf47-52d4d0a2cf97.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Japanese Language Support",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:22:28Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/con385b72ac-9d5b-4037-bf47-52d4d0a2cf97.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=con3951e9fb-5861-43ad-ba30-253db38295a0.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Rules for Updating the Spreadsheet File",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:32:11Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/con3951e9fb-5861-43ad-ba30-253db38295a0.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=con40b44395-1791-4003-be9b-cf241e2caaaf.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Party Management for CLM Accounts with IAM Plans",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:54:44Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/con40b44395-1791-4003-be9b-cf241e2caaaf.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=con44590246-0f0e-43b4-9692-caadb57335ac.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Agreement Manager Reprocessing Experience",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:50:20Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/con44590246-0f0e-43b4-9692-caadb57335ac.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=con4fe48181-6bd6-4a99-bd2e-0666cbd2373e.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "English (Global) Language Support",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:21:07Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/con4fe48181-6bd6-4a99-bd2e-0666cbd2373e.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=con6a3bd080-da17-4d1c-a92a-b9b9340c44fd.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Agreement Statuses",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:28:34Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/con6a3bd080-da17-4d1c-a92a-b9b9340c44fd.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=con6ab4c322-b97d-4c61-bafe-4b3c9b597e7b.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Docusign Agreement Manager for CLM",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:54:21Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/con6ab4c322-b97d-4c61-bafe-4b3c9b597e7b.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=con6d5894c2-11b7-4daa-bc02-556d9c8fb3f0.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "German Language Support",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:22:09Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/con6d5894c2-11b7-4daa-bc02-556d9c8fb3f0.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=con6f74f3c5-e52b-4611-9d7b-8455c97725b4.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Custom Agreement Type Extractions",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:45:39Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/con6f74f3c5-e52b-4611-9d7b-8455c97725b4.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=con7092ce57-207f-4d06-9228-c7bdd2ccff2a.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "IAM Fields Manager",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:45:18Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/con7092ce57-207f-4d06-9228-c7bdd2ccff2a.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=con81ceb393-75a9-4314-96ad-c3c97cad97b6.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Spanish Language Support (Mexico, Spain)",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:22:29Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/con81ceb393-75a9-4314-96ad-c3c97cad97b6.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=con81e64917-4912-40c5-a4aa-69f2053f312a.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Docusign Extension App Regional Availability",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:57:18Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/con81e64917-4912-40c5-a4aa-69f2053f312a.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=con8f35c78f-56b7-466c-91e6-c0ea7d03c516.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Docusign Workflow Templates in the App Center",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:56:36Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/con8f35c78f-56b7-466c-91e6-c0ea7d03c516.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=cona491d69c-2859-4515-882c-db04db58d439.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Docusign CLM Integration with the IAM Platform",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:52:55Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/cona491d69c-2859-4515-882c-db04db58d439.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=conac48cc6c-d92c-4187-a733-08968c218a74.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Custom Dashboards and Reports",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:36:44Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/conac48cc6c-d92c-4187-a733-08968c218a74.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=conb70da869-2165-47b3-89a5-e44371c76bb1.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Maintain Your Custom Extractions",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:47:50Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/conb70da869-2165-47b3-89a5-e44371c76bb1.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=conbd35fa9c-4ddb-4f01-be91-f55928fac98a.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "IAM Unified Search",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:20:46Z",
+      "chunks": 12,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/conbd35fa9c-4ddb-4f01-be91-f55928fac98a.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=conc4eecaf2-14e4-4da4-bfee-e912aa4a3e03.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Obligation Management for CLM Accounts with IAM Plans",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:54:24Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/conc4eecaf2-14e4-4da4-bfee-e912aa4a3e03.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=concb493b18-adf8-4fe5-8b99-dd90cbc28399.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Bulk Metadata Editing",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:32:11Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/concb493b18-adf8-4fe5-8b99-dd90cbc28399.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=concb8f3294-71f0-478b-a228-dcc29dfd433a.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Organization-Level Audit Log Events",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:53:58Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/concb8f3294-71f0-478b-a228-dcc29dfd433a.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=conce9d9428-f27e-49ad-9001-3c7a0820ae78.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Advanced Search Queries",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:26:23Z",
+      "chunks": 10,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/conce9d9428-f27e-49ad-9001-3c7a0820ae78.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=condece8d7e-2da8-4e5f-8ba4-3f0175c2a625.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Custom Field Extractions",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:46:44Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/condece8d7e-2da8-4e5f-8ba4-3f0175c2a625.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=cone0a9a7b7-39a4-49fe-bff7-235507a7a989.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "French Language Support",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:21:48Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/cone0a9a7b7-39a4-49fe-bff7-235507a7a989.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=cone7f31b50-43c1-40a1-b6ed-d7ae1425ce61.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Docusign FedRAMP-Certified Apps",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:57:20Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/cone7f31b50-43c1-40a1-b6ed-d7ae1425ce61.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=cpx1745434861979.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "View Assigned Obligations",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:38:46Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/cpx1745434861979.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=cqi1712248865333.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Download an Agreement",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:30:24Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/cqi1712248865333.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=crw1750785395994.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Manage Agreement Sets",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:42:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/crw1750785395994.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=csm1727128259486.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Obligation Management",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:38:17Z",
+      "chunks": 8,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/csm1727128259486.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=ctg1698170340729.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Install Apps in the Docusign App Center",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:53:37Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/ctg1698170340729.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=cvd1742251951627.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "View and Download Processing Results",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:33:38Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/cvd1742251951627.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=czx1712255764999.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Upload Documents to Agreement Manager",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:31:29Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/czx1712255764999.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=dak1742429856906.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "View the Overview Dashboard for Selected Parties and Groups",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:49:24Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/dak1742429856906.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=dgr1750785460659.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Delete an Agreement Set",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:43:00Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/dgr1750785460659.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=dmx1750998922002.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create Agreement Sets from the Agreement List Table",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:41:30Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/dmx1750998922002.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=dpj1702944516878.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Agreement Manager for Administrators",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:20:01Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/dpj1702944516878.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=dqi1712157626865.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Grant Users Access to Bulk Upload Documents",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:24:25Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/dqi1712157626865.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=eju1743473097788.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Agreement Manager Help FAQs",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:51:35Z",
+      "chunks": 21,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/eju1743473097788.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=eut1712157553977.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Agreement Manager Permissions, Profiles, and Roles",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:24:02Z",
+      "chunks": 10,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/eut1712157553977.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=fas1739987568042.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Natural Language Search Queries",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:26:14Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/fas1739987568042.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=fev1750785436374.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Edit Smart Filters for an Agreement Set",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:42:37Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/fev1750785436374.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=fjb1712255517076.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Apply Filters to Locate Agreements for Specific Parties",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:25:51Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/fjb1712255517076.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=fog1750877660436.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Refresh Agreements for New Data Points",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:50:41Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/fog1750877660436.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=fwg1749056504311.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Complete a Data Review for Extracted Obligations",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:29:42Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/fwg1749056504311.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=gao1702944481420.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Typical Agreement Manager Roles and Use Cases",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:22:29Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/gao1702944481420.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=ghx1734749900921.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "View Agreements for Selected Parties and Groups",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:49:28Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/ghx1734749900921.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=gke1727282238086.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure New Custom Agreement Types",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:45:39Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/gke1727282238086.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=hcn1736879099815.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Custom Fields to Agreement Types",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:46:44Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/hcn1736879099815.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=hjg1712251035061.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Renewals Management",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:39:52Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/hjg1712251035061.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=hno1706034267152.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure Docusign Apps in an Agreement Workflow",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:56:15Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/hno1706034267152.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=hqy1712251417672.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Manage Upcoming Renewals from Email Notifications",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:40:55Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/hqy1712251417672.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=hrr1722978886188.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Agreement Sharing and Downloads",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:30:03Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/hrr1722978886188.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=ibs1736186405759.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Remove Agreements from Existing Agreement Sets",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:41:51Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/ibs1736186405759.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=idk1736186497685.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Edit Agreement Set Details",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:42:37Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/idk1736186497685.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=isi1714606552015.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Verify User and Group Changes from the Audit Logs",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:24:46Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/isi1714606552015.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=iug1734742317393.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Monitor and Report on Renewals",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:36:44Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/iug1734742317393.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=izo1702945825083.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "View and Download an Agreement Report",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:34:41Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/izo1702945825083.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=jay1736181359265.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create an Agreement Set",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:41:20Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/jay1736181359265.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=jds1712087711816.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Case: Give Users Access to the Bulk Upload Function",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:23:13Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/jds1712087711816.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=jgf1727129110041.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Monitor and Report on Obligations",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:36:23Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/jgf1727129110041.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=joa1747684902707.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "View the Account-Level Activity Log",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:51:25Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/joa1747684902707.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=jyn1704248204281.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "General Limitations and Considerations for Agreement Manager",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:51:25Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/jyn1704248204281.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=jyq1749000353004.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "IAM Dashboards and Reports",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:33:38Z",
+      "chunks": 10,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/jyq1749000353004.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=kbv1702945287196.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Case: Filter Your Agreements By Contract Value and Expiration Date",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:23:55Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/kbv1702945287196.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=kcf1713200340695.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Perform a Search and Apply Filters to Locate Agreements",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:25:30Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/kcf1713200340695.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=kpg1722973773604.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Onboarding Callouts for First-Time Users",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:20:22Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/kpg1722973773604.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=kwc1749570593935.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Report Notifications and Subscriptions",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:37:39Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/kwc1749570593935.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=ldt1702945228863.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Case: View Active Agreements for a Customer",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:23:34Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/ldt1702945228863.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=leq1712700300298.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Bulk Upload Documents and Set Access Controls",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:31:30Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/leq1712700300298.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=ljy1744998611944.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Locate Docusign Apps for Your Workflow Processes",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:55:47Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/ljy1744998611944.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=lrq1702945573452.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Filter the Agreement List Table to Locate Documents",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:26:51Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/lrq1702945573452.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=lxo1726792845151.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Upload Documents from Cloud Storage Locations",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:31:51Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/lxo1726792845151.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=map1704218548543.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Docusign App Center Banner Messages and App Labels",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:55:26Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/map1704218548543.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=mut1702945643401.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "The Agreement Preview Page",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:29:13Z",
+      "chunks": 11,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/mut1702945643401.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=mwq1739988763563.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Locate Agreements by Asking Questions",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:26:14Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/mwq1739988763563.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=nez1737143575705.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Update the Agreement Type for an Agreement",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:29:42Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/nez1737143575705.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=nis1709931821078.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Subscribe to Renewal Reports",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:40:34Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/nis1709931821078.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=nme1745362346572.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create Custom Obligation Types",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:39:11Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/nme1745362346572.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=nmf1736186454475.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "View Agreements in a Set",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:42:09Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/nmf1736186454475.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=oct1747682633917.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Administrator: View and Manage Approved Apps",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:56:36Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/oct1747682633917.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=ogw1740503179389.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Test the Extraction Accuracy for Your Custom Agreement Types",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:46:00Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/ogw1740503179389.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=oio1745362270221.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Custom Obligation Types",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:38:50Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/oio1745362270221.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=osx1727376530640.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Customize and Save Reports for Future Use",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:35:43Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/osx1727376530640.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=pim1702945318869.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Case: Verify the Payment Terms for a Customer Agreement",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:23:55Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/pim1702945318869.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=pne1747684858805.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Agreement Manager Activity Logs",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:51:25Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/pne1747684858805.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=pqf1724363438241.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Export Data from the Agreement List Table",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:27:22Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/pqf1724363438241.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=pvb1736186431453.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Share an Agreement Set",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:42:09Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/pvb1736186431453.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=qal1734545813030.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Obligations Dashboard",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:36:02Z",
+      "chunks": 8,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/qal1734545813030.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=qke1713569186359.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Download the Upcoming Renewals Report",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:40:13Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/qke1713569186359.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=qkv1716320270335.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Reconnect a Docusign App Connection",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:55:26Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/qkv1716320270335.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=qqz1736879365551.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Filter Your Completed Documents for Custom Agreement Types",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:44:26Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/qqz1736879365551.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=qrh1702945502942.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Customize the Agreement List Table to Show Relevant Data",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:27:06Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/qrh1702945502942.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=qzl1712244340883.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Agreement Manager Search Capabilities",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:25:07Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/qzl1712244340883.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=rda1712255643166.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Remove Parties from Party Groups",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:49:04Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/rda1712255643166.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=rdi1736186285124.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Individual Agreements to Existing Agreement Sets",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:41:30Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/rdi1736186285124.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=ref436bc024-d3c5-4fc1-b189-a136c93f12e5.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "2025 Agreement Manager Release Notes",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:52:09Z",
+      "chunks": 25,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/ref436bc024-d3c5-4fc1-b189-a136c93f12e5.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=ref4dcc5ebd-8791-48fd-98e6-5c5d6bae7bc5.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Troubleshoot Spreadsheet Upload Errors",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:32:12Z",
+      "chunks": 10,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/ref4dcc5ebd-8791-48fd-98e6-5c5d6bae7bc5.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=ref806c15f9-968b-4c11-9317-7a9a4bff558a.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "2026 Agreement Manager Release Notes",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:52:09Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/ref806c15f9-968b-4c11-9317-7a9a4bff558a.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=refa47e5582-efd8-403b-b39c-45a0c05beb1f.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Formatting Requirements for Metadata Editing",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:32:12Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/refa47e5582-efd8-403b-b39c-45a0c05beb1f.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=refd4cde088-dbf7-4c32-b496-4c813af6a409.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "2024 Agreement Manager Release Notes",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:52:10Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/refd4cde088-dbf7-4c32-b496-4c813af6a409.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=rex1722973863996.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Agreement Manager Page Elements",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:20:35Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/rex1722973863996.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=rrf1727128588540.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Manually Create an Obligation",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:38:25Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/rrf1727128588540.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=rrs1712255668350.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Agreement Uploads and Ingestion",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:31:09Z",
+      "chunks": 11,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/rrs1712255668350.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=rsz1722973735168.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "AI Denotation in Agreement Manager",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:20:22Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/rsz1722973735168.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=rvb1745363543576.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Update Custom Obligation Types",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:39:11Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/rvb1745363543576.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=rvw1736364838500.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Processing Agreement Manager Agreements",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:50:18Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/rvw1736364838500.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=sah1712251075016.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Validate Renewal-Related Attribute Values for an Agreement",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:39:52Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/sah1712251075016.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=sbq1715657406212.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Search for and Merge Parties",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:48:56Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/sbq1715657406212.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=sbv1745363599095.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Hide Obligation Types",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:39:31Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/sbv1745363599095.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=scn1702945140281.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Agreement Manager for Contract Viewers and Preparers",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:23:34Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/scn1702945140281.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=smm1727282189861.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Standard Fields for Agreement and Non-Agreement Types",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:44:06Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/smm1727282189861.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=sqs1748881628076.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Display the Envelope ID in the Agreement List Table",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:27:06Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/sqs1748881628076.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=srq1712255787588.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "View Upload Results and Exceptions",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:33:17Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/srq1712255787588.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=ssf1712255476566.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Duplicate Party Management and Standardization",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:48:39Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/ssf1712255476566.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=swq1750785657450.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Update Share Settings for an Agreement Set",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:42:39Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/swq1750785657450.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=task-4983.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Display Clause Columns in the Agreement List Table",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:27:06Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/task-4983.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=task-5515.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Filter Your Agreements by Clause Language",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:27:06Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/task-5515.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tjm1712244379102.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Perform a Keyword Search to Locate Agreements",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:25:09Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tjm1712244379102.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tmk1741317734856.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Best Practice: Writing Definitions for AI Detection",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:47:50Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tmk1741317734856.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tsk02bd31a2-b125-4d53-b632-20d9972163a8.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Enable AI Detection for Your Custom Fields",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:46:44Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tsk02bd31a2-b125-4d53-b632-20d9972163a8.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tsk0830ea60-9b29-4efa-b73f-9eb15b2d6561.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create Custom Fields from the Agreement Preview",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:46:56Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tsk0830ea60-9b29-4efa-b73f-9eb15b2d6561.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tsk155b1ed7-7b45-43cd-be92-2a5279630c0f.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Customize Notification Settings for Your Completed Agreements",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:37:39Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tsk155b1ed7-7b45-43cd-be92-2a5279630c0f.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tsk15aecb4b-98ec-4b40-a739-61a3715cba02.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "View Envelope Details from the Agreement List Table",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:27:22Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tsk15aecb4b-98ec-4b40-a739-61a3715cba02.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tsk1b94afc6-712f-4d71-868e-0787867354d8.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Download the Pre-Formatted Spreadsheet File",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:32:32Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tsk1b94afc6-712f-4d71-868e-0787867354d8.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tsk1f4c26ae-7477-4293-8b06-b2354f54271c.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create a Hierarchy of Related Agreements",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:49:50Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tsk1f4c26ae-7477-4293-8b06-b2354f54271c.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tsk2093dc24-1da8-4393-b4cd-526990bc7118.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Auto-Suggestion to Create Custom Agreement Types",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:46:21Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tsk2093dc24-1da8-4393-b4cd-526990bc7118.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tsk2b607d22-c93f-4b21-be13-8f0e65b4f4dd.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Update Your Agreements to the Latest AI Model",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:50:44Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tsk2b607d22-c93f-4b21-be13-8f0e65b4f4dd.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tsk2dd26b48-d8d8-4054-80db-d27548629900.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Delete Custom Dashboards",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:37:30Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tsk2dd26b48-d8d8-4054-80db-d27548629900.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tsk34a013ae-ddd3-40b1-8b01-eadf535959a3.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create Custom Dashboards from Templates",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:37:13Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tsk34a013ae-ddd3-40b1-8b01-eadf535959a3.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tsk37e570f8-2428-4d26-a78b-b1239aca35a5.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Fields to Multiple Agreement Types",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:45:08Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tsk37e570f8-2428-4d26-a78b-b1239aca35a5.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tsk443eb55b-5980-4fa6-b145-e00b3415cdbe.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Activate Your Custom Fields",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:47:49Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tsk443eb55b-5980-4fa6-b145-e00b3415cdbe.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tsk57b92226-d6e4-4725-99c4-79ebf42e9f8b.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Display the Status Column in the Agreement List Table",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:28:34Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tsk57b92226-d6e4-4725-99c4-79ebf42e9f8b.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tsk5ab1cd5b-00f7-42a9-bd77-728baadff903.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Import Your Edited Metadata Spreadsheet",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:32:53Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tsk5ab1cd5b-00f7-42a9-bd77-728baadff903.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tsk62370c10-0d3b-4218-a325-4383b9d5f7cd.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Set Document-Level Notifications",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:28:14Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tsk62370c10-0d3b-4218-a325-4383b9d5f7cd.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tsk63a801de-59cb-4a65-ae4d-a866d34b11fb.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Opt-In for Party Clean Up",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:53:37Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tsk63a801de-59cb-4a65-ae4d-a866d34b11fb.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tsk63eff9dd-ec8e-4b6b-ae46-5abbfbddbe96.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "View Hierarchies for Selected Parties and Groups",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:49:57Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tsk63eff9dd-ec8e-4b6b-ae46-5abbfbddbe96.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tsk65a44f1f-d489-4d73-92c0-952f89035d91.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Edit Details for Selected Parties and Groups",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:49:50Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tsk65a44f1f-d489-4d73-92c0-952f89035d91.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tsk6f2903c9-7ae7-4ad5-8acd-1c4948c98d10.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Filter for Agreements by Specific Party Role",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:25:54Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tsk6f2903c9-7ae7-4ad5-8acd-1c4948c98d10.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tsk6f53c09e-3ef6-4bb5-8a5b-1121742d4155.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Update Custom Field Details",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:48:09Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tsk6f53c09e-3ef6-4bb5-8a5b-1121742d4155.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tsk70e560e8-5e5d-4738-8bb6-0b815994274f.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Update the Agreement Status for a Document",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:28:52Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tsk70e560e8-5e5d-4738-8bb6-0b815994274f.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tsk788b581e-b10b-41cc-818e-04108b62210c.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Download and Fix Your Metadata Validation Errors",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:32:53Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tsk788b581e-b10b-41cc-818e-04108b62210c.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tsk78ef32ef-890c-4e97-96e6-87f9a251d640.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Star Your Favorite Reports and Dashboards",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:33:59Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tsk78ef32ef-890c-4e97-96e6-87f9a251d640.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tsk79824e36-d51d-4477-a5ca-7228cde30fb2.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Find Custom Fields in Specific Documents",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:47:50Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tsk79824e36-d51d-4477-a5ca-7228cde30fb2.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tsk8259f5dd-c99a-457c-92b1-f22e10947539.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Filter the Agreement List Table by Status",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:28:34Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tsk8259f5dd-c99a-457c-92b1-f22e10947539.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tsk8710c3f2-c881-4219-96b0-2b287e8b4e03.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Edit the Metadata Spreadsheet",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:32:53Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tsk8710c3f2-c881-4219-96b0-2b287e8b4e03.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tsk88502378-1849-4e93-9f69-30ec01458bcf.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "View the Agreement Hierarchy for a Selected Document",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:49:57Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tsk88502378-1849-4e93-9f69-30ec01458bcf.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tska499f68f-bb3c-4d3e-84cf-66c68c38a3f8.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Combine Filters with an Advanced Query String",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:26:40Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tska499f68f-bb3c-4d3e-84cf-66c68c38a3f8.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tska721c00d-28c9-4949-9ff2-ad0ba7a3d0e8.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "View and Download an Overview Report",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:33:59Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tska721c00d-28c9-4949-9ff2-ad0ba7a3d0e8.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tskb5fc515f-a73d-4611-ac4b-db576656040e.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Delete the AI Setup for Custom Extractions",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:48:18Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tskb5fc515f-a73d-4611-ac4b-db576656040e.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tskb991328c-dc5f-4d45-9617-dada91a5672a.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Find Custom Agreement Types in Specific Documents",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:46:28Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tskb991328c-dc5f-4d45-9617-dada91a5672a.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tskbbe43778-7b32-4bf9-ba95-187ed5140ffd.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Remove Documents from the Agreement List Table",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:27:53Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tskbbe43778-7b32-4bf9-ba95-187ed5140ffd.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tskc13b6287-31ac-4687-8b35-b170680f50e0.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Refine the Detection for Custom Extractions",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:48:18Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tskc13b6287-31ac-4687-8b35-b170680f50e0.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tskc38121a1-bbf8-4da8-8ed7-b364991f7e50.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Save Search Criteria for Future Use",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:26:40Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tskc38121a1-bbf8-4da8-8ed7-b364991f7e50.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tskca2d74f2-823d-403d-84a6-d990537cd187.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Saved Searches to Find Agreement Data",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:26:40Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tskca2d74f2-823d-403d-84a6-d990537cd187.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tskcb56face-b8de-4cf9-85ce-6eac3669dd82.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Examples of Your Custom Fields",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:47:17Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tskcb56face-b8de-4cf9-85ce-6eac3669dd82.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tskd38465c6-c8c0-4588-bfb3-fdb6916a1926.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Examples of Your Custom Agreement Types",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:46:00Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tskd38465c6-c8c0-4588-bfb3-fdb6916a1926.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tskda96f0fc-0abb-4ac9-b138-c52e4e8ee713.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add and Remove Fields from Agreement Types",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:45:08Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tskda96f0fc-0abb-4ac9-b138-c52e4e8ee713.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tske5d68969-d052-4fd5-b50c-eb5bc8215e0a.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "View Your Buy-Side and Sell-Side Agreements",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:26:14Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tske5d68969-d052-4fd5-b50c-eb5bc8215e0a.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tske5fe1ad5-2832-4e6c-9177-f33a9ffade15.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Define Your Custom Agreement Types",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:45:39Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tske5fe1ad5-2832-4e6c-9177-f33a9ffade15.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tske7ac3afe-c04e-4acc-95b1-9f83b1b66ed5.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Review Job Results from the Notification Email",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:32:53Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tske7ac3afe-c04e-4acc-95b1-9f83b1b66ed5.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tske81e0c3b-34a3-4872-8ecf-e3a76a8950b5.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Delete Unused Custom Agreement Types",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:44:47Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tske81e0c3b-34a3-4872-8ecf-e3a76a8950b5.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tskf056e8d3-baa4-41f2-8f71-12d0bb5c735b.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Update Custom Dropdown Fields",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:48:09Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tskf056e8d3-baa4-41f2-8f71-12d0bb5c735b.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tskf1577eb7-c826-4181-8a66-d0e9ff353b86.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "View Report Data for Sets of Agreements",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:35:22Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tskf1577eb7-c826-4181-8a66-d0e9ff353b86.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tskf2e938fc-cb7f-4c65-a7bf-1cf1433722a2.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Manage Your Existing Hierarchies",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:49:57Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tskf2e938fc-cb7f-4c65-a7bf-1cf1433722a2.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tskf302fc1f-74d3-40be-8ca2-e9b038981aa9.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Build an Advanced Search Query",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:26:23Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tskf302fc1f-74d3-40be-8ca2-e9b038981aa9.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tskf92697bb-7331-42eb-bc1d-01defe89d61a.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create Custom Dashboards from Scratch",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:37:30Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tskf92697bb-7331-42eb-bc1d-01defe89d61a.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tskfa65c658-fd7d-4ce8-b26b-08a9ec950aad.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create Custom Reports from Scratch",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:37:13Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tskfa65c658-fd7d-4ce8-b26b-08a9ec950aad.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=tskfc9f9485-65b6-4a2c-95e3-15bd13ce8562.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create Custom Reports from Suggested Reports (Beta)",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:36:53Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/tskfc9f9485-65b6-4a2c-95e3-15bd13ce8562.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=twl1726764423921.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Install Cloud Storage Apps for Account Administrators",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:31:50Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/twl1726764423921.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=txb1736186243024.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Agreements to Sets Based on Applied Filters",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:41:30Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/txb1736186243024.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=ufn1713377137707.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "View Expiring Agreements for a Specific Party",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:35:01Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/ufn1713377137707.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=uhe1702944882951.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Case: View Auto-Renewal Agreements with Upcoming Expiration Dates",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:23:34Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/uhe1702944882951.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=uie1724446326038.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "IAM Agreement Type and Field Management",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:43:21Z",
+      "chunks": 10,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/uie1724446326038.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=upw1712255598663.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Review and Merge Duplicate Parties",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:48:56Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/upw1712255598663.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=uss1707173279973.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Docusign FAQs﻿ for AI",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:51:56Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/uss1707173279973.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=uwa1742362757142.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Update the Agreement Type for Selected Agreements",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:44:26Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/uwa1742362757142.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=uwk1702945852405.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Extracted Agreement Insights and Definitions",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:51:04Z",
+      "chunks": 12,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/uwk1702945852405.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=uzq1744241293689.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "The Parties List",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:49:05Z",
+      "chunks": 8,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/uzq1744241293689.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=vhx1743523538507.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Capabilities by Agreement Manager Permissions",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:24:02Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/vhx1743523538507.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=vir1712251054892.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Renewals Dashboard",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:36:23Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/vir1712251054892.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=vju1740452710836.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Custom Fields to Standard Agreement Types",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:52:31Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/vju1740452710836.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=vre1712247779437.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Data Review Onboarding Experience",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:29:34Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/vre1712247779437.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=vup1712157578500.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Grant Access to Agreement Manager Agreements",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:24:04Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/vup1712157578500.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=vyz1722979030156.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Share Agreements with Others",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:30:26Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/vyz1722979030156.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=wfw1734545937270.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Subscribe to Receive Report Notifications",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:37:56Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/wfw1734545937270.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=wjl1734648884390.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Manage Notification Subscriptions",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:37:56Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/wjl1734648884390.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=wjr1740452628309.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Test the Extraction Accuracy for Your Custom Fields",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:47:38Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/wjr1740452628309.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=xfa1730305265213.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Agreement Manager Release Notes",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:52:09Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/xfa1730305265213.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=xkg1702568563800.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use App Detail Pages to Learn About Docusign Apps",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:55:54Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/xkg1702568563800.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=xvp1729795957126.html&_LANG=enus&anchor=xvp1729795957126__section_sxx_xqz_ffc",
+      "site": "support.docusign.com",
+      "title": "Language and Regional Support",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:54:21Z",
+      "chunks": 10,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/xvp1729795957126.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=xxp1702944714273.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Case: Validate Suggested Attribute Values for Your Agreements",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:23:13Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/xxp1702944714273.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=xyw1716318604389.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Work with Docusign App Connections",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:55:54Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/xyw1716318604389.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=ycv1702944444424.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Benefits and Features of Agreement Manager",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:52:10Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/ycv1702944444424.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=yeo1576610114693.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Attribute Values to a Document in Docusign CLM",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:53:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/yeo1576610114693.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=yio1745434817207.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Assign Obligations to Team Members",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:38:25Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/yio1745434817207.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=yjz1702945473104.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "The Agreement List Table",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:26:51Z",
+      "chunks": 13,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/yjz1702945473104.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=ypm1727282359686.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Update Custom Agreement Type Details",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:48:09Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/ypm1727282359686.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=yqq1702945693043.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Validate Extracted Field Values (Complete a Data Review)",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:29:34Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/yqq1702945693043.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=yrx1747083411531.html&_LANG=enus&anchor=yrx1747083411531__section_c32_fc1_5fc",
+      "site": "support.docusign.com",
+      "title": "Custom Extractions",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:54:00Z",
+      "chunks": 9,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/yrx1747083411531.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=yuf1727801071281.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "View and Update Your Custom Reports",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:35:43Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/yuf1727801071281.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=yux1727128516004.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Manage Obligations at the Agreement Level",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:38:25Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/yux1727128516004.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=yyw1715611327267.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Access Renewing Agreements from the \" Completed Documents \" Page",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:39:53Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/yyw1715611327267.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=zal1712248843872.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Manage Agreement-Level Access",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:30:48Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/zal1712248843872.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=zed1730843285476.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Agreement Set Management",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:41:07Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/zed1730843285476.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=zsb1714159452358.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create Docusign App Connections",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:55:26Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/zsb1714159452358.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=zxa1698170686717.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Manage Apps in the Docusign App Center",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T15:57:41Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/pqz1702943441912/zxa1698170686717.md"
+    }
+  ]
+}

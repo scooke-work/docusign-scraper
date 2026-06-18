@@ -10,10 +10,21 @@ after the article has rendered.
 
 ## Install
 
+Requires Python 3.9+. One command on a fresh machine:
+
 ```bash
-pip install -r requirements.txt
-playwright install chromium
+make setup        # upgrades pip, installs the package + Chromium
 ```
+
+Or manually:
+
+```bash
+pip install -e '.[dev,tokens]'    # omit extras for a lean runtime: pip install -e .
+python -m playwright install chromium
+```
+
+This installs a `docusign-scraper` console command. Everywhere below you can use
+either `docusign-scraper ...` or `python -m scraper ...` interchangeably.
 
 ## Usage
 
@@ -55,6 +66,38 @@ output/
 
 Each `.md` has YAML frontmatter (`title`, `source_url`, `site`, `breadcrumb`,
 `scraped_at`) followed by the article in Markdown.
+
+### `data/` vs `output/`
+
+- **`data/`** is **committed** to git — the canonical scraped corpus that travels
+  with the repo, so a fresh clone has the dataset without re-scraping. Refresh it
+  with `make scrape-support` / `make scrape-api` (these write into `data/<set>/`).
+- **`output/`** is the **gitignored scratch** dir — the default `--out` target for
+  ad-hoc runs. The HTML cache (`.cache/`) is gitignored too.
+
+Currently committed under `data/`: `agreement-manager-api/` (28 pages) and
+`agreement-manager-support/` (235 pages).
+
+## Using inside another repo (git submodule)
+
+To consume this scraper + its `data/` corpus from a `cowork` (or any) project,
+add it as a submodule rather than copying the folder (a plain copy nests a repo
+inside a repo). From the parent repo:
+
+```bash
+git submodule add https://github.com/scooke-work/docusign-scraper.git docusign-scraper
+git commit -m "Add docusign-scraper submodule"
+```
+
+On another machine, clone the parent with submodules included:
+
+```bash
+git clone --recurse-submodules <parent-repo-url>
+# or, in an existing clone:
+git submodule update --init --recursive
+```
+
+Pull updates later with `git submodule update --remote docusign-scraper`.
 
 ## Architecture
 

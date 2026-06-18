@@ -1,0 +1,538 @@
+{
+  "generated_at": "2026-06-18T17:24:01Z",
+  "source": "docusign-scraper",
+  "pages": [
+    {
+      "source_url": "https://developers.docusign.com/docs/agreement-manager-api/",
+      "site": "developers.docusign.com",
+      "title": "Agreement Manager API overview",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Agreement Manager API"
+      ],
+      "scraped_at": "2026-06-18T14:17:04Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/agreement-manager-api.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/agreement-manager-api/auth/",
+      "site": "developers.docusign.com",
+      "title": "Authentication",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Agreement Manager API",
+        "Agreement Manager API",
+        "Authentication"
+      ],
+      "scraped_at": "2026-06-18T14:17:04Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/agreement-manager-api/auth.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/agreement-manager-api/concepts",
+      "site": "developers.docusign.com",
+      "title": "Agreement Manager Concepts",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Agreement Manager API",
+        "Agreement Manager API",
+        "Concepts"
+      ],
+      "scraped_at": "2026-06-18T14:17:04Z",
+      "chunks": 9,
+      "has_content": true,
+      "markdown_path": "docs/agreement-manager-api/concepts.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/agreement-manager-api/concepts/bulk-upload-agreements/",
+      "site": "developers.docusign.com",
+      "title": "Bulk upload agreements",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Agreement Manager API",
+        "Agreement Manager API",
+        "Concepts",
+        "Concepts",
+        "Bulk Upload Agreements"
+      ],
+      "scraped_at": "2026-06-18T14:17:04Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/agreement-manager-api/concepts/bulk-upload-agreements.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/agreement-manager-api/concepts/configure-agreement-queries/",
+      "site": "developers.docusign.com",
+      "title": "Configure agreement queries",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Agreement Manager API",
+        "Agreement Manager API",
+        "Concepts",
+        "Concepts",
+        "Configure Agreement Queries"
+      ],
+      "scraped_at": "2026-06-18T14:17:04Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/agreement-manager-api/concepts/configure-agreement-queries.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/agreement-manager-api/concepts/use-cases/",
+      "site": "developers.docusign.com",
+      "title": "Agreement Manager API use cases",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Agreement Manager API",
+        "Agreement Manager API",
+        "Concepts",
+        "Concepts",
+        "Use cases"
+      ],
+      "scraped_at": "2026-06-18T14:17:04Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/agreement-manager-api/concepts/use-cases.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/agreement-manager-api/concepts/what-is-agreement-manager/",
+      "site": "developers.docusign.com",
+      "title": "What is Agreement Manager",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Agreement Manager API",
+        "Agreement Manager API",
+        "Concepts",
+        "Concepts",
+        "What Is Agreement Manager"
+      ],
+      "scraped_at": "2026-06-18T14:17:04Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "docs/agreement-manager-api/concepts/what-is-agreement-manager.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/agreement-manager-api/concepts/work-with-agreement-manager-schema/",
+      "site": "developers.docusign.com",
+      "title": "Work with the Agreement Manager API schema",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Agreement Manager API",
+        "Agreement Manager API",
+        "Concepts",
+        "Concepts",
+        "Work With Agreement Manager Schema"
+      ],
+      "scraped_at": "2026-06-18T14:17:04Z",
+      "chunks": 11,
+      "has_content": true,
+      "markdown_path": "docs/agreement-manager-api/concepts/work-with-agreement-manager-schema.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/agreement-manager-api/go-live/",
+      "site": "developers.docusign.com",
+      "title": "Go-Live and API base paths",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Agreement Manager API",
+        "Agreement Manager API",
+        "Go-Live"
+      ],
+      "scraped_at": "2026-06-18T14:17:04Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "docs/agreement-manager-api/go-live.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/agreement-manager-api/how-to",
+      "site": "developers.docusign.com",
+      "title": "How-to guides overview",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Agreement Manager API",
+        "Agreement Manager API",
+        "How-to guides"
+      ],
+      "scraped_at": "2026-06-18T14:17:04Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/agreement-manager-api/how-to.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/agreement-manager-api/how-to/bulk-upload-agreements/",
+      "site": "developers.docusign.com",
+      "title": "How to bulk upload agreements",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Agreement Manager API",
+        "Agreement Manager API",
+        "How-to guides",
+        "How-to guides",
+        "Bulk Upload Agreements"
+      ],
+      "scraped_at": "2026-06-18T14:17:04Z",
+      "chunks": 12,
+      "has_content": true,
+      "markdown_path": "docs/agreement-manager-api/how-to/bulk-upload-agreements.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/agreement-manager-api/how-to/get-list-of-agreements/",
+      "site": "developers.docusign.com",
+      "title": "How to get a list of agreements",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Agreement Manager API",
+        "Agreement Manager API",
+        "How-to guides",
+        "How-to guides",
+        "Get List Of Agreements"
+      ],
+      "scraped_at": "2026-06-18T14:17:04Z",
+      "chunks": 8,
+      "has_content": true,
+      "markdown_path": "docs/agreement-manager-api/how-to/get-list-of-agreements.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/agreement-manager-api/how-to/get-specific-agreement/",
+      "site": "developers.docusign.com",
+      "title": "How to get a specific agreement",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Agreement Manager API",
+        "Agreement Manager API",
+        "How-to guides",
+        "How-to guides",
+        "Get Specific Agreement"
+      ],
+      "scraped_at": "2026-06-18T14:17:04Z",
+      "chunks": 8,
+      "has_content": true,
+      "markdown_path": "docs/agreement-manager-api/how-to/get-specific-agreement.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/agreement-manager-api/reference",
+      "site": "developers.docusign.com",
+      "title": "API Categories",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Agreement Manager API",
+        "Agreement Manager API",
+        "API Reference"
+      ],
+      "scraped_at": "2026-06-18T14:17:05Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/agreement-manager-api/reference.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/agreement-manager-api/reference/agreementmanager",
+      "site": "developers.docusign.com",
+      "title": "AgreementManager",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Agreement Manager API",
+        "Agreement Manager API",
+        "API Reference",
+        "API Reference",
+        "Agreementmanager"
+      ],
+      "scraped_at": "2026-06-18T14:17:05Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/agreement-manager-api/reference/agreementmanager.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/agreement-manager-api/reference/agreementmanager/agreements/",
+      "site": "developers.docusign.com",
+      "title": "Agreements Resource | Agreement Manager API | Docusign",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Agreement Manager API",
+        "Agreement Manager API",
+        "API Reference",
+        "API Reference",
+        "Agreementmanager",
+        "Agreementmanager",
+        "Agreements"
+      ],
+      "scraped_at": "2026-06-18T14:17:05Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/agreement-manager-api/reference/agreementmanager/agreements.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/agreement-manager-api/reference/agreementmanager/agreements/changeagreementtype/",
+      "site": "developers.docusign.com",
+      "title": ": changeAgreementType",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Agreement Manager API",
+        "Agreement Manager API",
+        "API Reference",
+        "API Reference",
+        "Agreementmanager",
+        "Agreementmanager",
+        "Agreements",
+        "Agreements",
+        "Changeagreementtype"
+      ],
+      "scraped_at": "2026-06-18T14:17:05Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/agreement-manager-api/reference/agreementmanager/agreements/changeagreementtype.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/agreement-manager-api/reference/agreementmanager/agreements/deleteagreement/",
+      "site": "developers.docusign.com",
+      "title": ": deleteAgreement",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Agreement Manager API",
+        "Agreement Manager API",
+        "API Reference",
+        "API Reference",
+        "Agreementmanager",
+        "Agreementmanager",
+        "Agreements",
+        "Agreements",
+        "Deleteagreement"
+      ],
+      "scraped_at": "2026-06-18T14:17:05Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/agreement-manager-api/reference/agreementmanager/agreements/deleteagreement.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/agreement-manager-api/reference/agreementmanager/agreements/getagreement/",
+      "site": "developers.docusign.com",
+      "title": ": getAgreement",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Agreement Manager API",
+        "Agreement Manager API",
+        "API Reference",
+        "API Reference",
+        "Agreementmanager",
+        "Agreementmanager",
+        "Agreements",
+        "Agreements",
+        "Getagreement"
+      ],
+      "scraped_at": "2026-06-18T14:17:04Z",
+      "chunks": 8,
+      "has_content": true,
+      "markdown_path": "docs/agreement-manager-api/reference/agreementmanager/agreements/getagreement.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/agreement-manager-api/reference/agreementmanager/agreements/getagreementslist/",
+      "site": "developers.docusign.com",
+      "title": ": getAgreementsList",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Agreement Manager API",
+        "Agreement Manager API",
+        "API Reference",
+        "API Reference",
+        "Agreementmanager",
+        "Agreementmanager",
+        "Agreements",
+        "Agreements",
+        "Getagreementslist"
+      ],
+      "scraped_at": "2026-06-18T14:17:04Z",
+      "chunks": 9,
+      "has_content": true,
+      "markdown_path": "docs/agreement-manager-api/reference/agreementmanager/agreements/getagreementslist.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/agreement-manager-api/reference/agreementmanager/agreements/getagreementtypes/",
+      "site": "developers.docusign.com",
+      "title": ": getAgreementTypes",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Agreement Manager API",
+        "Agreement Manager API",
+        "API Reference",
+        "API Reference",
+        "Agreementmanager",
+        "Agreementmanager",
+        "Agreements",
+        "Agreements",
+        "Getagreementtypes"
+      ],
+      "scraped_at": "2026-06-18T14:17:05Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/agreement-manager-api/reference/agreementmanager/agreements/getagreementtypes.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/agreement-manager-api/reference/agreementmanager/agreements/patchagreement/",
+      "site": "developers.docusign.com",
+      "title": ": patchAgreement",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Agreement Manager API",
+        "Agreement Manager API",
+        "API Reference",
+        "API Reference",
+        "Agreementmanager",
+        "Agreementmanager",
+        "Agreements",
+        "Agreements",
+        "Patchagreement"
+      ],
+      "scraped_at": "2026-06-18T14:17:05Z",
+      "chunks": 8,
+      "has_content": true,
+      "markdown_path": "docs/agreement-manager-api/reference/agreementmanager/agreements/patchagreement.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/agreement-manager-api/reference/agreementmanager/agreements/patchagreementbydocumentid/",
+      "site": "developers.docusign.com",
+      "title": ": patchAgreementByDocumentId",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Agreement Manager API",
+        "Agreement Manager API",
+        "API Reference",
+        "API Reference",
+        "Agreementmanager",
+        "Agreementmanager",
+        "Agreements",
+        "Agreements",
+        "Patchagreementbydocumentid"
+      ],
+      "scraped_at": "2026-06-18T14:17:05Z",
+      "chunks": 8,
+      "has_content": true,
+      "markdown_path": "docs/agreement-manager-api/reference/agreementmanager/agreements/patchagreementbydocumentid.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/agreement-manager-api/reference/agreementmanager/bulkjob/",
+      "site": "developers.docusign.com",
+      "title": "BulkJob Resource | Agreement Manager API | Docusign",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Agreement Manager API",
+        "Agreement Manager API",
+        "API Reference",
+        "API Reference",
+        "Agreementmanager",
+        "Agreementmanager",
+        "Bulkjob"
+      ],
+      "scraped_at": "2026-06-18T14:17:05Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/agreement-manager-api/reference/agreementmanager/bulkjob.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/agreement-manager-api/reference/agreementmanager/bulkjob/createbulkuploadjob/",
+      "site": "developers.docusign.com",
+      "title": ": createBulkUploadJob",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Agreement Manager API",
+        "Agreement Manager API",
+        "API Reference",
+        "API Reference",
+        "Agreementmanager",
+        "Agreementmanager",
+        "Bulkjob",
+        "Bulkjob",
+        "Createbulkuploadjob"
+      ],
+      "scraped_at": "2026-06-18T14:17:05Z",
+      "chunks": 8,
+      "has_content": true,
+      "markdown_path": "docs/agreement-manager-api/reference/agreementmanager/bulkjob/createbulkuploadjob.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/agreement-manager-api/reference/agreementmanager/bulkjob/getbulkjobstatus/",
+      "site": "developers.docusign.com",
+      "title": ": getBulkJobStatus",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Agreement Manager API",
+        "Agreement Manager API",
+        "API Reference",
+        "API Reference",
+        "Agreementmanager",
+        "Agreementmanager",
+        "Bulkjob",
+        "Bulkjob",
+        "Getbulkjobstatus"
+      ],
+      "scraped_at": "2026-06-18T14:17:05Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/agreement-manager-api/reference/agreementmanager/bulkjob/getbulkjobstatus.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/agreement-manager-api/reference/agreementmanager/bulkjob/uploadcompletebulkjob/",
+      "site": "developers.docusign.com",
+      "title": ": uploadCompleteBulkJob",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Agreement Manager API",
+        "Agreement Manager API",
+        "API Reference",
+        "API Reference",
+        "Agreementmanager",
+        "Agreementmanager",
+        "Bulkjob",
+        "Bulkjob",
+        "Uploadcompletebulkjob"
+      ],
+      "scraped_at": "2026-06-18T14:17:05Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/agreement-manager-api/reference/agreementmanager/bulkjob/uploadcompletebulkjob.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/agreement-manager-api/set-up-test-environment/",
+      "site": "developers.docusign.com",
+      "title": "Set up your test environment",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Agreement Manager API",
+        "Agreement Manager API",
+        "Set Up Test Environment"
+      ],
+      "scraped_at": "2026-06-18T14:17:04Z",
+      "chunks": 11,
+      "has_content": true,
+      "markdown_path": "docs/agreement-manager-api/set-up-test-environment.md"
+    }
+  ]
+}

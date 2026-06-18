@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "docusign-scraper"
+version = "0.1.0"
+description = "Scrape Docusign developer and support docs into RAG-ready Markdown + chunks"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "playwright>=1.44,<2",
+    "beautifulsoup4>=4.12,<5",
+    "lxml>=5,<6",
+    "markdownify>=0.12,<0.14",
+    "tenacity>=8.2,<10",
+    "pyyaml>=6,<7",
+]
+
+[project.optional-dependencies]
+# Accurate per-chunk token counts. Optional because tiktoken is a heavy build;
+# the code falls back to a char-based estimate when it is absent.
+tokens = ["tiktoken>=0.7"]
+dev = ["pytest>=8"]
+
+[project.scripts]
+docusign-scraper = "scraper.cli:main"
+
+[tool.setuptools]
+packages = ["scraper", "scraper.extract"]
