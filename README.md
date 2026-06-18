@@ -99,10 +99,9 @@ Currently committed under `data/`:
   docs and the Web Forms support bundle)
 - `docusign-admin-api/` — 128 pages / 773 chunks (Admin API developer docs —
   complete: 101 guides, how-tos, and the full endpoint reference)
-- `docusign-esignature-rest-api/` — 500 pages / 3,243 chunks (eSignature REST API
-  developer docs. The 101 guides, how-tos, SDKs, and quickstart are complete; the
-  endpoint reference is partial — capped at 500 pages, ~353 reference pages of a
-  larger set. Re-run with a higher `--max-pages` to complete the reference.)
+- `docusign-esignature-rest-api/` — 1,058 pages / 6,268 chunks (eSignature REST
+  API developer docs — complete: 101 guides, how-tos, SDKs, quickstart, and the
+  full endpoint reference incl. the v2 reference)
 
 Promote an ad-hoc `output/<set>/` run into the committed corpus with
 `python scripts/promote.py <set>` (rebuilds a consistent manifest + chunks).

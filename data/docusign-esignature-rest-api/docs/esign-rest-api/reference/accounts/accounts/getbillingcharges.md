@@ -3,7 +3,7 @@ title: ': getBillingCharges'
 source_url: https://developers.docusign.com/docs/esign-rest-api/reference/accounts/accounts/getbillingcharges/
 site: developers.docusign.com
 breadcrumb: []
-scraped_at: '2026-06-18T20:28:27Z'
+scraped_at: '2026-06-18T21:10:06Z'
 ---
 
 [API Reference](https://developers.docusign.com/docs/esign-rest-api/reference/accounts/accounts/getbillingcharges/)[API Explorer](https://developers.docusign.com/docs/esign-rest-api/reference/accounts/accounts/getbillingcharges/?explorer=true)

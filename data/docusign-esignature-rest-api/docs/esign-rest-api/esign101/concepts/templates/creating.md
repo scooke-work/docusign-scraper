@@ -14,7 +14,7 @@ breadcrumb:
 - Templates
 - Templates
 - Creating
-scraped_at: '2026-06-18T20:28:18Z'
+scraped_at: '2026-06-18T21:09:57Z'
 ---
 
 # Creating and using templates

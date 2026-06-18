@@ -3,7 +3,7 @@ title: ': delete'
 source_url: https://developers.docusign.com/docs/esign-rest-api/reference/envelopes/enveloperecipienttabs/delete/
 site: developers.docusign.com
 breadcrumb: []
-scraped_at: '2026-06-18T20:28:41Z'
+scraped_at: '2026-06-18T21:10:20Z'
 ---
 
 [API Reference](https://developers.docusign.com/docs/esign-rest-api/reference/envelopes/enveloperecipienttabs/delete/)[API Explorer](https://developers.docusign.com/docs/esign-rest-api/reference/envelopes/enveloperecipienttabs/delete/?explorer=true)

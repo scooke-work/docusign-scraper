@@ -14,7 +14,7 @@ breadcrumb:
 - SMS delivery
 - SMS delivery
 - SMS delivery notes and limitations
-scraped_at: '2026-06-18T20:28:20Z'
+scraped_at: '2026-06-18T21:09:59Z'
 ---
 
 # SMS and WhatsApp delivery notes and limitations

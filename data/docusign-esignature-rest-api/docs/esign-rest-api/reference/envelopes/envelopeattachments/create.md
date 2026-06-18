@@ -3,7 +3,7 @@ title: ': create'
 source_url: https://developers.docusign.com/docs/esign-rest-api/reference/envelopes/envelopeattachments/create/
 site: developers.docusign.com
 breadcrumb: []
-scraped_at: '2026-06-18T20:28:36Z'
+scraped_at: '2026-06-18T21:10:14Z'
 ---
 
 [API Reference](https://developers.docusign.com/docs/esign-rest-api/reference/envelopes/envelopeattachments/create/)[API Explorer](https://developers.docusign.com/docs/esign-rest-api/reference/envelopes/envelopeattachments/create/?explorer=true)

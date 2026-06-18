@@ -3,7 +3,7 @@ title: ': updateList'
 source_url: https://developers.docusign.com/docs/esign-rest-api/reference/envelopes/envelopedocuments/updatelist/
 site: developers.docusign.com
 breadcrumb: []
-scraped_at: '2026-06-18T20:28:21Z'
+scraped_at: '2026-06-18T21:10:01Z'
 ---
 
 [API Reference](https://developers.docusign.com/docs/esign-rest-api/reference/envelopes/envelopedocuments/updatelist/)[API Explorer](https://developers.docusign.com/docs/esign-rest-api/reference/envelopes/envelopedocuments/updatelist/?explorer=true)

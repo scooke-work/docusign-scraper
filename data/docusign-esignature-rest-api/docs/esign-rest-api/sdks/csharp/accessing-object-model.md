@@ -12,7 +12,7 @@ breadcrumb:
 - Csharp
 - Csharp
 - Accessing the object model
-scraped_at: '2026-06-18T20:28:15Z'
+scraped_at: '2026-06-18T21:09:54Z'
 ---
 
 # Accessing the C# SDK object model

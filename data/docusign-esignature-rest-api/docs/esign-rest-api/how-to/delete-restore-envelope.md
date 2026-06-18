@@ -10,7 +10,7 @@ breadcrumb:
 - How-to guides
 - How-to guides
 - Delete Restore Envelope
-scraped_at: '2026-06-18T20:28:11Z'
+scraped_at: '2026-06-18T21:09:51Z'
 ---
 
 # How to delete and restore an envelope

@@ -3,7 +3,7 @@ title: ': getBulkSendList'
 source_url: https://developers.docusign.com/docs/esign-rest-api/reference/bulkenvelopes/bulksend/getbulksendlist/
 site: developers.docusign.com
 breadcrumb: []
-scraped_at: '2026-06-18T20:28:32Z'
+scraped_at: '2026-06-18T21:10:10Z'
 ---
 
 [API Reference](https://developers.docusign.com/docs/esign-rest-api/reference/bulkenvelopes/bulksend/getbulksendlist/)[API Explorer](https://developers.docusign.com/docs/esign-rest-api/reference/bulkenvelopes/bulksend/getbulksendlist/?explorer=true)

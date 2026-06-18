@@ -12,7 +12,7 @@ breadcrumb:
 - Concepts
 - Concepts
 - Envelopes
-scraped_at: '2026-06-18T20:28:17Z'
+scraped_at: '2026-06-18T21:09:57Z'
 ---
 
 # Envelopes

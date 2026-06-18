@@ -3,7 +3,7 @@ title: ': listFolders'
 source_url: https://developers.docusign.com/docs/esign-rest-api/reference/cloudstorage/cloudstorage/listfolders/
 site: developers.docusign.com
 breadcrumb: []
-scraped_at: '2026-06-18T20:28:32Z'
+scraped_at: '2026-06-18T21:10:11Z'
 ---
 
 [API Reference](https://developers.docusign.com/docs/esign-rest-api/reference/cloudstorage/cloudstorage/listfolders/)[API Explorer](https://developers.docusign.com/docs/esign-rest-api/reference/cloudstorage/cloudstorage/listfolders/?explorer=true)

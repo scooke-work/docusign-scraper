@@ -3,7 +3,7 @@ title: ': rotateDocumentPage'
 source_url: https://developers.docusign.com/docs/esign-rest-api/reference/envelopes/envelopes/rotatedocumentpage/
 site: developers.docusign.com
 breadcrumb: []
-scraped_at: '2026-06-18T20:28:42Z'
+scraped_at: '2026-06-18T21:10:21Z'
 ---
 
 [API Reference](https://developers.docusign.com/docs/esign-rest-api/reference/envelopes/envelopes/rotatedocumentpage/)[API Explorer](https://developers.docusign.com/docs/esign-rest-api/reference/envelopes/envelopes/rotatedocumentpage/?explorer=true)

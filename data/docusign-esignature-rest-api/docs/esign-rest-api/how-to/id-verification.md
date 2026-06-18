@@ -10,7 +10,7 @@ breadcrumb:
 - How-to guides
 - How-to guides
 - Id Verification
-scraped_at: '2026-06-18T20:28:14Z'
+scraped_at: '2026-06-18T21:09:53Z'
 ---
 
 # How to require ID verification (IDV) for a recipient

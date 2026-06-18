@@ -3,7 +3,7 @@ title: ': updateList'
 source_url: https://developers.docusign.com/docs/esign-rest-api/reference/templates/templatedocuments/updatelist/
 site: developers.docusign.com
 breadcrumb: []
-scraped_at: '2026-06-18T20:28:22Z'
+scraped_at: '2026-06-18T21:10:01Z'
 ---
 
 [API Reference](https://developers.docusign.com/docs/esign-rest-api/reference/templates/templatedocuments/updatelist/)[API Explorer](https://developers.docusign.com/docs/esign-rest-api/reference/templates/templatedocuments/updatelist/?explorer=true)

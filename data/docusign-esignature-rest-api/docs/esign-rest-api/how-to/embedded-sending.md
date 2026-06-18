@@ -10,7 +10,7 @@ breadcrumb:
 - How-to guides
 - How-to guides
 - Embedded Sending
-scraped_at: '2026-06-18T20:28:11Z'
+scraped_at: '2026-06-18T21:09:50Z'
 ---
 
 # How to send an envelope via your app

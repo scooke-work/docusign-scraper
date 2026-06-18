@@ -12,7 +12,7 @@ breadcrumb:
 - Csharp
 - Csharp
 - Authentication
-scraped_at: '2026-06-18T20:28:15Z'
+scraped_at: '2026-06-18T21:09:54Z'
 ---
 
 # C# SDK authentication

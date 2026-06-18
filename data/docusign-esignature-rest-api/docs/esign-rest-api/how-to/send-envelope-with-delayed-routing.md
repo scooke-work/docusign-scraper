@@ -10,7 +10,7 @@ breadcrumb:
 - How-to guides
 - How-to guides
 - Send Envelope With Delayed Routing
-scraped_at: '2026-06-18T20:28:12Z'
+scraped_at: '2026-06-18T21:09:51Z'
 ---
 
 # How to send an envelope with delayed routing

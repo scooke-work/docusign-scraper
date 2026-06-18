@@ -3,7 +3,7 @@ title: ': unFavoriteTemplate'
 source_url: https://developers.docusign.com/docs/esign-rest-api/reference/accounts/favoritetemplates/unfavoritetemplate/
 site: developers.docusign.com
 breadcrumb: []
-scraped_at: '2026-06-18T20:28:30Z'
+scraped_at: '2026-06-18T21:10:09Z'
 ---
 
 [API Reference](https://developers.docusign.com/docs/esign-rest-api/reference/accounts/favoritetemplates/unfavoritetemplate/)[API Explorer](https://developers.docusign.com/docs/esign-rest-api/reference/accounts/favoritetemplates/unfavoritetemplate/?explorer=true)

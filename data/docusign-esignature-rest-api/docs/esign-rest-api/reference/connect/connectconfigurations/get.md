@@ -3,7 +3,7 @@ title: ': get'
 source_url: https://developers.docusign.com/docs/esign-rest-api/reference/connect/connectconfigurations/get/
 site: developers.docusign.com
 breadcrumb: []
-scraped_at: '2026-06-18T20:28:33Z'
+scraped_at: '2026-06-18T21:10:11Z'
 ---
 
 [API Reference](https://developers.docusign.com/docs/esign-rest-api/reference/connect/connectconfigurations/get/)[API Explorer](https://developers.docusign.com/docs/esign-rest-api/reference/connect/connectconfigurations/get/?explorer=true)

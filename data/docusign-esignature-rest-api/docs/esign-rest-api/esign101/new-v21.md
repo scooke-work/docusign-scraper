@@ -10,7 +10,7 @@ breadcrumb:
 - API 101
 - API 101
 - New V21
-scraped_at: '2026-06-18T20:28:08Z'
+scraped_at: '2026-06-18T21:09:47Z'
 ---
 
 # What's New in eSignature API v2.1

@@ -10,7 +10,7 @@ breadcrumb:
 - How-to guides
 - How-to guides
 - Request a signature by email using CORS
-scraped_at: '2026-06-18T20:28:09Z'
+scraped_at: '2026-06-18T21:09:48Z'
 ---
 
 # How to request a signature by email using CORS

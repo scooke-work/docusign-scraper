@@ -3,7 +3,7 @@ title: ': createUserAuthorizations'
 source_url: https://developers.docusign.com/docs/esign-rest-api/reference/accounts/authorizations/createuserauthorizations/
 site: developers.docusign.com
 breadcrumb: []
-scraped_at: '2026-06-18T20:28:29Z'
+scraped_at: '2026-06-18T21:10:08Z'
 ---
 
 [API Reference](https://developers.docusign.com/docs/esign-rest-api/reference/accounts/authorizations/createuserauthorizations/)[API Explorer](https://developers.docusign.com/docs/esign-rest-api/reference/accounts/authorizations/createuserauthorizations/?explorer=true)

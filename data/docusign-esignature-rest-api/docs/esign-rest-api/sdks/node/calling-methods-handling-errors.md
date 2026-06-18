@@ -12,7 +12,7 @@ breadcrumb:
 - Node
 - Node
 - Calling methods and handling errors
-scraped_at: '2026-06-18T20:28:15Z'
+scraped_at: '2026-06-18T21:09:55Z'
 ---
 
 # Calling Node.js SDK functions and handling errors

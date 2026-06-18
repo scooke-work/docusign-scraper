@@ -10,7 +10,7 @@ breadcrumb:
 - How-to guides
 - How-to guides
 - Apply Brand To Envelope
-scraped_at: '2026-06-18T20:28:13Z'
+scraped_at: '2026-06-18T21:09:53Z'
 ---
 
 # How to apply a brand to an envelope

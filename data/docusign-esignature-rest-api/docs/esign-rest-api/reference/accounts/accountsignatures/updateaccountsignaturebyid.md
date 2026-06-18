@@ -3,7 +3,7 @@ title: ': updateAccountSignatureById'
 source_url: https://developers.docusign.com/docs/esign-rest-api/reference/accounts/accountsignatures/updateaccountsignaturebyid/
 site: developers.docusign.com
 breadcrumb: []
-scraped_at: '2026-06-18T20:28:28Z'
+scraped_at: '2026-06-18T21:10:07Z'
 ---
 
 [API Reference](https://developers.docusign.com/docs/esign-rest-api/reference/accounts/accountsignatures/updateaccountsignaturebyid/)[API Explorer](https://developers.docusign.com/docs/esign-rest-api/reference/accounts/accountsignatures/updateaccountsignaturebyid/?explorer=true)

@@ -3,7 +3,7 @@ title: ': updateEnvelopeTransferRule'
 source_url: https://developers.docusign.com/docs/esign-rest-api/reference/envelopes/envelopetransferrules/updateenvelopetransferrule/
 site: developers.docusign.com
 breadcrumb: []
-scraped_at: '2026-06-18T20:28:44Z'
+scraped_at: '2026-06-18T21:10:22Z'
 ---
 
 [API Reference](https://developers.docusign.com/docs/esign-rest-api/reference/envelopes/envelopetransferrules/updateenvelopetransferrule/)[API Explorer](https://developers.docusign.com/docs/esign-rest-api/reference/envelopes/envelopetransferrules/updateenvelopetransferrule/?explorer=true)

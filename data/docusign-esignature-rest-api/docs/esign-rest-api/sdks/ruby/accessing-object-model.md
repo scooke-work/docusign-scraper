@@ -12,7 +12,7 @@ breadcrumb:
 - Ruby
 - Ruby
 - Accessing the object model
-scraped_at: '2026-06-18T20:28:16Z'
+scraped_at: '2026-06-18T21:09:55Z'
 ---
 
 # Accessing the Ruby SDK object model

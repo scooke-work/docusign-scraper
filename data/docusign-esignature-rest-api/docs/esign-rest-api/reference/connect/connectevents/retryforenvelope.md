@@ -3,7 +3,7 @@ title: ': retryForEnvelope'
 source_url: https://developers.docusign.com/docs/esign-rest-api/reference/connect/connectevents/retryforenvelope/
 site: developers.docusign.com
 breadcrumb: []
-scraped_at: '2026-06-18T20:28:33Z'
+scraped_at: '2026-06-18T21:10:12Z'
 ---
 
 [API Reference](https://developers.docusign.com/docs/esign-rest-api/reference/connect/connectevents/retryforenvelope/)[API Explorer](https://developers.docusign.com/docs/esign-rest-api/reference/connect/connectevents/retryforenvelope/?explorer=true)

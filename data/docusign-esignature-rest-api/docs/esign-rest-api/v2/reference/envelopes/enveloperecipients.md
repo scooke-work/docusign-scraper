@@ -1,0 +1,538 @@
+---
+title: EnvelopeRecipients Resource
+source_url: https://developers.docusign.com/docs/esign-rest-api/v2/reference/envelopes/enveloperecipients/
+site: developers.docusign.com
+breadcrumb:
+- APIs
+- APIs
+- eSignature REST API
+- eSignature REST API
+- V2
+- V2
+- API Reference
+- API Reference
+- Envelopes
+- Envelopes
+- Enveloperecipients
+scraped_at: '2026-06-18T21:10:47Z'
+---
+
+# EnvelopeRecipients Resource
+
+The EnvelopeRecipients resource allows you manage the recipients of an
+envelope. There are seven recipient types. All types share
+a [core set of parameters](https://developers.docusign.com/docs/esign-rest-api/v2/reference/envelopes/enveloperecipients/#core-recipient-parameters).
+Some recipient types have additional parameters.
+
+| Recipient type | Description |
+| --- | --- |
+| [Agents](https://developers.docusign.com/docs/esign-rest-api/v2/reference/envelopes/enveloperecipients/#agents-recipient) | An agent recipient can add name and email information for recipients that appear after the agent in routing order. |
+| [Carbon Copies](https://developers.docusign.com/docs/esign-rest-api/v2/reference/envelopes/enveloperecipients/#carbon-copies-recipient) | Carbon copy recipients get a copy of the envelope but don't need to sign, initial, date or add information to any of the documents. This type of recipient can be used in any routing order. Carbon copy recipients receive their copy of the envelope when the envelope reaches the recipient's order in the process flow and when the envelope is completed. |
+| [Certified Deliveries](https://developers.docusign.com/docs/esign-rest-api/v2/reference/envelopes/enveloperecipients/#certified-deliveries-recipient) | Certified delivery recipients must receive the completed documents for the envelope to be completed. However, they don't need to sign, initial, date or add information to any of the documents. |
+| [Editors](https://developers.docusign.com/docs/esign-rest-api/v2/reference/envelopes/enveloperecipients/#editors-recipient) | Editors have the same management and access rights for the envelope as the sender. They can make changes to the envelope as if they were using the Advanced Correct feature. This recipient can add name and email information, add or change the routing order and set authentication options for the remaining recipients. Additionally, this recipient can edit signature/initial tabs and data fields for the remaining recipients. The recipient must have a DocuSign account to be an editor. |
+| [In-Person Signers](https://developers.docusign.com/docs/esign-rest-api/v2/reference/envelopes/enveloperecipients/#in-person-signers-recipient) | An in-person recipient is a DocuSign user, acting as a Signing Host, who is in the same physical location as the signer. |
+| [Intermediaries](https://developers.docusign.com/docs/esign-rest-api/v2/reference/envelopes/enveloperecipients/#intermediaries-recipient) | An intermediary is a recipient who can, but is not required to, add name and email information for recipients at the same or subsequent level in the routing order, unless subsequent agents, editors or intermediaries are added. |
+| [Seals](https://developers.docusign.com/docs/esign-rest-api/v2/reference/envelopes/enveloperecipients/#seal-recipient) | An electronic seal recipient represents a legal person. Electronic seals can be used by organizations and governments to show evidence of origin and integrity of documents. |
+| [Signers](https://developers.docusign.com/docs/esign-rest-api/v2/reference/envelopes/enveloperecipients/#signers-recipient) | A signer is a recipient who must sign, initial, date, or add data to form fields on the documents in the envelope. |
+
+Not all recipients are are available to all account types.
+Review your account plan to determine
+which recipient types are available to you.
+All recipient types are available in the Demo environment.
+
+## Core Recipient Parameters
+
+All recipients, regardless of type, have the same common parameters.
+The following table contains the descriptions
+for the core properties for all recipient types.
+
+| Name | Required | Schema Type | Description |
+| --- | --- | --- | --- |
+| email | Yes | Email | Email of the recipient. Notification will be sent to this email id. Maximum Length: 100 characters. |
+| name | Yes | String | Full legal name of the recipient. Maximum Length: 100 characters. |
+| accessCode | No | String | This optional element specifies the access code a recipient has to enter to validate the identity. Maximum Length: 50 characters. |
+| addAccessCodeToEmail | No | Boolean | This optional attribute indicates that the access code is added to the email sent to the recipient; this nullifies the Security measure of Access Code on the recipient. |
+| clientUserId | No | String | This specifies whether the recipient is embedded or remote.  If the `clientUserId` property is not null then the recipient is embedded. Note that if the `ClientUserId` property is set and either `SignerMustHaveAccount` or `SignerMustLoginToSign` property of the account settings is set to **true**, an error is generated on sending. |
+| embeddedRecipientStartURL | No | String | This is a sender provided valid URL string for redirecting an embedded recipient. When using this option, the embedded recipient still receives an email from DocuSign, just as a remote recipient would, but when the document link in the email is clicked the recipient is redirected, through DocuSign, to this URL to complete their actions. When routing to the URL, it is up to the sender's system (the server responding to the URL) to then request a recipient token to launch a signing session.  If the value `SIGN_AT_DOCUSIGN` is used for this node, the recipient is directed to an embedded signing or viewing process directly at DocuSign. The signing or viewing action is initiated by the DocuSign system and the transaction activity and Certificate of Completion records will reflect this. In all other ways the process is identical to an embedded signing or viewing operation that would be launched by any partner.  It is important to remember that in a typical embedded workflow the authentication of an embedded recipient is the responsibility of the sending application and DocuSign expects that senders will follow their own process for establishing the recipient's identity. In this workflow the recipient goes through the sending application before the embedded signing or viewing process in initiated. However, when the sending application sets the `EmbeddedRecipientStartURL` property to `SIGN_AT_DOCUSIGN`, the recipient goes directly to the embedded signing or viewing process bypassing the sending application and any authentication steps the sending application would use. In this case, DocuSign recommends that one of the normal DocuSign authentication features (Access Code, Phone Authentication, SMS Authentication, etc.) be used to verify the identity of the recipient.  If the `clientUserId` property is NOT set and the `embeddedRecipientStartURL` property is set, DocuSign ignores the redirect URL and launch the standard signing process for the email recipient. Information can be appended to the `embeddedRecipientStartURL` property using merge fields. The available merge fields items are: envelopeId, recipientId, recipientName, recipientEmail, and customFields. The customFields must be part of the recipient or envelope. The merge fields are enclosed in double brackets.  *Example*: `http://senderHost/[[mergeField1]]/ beginSigningSession? [[mergeField2]]&[[mergeField3]]` |
+| customFields | No | customField | An optional array of strings that allows the sender to provide custom data about the recipient. This information is returned in the envelope status but otherwise not used by DocuSign. String `customField` properties have a maximum length of 100 characters. |
+| emailNotification | No | emailNotification | An optional complex type that has information for setting the language for the recipient's email information. It is composed of three elements:  *emailBody*: a string with the email message sent to the recipient. Maximum Length: 10000 characters.  *emailSubject*: a string with the subject of the email sent to the recipient. Maximum Length: 100 characters.  *supportedLanguage*: The simple type enumeration of the language used. The supported languages, with the language value shown in parenthesis, are: Arabic (ar), Bahasa Indonesia (id), Bahasa Melayu (ms) Bulgarian (bg), Czech (cs), Chinese Simplified (zh\_CN), Chinese Traditional (zh\_TW), Croatian (hr), Danish (da), Dutch (nl), English US (en), English UK (en\_GB), Estonian (et), Farsi (fa), Finnish (fi), French (fr), French Canada (fr\_CA), German (de), Greek (el), Hebrew (he), Hindi (hi), Hungarian (hu), Italian (it), Japanese (ja), Korean (ko), Latvian (lv), Lithuanian (lt), Norwegian (no), Polish (pl), Portuguese (pt), Portuguese Brazil (pt\_BR), Romanian (ro),Russian (ru), Serbian (sr), Slovak (sk), Slovenian (sl), Spanish (es),Spanish Latin America (es\_MX), Swedish (sv), Thai (th), Turkish (tr), Ukrainian (uk) and Vietnamese (vi).  **IMPORTANT**: If this is enabled for one recipient, it overrides the Envelope Subject and `EmailBlurb` property settings. Also, you must set the `emailNotification` property for all recipients. |
+| excludedDocuments | No | Array of Strings | Specifies the documents that are not visible to this recipient. Document Visibility must be enabled for the account and the enforceSignerVisibility property must be set to true for the envelope to use this.  When the enforceSignerVisibility property is set to **true**, documents with tabs can only be viewed by signers that have a tab on that document. Recipients that have an administrative role (Agent, Editor, or Intermediaries) or informational role (Certified Deliveries or Carbon Copies) can always see all the documents in an envelope, unless they are specifically excluded using this setting when an envelope is sent. Documents that do not have tabs are always visible to all recipients, unless they are specifically excluded using this setting when an envelope is sent. |
+| idCheckConfigurationName | No | String | Specifies authentication check by name. The names used here must be the same as the authentication type names used by the account (these name can also be found in the web console sending interface in the Identify list for a recipient). This overrides any default authentication setting.  *Example*:  Your account has ID Check and SMS Authentication available and in the web console Identify list these appear as 'ID Check $' and 'SMS Auth $'. To use ID check in an envelope, the `idCheckConfigurationName` property must be set to `ID Check $`. To use SMS, it must be set to `SMS Auth $` and you must add phone number information to the `smsAuthentication` node. |
+| iDCheckInformationInput | No | IdCheckInformationInput | This complex element contains input information related to a recipient ID check. It can include the following information.  *addressInformationInput*: Used to set recipient address information and consists of:  *addressInformation*: consists of six elements, with street2 and zipPlus4 being optional. The elements are: street1, street2, city, state, zip, zipPlus4. The maximum number of characters in each element are: street1/street2 = 150 characters, city = 50 characters, state = 2 characters, and zip/zipPlus4 = 20 characters.  displayLevelCode: Specifies the display level for the recipient. Values are: ReadOnly, Editable, or DoNotDisplay.  *receiveInResponse*: A Boolean element that specifies if the information needs to be returned in the response.  *dobInformationInput*: Used to set recipient date of birth information and consists of:  *dateOfBirth*: Specifies the recipient's date, month and year of birth.  *displayLevelCode*: Specifies the display level for the recipient. Values are: ReadOnly, Editable, or DoNotDisplay.  *receiveInResponse*: A Boolean element that specifies if the information needs to be returned in the response.  *ssn4InformationInput*: Used to set the last four digits of the recipient's SSN information and consists of:  *ssn4*: Specifies the last four digits of the recipient's SSN.  *displayLevelCode*: Specifies the display level for the recipient. Values are: ReadOnly, Editable, or DoNotDisplay.  *receiveInResponse*: A Boolean element that specifies if the information needs to be returned in the response.  *ssn9InformationInput*: Used to set the recipient's SSN information. Note that the ssn9 information can never be returned in the response. The ssn9 input consists of:    *ssn9*: Specifies the recipient's SSN.  *displayLevelCode*: Specifies the display level for the recipient. Values are: ReadOnly, Editable, or DoNotDisplay. |
+| inheritEmailNotificationConfiguration | No | Boolean | Optional element. If true and the envelope recipient creates a DocuSign account after signing, the Manage Account Email Notification settings are used as the default settings for the recipient's account. |
+| note | No | String | A note that is unique to this recipient. This note is sent to the recipient via the signing email. The note displays in the signing UI near the upper left corner of the document on the signing screen. Maximum Length: 1000 characters. |
+| phoneAuthentication | No | RecipientPhoneAuthentication | Optional element. Contains the elements:    *recipMayProvideNumber*:Boolean. When set to **true** thenrecipient can use whatever phone number they choose to.   *senderProvidedNumbers*: ArrayOfString. A list of phone numbers the recipient can use.   *recordVoicePrint* - Reserved for DocuSign.   *validateRecipProvidedNumber* - Reserved for DocuSign. |
+| recipientAttachment | No | Attachment | Reserved for DocuSign. |
+| recipientId | No | String | Unique for the recipient. It is used by the tab element to indicate which recipient is to sign the Document. |
+| requireIdLookup | No | Boolean | When set to **true**, the recipient is required to use the specified ID check method (including Phone and SMS authentication) to validate their identity. |
+| roleName | No\* | String | Optional element. Specifies the role name associated with the recipient.  This is required when working with template recipients. |
+| routingOrder | Yes | String | This element specifies the routing order of the recipient in the envelope. |
+| smsAuthentication | No | senderProvidedNumbers | Optional element. Contains the element:  *senderProvidedNumbers*: Array that contains a list of phone numbers the recipient can use for SMS text authentication. |
+| socialAuthentications | No | Boolean | Lists the social ID type that can be used for recipient authentication. |
+| templateAccessCodeRequired | No | Boolean | Optional element. Used only when working with template recipients. When set to **true** and the `TemplateLocked` parameter is set to **true**, the sender must enter an access code. |
+| templateLocked | No | Boolean | Optional element. Used only when working with template recipients. When set to **true**, the sender cannot change any attributes of the recipient. |
+| templateRequired | No | Boolean | Optional element. Used only when working with template recipients. When set to **true**, the sender may not remove the recipient. |
+
+**JSON layout**
+
+```
+"email": "email.name@company.com",
+  "name": "recipient name",
+  "accessCode": "",
+  "addAccessCodeToEmail": false,
+  "clientUserIs": null,
+  "embeddedRecipientStartURL": "string",
+  "customFields": {
+    "sample string 1",
+    "sample string 2"
+  },
+  "emailNotification"{
+    "emailBody":"email text",
+    "emailSubject":"Subject text",
+    "supportedLanguage":"en",
+  },
+  "excludedDocuments": ["2", "4"],
+  "idCheckConfigurationName": null,
+  "idCheckInformationInput": {
+    "addressInformationInput": {
+      "addressInformation": {
+        "street1": "sample string 1",
+        "street2": "sample string 2",
+        "city": "sample string 3",
+        "state": "sample string 4",
+        "zip": "sample string 5",
+        "zipPlus4": "sample string 6"
+      },
+      "displayLevelCode": "sample string 1",
+      "receiveInResponse": "sample string 2"
+    },
+    "dobInformationInput": {
+      "dateOfBirth": "sample string 1",
+      "displayLevelCode": "sample string 2",
+      "receiveInResponse": "sample string 3"
+    },
+    "ssn4InformationInput": {
+      "ssn4": "sample string 1",
+      "displayLevelCode": "sample string 2",
+      "receiveInResponse": "sample string 3"
+    },
+    "ssn9InformationInput": {
+      "ssn9": "sample string 1",
+      "displayLevelCode": "sample string 2"
+    }
+  },
+  "inheritEmailNotificationConfiguration": false,
+  "note": "",
+  "phoneAuthentication": {
+    "recipMayProvideNumber": "sample string 1",
+    "validateRecipProvidedNumber": "sample string 2",
+    "recordVoicePrint": "sample string 3",
+    "senderProvidedNumbers": [
+      "sample string 1",
+      "sample string 2"
+    ]
+  },
+  "recipientAttachment": null,
+  "recipientCaptiveInfo": null,
+  "recipientId": "1",
+  "requireIdLookup": false,
+  "roleName": "",
+  "routingOrder": 1,
+  "smsAuthentication": {
+    "senderProvidedNumbers":[
+      "sample string 1",
+      "sample string 2"
+    ]
+  },
+  "socialAuthentications": null,
+  "templateAccessCodeRequired": false,
+  "templateLocked": false,
+  "templateRequired": false,
+...
+```
+
+## Agents Recipient
+
+An agent recipient can add name and email information for recipients that appear after the agent in routing order.
+
+In addition to the [core parameters](https://developers.docusign.com/docs/esign-rest-api/v2/reference/envelopes/enveloperecipients/#core-recipient-parameters),
+this type adds the following parameters.
+
+| Name | Required | Schema Type | Description |
+| --- | --- | --- | --- |
+| canEditRecipientEmails | No | Boolean | Optional element. When set to **true**, the Agents Recipient associated with this Recipient can change the Recipient's pre-populated Email address. This element is only active if enabled for the account. |
+| canEditRecipientNames | No | Boolean | Optional element. When set to **true**, the Agents Recipient associated with this recipient can change the recipient's pre-populated name (`UserName`). This element is only active if enabled for the account. |
+
+**JSON layout**
+
+```
+"agents": [{
+ <core parameters>
+  "canEditRecipientEmails": false,
+  "canEditRecipientNames": false
+}],
+```
+
+## Carbon Copies Recipient
+
+Carbon copy recipients get a copy of the envelope but don't need to sign, initial, date or add information to any of the documents. This type of recipient can be used in any routing order. Carbon copy recipients receive their copy of the envelope when the envelope reaches the recipient's order in the process flow and when the envelope is completed.
+
+This recipient type uses only the [core parameters](https://developers.docusign.com/docs/esign-rest-api/v2/reference/envelopes/enveloperecipients/#core-recipient-parameters).
+
+**JSON layout**
+
+```
+"carbonCopies": [{
+ <core parameters>
+```
+
+## Certified Deliveries Recipient
+
+Certified delivery recipients must receive the completed documents for the envelope to be completed. However, they don't need to sign, initial, date or add information to any of the documents.
+
+This recipient type uses only the [core parameters](https://developers.docusign.com/docs/esign-rest-api/v2/reference/envelopes/enveloperecipients/#core-recipient-parameters).
+
+**JSON layout**
+
+```
+"certifiedDeliveries": [{
+<core parameters>
+}],
+```
+
+## Editors Recipient
+
+Editors have the same management and access rights for the envelope as the sender. They can make changes to the envelope as if they were using the Advanced Correct feature. This recipient can add name and email information, add or change the routing order and set authentication options for the remaining recipients. Additionally, this recipient can edit signature/initial tabs and data fields for the remaining recipients. The recipient must have a DocuSign account to be an editor.
+
+In addition to the [core parameters](https://developers.docusign.com/docs/esign-rest-api/v2/reference/envelopes/enveloperecipients/#core-recipient-parameters),
+this type adds the following parameters.
+
+| Name | Required | Schema Type | Description |
+| --- | --- | --- | --- |
+| canEditRecipientEmails | No | Boolean | Optional element. When set to **true**, the Editors Recipient associated with this Recipient can change the Recipient's pre-populated Email address. This element is only active if enabled for the account. |
+| canEditRecipientNames | No | Boolean | Optional element. When set to **true**, the Editors Recipient associated with this recipient can change the recipient's pre-populated name (`UserName`). This element is only active if enabled for the account. |
+
+**JSON layout**
+
+```
+"editors": [{
+ <core parameters>
+  "canEditRecipientEmails": false,
+  "canEditRecipientNames": false
+}],
+```
+
+## In-Person Signers Recipient
+
+An in-person recipient is a DocuSign user,
+acting as a Signing Host,
+who is in the same physical location as the signer.
+
+In addition to the [core parameters](https://developers.docusign.com/docs/esign-rest-api/v2/reference/envelopes/enveloperecipients/#core-recipient-parameters),
+this type adds the following parameters.
+
+The following restrictions apply
+to using electronic notary when sending documents:
+
+- Authentication methods are allowed for the signer but not the notary.
+- The Sign On Paper, Document Markup, Field Markup and Change Signer options cannot be used for the documents.
+- Tabs may be assigned to the signer, but cannot be assigned to the notary.
+
+Refer to [eNotary Resources](https://support.docusign.com/en/guides/ndse-user-guide-enotary-resources)
+in the DocuSign Support Center for more information
+about how the eNotary feature works.
+
+| Name | Required | Schema Type | Description |
+| --- | --- | --- | --- |
+| inPersonSigningType | No | String | Specifies whether the envelope uses the eNotary feature. The accepted values are:  - `inPersonSigner` The envelope uses the normal in-person signing flow. - `notary`: The envelope uses the eNotary signing flow. |
+| notaryHost | Yes, when `inPersonSigningType` is `notary` | NotaryHost | Sets the information for the notary host for the notary in person signing flow. The following information is required:  - `recipientId`: A unique ID number for the notary signing host. - `name`: Specifies the notary's full legal name. - `email`: Specifies the notary's email address. |
+| autoNavigation | No | Boolean | Specifies whether auto navigation is set for the recipient. |
+| defaultRecipient | No | Boolean | When set to **true**, this is the default recipient for the envelope. This option is used when creating an envelope from a template. |
+| hostName | Yes, when `inPersonSigningType` is `inPersonSigner` | String | The name of the signing host. This is the DocuSign user that is hosting the in-person signing session. |
+| hostEmail | Yes, when `inPersonSigningType` is `inPersonSigner` | String | The email address of the signing host. This is the DocuSign user that is hosting the in-person signing session. |
+| signerName | Yes, when `inPersonSigningType` is `inPersonSigner` | String | The in-person signer's full legal name. |
+| signerEmail | No, but valid only when `inPersonSigningType` is `inPersonSigner` | String | The in-person signer's email address. |
+| name | Yes, when `inPersonSigningType` is `notary` | String | The full legal name of the signer in an eNotary flow. |
+| email | Yes, when `inPersonSigningType` is `notary` | String | The signer's email address in an eNotary flow. |
+| signatureInfo | No | String | Optional element only used with recipient types In Person Signers and Signers.  Allows the sender to pre-specify the signature name, signature initials, and signature font used in the signature stamp for the recipient. |
+| signInEachLocation | No | Boolean | When set to **true** and the feature is enabled in the sender's account, the signing recipient is required to draw signatures and initials at each signature/initial tab (instead of adopting a signature/initial style or only drawing a signature/initial once). |
+| tabs | No | Tab | Optional element only used with recipient types In Person Signers and Signers.  Specifies the Tabs associated with the recipient. See the [EnvelopeRecipientTabs resource](https://developers.docusign.com/docs/esign-rest-api/v2/reference/envelopes/enveloperecipienttabs/) for more information about tabs. |
+
+**JSON layout**
+
+```
+"inPersonSigners": [{
+  "hostEmail": "signing.host@company.com",
+  "hostName": "Mike Host",
+ <core parameters>
+  "autoNavigation": false,
+  "defaultRecipient": false,
+  "signInEachLocation": false,
+  "signatureInfo": null,
+  "signerEmail": "inperson.signer@company.com",
+  "signerName": "Isaac Inperson",
+  "email": "notary.signer@example.com",
+  "name": "Notary Signer"
+  "tabs": {
+    "approveTabs": null,
+    "checkboxTabs": null,
+    "companyTabs": null,
+    "dateSignedTabs": null,
+    "dateTabs": null,
+    "declineTabs": null,
+    "emailTabs": null,
+    "envelopeIdTabs": null,
+    "fullNameTabs": null,
+    "initialHereTabs": null,
+    "listTabs": null,
+    "noteTabs": null,
+    "numberTabs": null,
+    "radioGroupTabs": null,
+    "signHereTabs": [{
+    "signerAttachmentTabs": null,
+    "ssnTabs": null,
+    "textTabs": null,
+    "titleTabs": null,
+    "zipTabs": null
+  }
+  "inPersonSigningType": "notary",
+  "notaryHost": {
+    "email": "notary@example.com",
+    "name": "Natalie Notary",
+    "recipientId": "string"
+  }
+}],
+```
+
+## Intermediaries Recipient
+
+An intermediary is a recipient who can, but is not required to, add name and email information for recipients at the same or subsequent level in the routing order, unless subsequent agents, editors or intermediaries are added.
+
+In addition to the [core parameters](https://developers.docusign.com/docs/esign-rest-api/v2/reference/envelopes/enveloperecipients/#core-recipient-parameters),
+this type adds the following parameters.
+
+| Name | Required | Schema Type | Description |
+| --- | --- | --- | --- |
+| canEditRecipientEmails | No | Boolean | Optional element. When set to **true**, the Agents Recipient associated with this Recipient can change the Recipient's pre-populated Email address. This element is only active if enabled for the account. |
+| canEditRecipientNames | No | Boolean | Optional element. When set to **true**, the Agents Recipient associated with this recipient can change the recipient's pre-populated name (`UserName`). This element is only active if enabled for the account. |
+
+**JSON layout**
+
+```
+"intermediaries": [{
+<core parameters>
+  "canEditRecipientEmails": false,
+  "canEditRecipientNames": false
+}],
+```
+
+## Seals Recipient
+
+An electronic seal recipient is not a natural but a legal person. Electronic Seals can be used by organizations and governments to show evidence of origin and integrity of documents.
+Even though electronic seals can be represented by a tab in a document, they do not require user interaction and apply automatically in the order specified by the sender. The sender is therefore the person authorizing usage of the electronic seal in the flow.
+Electronic seal recipients rely on a subset of core properties. They also add a new `recipientSignatureProviders` parameter.
+
+| Name | Required | Schema Type | Description |
+| --- | --- | --- | --- |
+| recipientId | Yes | String | Indicates the unique ID of the applied electronic seal. |
+| routingOrder | No (default: 1) | String | Specifies the routing order of the electronic seal in the envelope.  The routing order assigned to your electronic seal cannot be shared with another recipient. It is recommended that you set a routing order for your electronic seals.. |
+| recipientSignatureProviders | Yes | String | Indicates which electronic seal to apply on documents when creating an envelope. |
+
+By default, Electronic Seals apply on all documents in an envelope. However, the sealDocumentsWithTabsOnly property (see recipientSignatureProvider) allows you to seal only documents that have signHere tabs set for the Electronic Seal recipients.
+
+**JSON layout (Apply Electronic Seals on all documents)**
+
+```
+{
+        ....
+
+        "recipients": {
+          "seals": [            {
+              "recipientId": "10",
+              "routingOrder" : 2,
+              "recipientSignatureProviders": [{
+                  "sealName": "ed8f186c-xxxx-xxxx-xxxx-c8c33dc4f6b0",
+                  "sealDocumentsWithTabsOnly": "false"
+                }]
+            }]
+        },
+        "documents": [
+            {
+                "documentId": "55",
+                "name": " ACME Contract",
+                "fileExtension": "pdf",
+                "documentBase64": "DOC_IN_BASE64"
+            }
+        ]
+}
+```
+
+**JSON layout (Apply Electronic Seals on specific documents)**
+
+```
+{
+        ....
+
+        "recipients": {
+          "seals": [{
+              "recipientId": "10",
+              "routingOrder" : 2,
+              "recipientSignatureProviders": [{
+                  "sealName": "ed8f186c-xxxx-xxxx-xxxx-c8c33dc4f6b0",
+                  "sealDocumentsWithTabsOnly": "true"
+                }],
+               "tabs": {
+                    "signHereTabs": [{
+                            "documentId": "55",
+                            "recipientId": "10",
+                            "pageNumber": "1",
+                            "xPosition": "272",
+                            "yPosition": "98",
+                        }]
+                }
+            }]
+        },
+        "documents": [{
+                "documentId": "55",
+                "name": " ACME Contract",
+                "fileExtension": "pdf",
+                "documentBase64": "DOC_EN_BASE64"
+            }]
+}
+```
+
+## Signers Recipient
+
+A signer is a recipient who must sign, initial, date, or add data to form fields on the documents in the envelope.
+
+In addition to the [core parameters](https://developers.docusign.com/docs/esign-rest-api/v2/reference/envelopes/enveloperecipients/#core-recipient-parameters),
+this type adds the following parameters.
+
+| Name | Required | Schema Type | Description |
+| --- | --- | --- | --- |
+| autoNavigation | No | Boolean | Specifies whether auto navigation is set for the recipient. |
+| defaultRecipient | No | Boolean | When set to **true**, this is the default recipient for the envelope. This option is used with the CreateEnvelopeFromTemplatesAndForms method. |
+| signInEachLocation | No | Boolean | When set to **true** and the feature is enabled in the sender's account, the signing recipient is required to draw signatures and initials at each signature/initial tab (instead of adopting a signature/initial style or only drawing a signature/initial once). |
+| signatureInfo | No | String | Optional element only used with recipient types In Person Signers and Signers.  Allows the sender to pre-specify the signature name, signature initials, and signature font used in the signature stamp for the recipient. |
+| signerEmail | No | String | Optional element. The email address for an InPersonSigner recipient Type. Maximum Length: 100 characters. |
+| signerName | Yes | String | Required element with recipient type In Person Signers. Maximum Length: 100 characters.  The full legal name of a signer for the envelope. |
+| tabs | No | Tab | Optional element only used with recipient types In Person Signers and Signers.  Specifies the Tabs associated with the recipient. See the the [EnvelopeTabs resource][envelopeTabsResource] for more information about tabs. |
+| deliveryMethod | No | String | Reserved for DocuSign. |
+| deliveredDateTime | No | DateTime | Reserved for DocuSign. |
+| signedDateTime | No | DateTime | Reserved for DocuSign. |
+| offlineAttributes | No |  | Reserved for DocuSign. |
+
+**JSON layout**
+
+```
+"Signers": [{
+<core parameters>
+  "autoNavigation": false,
+  "defaultRecipient": false,
+  "signInEachLocation": false,
+  "signatureInfo": null,
+  "tabs": {
+    "approveTabs": null,
+    "checkboxTabs": null,
+    "companyTabs": null,
+    "dateSignedTabs": null,
+    "dateTabs": null,
+    "declineTabs": null,
+    "emailTabs": null,
+    "envelopeIdTabs": null,
+    "fullNameTabs": null,
+    "initialHereTabs": null,
+    "listTabs": null,
+    "noteTabs": null,
+    "numberTabs": null,
+    "radioGroupTabs": null,
+    "signHereTabs": [{
+    "signerAttachmentTabs": null,
+    "ssnTabs": null,
+    "textTabs": null,
+    "titleTabs": null,
+    "zipTabs": null
+  }
+  "deliveryMethod":"",
+  "deliveredDateTime":"String Content",
+  "signedDateTime":"String Content",
+  "offlineAttributes":{
+    "deviceName":"String Content",
+    "deviceModel":"String Content",
+    "gpsLatitude":"String Content",
+    "gpsLongitude":"String Content",
+    "accountEsignId":"String Content"
+  }
+}],
+```
+
+## Methods Supported
+
+| Method | Description |
+| --- | --- |
+| [create](https://developers.docusign.com/docs/esign-rest-api/v2/reference/envelopes/enveloperecipients/create/) | POST  ```  /restapi/v2/accounts/{accountId}/envelopes/{envelopeId}/recipients ```  Adds one or more recipients to an envelope. |
+| [delete](https://developers.docusign.com/docs/esign-rest-api/v2/reference/envelopes/enveloperecipients/delete/) | DEL  ```  /restapi/v2/accounts/{accountId}/envelopes/{envelopeId}/recipients/{recipientId} ```  Deletes a recipient from an envelope. |
+| [deleteList](https://developers.docusign.com/docs/esign-rest-api/v2/reference/envelopes/enveloperecipients/deletelist/) | DEL  ```  /restapi/v2/accounts/{accountId}/envelopes/{envelopeId}/recipients ```  Deletes recipients from an envelope. |
+| [list](https://developers.docusign.com/docs/esign-rest-api/v2/reference/envelopes/enveloperecipients/list/) | GET  ```  /restapi/v2/accounts/{accountId}/envelopes/{envelopeId}/recipients ```  Gets the status of recipients for an envelope. |
+| [update](https://developers.docusign.com/docs/esign-rest-api/v2/reference/envelopes/enveloperecipients/update/) | PUT  ```  /restapi/v2/accounts/{accountId}/envelopes/{envelopeId}/recipients ```  Updates recipients in a draft envelope or corrects recipient information for an in process envelope. |
+
+[![Footer: Platform 101: Pre-Footer - Icon](https://images.ctfassets.net/aj9z008chlq0/1B2IgSQD94ohLe7UVvJ5AU/ef33d80a2fbfcf734362995ffd43a438/footer-icon-1.svg)
+
+Platform 101
+
+Get up to speed on our concepts and platform](https://developers.docusign.com/platform/build-integration/)[Learn More](https://developers.docusign.com/platform/build-integration/)[![Footer: Stack Overflow: Pre-Footer - Icon](https://images.ctfassets.net/aj9z008chlq0/4gZwid50MSnlXqHMTZLCdV/4cc92d22086124f2f622c781cb554844/footer-icon-2.svg)
+
+Docusign Community
+
+Get answers from our API experts and community](https://community.docusign.com/developer-59)[Learn More](https://community.docusign.com/developer-59)[![Footer: GitHub: Pre-Footer - Icon](https://images.ctfassets.net/aj9z008chlq0/208FBzUKngjwdVfL0wAgd7/f6ff4fd8071196e37c5cac5f4f12c38c/footer-icon-3.svg)
+
+GitHub
+
+Find our SDKs and other source code](https://github.com/docusign)[Learn More](https://github.com/docusign)[![Footer: Partner Directory: Pre-Footer - Icon](https://images.ctfassets.net/aj9z008chlq0/2YWAk0yl09YARzBDgoq6dN/48d159475098419d1da9b3fcf14a4791/footer-icon-4.svg)
+
+Partner Directory
+
+See the full directory of Docusign partners](https://partners.docusign.com/s/partnerfinder)[Learn More](https://partners.docusign.com/s/partnerfinder)
+
+[![Docusign.com](https://developers.docusign.com/img/docusign-logo.svg)](https://docusign.com)
+
+[![X](https://images.ctfassets.net/aj9z008chlq0/jUnMYaPzapgZma42YHdEv/375916f63ce5f10c79da650018f8cb0c/x-logo.png)](https://x.com/DocusignDevs)[![youtube](https://images.ctfassets.net/aj9z008chlq0/pYBeoyZ3yAWrQ7yx2MV6U/c3e2679fb091dd6f6dbf9b250bd5ed9a/social-icon-youtube.png)](https://www.youtube.com/@DocusignDevs)[![linkedin](https://images.ctfassets.net/aj9z008chlq0/5dZh3hbAdZ97DYDNdhijTA/19230fd1c70b76dea1eef8834779e2cd/social-icon-linkedin.png)](https://www.linkedin.com/showcase/docusigndevs/)
+
+APIs- [eSignature API](https://developers.docusign.com/docs/esign-rest-api/)
+- [Web Forms API](https://developers.docusign.com/docs/web-forms-api/)
+- [Workflow Builder API](https://developers.docusign.com/docs/workflow-builder-api/)
+- [Agreement Manager API](https://developers.docusign.com/docs/agreement-manager-api/)
+- [Docusign Admin API](https://developers.docusign.com/docs/admin-api/)
+- [View all](https://developers.docusign.com/docs/)
+
+Featured Content- [Quickstart](https://developers.docusign.com/docs/esign-rest-api/quickstart/)
+- [Sample Apps](https://developers.docusign.com/sample-apps/)
+- [Authentication](https://developers.docusign.com/platform/auth/)
+- [Webhooks](https://developers.docusign.com/platform/webhooks/)
+- [Go-Live](https://developers.docusign.com/platform/go-live/)
+- [SDKs](https://developers.docusign.com/docs/sdks/)
+
+Help- [Support](https://developers.docusign.com/support/)
+- [FAQs](https://support.docusign.com/s/articles/DocuSign-Developer-Support-FAQs)
+
+More- [Partner With Us](https://developers.docusign.com/partner/)
+- [Docusign University](https://developers.docusign.com/training/)
+- [Trust Center](https://www.docusign.com/trust)
+- [Trust Portal](https://www.docusign.com/trust-portal)
+- [ISV integration guides](https://developers.docusign.com/partner/isv-integration-guides/)
+
+[![X](https://images.ctfassets.net/aj9z008chlq0/jUnMYaPzapgZma42YHdEv/375916f63ce5f10c79da650018f8cb0c/x-logo.png)](https://x.com/DocusignDevs)[![youtube](https://images.ctfassets.net/aj9z008chlq0/pYBeoyZ3yAWrQ7yx2MV6U/c3e2679fb091dd6f6dbf9b250bd5ed9a/social-icon-youtube.png)](https://www.youtube.com/@DocusignDevs)[![linkedin](https://images.ctfassets.net/aj9z008chlq0/5dZh3hbAdZ97DYDNdhijTA/19230fd1c70b76dea1eef8834779e2cd/social-icon-linkedin.png)](https://www.linkedin.com/showcase/docusigndevs/)
+
+© 2024 Docusign, Inc.
+
+[Docusign.com](https://docusign.com)
+
+[Terms of Use](https://www.docusign.com/company/terms-and-conditions/developers)
+
+[Privacy Notice](https://www.docusign.com/company/privacy-policy)
+
+[Notice to California Residents](https://www.docusign.com/privacy#8)
+
+[Intellectual Property](https://www.docusign.com/IP)
+
+![ccpa-opt-out](https://developers.docusign.com/img/svg/ccpa-opt-out.svg)

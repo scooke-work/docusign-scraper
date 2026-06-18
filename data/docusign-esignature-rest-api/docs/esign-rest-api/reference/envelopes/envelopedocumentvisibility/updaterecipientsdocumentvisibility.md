@@ -3,7 +3,7 @@ title: ': updateRecipientsDocumentVisibility'
 source_url: https://developers.docusign.com/docs/esign-rest-api/reference/envelopes/envelopedocumentvisibility/updaterecipientsdocumentvisibility/
 site: developers.docusign.com
 breadcrumb: []
-scraped_at: '2026-06-18T20:28:39Z'
+scraped_at: '2026-06-18T21:10:17Z'
 ---
 
 [API Reference](https://developers.docusign.com/docs/esign-rest-api/reference/envelopes/envelopedocumentvisibility/updaterecipientsdocumentvisibility/)[API Explorer](https://developers.docusign.com/docs/esign-rest-api/reference/envelopes/envelopedocumentvisibility/updaterecipientsdocumentvisibility/?explorer=true)

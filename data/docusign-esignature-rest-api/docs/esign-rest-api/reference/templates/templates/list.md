@@ -3,7 +3,7 @@ title: ': list'
 source_url: https://developers.docusign.com/docs/esign-rest-api/reference/templates/templates/list/
 site: developers.docusign.com
 breadcrumb: []
-scraped_at: '2026-06-18T20:28:22Z'
+scraped_at: '2026-06-18T21:10:01Z'
 ---
 
 [API Reference](https://developers.docusign.com/docs/esign-rest-api/reference/templates/templates/list/)[API Explorer](https://developers.docusign.com/docs/esign-rest-api/reference/templates/templates/list/?explorer=true)

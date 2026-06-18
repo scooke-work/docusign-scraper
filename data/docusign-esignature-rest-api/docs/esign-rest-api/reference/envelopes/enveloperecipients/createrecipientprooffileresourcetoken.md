@@ -3,7 +3,7 @@ title: ': createRecipientProofFileResourceToken'
 source_url: https://developers.docusign.com/docs/esign-rest-api/reference/envelopes/enveloperecipients/createrecipientprooffileresourcetoken/
 site: developers.docusign.com
 breadcrumb: []
-scraped_at: '2026-06-18T20:28:40Z'
+scraped_at: '2026-06-18T21:10:19Z'
 ---
 
 [API Reference](https://developers.docusign.com/docs/esign-rest-api/reference/envelopes/enveloperecipients/createrecipientprooffileresourcetoken/)[API Explorer](https://developers.docusign.com/docs/esign-rest-api/reference/envelopes/enveloperecipients/createrecipientprooffileresourcetoken/?explorer=true)

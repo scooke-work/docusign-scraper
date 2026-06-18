@@ -10,7 +10,7 @@ breadcrumb:
 - How-to guides
 - How-to guides
 - Set Document Visibility
-scraped_at: '2026-06-18T20:28:12Z'
+scraped_at: '2026-06-18T21:09:52Z'
 ---
 
 # How to set document visibility for envelope recipients

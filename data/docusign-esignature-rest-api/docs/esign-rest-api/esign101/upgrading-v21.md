@@ -10,7 +10,7 @@ breadcrumb:
 - API 101
 - API 101
 - Upgrading V21
-scraped_at: '2026-06-18T20:28:08Z'
+scraped_at: '2026-06-18T21:09:47Z'
 ---
 
 # Upgrading from API v2.0 to v2.1

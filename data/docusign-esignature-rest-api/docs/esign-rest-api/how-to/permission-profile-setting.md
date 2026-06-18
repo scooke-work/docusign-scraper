@@ -10,7 +10,7 @@ breadcrumb:
 - How-to guides
 - How-to guides
 - Permission Profile Setting
-scraped_at: '2026-06-18T20:28:14Z'
+scraped_at: '2026-06-18T21:09:53Z'
 ---
 
 # How to set up a permission profile

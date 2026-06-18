@@ -10,7 +10,7 @@ breadcrumb:
 - API 101
 - API 101
 - Authentication
-scraped_at: '2026-06-18T20:28:07Z'
+scraped_at: '2026-06-18T21:09:47Z'
 ---
 
 # Authentication

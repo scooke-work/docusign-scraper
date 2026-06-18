@@ -10,7 +10,7 @@ breadcrumb:
 - How-to guides
 - How-to guides
 - Converting Pdf
-scraped_at: '2026-06-18T20:28:12Z'
+scraped_at: '2026-06-18T21:09:52Z'
 ---
 
 # How to convert a PDF file into a signable HTML document

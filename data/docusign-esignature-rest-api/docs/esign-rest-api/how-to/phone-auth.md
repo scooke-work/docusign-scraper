@@ -10,7 +10,7 @@ breadcrumb:
 - How-to guides
 - How-to guides
 - Phone Auth
-scraped_at: '2026-06-18T20:28:14Z'
+scraped_at: '2026-06-18T21:09:54Z'
 ---
 
 # How to require phone authentication for a recipient

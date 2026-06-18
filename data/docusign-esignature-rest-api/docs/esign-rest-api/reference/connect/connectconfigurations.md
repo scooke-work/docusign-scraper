@@ -12,7 +12,7 @@ breadcrumb:
 - Connect
 - Connect
 - Connectconfigurations
-scraped_at: '2026-06-18T20:28:32Z'
+scraped_at: '2026-06-18T21:10:11Z'
 ---
 
 # ConnectConfigurations Resource

@@ -3,7 +3,7 @@ title: ': getTemplateWorkflowDefinition'
 source_url: https://developers.docusign.com/docs/esign-rest-api/reference/envelopes/envelopeworkflowdefinition/gettemplateworkflowdefinition/
 site: developers.docusign.com
 breadcrumb: []
-scraped_at: '2026-06-18T20:28:46Z'
+scraped_at: '2026-06-18T21:10:25Z'
 ---
 
 [API Reference](https://developers.docusign.com/docs/esign-rest-api/reference/envelopes/envelopeworkflowdefinition/gettemplateworkflowdefinition/)[API Explorer](https://developers.docusign.com/docs/esign-rest-api/reference/envelopes/envelopeworkflowdefinition/gettemplateworkflowdefinition/?explorer=true)

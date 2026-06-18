@@ -3,7 +3,7 @@ title: ': create'
 source_url: https://developers.docusign.com/docs/esign-rest-api/reference/templates/templaterecipienttabs/create/
 site: developers.docusign.com
 breadcrumb: []
-scraped_at: '2026-06-18T20:28:22Z'
+scraped_at: '2026-06-18T21:10:01Z'
 ---
 
 [API Reference](https://developers.docusign.com/docs/esign-rest-api/reference/templates/templaterecipienttabs/create/)[API Explorer](https://developers.docusign.com/docs/esign-rest-api/reference/templates/templaterecipienttabs/create/?explorer=true)

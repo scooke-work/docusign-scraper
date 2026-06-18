@@ -3,7 +3,7 @@ title: ': updateTemplateWorkflowDefinition'
 source_url: https://developers.docusign.com/docs/esign-rest-api/reference/envelopes/envelopeworkflowdefinition/updatetemplateworkflowdefinition/
 site: developers.docusign.com
 breadcrumb: []
-scraped_at: '2026-06-18T20:28:47Z'
+scraped_at: '2026-06-18T21:10:26Z'
 ---
 
 [API Reference](https://developers.docusign.com/docs/esign-rest-api/reference/envelopes/envelopeworkflowdefinition/updatetemplateworkflowdefinition/)[API Explorer](https://developers.docusign.com/docs/esign-rest-api/reference/envelopes/envelopeworkflowdefinition/updatetemplateworkflowdefinition/?explorer=true)

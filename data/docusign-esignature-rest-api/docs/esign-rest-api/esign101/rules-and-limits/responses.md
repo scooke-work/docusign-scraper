@@ -12,7 +12,7 @@ breadcrumb:
 - Rules and resource limits
 - Rules and resource limits
 - Responses
-scraped_at: '2026-06-18T20:28:08Z'
+scraped_at: '2026-06-18T21:09:48Z'
 ---
 
 # Handling API responses

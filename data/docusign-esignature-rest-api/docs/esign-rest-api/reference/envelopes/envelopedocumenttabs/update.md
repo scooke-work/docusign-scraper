@@ -3,7 +3,7 @@ title: ': update'
 source_url: https://developers.docusign.com/docs/esign-rest-api/reference/envelopes/envelopedocumenttabs/update/
 site: developers.docusign.com
 breadcrumb: []
-scraped_at: '2026-06-18T20:28:38Z'
+scraped_at: '2026-06-18T21:10:17Z'
 ---
 
 [API Reference](https://developers.docusign.com/docs/esign-rest-api/reference/envelopes/envelopedocumenttabs/update/)[API Explorer](https://developers.docusign.com/docs/esign-rest-api/reference/envelopes/envelopedocumenttabs/update/?explorer=true)

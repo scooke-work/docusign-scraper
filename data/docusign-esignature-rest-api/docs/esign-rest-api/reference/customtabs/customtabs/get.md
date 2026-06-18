@@ -3,7 +3,7 @@ title: ': get'
 source_url: https://developers.docusign.com/docs/esign-rest-api/reference/customtabs/customtabs/get/
 site: developers.docusign.com
 breadcrumb: []
-scraped_at: '2026-06-18T20:28:34Z'
+scraped_at: '2026-06-18T21:10:12Z'
 ---
 
 [API Reference](https://developers.docusign.com/docs/esign-rest-api/reference/customtabs/customtabs/get/)[API Explorer](https://developers.docusign.com/docs/esign-rest-api/reference/customtabs/customtabs/get/?explorer=true)

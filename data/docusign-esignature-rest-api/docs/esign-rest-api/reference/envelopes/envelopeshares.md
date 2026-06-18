@@ -3,7 +3,7 @@ title: '404'
 source_url: https://developers.docusign.com/docs/esign-rest-api/reference/envelopes/envelopeshares/
 site: developers.docusign.com
 breadcrumb: []
-scraped_at: '2026-06-18T20:28:43Z'
+scraped_at: '2026-06-18T21:10:21Z'
 ---
 
 ![](https://developers.docusign.com/img/404-background.png?v=20260610.1)

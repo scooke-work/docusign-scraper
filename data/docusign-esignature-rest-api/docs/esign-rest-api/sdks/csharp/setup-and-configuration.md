@@ -12,7 +12,7 @@ breadcrumb:
 - Csharp
 - Csharp
 - Setup and configuration
-scraped_at: '2026-06-18T20:28:14Z'
+scraped_at: '2026-06-18T21:09:54Z'
 ---
 
 # C# SDK setup and configuration

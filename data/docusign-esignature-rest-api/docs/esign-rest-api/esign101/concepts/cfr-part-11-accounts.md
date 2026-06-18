@@ -12,7 +12,7 @@ breadcrumb:
 - Concepts
 - Concepts
 - CFR Part 11 accounts
-scraped_at: '2026-06-18T20:28:08Z'
+scraped_at: '2026-06-18T21:09:48Z'
 ---
 
 # CFR Part 11 accounts
