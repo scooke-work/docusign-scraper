@@ -1,0 +1,870 @@
+{
+  "generated_at": "2026-06-18T21:18:36Z",
+  "source": "docusign-scraper",
+  "pages": [
+    {
+      "source_url": "https://developers.docusign.com/docs/monitor-api/",
+      "site": "developers.docusign.com",
+      "title": "Monitor API overview",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Monitor API"
+      ],
+      "scraped_at": "2026-06-18T21:15:03Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "docs/monitor-api.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/monitor-api/go-live/",
+      "site": "developers.docusign.com",
+      "title": "Go-Live",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Monitor API",
+        "Monitor API",
+        "Go-Live"
+      ],
+      "scraped_at": "2026-06-18T21:15:04Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "docs/monitor-api/go-live.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/monitor-api/how-to/",
+      "site": "developers.docusign.com",
+      "title": "How-to guides overview",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Monitor API",
+        "Monitor API",
+        "How-to guides"
+      ],
+      "scraped_at": "2026-06-18T21:15:04Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/monitor-api/how-to.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/monitor-api/how-to/code-launchers/",
+      "site": "developers.docusign.com",
+      "title": "Code example launchers",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Monitor API",
+        "Monitor API",
+        "How-to guides",
+        "How-to guides",
+        "Code example launchers"
+      ],
+      "scraped_at": "2026-06-18T21:15:04Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "docs/monitor-api/how-to/code-launchers.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/monitor-api/how-to/enable-monitor/",
+      "site": "developers.docusign.com",
+      "title": "How to enable Docusign Monitor for your organization",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Monitor API",
+        "Monitor API",
+        "How-to guides",
+        "How-to guides",
+        "Enable Monitor"
+      ],
+      "scraped_at": "2026-06-18T21:15:04Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "docs/monitor-api/how-to/enable-monitor.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/monitor-api/how-to/get-monitoring-data/",
+      "site": "developers.docusign.com",
+      "title": "How to get monitoring data",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Monitor API",
+        "Monitor API",
+        "How-to guides",
+        "How-to guides",
+        "Get monitoring data"
+      ],
+      "scraped_at": "2026-06-18T21:15:04Z",
+      "chunks": 11,
+      "has_content": true,
+      "markdown_path": "docs/monitor-api/how-to/get-monitoring-data.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/monitor-api/monitor101/",
+      "site": "developers.docusign.com",
+      "title": "Monitor API 101",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Monitor API",
+        "Monitor API",
+        "API 101"
+      ],
+      "scraped_at": "2026-06-18T21:15:03Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/monitor-api/monitor101.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/monitor-api/monitor101/auth/",
+      "site": "developers.docusign.com",
+      "title": "Authentication",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Monitor API",
+        "Monitor API",
+        "API 101",
+        "API 101",
+        "Authentication"
+      ],
+      "scraped_at": "2026-06-18T21:15:04Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/monitor-api/monitor101/auth.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/monitor-api/monitor101/best-practices-handling-alerts/",
+      "site": "developers.docusign.com",
+      "title": "Best practices for handling alerts",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Monitor API",
+        "Monitor API",
+        "API 101",
+        "API 101",
+        "Best practices for handling Alerts"
+      ],
+      "scraped_at": "2026-06-18T21:15:04Z",
+      "chunks": 10,
+      "has_content": true,
+      "markdown_path": "docs/monitor-api/monitor101/best-practices-handling-alerts.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/monitor-api/monitor101/events-alerts/",
+      "site": "developers.docusign.com",
+      "title": "Events and alerts",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Monitor API",
+        "Monitor API",
+        "API 101",
+        "API 101",
+        "Events and Alerts"
+      ],
+      "scraped_at": "2026-06-18T21:15:04Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "docs/monitor-api/monitor101/events-alerts.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/monitor-api/monitor101/tracking-data-handling-alerts/",
+      "site": "developers.docusign.com",
+      "title": "Tracking data and handling alerts",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Monitor API",
+        "Monitor API",
+        "API 101",
+        "API 101",
+        "Tracking Data Handling Alerts"
+      ],
+      "scraped_at": "2026-06-18T21:15:04Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "docs/monitor-api/monitor101/tracking-data-handling-alerts.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/monitor-api/reference/",
+      "site": "developers.docusign.com",
+      "title": "API Categories",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Monitor API",
+        "Monitor API",
+        "API Reference"
+      ],
+      "scraped_at": "2026-06-18T21:15:04Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/monitor-api/reference.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/monitor-api/reference/monitor/",
+      "site": "developers.docusign.com",
+      "title": "Monitor Category",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Monitor API",
+        "Monitor API",
+        "API Reference",
+        "API Reference",
+        "Monitor"
+      ],
+      "scraped_at": "2026-06-18T21:15:04Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/monitor-api/reference/monitor.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/monitor-api/reference/monitor/dataset/",
+      "site": "developers.docusign.com",
+      "title": "DataSet Resource",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Monitor API",
+        "Monitor API",
+        "API Reference",
+        "API Reference",
+        "Monitor",
+        "Monitor",
+        "Dataset"
+      ],
+      "scraped_at": "2026-06-18T21:15:04Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "docs/monitor-api/reference/monitor/dataset.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/monitor-api/reference/monitor/dataset/getstream/",
+      "site": "developers.docusign.com",
+      "title": ": getStream",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:15:04Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "docs/monitor-api/reference/monitor/dataset/getstream.md"
+    },
+    {
+      "source_url": "https://developers.docusign.com/docs/monitor-api/sdks/",
+      "site": "developers.docusign.com",
+      "title": "SDKs",
+      "breadcrumb": [
+        "APIs",
+        "APIs",
+        "Monitor API",
+        "Monitor API",
+        "SDKs"
+      ],
+      "scraped_at": "2026-06-18T21:15:04Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "docs/monitor-api/sdks.md"
+    },
+    {
+      "source_url": "https://www.docusign.com/products/monitor",
+      "site": "www.docusign.com",
+      "title": "Protect your agreements with activity tracking",
+      "breadcrumb": [
+        "Home",
+        "Home",
+        "Products",
+        "Products",
+        "Monitor"
+      ],
+      "scraped_at": "2026-06-18T21:18:23Z",
+      "chunks": 8,
+      "has_content": true,
+      "markdown_path": "products/monitor.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=OLDorv1594064852688.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "View Alert Details with Monitor Alert History",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:18Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/OLDorv1594064852688.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=adi1684172699281.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Docusign Monitor Free Edition",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/adi1684172699281.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=aml1684267239102.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "View Monitor Free Edition Alert History",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/aml1684267239102.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=avc1613164361687.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use the Docusign Monitor API",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:17Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/avc1613164361687.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=bkt1738604797475.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Manage Alert Notifications",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/bkt1738604797475.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=boo1611853646446.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Docusign Add-on Workflow Actions to Search",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:18Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/boo1611853646446.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=bpf1611704295725.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create Account and User List Lookup Tables",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:18Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/bpf1611704295725.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=bzc1620336954182.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure Alert Threshold Parameters",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:17Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/bzc1620336954182.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=con470396a9-d643-4e6f-8e14-f7a097999526.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Monitor and Splunk Integration Setup Steps",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:17Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/con470396a9-d643-4e6f-8e14-f7a097999526.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=confe8663dc-b2db-4e54-a637-6a73551546a0.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Splunk Troubleshooting for Docusign Monitor Setup",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:18Z",
+      "chunks": 12,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/confe8663dc-b2db-4e54-a637-6a73551546a0.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=confeccd094-333b-4052-9473-8b01e7323212.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use the Monitor Free IP Safe List",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/confeccd094-333b-4052-9473-8b01e7323212.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=crj1659119600990.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Docusign Monitor eSignature Events",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:17Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/crj1659119600990.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=dkv1581530808752.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Monitor Use Cases",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/dkv1581530808752.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=dzq1633712855490.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Customize the Alert Date Range",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:17Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/dzq1633712855490.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=fap1613668711861.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Download Docusign Monitor Event Information to a CSV File",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:17Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/fap1613668711861.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=fej1684870449825.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Access the Monitor Free Edition Dashboard",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/fej1684870449825.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=fky1601072617432.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Receive Docusign Monitor Alert Email Notifications",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:17Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/fky1601072617432.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=fyu1684172003272.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Docusign Monitor Versions Comparison",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/fyu1684172003272.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=hvj1633980712678.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure Monitor Data Inputs",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:17Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/hvj1633980712678.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=kca1619643682094.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Monitor Dashboard Features",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/kca1619643682094.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=kfk1617209765271.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use the Splunk App Dashboard with Docusign Monitor",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:18Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/kfk1617209765271.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=ldn1611704411547.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure the Blocklist Lookup Tables",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:18Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/ldn1611704411547.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=lly1631744886915.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Error Message: API Data Error and Lens Unauthorized Reference ID Errors",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:17Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/lly1631744886915.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=loo1631913386767.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Select Alert Email Recipients",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:18Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/loo1631913386767.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=lop1659713225796.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Change an Alert's Default Risk Status",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:17Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/lop1659713225796.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=mfq1645630427780.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure Approved Docusign IP Addresses",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:17Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/mfq1645630427780.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=mmz1684267111673.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Monitor Free Edition Features",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:16Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/mmz1684267111673.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=ndg1611704350867.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure the Alerts Lookup Table",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:18Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/ndg1611704350867.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=ngm1706891120953.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Filters to Customize Monitor Displays",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:18Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/ngm1706891120953.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=nzq1655493929779.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Monitor Data Streaming",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:17Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/nzq1655493929779.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=orf1734466223875.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Docusign Monitor Events",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:18Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/orf1734466223875.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=orv1594064852688.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Monitor Alert History",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:16Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/orv1594064852688.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=ovg1582324205227.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Set Up Notifications in Docusign Monitor Settings",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/ovg1582324205227.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=pmk1581445325570.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Protect Your Docusign Deployment with Docusign Monitor",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:16Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/pmk1581445325570.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=psb1620335565782.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Adjust Docusign Monitor Alert Sensitivity and Thresholds",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:17Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/psb1620335565782.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=pya1611352337492.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure Monitor Data Search Macros",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:17Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/pya1611352337492.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=qpg1631745976085.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Error Message: Could Not Deserialize Key Data Error",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:17Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/qpg1631745976085.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=qpw1621619554139.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Access Monitor from Docusign Admin",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/qpw1621619554139.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=qxp1582325276688.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Monitor API Authentication",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:17Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/qxp1582325276688.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=ref427e7726-6e39-4fa2-9d3b-6f6abdfb0698.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Monitor Agreement Manager Events",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:17Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/ref427e7726-6e39-4fa2-9d3b-6f6abdfb0698.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=refabf22c9d-dafd-45ba-96b8-5e7053517a27.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Monitor Workflow Builder Alerts",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:17Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/refabf22c9d-dafd-45ba-96b8-5e7053517a27.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=refb31b2b17-00f6-4fdc-8b27-9003442f4b2e.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Monitor Workflow Builder Events",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:17Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/refb31b2b17-00f6-4fdc-8b27-9003442f4b2e.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=refccb593b2-ea43-40d9-93bd-5655e2162e5c.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Monitor CLM Events",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:17Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/refccb593b2-ea43-40d9-93bd-5655e2162e5c.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=refd432e355-b91a-47ae-b979-1f263d4fe154.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Monitor CLM Alerts",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:17Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/refd432e355-b91a-47ae-b979-1f263d4fe154.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=refd45c3b91-27da-49ee-aba6-f946c7e203da.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Docusign Monitor eSignature Alerts",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:17Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/refd45c3b91-27da-49ee-aba6-f946c7e203da.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=refeb6cc0d4-f4b8-4c35-88af-0573e1b13277.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Monitor Agreement Manager Alerts",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:17Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/refeb6cc0d4-f4b8-4c35-88af-0573e1b13277.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=rvv1611352188922.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Install Docusign App and Docusign Add-on",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:17Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/rvv1611352188922.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=ryf1631743907091.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Error Message: Error Occurred Getting Access Token",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:17Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/ryf1631743907091.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=sei1611352399033.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create and Configure Monitor Lookup Tables",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:18Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/sei1611352399033.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=sfj1611351664499.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Integrate Docusign Monitor Security Notifications with Splunk",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:17Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/sfj1611351664499.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=task-5421.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure Monitor Free Events through User Investigations",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/task-5421.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=tsk08ba1ec0-a078-4667-b59b-fe290f36ac83.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Review User Activity with User Investigations",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/tsk08ba1ec0-a078-4667-b59b-fe290f36ac83.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=ubn1611352527444.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure and Enable Alerts",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:18Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/ubn1611352527444.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=uxz1581533216990.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Integrate a SIEM System",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:17Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/uxz1581533216990.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=wtf1631742504658.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Error Message: Error Occurred Getting Lens Data in a Demo Environment",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:17Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/wtf1631742504658.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=xfr1684267177699.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure Monitor Free Edition Alerts",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:16Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/xfr1684267177699.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=yjb1633967629712.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Customize the Monitor Dashboard Display Tables",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:18Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/yjb1633967629712.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=gso1581445176035&topicId=zql1581462669176.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Monitor Features",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-18T21:18:16Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/gso1581445176035/zql1581462669176.md"
+    }
+  ]
+}

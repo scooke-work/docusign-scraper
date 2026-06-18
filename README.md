@@ -102,6 +102,8 @@ Currently committed under `data/`:
 - `docusign-esignature-rest-api/` — 1,058 pages / 6,268 chunks (eSignature REST
   API developer docs — complete: 101 guides, how-tos, SDKs, quickstart, and the
   full endpoint reference incl. the v2 reference)
+- `docusign-monitor/` — 75 pages / 188 chunks (Monitor activity/security
+  tracking: Monitor API dev docs, the Monitor support bundle, and product page)
 
 Promote an ad-hoc `output/<set>/` run into the committed corpus with
 `python scripts/promote.py <set>` (rebuilds a consistent manifest + chunks).
