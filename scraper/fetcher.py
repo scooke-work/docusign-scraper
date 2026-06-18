@@ -25,6 +25,7 @@ from urllib.parse import urlparse
 from tenacity import retry, retry_if_exception_type, stop_after_attempt, wait_fixed
 
 from .config import Config
+from .urls import canonical_url
 
 # Per-host CSS selector that signals "real content has rendered". Used as the
 # wait condition before snapshotting the DOM. Kept here (not in extractors) so
@@ -94,9 +95,16 @@ class BrowserFetcher:
 
     # -- caching -----------------------------------------------------------
     def _cache_path(self, url: str) -> Path:
-        digest = hashlib.sha256(url.encode("utf-8")).hexdigest()[:20]
+        # Key on the canonical identity so all URL variants of one article
+        # (and a redirect's source/target) share a single cache entry.
+        digest = hashlib.sha256(canonical_url(url).encode("utf-8")).hexdigest()[:20]
         host = urlparse(url).netloc or "unknown"
         return self.config.cache_dir / host / f"{digest}.html"
+
+    def _write_cache(self, cache_path: Path, html: str, final_url: str) -> None:
+        cache_path.parent.mkdir(parents=True, exist_ok=True)
+        cache_path.write_text(html, encoding="utf-8")
+        cache_path.with_suffix(".url").write_text(final_url, encoding="utf-8")
 
     # -- fetching ----------------------------------------------------------
     def fetch(self, url: str) -> FetchResult:
@@ -115,9 +123,12 @@ class BrowserFetcher:
         self._respect_rate_limit()
         html, final_url = self._render(url)
 
-        cache_path.parent.mkdir(parents=True, exist_ok=True)
-        cache_path.write_text(html, encoding="utf-8")
-        meta_path.write_text(final_url, encoding="utf-8")
+        self._write_cache(cache_path, html, final_url)
+        # Write-through under the redirect target's key too, so a later request
+        # for the final URL is an instant hit (e.g. navigator-api -> agreement-manager-api).
+        final_cache = self._cache_path(final_url)
+        if final_cache != cache_path:
+            self._write_cache(final_cache, html, final_url)
         return FetchResult(html, final_url)
 
     def _respect_rate_limit(self) -> None:
