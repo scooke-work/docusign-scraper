@@ -116,7 +116,7 @@
       <div class="ch">Renewal</div>
       <div class="row">
         <span class="fld">renewal_type</span><span class="badge t-enum">enum</span></div>
-      <div class="row" style="border-bottom:none;padding-top:0"><span class="ev-wrap"><span class="ev">AUTO_RENEW</span><span class="ev">SILENT</span><span class="partial">observed</span></span></div>
+      <div class="row" style="border-bottom:none;padding-top:0"><span class="ev-wrap"><span class="ev">Auto-Renew</span><span class="ev">Evergreen</span><span class="ev">Fixed Term</span><span class="ev">Renewal Option</span><span class="ev">Unspecified</span><span class="ev">Other</span></span></div>
       <div class="row" style="padding-top:6px"><span class="fld">renewal_notice_period</span><span class="badge t-dur">duration</span></div>
       <div class="row"><span class="fld auto">&#9889; renewal_notice_date</span><span class="badge t-date">date</span></div>
       <div class="row"><span class="fld">auto_renewal_term_length</span><span class="badge t-dur">duration</span></div>
@@ -128,17 +128,17 @@
     <div class="card">
       <div class="ch">Assignment</div>
       <div class="row"><span class="fld">assignment_type</span><span class="badge t-enum">enum</span></div>
-      <div class="row" style="border-bottom:none;padding-top:0"><span class="ev-wrap"><span class="ev">YES_WITH_CONDITIONS</span><span class="ev">SILENT</span><span class="partial">observed</span></span></div>
+      <div class="row" style="border-bottom:none;padding-top:0"><span class="ev-wrap"><span class="ev">No, or consent required</span><span class="ev">Yes</span><span class="ev">Yes, with conditions</span><span class="ev">Other</span></span></div>
       <div class="row" style="padding-top:6px"><span class="fld">assignment_change_of_control</span><span class="badge t-enum">enum</span></div>
-      <div class="row" style="border-bottom:none;padding-top:0"><span class="ev-wrap"><span class="ev">NO_OR_CONSENT_REQUIRED</span><span class="ev">SILENT</span><span class="partial">observed</span></span></div>
+      <div class="row" style="border-bottom:none;padding-top:0"><span class="ev-wrap"><span class="ev">No, or consent required</span><span class="ev">Yes, notice required</span><span class="ev">Yes, restrictions apply</span><span class="ev">Yes, with conditions</span><span class="ev">Other</span></span></div>
       <div class="row" style="padding-top:6px"><span class="fld">assignment_termination_rights</span><span class="badge t-enum">enum</span></div>
-      <div class="row" style="border-bottom:none;padding-top:0"><span class="ev-wrap"><span class="ev">YES</span><span class="ev">SILENT</span><span class="partial">observed</span></span></div>
+      <div class="row" style="border-bottom:none;padding-top:0"><span class="ev-wrap"><span class="ev">Yes</span><span class="ev">Other</span></span></div>
     </div>
 
     <div class="card">
       <div class="ch">Payment &amp; pricing</div>
       <div class="row"><span class="fld">payment_terms_due_date</span><span class="badge t-enum">enum</span></div>
-      <div class="row" style="border-bottom:none;padding-top:0"><span class="ev-wrap"><span class="ev">THIRTY_DAYS</span><span class="ev">SILENT</span><span class="partial">observed</span></span></div>
+      <div class="row" style="border-bottom:none;padding-top:0"><span class="ev-wrap"><span class="ev">Under 7 days</span><span class="ev">7 days</span><span class="ev">15 days</span><span class="ev">30 days</span><span class="ev">45 days</span><span class="ev">60 days</span><span class="ev">90 days</span><span class="ev">&gt;90 days</span><span class="ev">On Receipt</span><span class="ev">Other</span></span></div>
       <div class="row" style="padding-top:6px"><span class="fld">can_charge_late_payment_fees</span><span class="badge t-bool">boolean</span></div>
       <div class="row"><span class="fld">late_payment_fee_percent</span><span class="badge t-num">number</span></div>
       <div class="row"><span class="fld">price_cap_percent_increase</span><span class="badge t-num">number</span></div>
@@ -185,7 +185,7 @@
 
   <div class="foot">
     <b>UI field types:</b> Text &middot; Number &middot; Date &middot; Currency &middot; Dropdown &nbsp;|&nbsp; <b>API data types:</b> string &middot; number &middot; datetime &middot; duration &middot; enum &middot; boolean. Custom fields support Text / Number / Date / Dropdown; plus custom_provisions for user-defined terms.<br>
-    <b>Enum completeness:</b> <span class="mono">category</span>, <span class="mono">type</span>, and <span class="mono">status</span> values are documented. For <span class="mono">renewal_type</span>, the <span class="mono">assignment_*</span> enums, and <span class="mono">payment_terms_due_date</span>, Docusign's docs define the property as a string but do not publish the full allowed-value list &mdash; values marked <i>observed</i> are those seen in documented sample responses (e.g. <span class="mono">SILENT</span> = the agreement is silent on that term) and are <b>not exhaustive</b>. The authoritative current values come from the API <span class="mono">getAgreementTypes</span> endpoint and the live schema.<br>
+    <b>Enum values</b> are the documented value sets (the pre-populated options used for filtering) from Docusign's <i>Extracted Agreement Insights and Definitions</i>. <b>Other</b> is the universal catch-all returned when the AI cannot locate the value in the agreement. The API returns equivalent <span class="mono">UPPER_SNAKE_CASE</span> codes (e.g. Auto-Renew&rarr;<span class="mono">AUTO_RENEW</span>, Yes, with conditions&rarr;<span class="mono">YES_WITH_CONDITIONS</span>, 30 days&rarr;<span class="mono">THIRTY_DAYS</span>; <span class="mono">SILENT</span> appears for unspecified). Value sets are English (U.S.) and vary slightly by language. <b>Type-specific enum fields</b> also surface for certain agreement types: <b>NDA Type</b> (Mutual; One Way), <b>Employment Type</b> (Fixed Term; Full Time; Intern; Part Time), <b>Party Role</b> (Buyer; Seller), <b>Late Fees Apply</b> (Yes; No).<br>
     <b>&#9889; Auto-calculated</b> fields are the only ones Docusign documents as set from other fields. <b>Sources:</b> Agreement Manager API schema &amp; reference; Agreement Manager support (Fields Manager, Update Agreement Status, Create an Obligation); openapi-navigator schema definitions.
   </div>
 
