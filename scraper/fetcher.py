@@ -164,6 +164,8 @@ class BrowserFetcher:
             except Exception:
                 pass
 
+            self._reveal_tabs(page, host)
+
             html = page.content()
             final_url = page.url or url
             if any(marker in html for marker in SALESFORCE_ERROR_MARKERS) and (
@@ -173,3 +175,57 @@ class BrowserFetcher:
             return html, final_url
         finally:
             page.close()
+
+    def _reveal_tabs(self, page, host: str) -> None:
+        """Click through ARIA tab widgets so lazy-loaded panels are captured.
+
+        React tab components (e.g. the Agreement Manager "agreement types by
+        category" tabs) render only the active panel, so a single snapshot misses
+        the others. We click each tab, harvest its panel HTML, then replace the
+        live panels with the union so one snapshot contains every tab's content.
+        Best-effort, bounded, and a no-op on pages without tabs. Scoped to the
+        developer docs, where this pattern occurs and clicking is side-effect-free.
+        """
+        if host != "developers.docusign.com":
+            return
+        try:
+            tab_count = page.eval_on_selector_all("[role='tab']", "els => els.length")
+        except Exception:
+            tab_count = 0
+        if not tab_count or tab_count < 2:
+            return
+
+        harvested = []
+        for i in range(min(tab_count, 20)):
+            try:
+                tabs = page.query_selector_all("[role='tab']")
+                if i >= len(tabs):
+                    break
+                tabs[i].click(timeout=2000)
+                page.wait_for_timeout(300)
+                panel_html = page.eval_on_selector_all(
+                    "[role='tabpanel']", "els => els.map(e => e.outerHTML).join('')"
+                )
+                if panel_html:
+                    harvested.append(panel_html)
+            except Exception:
+                continue
+
+        if harvested:
+            try:
+                page.evaluate(
+                    """(htmls) => {
+                        const anchor = document.querySelector("[role='tabpanel']");
+                        const host = anchor && anchor.parentElement
+                            ? anchor.parentElement
+                            : (document.querySelector('main') || document.body);
+                        document.querySelectorAll("[role='tabpanel']").forEach(p => p.remove());
+                        const c = document.createElement('div');
+                        c.setAttribute('data-scraper-tabs', '1');
+                        c.innerHTML = htmls.join('\\n');
+                        host.appendChild(c);
+                    }""",
+                    harvested,
+                )
+            except Exception:
+                pass
