@@ -139,6 +139,13 @@ Promote an ad-hoc `output/<set>/` run into the committed corpus with
   then `python scripts/promote.py docusign-esign-soap-api` if it's ever needed.
 - **CLM support docs** are a representative sample, not exhaustive — see the
   `docusign-clm/` entry above.
+- **Multi-language code examples** — the fetcher reveals lazy-loaded tab panels
+  (so content tabs like the agreement-type categories are fully captured), but it
+  intentionally does **not** expand multi-language code-example tab groups
+  (cURL / C# / Java / Node.js / PHP / Python / Ruby …). Only the default-language
+  sample is kept, to avoid N near-duplicate copies of every example bloating the
+  corpus. Controlled by `LANGUAGE_TAB_LABELS` / `is_language_tab_group()` in
+  `scraper/fetcher.py`; remove or narrow that guard to capture all languages.
 
 ## Using inside another repo (git submodule)
 

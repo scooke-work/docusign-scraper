@@ -16,6 +16,7 @@ The fetcher also provides:
 from __future__ import annotations
 
 import hashlib
+import re
 import time
 from dataclasses import dataclass
 from pathlib import Path
@@ -40,6 +41,28 @@ DEFAULT_READY_SELECTOR = "main, article"
 # Text that indicates the Salesforce Lightning shell failed to load its styles
 # and is showing the interstitial instead of the article.
 SALESFORCE_ERROR_MARKERS = ("Sorry to interrupt", "CSS Error")
+
+# Tab labels that mark a multi-language code-example tab group. These are
+# intentionally NOT expanded for now (see _reveal_tabs / README "Not included"):
+# we keep only the default-language sample rather than every language variant.
+LANGUAGE_TAB_LABELS = {
+    "curl", "c#", "csharp", "java", "node", "node.js", "nodejs", "javascript",
+    "js", "ts", "typescript", "php", "python", "ruby", "go", "golang", "vb",
+    "vb.net", ".net", "kotlin", "swift", "objective-c", "c++", "powershell",
+    "postman", "http", "shell", "bash", "json", "xml",
+}
+
+
+def is_language_tab_group(labels) -> bool:
+    """True if a tab group's labels look like a multi-language code-example
+    selector (cURL/C#/Java/…). Such groups are intentionally not expanded — we
+    keep only the default-language sample. See README "Not included (by choice)".
+    """
+    norm = [re.sub(r"[^a-z0-9.+#-]", "", (l or "").lower()) for l in labels]
+    nonempty = [x for x in norm if x]
+    if len(nonempty) < 2:
+        return False
+    return sum(1 for x in nonempty if x in LANGUAGE_TAB_LABELS) >= max(2, len(nonempty) // 2)
 
 
 class TransientRenderError(RuntimeError):
@@ -181,51 +204,76 @@ class BrowserFetcher:
 
         React tab components (e.g. the Agreement Manager "agreement types by
         category" tabs) render only the active panel, so a single snapshot misses
-        the others. We click each tab, harvest its panel HTML, then replace the
-        live panels with the union so one snapshot contains every tab's content.
-        Best-effort, bounded, and a no-op on pages without tabs. Scoped to the
-        developer docs, where this pattern occurs and clicking is side-effect-free.
+        the others. We process each tablist independently: skip multi-language
+        code-example groups (see ``LANGUAGE_TAB_LABELS`` — scoped out for now, we
+        keep only the default-language sample), and for content tablists click
+        every tab, harvest its panel, and replace the live panels with the union.
+        Best-effort, bounded, no-op on pages without tabs, scoped to the dev docs.
         """
         if host != "developers.docusign.com":
             return
         try:
-            tab_count = page.eval_on_selector_all("[role='tab']", "els => els.length")
+            n_lists = page.eval_on_selector_all("[role='tablist']", "els => els.length")
         except Exception:
-            tab_count = 0
-        if not tab_count or tab_count < 2:
-            return
-
-        harvested = []
-        for i in range(min(tab_count, 20)):
+            n_lists = 0
+        for li in range(n_lists):
             try:
-                tabs = page.query_selector_all("[role='tab']")
-                if i >= len(tabs):
-                    break
-                tabs[i].click(timeout=2000)
-                page.wait_for_timeout(300)
-                panel_html = page.eval_on_selector_all(
-                    "[role='tabpanel']", "els => els.map(e => e.outerHTML).join('')"
-                )
-                if panel_html:
-                    harvested.append(panel_html)
+                self._reveal_one_tablist(page, li)
             except Exception:
                 continue
 
-        if harvested:
+    def _reveal_one_tablist(self, page, li: int) -> None:
+        lists = page.query_selector_all("[role='tablist']")
+        if li >= len(lists):
+            return
+        tabs = lists[li].query_selector_all("[role='tab']")
+        if len(tabs) < 2:
+            return
+        labels = [(t.inner_text() or "").strip() for t in tabs]
+        # Skip multi-language code-example tab groups (intentionally out of scope).
+        if is_language_tab_group(labels):
+            return
+
+        harvested, panel_ids = [], []
+        for i in range(min(len(tabs), 20)):
+            lists = page.query_selector_all("[role='tablist']")
+            if li >= len(lists):
+                break
+            tabs = lists[li].query_selector_all("[role='tab']")
+            if i >= len(tabs):
+                break
             try:
-                page.evaluate(
-                    """(htmls) => {
-                        const anchor = document.querySelector("[role='tabpanel']");
-                        const host = anchor && anchor.parentElement
-                            ? anchor.parentElement
-                            : (document.querySelector('main') || document.body);
-                        document.querySelectorAll("[role='tabpanel']").forEach(p => p.remove());
-                        const c = document.createElement('div');
-                        c.setAttribute('data-scraper-tabs', '1');
-                        c.innerHTML = htmls.join('\\n');
-                        host.appendChild(c);
-                    }""",
-                    harvested,
-                )
+                tabs[i].click(timeout=2000)
             except Exception:
-                pass
+                continue
+            page.wait_for_timeout(250)
+            info = page.evaluate(
+                """(tabEl) => {
+                    const id = tabEl.getAttribute('aria-controls');
+                    const p = id ? document.getElementById(id)
+                                 : document.querySelector("[role='tabpanel']");
+                    return p ? {id: p.id || '', html: p.outerHTML} : null;
+                }""",
+                tabs[i],
+            )
+            if info and info.get("html"):
+                harvested.append(info["html"])
+                if info.get("id"):
+                    panel_ids.append(info["id"])
+
+        if harvested:
+            page.evaluate(
+                """(args) => {
+                    const {htmls, ids} = args;
+                    let anchor = null;
+                    for (const id of ids) { const p = document.getElementById(id); if (p) { anchor = p; break; } }
+                    if (!anchor) anchor = document.querySelector("[role='tabpanel']");
+                    const host = anchor && anchor.parentElement ? anchor.parentElement : document.body;
+                    ids.forEach(id => { const p = document.getElementById(id); if (p) p.remove(); });
+                    const c = document.createElement('div');
+                    c.setAttribute('data-scraper-tabs', '1');
+                    c.innerHTML = htmls.join('\\n');
+                    host.appendChild(c);
+                }""",
+                {"htmls": harvested, "ids": panel_ids},
+            )
