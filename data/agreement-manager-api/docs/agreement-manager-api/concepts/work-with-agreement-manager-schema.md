@@ -10,7 +10,7 @@ breadcrumb:
 - Concepts
 - Concepts
 - Work With Agreement Manager Schema
-scraped_at: '2026-06-18T14:17:04Z'
+scraped_at: '2026-06-20T14:20:48Z'
 ---
 
 # Work with the Agreement Manager API schema
@@ -21,7 +21,7 @@ The central component of the Agreement Manager API schema is the `agreement` obj
 
 Several key properties and objects are associated with each `agreement` object. Their relationships are illustrated below, and the next sections provide details. For a complete list of `agreement` properties and objects, see the [API Reference](https://developers.docusign.com/docs/agreement-manager-api/reference/).
 
-![](data:image/svg+xml;charset=utf-8,%3Csvg height='856.9999999999999' width='1147' xmlns='http://www.w3.org/2000/svg' version='1.1'%3E%3C/svg%3E)
+![](data:image/svg+xml;charset=utf-8,%3Csvg%20height='856.9999999999999'%20width='1147'%20xmlns='http://www.w3.org/2000/svg'%20version='1.1'%3E%3C/svg%3E)
 
 ![Sample agreement and related schema objects](https://images.ctfassets.net/aj9z008chlq0/K274XidrHyDWruWwUFu7r/3a45dff38697435194654431c0963e3a/NavigatorSchema.png?w=1147&h=857&q=50&fm=png)
 
@@ -147,6 +147,31 @@ Below are lists of standard agreement types that the Agreement Manager API suppo
 - Subscription agreement
 - Supply / Distribution agreement
 - Wealth Management Agreement
+
+- Addendum agreement
+- Amendment agreement
+- Appendix agreement
+- Attachment agreement
+- Change Order agreement
+- Event agreement
+- Exhibit agreement
+- Fee agreement
+- Intellectual Property Assignment Agreement
+- Lease agreement
+- License agreement
+- Miscellaneous agreement
+- Privacy and Security agreement
+- Publishing Agreement
+- Release / Waiver agreement
+- Renewal agreement
+- Retainer agreement
+- Supplemental Document
+- Termination agreement
+- Terms and Conditions agreement
+
+- Contractor Agreement
+- Employment Separation Agreement
+- Offer Letter
 
 ## Custom agreement types
 

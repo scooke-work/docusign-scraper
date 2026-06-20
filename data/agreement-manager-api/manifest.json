@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T17:24:01Z",
+  "generated_at": "2026-06-20T14:20:49Z",
   "source": "docusign-scraper",
   "pages": [
     {
@@ -133,7 +133,7 @@
         "Concepts",
         "Work With Agreement Manager Schema"
       ],
-      "scraped_at": "2026-06-18T14:17:04Z",
+      "scraped_at": "2026-06-20T14:20:48Z",
       "chunks": 11,
       "has_content": true,
       "markdown_path": "docs/agreement-manager-api/concepts/work-with-agreement-manager-schema.md"
