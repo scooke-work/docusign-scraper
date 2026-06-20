@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Docusign AI Extraction Fields</title>
+<style>
+  :root{
+    --bg:#ffffff; --surface:#faf9f6; --text:#1b1b1a; --muted:#6b6a65; --hint:#94938c;
+    --border:rgba(0,0,0,.12); --border-soft:rgba(0,0,0,.08); --accent:#185FA5; --auto:#A32D2D;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{ --bg:#1c1c1b; --surface:#262625; --text:#e9e8e2; --muted:#a9a89f; --hint:#7c7b73;
+      --border:rgba(255,255,255,.14); --border-soft:rgba(255,255,255,.08); --accent:#85B7EB; --auto:#F09595; }
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--text);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    line-height:1.6;-webkit-font-smoothing:antialiased;}
+  .wrap{max-width:1000px;margin:0 auto;padding:40px 24px 64px;}
+  h1{font-size:24px;font-weight:600;margin:0 0 4px;}
+  .sub{font-size:14.5px;color:var(--muted);margin:0 0 6px;}
+  .gen{font-size:12px;color:var(--hint);margin:0 0 26px;}
+  .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;}
+  .eyebrow{font-size:12px;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:.06em;margin:0 0 10px;}
+  .badge{display:inline-block;font-size:11px;line-height:1.5;padding:1px 8px;border-radius:6px;font-weight:600;white-space:nowrap;}
+  .t-date{background:#E1F5EE;color:#085041}.t-dur{background:#FAEEDA;color:#854F0B}.t-num{background:#E6F1FB;color:#0C447C}
+  .t-cur{background:#EAF3DE;color:#27500A}.t-enum{background:#EEEDFE;color:#3C3489}.t-bool{background:#FAECE7;color:#712B13}.t-text{background:#F1EFE8;color:#444441}
+  .legend{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:0 0 22px;}
+  .auto-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:0 0 28px;}
+  .auto-card{background:var(--bg);border:2px solid var(--accent);border-radius:12px;padding:14px 16px;}
+  .auto-card .h{display:flex;justify-content:space-between;align-items:center;gap:8px;margin-bottom:7px;}
+  .auto-card .h b{font-size:15px;font-weight:600;}
+  .auto-card p{margin:0;font-size:12.7px;color:var(--muted);}
+  .auto-card p b{color:var(--text);font-weight:600;}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:12px;align-items:start;}
+  .card{background:var(--bg);border:1px solid var(--border-soft);border-radius:12px;padding:12px 15px;}
+  .ch{font-size:13px;font-weight:600;margin:0 0 4px;}
+  .row{display:flex;justify-content:space-between;align-items:flex-start;gap:10px;padding:6px 0;border-bottom:1px solid var(--border-soft);}
+  .row:last-child{border-bottom:none;}
+  .fld{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:12px;}
+  .fld .auto{color:var(--auto);font-weight:600;}
+  .ev{display:inline-block;font-family:ui-monospace,Menlo,monospace;font-size:10px;background:var(--surface);
+    border:1px solid var(--border-soft);color:var(--muted);padding:0 5px;border-radius:4px;margin:3px 3px 0 0;}
+  .ev-wrap{margin-top:3px;}
+  .partial{color:var(--hint);font-size:10px;font-style:italic;margin-left:2px;}
+  .types{background:var(--bg);border:1px solid var(--border-soft);border-radius:12px;padding:14px 16px;margin:14px 0 0;}
+  .types h3{font-size:13px;font-weight:600;margin:0 0 8px;}
+  .types .cat{margin-bottom:10px;}
+  .types .cat:last-child{margin-bottom:0;}
+  .types .catname{font-size:11px;font-weight:600;color:var(--accent);text-transform:uppercase;letter-spacing:.04em;margin-bottom:4px;}
+  .types .vals{font-size:12.5px;color:var(--text);}
+  .foot{margin-top:24px;font-size:12px;color:var(--hint);line-height:1.7;border-top:1px solid var(--border-soft);padding-top:14px;}
+  .foot b{color:var(--muted);font-weight:600;}
+  @media (max-width:620px){ .auto-grid{grid-template-columns:1fr} }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <h1>Docusign AI Extraction Fields</h1>
+  <p class="sub">Agreement Manager (Iris) &mdash; data points surfaced from agreements by AI, by type, with enum values and auto-calculated fields flagged.</p>
+  <p class="gen">Generated from the scraped Docusign documentation corpus &middot; <span class="mono">scooke-work/docusign-scraper</span></p>
+
+  <!-- AUTO-CALCULATED -->
+  <p class="eyebrow">Automatically set &middot; derived from other fields</p>
+  <div class="auto-grid">
+    <div class="auto-card">
+      <div class="h"><b>&#9889; Status</b><span class="badge t-enum">enum</span></div>
+      <p>Calculated from <b>Effective Date</b>, <b>Expiration Date</b> &amp; <b>Renewal Type</b>. Auto-calc is on by default; setting it manually stops the calculation.
+      <span class="ev-wrap" style="display:block">UI: <span class="ev">Active</span><span class="ev">Inactive</span> &nbsp; API: <span class="ev">PENDING</span><span class="ev">COMPLETE</span><span class="ev">INACTIVE</span></span></p>
+    </div>
+    <div class="auto-card">
+      <div class="h"><b>&#9889; Notice date</b><span class="badge t-date">date</span></div>
+      <p>= <b>Expiration Date</b> &minus; <b>Notice period</b>. For renewal &amp; termination obligations (others use a directly-entered Due date). API field: <span class="mono" style="font-size:11.5px">renewal_notice_date</span>.</p>
+    </div>
+  </div>
+
+  <!-- LEGEND -->
+  <div class="legend">
+    <span class="badge t-date">date</span><span class="badge t-dur">duration</span><span class="badge t-num">number</span>
+    <span class="badge t-cur">currency</span><span class="badge t-enum">enum / dropdown</span><span class="badge t-bool">boolean</span><span class="badge t-text">text</span>
+    <span style="font-size:12px;color:var(--hint);margin-left:4px">&#9889; auto-calculated</span>
+  </div>
+
+  <!-- FIELD GROUPS -->
+  <div class="grid">
+
+    <div class="card">
+      <div class="ch">Top-level insights</div>
+      <div class="row"><span class="fld">type</span><span class="badge t-enum">enum &middot; 49</span></div>
+      <div class="row"><span class="fld">category</span><span class="badge t-enum">enum</span></div>
+      <div class="row" style="border-bottom:none;padding-bottom:0"><span class="ev-wrap"><span class="ev">BusinessServices</span><span class="ev">HumanResources</span><span class="ev">Miscellaneous</span></span></div>
+      <div class="row" style="padding-top:6px"><span class="fld">parties</span><span class="badge t-text">object[]</span></div>
+      <div class="row"><span class="fld auto">&#9889; status</span><span class="badge t-enum">enum</span></div>
+      <div class="row"><span class="fld">languages</span><span class="badge t-text">string[]</span></div>
+    </div>
+
+    <div class="card">
+      <div class="ch">Dates &amp; term</div>
+      <div class="row"><span class="fld">effective_date</span><span class="badge t-date">date</span></div>
+      <div class="row"><span class="fld">expiration_date</span><span class="badge t-date">date</span></div>
+      <div class="row"><span class="fld">execution_date</span><span class="badge t-date">date</span></div>
+      <div class="row"><span class="fld">term_length</span><span class="badge t-dur">duration</span></div>
+    </div>
+
+    <div class="card">
+      <div class="ch">Value</div>
+      <div class="row"><span class="fld">total_agreement_value</span><span class="badge t-num">number</span></div>
+      <div class="row"><span class="fld">total_…_currency_code</span><span class="badge t-cur">currency</span></div>
+      <div class="row"><span class="fld">annual_agreement_value</span><span class="badge t-num">number</span></div>
+      <div class="row"><span class="fld">annual_…_currency_code</span><span class="badge t-cur">currency</span></div>
+    </div>
+
+    <div class="card">
+      <div class="ch">Renewal</div>
+      <div class="row">
+        <span class="fld">renewal_type</span><span class="badge t-enum">enum</span></div>
+      <div class="row" style="border-bottom:none;padding-top:0"><span class="ev-wrap"><span class="ev">AUTO_RENEW</span><span class="ev">SILENT</span><span class="partial">observed</span></span></div>
+      <div class="row" style="padding-top:6px"><span class="fld">renewal_notice_period</span><span class="badge t-dur">duration</span></div>
+      <div class="row"><span class="fld auto">&#9889; renewal_notice_date</span><span class="badge t-date">date</span></div>
+      <div class="row"><span class="fld">auto_renewal_term_length</span><span class="badge t-dur">duration</span></div>
+      <div class="row"><span class="fld">renewal_extension_period</span><span class="badge t-dur">duration</span></div>
+      <div class="row"><span class="fld">renewal_process_owner</span><span class="badge t-text">text</span></div>
+      <div class="row"><span class="fld">renewal_additional_info</span><span class="badge t-text">text</span></div>
+    </div>
+
+    <div class="card">
+      <div class="ch">Assignment</div>
+      <div class="row"><span class="fld">assignment_type</span><span class="badge t-enum">enum</span></div>
+      <div class="row" style="border-bottom:none;padding-top:0"><span class="ev-wrap"><span class="ev">YES_WITH_CONDITIONS</span><span class="ev">SILENT</span><span class="partial">observed</span></span></div>
+      <div class="row" style="padding-top:6px"><span class="fld">assignment_change_of_control</span><span class="badge t-enum">enum</span></div>
+      <div class="row" style="border-bottom:none;padding-top:0"><span class="ev-wrap"><span class="ev">NO_OR_CONSENT_REQUIRED</span><span class="ev">SILENT</span><span class="partial">observed</span></span></div>
+      <div class="row" style="padding-top:6px"><span class="fld">assignment_termination_rights</span><span class="badge t-enum">enum</span></div>
+      <div class="row" style="border-bottom:none;padding-top:0"><span class="ev-wrap"><span class="ev">YES</span><span class="ev">SILENT</span><span class="partial">observed</span></span></div>
+    </div>
+
+    <div class="card">
+      <div class="ch">Payment &amp; pricing</div>
+      <div class="row"><span class="fld">payment_terms_due_date</span><span class="badge t-enum">enum</span></div>
+      <div class="row" style="border-bottom:none;padding-top:0"><span class="ev-wrap"><span class="ev">THIRTY_DAYS</span><span class="ev">SILENT</span><span class="partial">observed</span></span></div>
+      <div class="row" style="padding-top:6px"><span class="fld">can_charge_late_payment_fees</span><span class="badge t-bool">boolean</span></div>
+      <div class="row"><span class="fld">late_payment_fee_percent</span><span class="badge t-num">number</span></div>
+      <div class="row"><span class="fld">price_cap_percent_increase</span><span class="badge t-num">number</span></div>
+    </div>
+
+    <div class="card">
+      <div class="ch">Liability cap</div>
+      <div class="row"><span class="fld">liability_cap_fixed_amount</span><span class="badge t-num">number</span></div>
+      <div class="row"><span class="fld">liability_cap_currency_code</span><span class="badge t-cur">currency</span></div>
+      <div class="row"><span class="fld">liability_cap_multiplier</span><span class="badge t-num">number</span></div>
+      <div class="row"><span class="fld">liability_cap_duration</span><span class="badge t-dur">duration</span></div>
+    </div>
+
+    <div class="card">
+      <div class="ch">Termination</div>
+      <div class="row"><span class="fld">termination_period_for_cause</span><span class="badge t-dur">duration</span></div>
+      <div class="row"><span class="fld">termination_period_for_convenience</span><span class="badge t-dur">duration</span></div>
+    </div>
+
+    <div class="card">
+      <div class="ch">Governing</div>
+      <div class="row"><span class="fld">governing_law</span><span class="badge t-text">text</span></div>
+      <div class="row"><span class="fld">jurisdiction</span><span class="badge t-text">text</span></div>
+    </div>
+
+  </div>
+
+  <!-- AGREEMENT TYPE ENUM (49 values) -->
+  <div class="types">
+    <h3><span class="mono" style="font-size:12px">type</span> enum &mdash; 49 standard agreement types (by category)</h3>
+    <div class="cat">
+      <div class="catname">Business Services &middot; 26</div>
+      <div class="vals">Certificate of Insurance &middot; Consulting Agreement &middot; Credit Card Agreement &middot; Engagement Letter &middot; Franchise Agreement &middot; Investment Account Agreement &middot; Joint Venture Agreement &middot; Letter of Intent &middot; Loan agreement &middot; Marketing agreement &middot; Master Service Agreement &middot; Memorandum of Understanding &middot; Non-disclosure Agreement &middot; Order Form &middot; Partnership Agreement &middot; Proposal agreement &middot; Purchase Agreement &middot; Purchase Order &middot; Quote agreement &middot; Service Level Agreement &middot; Services Agreement &middot; Statement of Work &middot; Stock Purchase Agreement &middot; Subscription agreement &middot; Supply / Distribution agreement &middot; Wealth Management Agreement</div>
+    </div>
+    <div class="cat">
+      <div class="catname">Miscellaneous &middot; 20</div>
+      <div class="vals">Addendum agreement &middot; Amendment agreement &middot; Appendix agreement &middot; Attachment agreement &middot; Change Order agreement &middot; Event agreement &middot; Exhibit agreement &middot; Fee agreement &middot; Intellectual Property Assignment Agreement &middot; Lease agreement &middot; License agreement &middot; Miscellaneous agreement &middot; Privacy and Security agreement &middot; Publishing Agreement &middot; Release / Waiver agreement &middot; Renewal agreement &middot; Retainer agreement &middot; Supplemental Document &middot; Termination agreement &middot; Terms and Conditions agreement</div>
+    </div>
+    <div class="cat">
+      <div class="catname">Human Resources &middot; 3</div>
+      <div class="vals">Contractor Agreement &middot; Employment Separation Agreement &middot; Offer Letter</div>
+    </div>
+  </div>
+
+  <div class="foot">
+    <b>UI field types:</b> Text &middot; Number &middot; Date &middot; Currency &middot; Dropdown &nbsp;|&nbsp; <b>API data types:</b> string &middot; number &middot; datetime &middot; duration &middot; enum &middot; boolean. Custom fields support Text / Number / Date / Dropdown; plus custom_provisions for user-defined terms.<br>
+    <b>Enum completeness:</b> <span class="mono">category</span>, <span class="mono">type</span>, and <span class="mono">status</span> values are documented. For <span class="mono">renewal_type</span>, the <span class="mono">assignment_*</span> enums, and <span class="mono">payment_terms_due_date</span>, Docusign's docs define the property as a string but do not publish the full allowed-value list &mdash; values marked <i>observed</i> are those seen in documented sample responses (e.g. <span class="mono">SILENT</span> = the agreement is silent on that term) and are <b>not exhaustive</b>. The authoritative current values come from the API <span class="mono">getAgreementTypes</span> endpoint and the live schema.<br>
+    <b>&#9889; Auto-calculated</b> fields are the only ones Docusign documents as set from other fields. <b>Sources:</b> Agreement Manager API schema &amp; reference; Agreement Manager support (Fields Manager, Update Agreement Status, Create an Obligation); openapi-navigator schema definitions.
+  </div>
+
+</div>
+</body>
+</html>

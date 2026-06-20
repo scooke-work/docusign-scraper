@@ -130,6 +130,10 @@ Currently committed under `data/`:
 Promote an ad-hoc `output/<set>/` run into the committed corpus with
 `python scripts/promote.py <set>` (rebuilds a consistent manifest + chunks).
 
+A standalone visual reference of the Agreement Manager AI extraction fields
+(types, enum values, and which fields are auto-calculated) lives at
+[`docs/ai-extraction-fields.html`](docs/ai-extraction-fields.html) — open it in a browser.
+
 ### Not included (by choice)
 
 - **eSignature SOAP API** (`/docs/esign-soap-api/`) — intentionally skipped. The
