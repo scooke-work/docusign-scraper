@@ -139,6 +139,12 @@ Promote an ad-hoc `output/<set>/` run into the committed corpus with
   then `python scripts/promote.py docusign-esign-soap-api` if it's ever needed.
 - **CLM support docs** are a representative sample, not exhaustive — see the
   `docusign-clm/` entry above.
+- **Combobox-selected schema variants** — the fetcher expands ARIA tab panels and
+  collapsed accordions/disclosures (`aria-expanded`) on developer-doc pages, so
+  reference-page schemas are captured. It does **not** drive `role="combobox"`
+  selectors that swap the displayed schema among many variants (e.g. the
+  per-agreement-type response template on the Agreement Manager `getAgreement`
+  reference). Those nested per-variant property trees aren't expanded.
 - **Multi-language code examples** — the fetcher reveals lazy-loaded tab panels
   (so content tabs like the agreement-type categories are fully captured), but it
   intentionally does **not** expand multi-language code-example tab groups

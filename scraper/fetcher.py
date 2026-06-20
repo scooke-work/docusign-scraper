@@ -188,6 +188,7 @@ class BrowserFetcher:
                 pass
 
             self._reveal_tabs(page, host)
+            self._expand_disclosures(page, host)
 
             html = page.content()
             final_url = page.url or url
@@ -277,3 +278,38 @@ class BrowserFetcher:
                 }""",
                 {"htmls": harvested, "ids": panel_ids},
             )
+
+    def _expand_disclosures(self, page, host: str) -> None:
+        """Expand collapsed ARIA disclosures (accordions) within the content.
+
+        API reference pages render their schema/property trees behind disclosure
+        buttons (``aria-expanded='false'``); a single snapshot misses every
+        collapsed field. We click them open in rounds, since expanding one node
+        reveals further collapsed children, until none remain or a bound is hit.
+        Language-labeled disclosures (code samples) are skipped, consistent with
+        the multi-language exclusion. Best-effort, bounded, no-op when there are
+        no collapsed disclosures, scoped to the developer docs.
+        """
+        if host != "developers.docusign.com":
+            return
+        for _ in range(12):  # nested schema reveals more collapsed nodes each round
+            try:
+                handles = page.query_selector_all("main [aria-expanded='false']")
+            except Exception:
+                return
+            if not handles:
+                return
+            clicked = 0
+            for h in handles[:400]:
+                try:
+                    first_line = ((h.inner_text() or "").strip().split("\n", 1)[0])
+                    norm = re.sub(r"[^a-z0-9.+#-]", "", first_line.lower())
+                    if norm in LANGUAGE_TAB_LABELS:  # skip code-sample disclosures
+                        continue
+                    h.click(timeout=1500)
+                    clicked += 1
+                except Exception:
+                    continue
+            page.wait_for_timeout(250)
+            if clicked == 0:
+                return
