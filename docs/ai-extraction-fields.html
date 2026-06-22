@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Docusign AI Extraction Fields</title>
+<title>Docusign AI Extraction Fields &amp; Obligations</title>
 <style>
   :root{
     --bg:#ffffff; --surface:#faf9f6; --text:#1b1b1a; --muted:#6b6a65; --hint:#94938c;
@@ -183,10 +183,86 @@
     </div>
   </div>
 
+  <!-- ===================== OBLIGATIONS ===================== -->
+  <div style="border-top:1px solid var(--border);margin:38px 0 24px;"></div>
+  <h1 style="font-size:21px;">Agreement Obligations</h1>
+  <p class="sub" style="margin-bottom:22px;">The fields on an obligation record. Obligations are <b style="color:var(--text);font-weight:600">auto-surfaced by AI</b> (payment, renewal, termination) during processing &mdash; <b style="color:var(--text);font-weight:600">English (U.S.) only</b> &mdash; or created manually. <b style="color:var(--text);font-weight:600">&#9889; = automatically set / calculated.</b> Type badges use the same legend as above.</p>
+
+  <p class="eyebrow">Automatically set &middot; AI-driven</p>
+  <div class="auto-grid">
+    <div class="auto-card">
+      <div class="h"><b>&#9889; Notice date</b><span class="badge t-date">date</span></div>
+      <p>= <b>Expiration Date</b> &minus; <b>Notice period</b>. Present on <b>renewal &amp; termination</b> obligations; all other types use a directly-entered <b>Due date</b>.</p>
+    </div>
+    <div class="auto-card">
+      <div class="h"><b>&#9889; AI auto-surfacing</b><span class="badge t-enum">type</span></div>
+      <p>During processing, AI surfaces <b>Payment</b>, <b>Renewal</b> &amp; <b>Termination</b> obligations and their fields. All other types are <b>created manually</b>.</p>
+    </div>
+  </div>
+
+  <div class="grid">
+    <div class="card">
+      <div class="ch">Obligation fields</div>
+      <div class="row"><span class="fld">Obligation Name <span style="color:var(--hint)">&middot; required</span></span><span class="badge t-text">text</span></div>
+      <div class="row"><span class="fld">Type</span><span class="badge t-enum">enum</span></div>
+      <div class="row"><span class="fld">Status</span><span class="badge t-enum">enum &#9888;</span></div>
+      <div class="row"><span class="fld">Owner <span style="color:var(--hint)">(Obligated Party)</span></span><span class="badge t-text">text</span></div>
+      <div class="row"><span class="fld">Due Date</span><span class="badge t-date">date</span></div>
+      <div class="row"><span class="fld">Notice Period</span><span class="badge t-dur">duration</span></div>
+      <div class="row"><span class="fld auto">&#9889; Notice Date</span><span class="badge t-date">date</span></div>
+      <div class="row"><span class="fld">Payment Value</span><span class="badge t-num">number</span></div>
+      <div class="row"><span class="fld">Frequency</span><span class="badge t-enum">enum &#9888;</span></div>
+      <div class="row"><span class="fld">Discounts</span><span class="badge t-text">text</span></div>
+      <div class="row"><span class="fld">Repercussions</span><span class="badge t-text">text</span></div>
+      <div class="row"><span class="fld">Description</span><span class="badge t-text">text</span></div>
+    </div>
+
+    <div class="card">
+      <div class="ch">Fields by obligation type <span style="font-weight:400;color:var(--hint);font-size:11px">(+ common fields)</span></div>
+      <div style="padding:7px 0;border-bottom:1px solid var(--border-soft)">
+        <div style="font-size:12.5px;font-weight:600">Payment <span style="font-weight:400;color:var(--hint)">&middot; One-Time / Deposit</span></div>
+        <div class="ev-wrap"><span class="ev">Payment Value</span><span class="ev">Due Date</span><span class="ev">Frequency</span><span class="ev">Discounts</span></div>
+      </div>
+      <div style="padding:7px 0;border-bottom:1px solid var(--border-soft)">
+        <div style="font-size:12.5px;font-weight:600">Renewal <span style="font-weight:400;color:var(--hint)">&middot; Renewal Notice</span></div>
+        <div class="ev-wrap"><span class="ev">Notice Period</span><span class="ev">&#9889; Notice Date</span></div>
+      </div>
+      <div style="padding:7px 0;border-bottom:1px solid var(--border-soft)">
+        <div style="font-size:12.5px;font-weight:600">Termination <span style="font-weight:400;color:var(--hint)">&middot; Cause / Convenience Notice</span></div>
+        <div class="ev-wrap"><span class="ev">Notice Period</span><span class="ev">&#9889; Notice Date</span></div>
+      </div>
+      <div style="padding:7px 0;">
+        <div style="font-size:12.5px;font-weight:600">All other types</div>
+        <div class="ev-wrap"><span class="ev">Due Date</span></div>
+      </div>
+      <div style="font-size:11px;color:var(--hint);margin-top:8px;line-height:1.5">Common to every type: Obligation Name &middot; Type &middot; Status &middot; Owner &middot; Repercussions &middot; Description</div>
+    </div>
+  </div>
+
+  <div class="types">
+    <h3>Obligation enum values</h3>
+    <div class="cat">
+      <div class="catname">Type &middot; 15 standard (+ custom)</div>
+      <div class="vals">Compliance &middot; Confidentiality &middot; Data breach &middot; Escalation &middot; Indemnification &middot; Insurance &middot; Limitation of liability &middot; Miscellaneous &middot; Notification &middot; Payment &middot; Renewal notification &middot; Service level agreements &middot; Subcontracting &middot; Termination &middot; Warranty &nbsp;&middot;&nbsp; <i style="color:var(--hint)">plus organization-defined custom types. AI auto-surfaces only Payment, Renewal &amp; Termination.</i></div>
+    </div>
+    <div class="cat">
+      <div class="catname">Frequency &middot; payment obligations</div>
+      <div class="vals"><span class="ev">One Time</span> <span class="partial">&#9888; only value documented in the corpus &mdash; full list to verify</span></div>
+    </div>
+    <div class="cat">
+      <div class="catname">Status</div>
+      <div class="vals"><span class="partial">&#9888; status value set is not documented in the scraped corpus &mdash; to verify</span></div>
+    </div>
+  </div>
+
+  <div style="margin:16px 0 0;padding:11px 14px;border-left:3px solid #BA7517;background:var(--surface);border-radius:6px;font-size:12px;color:var(--muted);line-height:1.6">
+    <b style="color:var(--text)">&#9888; Needs verification</b> (corpus-only quick build): (1) the <b>Status</b> value set, (2) the full <b>Frequency</b> list beyond <i>One Time</i>, and (3) the exact type of <b>Payment Value</b> / <b>Discounts</b> (shown as number/text). Also: obligations are a UI/product feature &mdash; they are <b>not present in the documented Agreement Manager API <span class="mono">getAgreement</span> schema</b> (provisions only); whether an obligations API endpoint exists is not confirmed in the corpus.
+  </div>
+
   <div class="foot">
     <b>UI field types:</b> Text &middot; Number &middot; Date &middot; Currency &middot; Dropdown &nbsp;|&nbsp; <b>API data types:</b> string &middot; number &middot; datetime &middot; duration &middot; enum &middot; boolean. Custom fields support Text / Number / Date / Dropdown; plus custom_provisions for user-defined terms.<br>
     <b>Enum values</b> are the documented value sets (the pre-populated options used for filtering) from Docusign's <i>Extracted Agreement Insights and Definitions</i>. <b>Other</b> is the universal catch-all returned when the AI cannot locate the value in the agreement. The API returns equivalent <span class="mono">UPPER_SNAKE_CASE</span> codes (e.g. Auto-Renew&rarr;<span class="mono">AUTO_RENEW</span>, Yes, with conditions&rarr;<span class="mono">YES_WITH_CONDITIONS</span>, 30 days&rarr;<span class="mono">THIRTY_DAYS</span>; <span class="mono">SILENT</span> appears for unspecified). Value sets are English (U.S.) and vary slightly by language. <b>Type-specific enum fields</b> also surface for certain agreement types: <b>NDA Type</b> (Mutual; One Way), <b>Employment Type</b> (Fixed Term; Full Time; Intern; Part Time), <b>Party Role</b> (Buyer; Seller), <b>Late Fees Apply</b> (Yes; No).<br>
-    <b>&#9889; Auto-calculated</b> fields are the only ones Docusign documents as set from other fields. <b>Sources:</b> Agreement Manager API schema &amp; reference; Agreement Manager support (Fields Manager, Update Agreement Status, Create an Obligation); openapi-navigator schema definitions.
+    <b>&#9889; Auto-calculated</b> fields are the only ones Docusign documents as set from other fields. <b>Sources:</b> Agreement Manager API schema &amp; reference; Agreement Manager support (Fields Manager, Update Agreement Status, Extracted Agreement Insights &amp; Definitions); openapi-navigator schema definitions. <b>Obligations:</b> Agreement Manager support (Obligation Management, Manually Create an Obligation, Custom Obligation Types).
   </div>
 
 </div>
