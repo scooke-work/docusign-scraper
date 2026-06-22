@@ -1,0 +1,1586 @@
+{
+  "generated_at": "2026-06-22T19:56:31Z",
+  "source": "docusign-scraper",
+  "pages": [
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=all1586134265721.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add the Envelope Status Component to a Salesforce Layout",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:46Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/all1586134265721.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=azl1741206795047.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure a Start Docusign Workflow Step in Salesforce Flow",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:48Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/azl1741206795047.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=bky1747764447701.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Learn About Using Agreement Manager in Salesforce",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:49Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/bky1747764447701.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=bmk1744912007661.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Prepare Your Salesforce Users to Start Docusign Workflows",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:48Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/bmk1744912007661.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=bqi1705961132077.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Workflow Builder with Salesforce",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:46Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/bqi1705961132077.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=cjx1747977690509.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "A Broken Page Icon Displays on Salesforce Records instead of the Docusign Completed Agreements Component",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:49Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/cjx1747977690509.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=cmv1746652068556.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add the Docusign Completed Agreements Component to a Salesforce Layout",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:46Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/cmv1746652068556.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=con007504df-80b7-41f7-aa5f-1daa72bcc257.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Learn About Using Docusign Agreement Desk in Salesforce",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:48Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/con007504df-80b7-41f7-aa5f-1daa72bcc257.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=con03d41bc2-9635-4c29-97f9-2f3c6b155c8a.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Getting Started With Docusign IAM for Sales: Salesforce",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:46Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/con03d41bc2-9635-4c29-97f9-2f3c6b155c8a.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=con26211d0d-ed36-48d2-a01f-c4d243a828f4.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure Workflow Builder for Salesforce Fields and Settings",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:46Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/con26211d0d-ed36-48d2-a01f-c4d243a828f4.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=con2bd70600-4b19-4bed-98f7-ecdaec2dc593.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Workflow Builder for Salesforce Advanced Features",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:47Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/con2bd70600-4b19-4bed-98f7-ecdaec2dc593.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=con2bd70600-4b19-4bed-98f7-ecdaec2dc593_1.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Workflow Builder for Salesforce Advanced Features",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:48Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/con2bd70600-4b19-4bed-98f7-ecdaec2dc593_1.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=con3614a19c-ab9e-4cc5-9d7b-92cbce1c118c.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Learn About the Docusign IAM for Sales Solution",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:46Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/con3614a19c-ab9e-4cc5-9d7b-92cbce1c118c.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=con650f4cbe-fdc5-4dbb-8d98-9ef991726ed9.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Docusign Intelligent Agreement Management (IAM) for Sales: Salesforce",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:46Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/con650f4cbe-fdc5-4dbb-8d98-9ef991726ed9.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=con6607183e-8622-4ea8-bcd0-c81061a622a0.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Adding Docusign Workflow Actions to Salesforce Layouts",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:46Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/con6607183e-8622-4ea8-bcd0-c81061a622a0.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=con852365c7-aef2-4411-89c9-aa048a26c95a.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure Salesforce Workflow Steps",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:47Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/con852365c7-aef2-4411-89c9-aa048a26c95a.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=conb60ee8db-30e2-45b1-a243-701205ab5572.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Learn About Creating Agreement Desk for Salesforce Reports",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:49Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/conb60ee8db-30e2-45b1-a243-701205ab5572.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=conf102a272-80d2-44f8-928c-fa51c20663ce.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Learn About Starting Docusign Workflows from Salesforce",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:47Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/conf102a272-80d2-44f8-928c-fa51c20663ce.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=dpm1747858072727.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Check Salesforce Logs for Failed Agreement Manager Actions",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:49Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/dpm1747858072727.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=eqg1706635561350.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Complete a Salesforce Workflow Task",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:48Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/eqg1706635561350.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=eut1712157553977.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "User and Group Management",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:50Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/eut1712157553977.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=fas1739987568042.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Natural Language Search Queries",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:50Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/fas1739987568042.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=hox1747854707827.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "\"No Agreements to Show\" Displays in the Docusign Agreements Component",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:49Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/hox1747854707827.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=idr1713985144297.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure a Read from Salesforce Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:47Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/idr1713985144297.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=jxo1706295810553.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Install the Salesforce Application ( Docusign App Center Instructions)",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:49Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/jxo1706295810553.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=jxv1738703407057.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Salesforce Merge Fields to a Send Documents for Signature Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:47Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/jxv1738703407057.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=kam1719258759323.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Reconnect a Salesforce Organization to Docusign",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:47Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/kam1719258759323.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=kam1719258759323_1.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Reconnect a Salesforce Organization to Docusign",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:48Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/kam1719258759323_1.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=klw1741300925534.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Learn About the Overwrite If Field Value Exists Feature",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:47Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/klw1741300925534.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=kuq1715290653074.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Link Multiple Read from Salesforce Steps",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:47Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/kuq1715290653074.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=kwk1727803140083.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure a Store Files in Salesforce Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:47Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/kwk1727803140083.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=lby1744925921212.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Link Docusign Workflows to Salesforce Flows",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:48Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/lby1744925921212.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=lil1748897688872.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Learn About Agreement Manager for Salesforce User Access",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:49Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/lil1748897688872.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=lkk1748378227681.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Learn About Searching for Agreements with Agreement Manager for Salesforce",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:49Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/lkk1748378227681.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=mjc1741242666716.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Export and Import a Workflow Builder Workflow",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:48Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/mjc1741242666716.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=mjc1741242666716_1.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Export and Import a Workflow Builder Workflow",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:48Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/mjc1741242666716_1.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=naa1719257879043.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Edit the Name of a Salesforce Connection",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:47Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/naa1719257879043.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=naa1719257879043_1.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Edit the Name of a Salesforce Connection",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:48Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/naa1719257879043_1.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=nlu1742250066565.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Access Required to Start Docusign Workflows from Salesforce",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:48Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/nlu1742250066565.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=ogj1586134254571.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Install Docusign Apps Launcher in Your Salesforce Organization",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:46Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/ogj1586134254571.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=ogk1719256147008.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create Multiple Salesforce Connections",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:47Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/ogk1719256147008.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=ovh1741282680990.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Build a Docusign Workflow to Be Started By a Salesforce Flow",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:48Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/ovh1741282680990.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=pen1706132774147.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure a Writeback to Salesforce Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:47Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/pen1706132774147.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=pwt1719260196069.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Delete a Salesforce Connection to Your Docusign IAM Account",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:47Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/pwt1719260196069.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=pwt1719260196069_1.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Delete a Salesforce Connection to Your Docusign IAM Account",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:48Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/pwt1719260196069_1.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=qdt1719246078914.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Update the Salesforce Application",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:47Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/qdt1719246078914.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=qdt1719246078914_1.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Update the Salesforce Application",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:48Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/qdt1719246078914_1.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=ref3d851b17-9aa4-4102-9349-99877ae04bfc.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Pre-Built Document Templates Included in the Docusign IAM for Sales Solution",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:46Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/ref3d851b17-9aa4-4102-9349-99877ae04bfc.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=ref63d377fb-aea5-42b7-a67d-bf9b9dcb8622.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Pre-Built Agreement Desk Statuses Included in the Docusign IAM for Sales Solution",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:46Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/ref63d377fb-aea5-42b7-a67d-bf9b9dcb8622.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=ref6aa90585-4765-48ab-a307-a088fed1e479.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Agreement Desk for Salesforce Report Filters",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:49Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/ref6aa90585-4765-48ab-a307-a088fed1e479.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=ref769a389d-135f-4fb1-8076-9b01358ffe4d.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Supported Salesforce Field Types",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:46Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/ref769a389d-135f-4fb1-8076-9b01358ffe4d.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=ref7e554713-0495-4c75-ae8d-815d284cc3fe.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Pre-Built Workflows Included in the Docusign IAM for Sales Solution",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:46Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/ref7e554713-0495-4c75-ae8d-815d284cc3fe.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=ref9c5cd52b-33e2-4b25-a821-a666d4bd222e.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Agreement Desk for Salesforce User Access",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:48Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/ref9c5cd52b-33e2-4b25-a821-a666d4bd222e.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=refa01b5c9a-373d-4f5b-bb18-6cb1344768ba.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Format String Values in Salesforce Steps",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:47Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/refa01b5c9a-373d-4f5b-bb18-6cb1344768ba.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=refb6dd2a09-bc35-40a4-ab3c-e043f34e70a1.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Pre-Built Agreement Desk Web Forms Included in the Docusign IAM for Sales Solution",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:46Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/refb6dd2a09-bc35-40a4-ab3c-e043f34e70a1.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=rhn1748890283751.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Customize Agreement Manager for Salesforce Columns",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:49Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/rhn1748890283751.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=rpn1744909051546.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Prepare Your Salesforce Organization to Start Docusign Workflows",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:48Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/rpn1744909051546.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=tsk151c1542-bdf4-4c8e-ba20-37affb7adc7e.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Open a Request from the Agreement Requests Component",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:49Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/tsk151c1542-bdf4-4c8e-ba20-37affb7adc7e.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=tsk2a2ae3f7-99c2-4deb-ab15-61fc26ade4d1.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Prepare Your Salesforce Organization to Use a Start with Docusign Action",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:49Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/tsk2a2ae3f7-99c2-4deb-ab15-61fc26ade4d1.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=tsk2e317e21-7fca-4946-a4eb-c766238b2cb3.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Step 1: Create an Agreement Desk for Salesforce External Object",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:49Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/tsk2e317e21-7fca-4946-a4eb-c766238b2cb3.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=tsk32e505bf-436a-47b1-b7f6-55e6ad614ec5.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Build a Start with Docusign Action (Manual Controls)",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:46Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/tsk32e505bf-436a-47b1-b7f6-55e6ad614ec5.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=tsk3640d081-197c-4f31-990a-0309487e92a8.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Grant User Permissions to Start Workflows from Salesforce",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:48Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/tsk3640d081-197c-4f31-990a-0309487e92a8.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=tsk47562ccf-dcd0-4197-868b-01a498f46767.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Duplicate a Workflow",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:47Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/tsk47562ccf-dcd0-4197-868b-01a498f46767.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=tsk47562ccf-dcd0-4197-868b-01a498f46767_1.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Duplicate a Workflow",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:48Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/tsk47562ccf-dcd0-4197-868b-01a498f46767_1.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=tsk4a470425-a79f-4255-9096-b9dcca9a1a75.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Check Salesforce Logs for Failed Agreement Desk Actions",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:49Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/tsk4a470425-a79f-4255-9096-b9dcca9a1a75.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=tsk5491237f-0dec-4eed-9976-7b2124f9a7df.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Search for a Workflow in the Start with Docusign Action Menu",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:47Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/tsk5491237f-0dec-4eed-9976-7b2124f9a7df.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=tsk5baa666b-7655-4ece-a71a-e893f4839651.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure a Use Salesforce Files Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:47Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/tsk5baa666b-7655-4ece-a71a-e893f4839651.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=tsk763735bd-cba3-43fc-87d9-9b68891471c8.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Delete a Saved Search in the Docusign Agreement Desk Component",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:49Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/tsk763735bd-cba3-43fc-87d9-9b68891471c8.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=tsk79fb118f-2fa3-4e60-965a-efb9edd7c2c8.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Search and Filter in the Agreement Requests Component",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:49Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/tsk79fb118f-2fa3-4e60-965a-efb9edd7c2c8.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=tsk7c6f3058-1654-462b-b850-8d0dc79ba199.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add the Docusign Agreement Requests Component to a Salesforce Layout",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:46Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/tsk7c6f3058-1654-462b-b850-8d0dc79ba199.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=tsk850b23aa-f070-4f37-b82c-17ca872c951b.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Step 2: Create an Agreement Desk for Salesforce Report",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:49Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/tsk850b23aa-f070-4f37-b82c-17ca872c951b.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=tsk87e9ead6-6ace-475f-b10f-0b41ecc882e1.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Prepare Your Salesforce Organization to Use Agreement Desk",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:49Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/tsk87e9ead6-6ace-475f-b10f-0b41ecc882e1.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=tsk8ded1bbd-661a-412a-adfb-583a052df64c.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure an Agreement Desk Workflow Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:48Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/tsk8ded1bbd-661a-412a-adfb-583a052df64c.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=tsk91549a3b-f7f3-4b74-8e87-33ff33d198c0.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Install the IAM for Salesforce Application (Salesforce Instructions)",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:46Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/tsk91549a3b-f7f3-4b74-8e87-33ff33d198c0.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=tsk96d6f83e-3826-4c3f-9bba-6ac03bea79bb.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create a Saved Search in the Docusign Agreement Requests Component",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:49Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/tsk96d6f83e-3826-4c3f-9bba-6ac03bea79bb.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=tsk972016a1-6a9d-4323-a098-3360a012d32e.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Build a Workflow to Be Triggered By Agreement Desk Requests",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:48Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/tsk972016a1-6a9d-4323-a098-3360a012d32e.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=tsk9d05e5e9-8ae1-4b02-96eb-1eb83729d6b5.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add a Workflow to the Start with Docusign Action Menu",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:47Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/tsk9d05e5e9-8ae1-4b02-96eb-1eb83729d6b5.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=tska61755e7-f8ba-4cfe-aad8-f02478b02dab.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use the IAM for Sales Solution to Install Pre-Built Docusign Workflows and Templates",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:46Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/tska61755e7-f8ba-4cfe-aad8-f02478b02dab.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=tska9d68585-f524-49a4-8898-496b6575d036.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Docusign Workflow Actions to Layouts (IAM Launcher Setup Controls)",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:46Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/tska9d68585-f524-49a4-8898-496b6575d036.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=tskb2fdae68-780f-45b0-9b06-f869786823eb.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Remove a Workflow from the Start with Docusign Action Menu",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:48Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/tskb2fdae68-780f-45b0-9b06-f869786823eb.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=tskb637a1ca-b7ba-4604-97f7-f5f2d5f899f6.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Docusign Workflow Actions to Layouts (Manual Controls)",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:46Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/tskb637a1ca-b7ba-4604-97f7-f5f2d5f899f6.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=tskb7ce9229-f39d-41f2-8d02-114ac23d92aa.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Turn on Agreement Manager for Salesforce Notifications",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:50Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/tskb7ce9229-f39d-41f2-8d02-114ac23d92aa.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=tskc3380b05-3536-4b1a-956b-ff5c7795ecfb.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add a List of Participants to a Salesforce Workflow Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:47Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/tskc3380b05-3536-4b1a-956b-ff5c7795ecfb.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=tskcae26f13-f2e5-4afd-85a7-145a70b12977.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Start a Docusign Workflow from a Salesforce Record",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:48Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/tskcae26f13-f2e5-4afd-85a7-145a70b12977.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=tskcbe0a95f-0c6d-4a5c-826e-b5a3ff60e8c2.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Edit a Saved Search in the Docusign Agreement Requests Component",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:49Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/tskcbe0a95f-0c6d-4a5c-826e-b5a3ff60e8c2.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=tskccafc250-9431-4f0c-9518-d4526d9128b1.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Build a Workflow to Be Triggered By a Start with Docusign Action",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:47Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/tskccafc250-9431-4f0c-9518-d4526d9128b1.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=tskd0fc40c7-7bd3-4c73-9fe6-2d742d3c2d7e.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Update Salesforce Settings to Add Docusign IAM Workflow Actions",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:46Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/tskd0fc40c7-7bd3-4c73-9fe6-2d742d3c2d7e.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=tskd9d44358-afa2-4dd6-a39c-f036ca2b28fa.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Customize Agreement Desk for Salesforce Columns",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:49Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/tskd9d44358-afa2-4dd6-a39c-f036ca2b28fa.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=uaw1719259450391.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Refresh the Salesforce Connection to Your Docusign Account",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:47Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/uaw1719259450391.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=uaw1719259450391_1.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Refresh the Salesforce Connection to Your Docusign Account",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:48Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/uaw1719259450391_1.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=vmj1743025308280.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Docusign Connect to Link Salesforce Fields to Docusign Fields",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:46Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/vmj1743025308280.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=vqr1744835015673.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Check the Status of a Flow That Failed to Start a Docusign Workflow",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:48Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/vqr1744835015673.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=vry1747859095666.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Prepare Your Salesforce Organization to Use Agreement Manager",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:49Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/vry1747859095666.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=wnq1738608337037.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "\"This Template Is Not Supported\" Displays When I Configure a Send Documents for Signature Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:48Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/wnq1738608337037.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=wxi1748885548784.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Filters to Display Agreements in Agreement Manager for Salesforce",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:49Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/wxi1748885548784.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=xsr1745518416985.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Uninstall the Salesforce Application",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:48Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/xsr1745518416985.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=xwi1583277389681.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create a Connect Configuration",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:50Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/xwi1583277389681.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=xza1742958339120.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create a Connect Configuration to Add Salesforce Merge Fields to a Workflow Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:46Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/xza1742958339120.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=ypz1706558047546.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Link Multiple Writeback to Salesforce Steps",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:47Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/ypz1706558047546.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=zed1730843285476.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Agreement Set Management",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:50Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/zed1730843285476.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=zjq1665170940873.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Connect Configuration Settings",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:49Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/zjq1665170940873.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=zkc1748382358300.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Search for Agreements with Agreement Manager for Salesforce",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:49Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/zkc1748382358300.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=zkc1748382358300_1.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Open an Agreement with Agreement Manager for Salesforce",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:50Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/zkc1748382358300_1.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=map8c30aa94-7e9f-4950-92fc-dd22c6d9f835&topicId=zmb1748898916076.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Agreement Manager for Salesforce Troubleshooting Guide",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:15:49Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/map8c30aa94-7e9f-4950-92fc-dd22c6d9f835/zmb1748898916076.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=all1586134265721.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add the Envelope Status Component to a Salesforce Layout",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:53Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/all1586134265721.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=azl1741206795047.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure a Start Docusign Workflow Step in Salesforce Flow",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:54Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/azl1741206795047.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=bmk1744912007661.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Prepare Your Salesforce Users to Start Docusign Workflows",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:54Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/bmk1744912007661.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=bqi1705961132077.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Workflow Builder with Salesforce",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:53Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/bqi1705961132077.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=con26211d0d-ed36-48d2-a01f-c4d243a828f4.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure Workflow Builder for Salesforce Fields and Settings",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:53Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/con26211d0d-ed36-48d2-a01f-c4d243a828f4.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=con2bd70600-4b19-4bed-98f7-ecdaec2dc593.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Workflow Builder for Salesforce Advanced Features",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:54Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/con2bd70600-4b19-4bed-98f7-ecdaec2dc593.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=con852365c7-aef2-4411-89c9-aa048a26c95a.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure Salesforce Workflow Steps",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:53Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/con852365c7-aef2-4411-89c9-aa048a26c95a.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=conf102a272-80d2-44f8-928c-fa51c20663ce.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Learn About Starting Docusign Workflows from Salesforce",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:54Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/conf102a272-80d2-44f8-928c-fa51c20663ce.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=confef5aa67-f0de-4541-b2c0-bd5157d1af2b.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Getting Started with Workflow Builder for Salesforce",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:53Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/confef5aa67-f0de-4541-b2c0-bd5157d1af2b.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=eqg1706635561350.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Complete a Salesforce Workflow Task",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:54Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/eqg1706635561350.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=idr1713985144297.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure a Read from Salesforce Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:53Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/idr1713985144297.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=jaf1716918359288.html&_LANG=enus&anchor=jaf1716918359288__section-426",
+      "site": "support.docusign.com",
+      "title": "Configuration Details for Complex Branching Rules",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:55Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/jaf1716918359288.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=jxo1706295810553.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Install the Salesforce Application ( Docusign App Center Instructions)",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:53Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/jxo1706295810553.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=jxv1738703407057.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Salesforce Merge Fields to a Send Documents for Signature Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:53Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/jxv1738703407057.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=kam1719258759323.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Reconnect a Salesforce Organization to Docusign",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:54Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/kam1719258759323.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=klw1741300925534.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Learn About the Overwrite If Field Value Exists Feature",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:53Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/klw1741300925534.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=kuq1715290653074.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Link Multiple Read from Salesforce Steps",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:53Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/kuq1715290653074.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=kwk1727803140083.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure a Store Files in Salesforce Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:54Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/kwk1727803140083.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=lby1744925921212.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Link Docusign Workflows to Salesforce Flows",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:54Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/lby1744925921212.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=mjc1741242666716.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Export and Import a Workflow Builder Workflow",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:55Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/mjc1741242666716.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=naa1719257879043.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Edit the Name of a Salesforce Connection",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:54Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/naa1719257879043.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=nlu1742250066565.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Access Required to Start Docusign Workflows from Salesforce",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:54Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/nlu1742250066565.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=ogk1719256147008.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create Multiple Salesforce Connections",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:54Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/ogk1719256147008.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=ovh1741282680990.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Build a Docusign Workflow to Be Started By a Salesforce Flow",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:54Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/ovh1741282680990.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=pen1706132774147.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure a Writeback to Salesforce Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:54Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/pen1706132774147.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=pwt1719260196069.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Delete a Salesforce Connection to Your Docusign IAM Account",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:55Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/pwt1719260196069.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=qdt1719246078914.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Update the Salesforce Application",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:54Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/qdt1719246078914.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=ref769a389d-135f-4fb1-8076-9b01358ffe4d.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Supported Salesforce Field Types",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:53Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/ref769a389d-135f-4fb1-8076-9b01358ffe4d.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=refa01b5c9a-373d-4f5b-bb18-6cb1344768ba.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Format String Values in Salesforce Steps",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:53Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/refa01b5c9a-373d-4f5b-bb18-6cb1344768ba.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=tsk197f1f41-54ce-4794-a80e-20cc9da78c80.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use the Record Count Variable to See How Many Records a Workflow Finds",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:53Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/tsk197f1f41-54ce-4794-a80e-20cc9da78c80.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=tsk1fafc8a9-d0db-4cb5-848e-d7a22d2ebfa7.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Format Currency Fields in Salesforce Workflow Steps",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:53Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/tsk1fafc8a9-d0db-4cb5-848e-d7a22d2ebfa7.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=tsk2a2ae3f7-99c2-4deb-ab15-61fc26ade4d1.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Prepare Your Salesforce Organization to Use a Start with Docusign Action",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:55Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/tsk2a2ae3f7-99c2-4deb-ab15-61fc26ade4d1.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=tsk32e505bf-436a-47b1-b7f6-55e6ad614ec5.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Build a Start with Docusign Action (Manual Controls)",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:54Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/tsk32e505bf-436a-47b1-b7f6-55e6ad614ec5.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=tsk3640d081-197c-4f31-990a-0309487e92a8.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Grant User Permissions to Start Workflows from Salesforce",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:54Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/tsk3640d081-197c-4f31-990a-0309487e92a8.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=tsk47562ccf-dcd0-4197-868b-01a498f46767.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Duplicate a Workflow",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:54Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/tsk47562ccf-dcd0-4197-868b-01a498f46767.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=tsk5491237f-0dec-4eed-9976-7b2124f9a7df.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Search for a Workflow in the Start with Docusign Action Menu",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:54Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/tsk5491237f-0dec-4eed-9976-7b2124f9a7df.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=tsk590e18e7-9dbc-418f-9fb8-0169f182eb3a.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add the Docusign IAM Launcher Component to a Salesforce Layout",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:54Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/tsk590e18e7-9dbc-418f-9fb8-0169f182eb3a.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=tsk5baa666b-7655-4ece-a71a-e893f4839651.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure a Use Salesforce Files Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:54Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/tsk5baa666b-7655-4ece-a71a-e893f4839651.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=tsk9d05e5e9-8ae1-4b02-96eb-1eb83729d6b5.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add a Workflow to the Start with Docusign Action Menu",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:54Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/tsk9d05e5e9-8ae1-4b02-96eb-1eb83729d6b5.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=tska9d68585-f524-49a4-8898-496b6575d036.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Docusign Workflow Actions to Layouts (IAM Launcher Setup Controls)",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:55Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/tska9d68585-f524-49a4-8898-496b6575d036.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=tskb2fdae68-780f-45b0-9b06-f869786823eb.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Remove a Workflow from the Start with Docusign Action Menu",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:54Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/tskb2fdae68-780f-45b0-9b06-f869786823eb.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=tskb637a1ca-b7ba-4604-97f7-f5f2d5f899f6.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Docusign Workflow Actions to Layouts (Manual Controls)",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:54Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/tskb637a1ca-b7ba-4604-97f7-f5f2d5f899f6.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=tskc3380b05-3536-4b1a-956b-ff5c7795ecfb.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add a List of Participants to a Salesforce Workflow Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:53Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/tskc3380b05-3536-4b1a-956b-ff5c7795ecfb.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=tskcae26f13-f2e5-4afd-85a7-145a70b12977.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Start a Docusign Workflow from a Salesforce Record",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:54Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/tskcae26f13-f2e5-4afd-85a7-145a70b12977.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=tskccafc250-9431-4f0c-9518-d4526d9128b1.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Build a Workflow to Be Triggered By a Start with Docusign Action",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:54Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/tskccafc250-9431-4f0c-9518-d4526d9128b1.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=uaw1719259450391.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Refresh the Salesforce Connection to Your Docusign Account",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:54Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/uaw1719259450391.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=vmj1743025308280.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Docusign Connect to Link Salesforce Fields to Docusign Fields",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:53Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/vmj1743025308280.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=vqr1744835015673.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Check the Status of a Flow That Failed to Start a Docusign Workflow",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:54Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/vqr1744835015673.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=wnq1738608337037.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "\"This Template Is Not Supported\" Displays When I Configure a Send Documents for Signature Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:55Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/wnq1738608337037.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=xsr1745518416985.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Uninstall the Salesforce Application",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:55Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/xsr1745518416985.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=xwi1583277389681.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create a Connect Configuration",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:55Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/xwi1583277389681.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=xza1742958339120.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create a Connect Configuration to Add Salesforce Merge Fields to a Workflow Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:53Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/xza1742958339120.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=ypz1706558047546.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Link Multiple Writeback to Salesforce Steps",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:54Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/ypz1706558047546.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=qwr1706590641805&topicId=zjq1665170940873.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Connect Configuration Settings",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:18:55Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/qwr1706590641805/zjq1665170940873.md"
+    }
+  ]
+}

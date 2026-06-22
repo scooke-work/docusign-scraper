@@ -1,0 +1,2506 @@
+{
+  "generated_at": "2026-06-22T20:09:25Z",
+  "source": "docusign-scraper",
+  "pages": [
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bpg1586134377111&topicId=axg1586134370716.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add, Edit, and Delete Files in the Docusign Files Section of a Salesforce Record",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:20:56Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/bpg1586134377111/axg1586134370716.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bpg1586134377111&topicId=baw1614577855281.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Generate an Invoice with Gen for Billing",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:20:56Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/bpg1586134377111/baw1614577855281.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bpg1586134377111&topicId=blu1586134216052.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Generate a Document and Add it to Docusign Files",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:20:56Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/bpg1586134377111/blu1586134216052.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bpg1586134377111&topicId=dfp1596477842847.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Step 2: Add Recipients to Your Envelope (Envelope Template)",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:20:57Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/bpg1586134377111/dfp1596477842847.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bpg1586134377111&topicId=dmn1586134370466.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Docusign Gen for Salesforce Overview (User)",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:20:56Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/bpg1586134377111/dmn1586134370466.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bpg1586134377111&topicId=eto1586134371953.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Upload a File to Docusign Files",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:20:56Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/bpg1586134377111/eto1586134371953.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bpg1586134377111&topicId=fxe1586134377675.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Send a Document for Review or Approval with Negotiate",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:20:56Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/bpg1586134377111/fxe1586134377675.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bpg1586134377111&topicId=gqt1586134379833.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use External Review to Send Docusign Files to Recipients Outside Your Organization",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:20:57Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/bpg1586134377111/gqt1586134379833.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bpg1586134377111&topicId=gzh1686882277803.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add New Currency Types to Your Salesforce Organization",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:20:56Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/bpg1586134377111/gzh1686882277803.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bpg1586134377111&topicId=hdb1586134375876.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Rename a File in the Docusign Files Component",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:20:56Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/bpg1586134377111/hdb1586134375876.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bpg1586134377111&topicId=hhz1686691127617.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Set the Currency and Locale Before Generating a Document",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:20:56Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/bpg1586134377111/hhz1686691127617.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bpg1586134377111&topicId=ioe1586134255116.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Change the Default Language for Gen, Negotiate, eSignature for Salesforce, and CLM",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:20:56Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/bpg1586134377111/ioe1586134255116.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bpg1586134377111&topicId=iyu1615180590827.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Generate an Invoice with Gen for Billing and Email It to Recipients",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:20:56Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/bpg1586134377111/iyu1615180590827.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bpg1586134377111&topicId=jtj1614664835837.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Enter a Verification Code to Access Docusign on a New Device",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:20:56Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/bpg1586134377111/jtj1614664835837.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bpg1586134377111&topicId=pay1650779719005.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Supported Devices, Operating Systems, and Browsers for Docusign Apps Launcher",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:20:56Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/bpg1586134377111/pay1650779719005.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bpg1586134377111&topicId=pzf1617644386542.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Step 1: Add Documents or Templates (Send With DocuSign Button)",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:20:57Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/bpg1586134377111/pzf1617644386542.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bpg1586134377111&topicId=qsm1586134374562.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Upload a New Version of a Document",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:20:56Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/bpg1586134377111/qsm1586134374562.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bpg1586134377111&topicId=sij1614576395952.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use a Gen for Billing Custom Button to Generate, Save, and Send an Invoice",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:20:56Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/bpg1586134377111/sij1614576395952.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bpg1586134377111&topicId=tco1611350907305.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Send an Envelope Using a Standard Send With Docusign Template in Docusign Apps Launcher",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:20:57Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/bpg1586134377111/tco1611350907305.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bpg1586134377111&topicId=tyz1586134372530.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Download a Document from Docusign Files",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:20:56Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/bpg1586134377111/tyz1586134372530.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bpg1586134377111&topicId=vpk1586134372796.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Copy a File from Docusign Files to Notes & Attachments",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:20:56Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/bpg1586134377111/vpk1586134372796.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bpg1586134377111&topicId=wbn1686090714552.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use the One-Click Generation and Sending Experience",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:20:56Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/bpg1586134377111/wbn1686090714552.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bpg1586134377111&topicId=wkj1586134381776.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Send for Approval To Send Docusign Files to Users in Your Organization",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:20:57Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/bpg1586134377111/wkj1586134381776.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bpg1586134377111&topicId=wqx1612162988070.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Generate a Contract and Send It for Signature",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:20:56Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/bpg1586134377111/wqx1612162988070.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bpg1586134377111&topicId=xmx1596487118055.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Step 3: Add Docusign and Salesforce Fields and Send Your Envelope (Send With Docusign Button)",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:20:57Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/bpg1586134377111/xmx1596487118055.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bpg1586134377111&topicId=xrh1686885796196.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Change the Currency Type of a Salesforce Record",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:20:56Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/bpg1586134377111/xrh1686885796196.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bpg1586134377111&topicId=xtr1586134215865.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Generate a Document with Docusign Gen",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:20:56Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/bpg1586134377111/xtr1586134215865.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bpg1586134377111&topicId=xuv1676000019535.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Generate a Document from the Salesforce Mobile App",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:20:56Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/bpg1586134377111/xuv1676000019535.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bpg1586134377111&topicId=ymi1586134213877.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Activate Your Docusign for Salesforce User",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:20:56Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/bpg1586134377111/ymi1586134213877.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bpg1586134377111&topicId=ynf1688074694900.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Generate Documents From Salesforce Records",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:20:56Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/bpg1586134377111/ynf1688074694900.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bpg1586134377111&topicId=ypi1586134378833.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create a Share Link to Send Docusign Files for Viewing, Downloading, and Editing",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:20:57Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/bpg1586134377111/ypi1586134378833.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bpg1586134377111&topicId=yzs1586134269459.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Enable Translations for Your Salesforce User",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:20:56Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/bpg1586134377111/yzs1586134269459.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=bpg1586134377111&topicId=znk1586134376625.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Delete a File from the Docusign Files Component",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:20:56Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/bpg1586134377111/znk1586134376625.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=agy1623993092688.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Refresh the Products Provisioned to Your Docusign Account with the TroubleShooting Tool",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:57Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/agy1623993092688.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=akc1598285785361.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Manage App Policies to Allow or Prevent Docusign User Access",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:51Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/akc1598285785361.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=all1586134265721.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add the Envelope Status Component to a Salesforce Layout",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:50Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/all1586134265721.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=any1686940255489.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Set the Default Currency Formatting of Gen Data Fields",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:54Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/any1686940255489.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=aup1614501330150.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Step 7: Create a Custom Button or Finish the Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:52Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/aup1614501330150.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=avi1598331575670.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Access the Apps Launcher TroubleShooting Tool",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:57Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/avi1598331575670.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=bcp1586134298132.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create a Gen Template With the Docusign Agreement Cloud Editor",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:52Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/bcp1586134298132.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=bek1646762309217.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use the Docusign Status Tab to View the Status of an Envelope",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:50Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/bek1646762309217.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=bhg1614497261479.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Step 6: (Optional) Automatically Generate and Email Invoices",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:52Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/bhg1614497261479.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=bis1586134232178.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "I Cannot Connect Docusign and Salesforce When the SpringCM File It App Is Installed",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:58Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/bis1586134232178.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=boi1586134252211.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Gen Troubleshooting Guide",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:57Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/boi1586134252211.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=bwo1620419687966.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Link a Gen Template to an Envelope Template to Automate Contract Generation and Signing",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:55Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/bwo1620419687966.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=bxh1619201282189.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Conditional Logic to a Gen Template to Show or Hide Content",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:54Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/bxh1619201282189.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=bxh1619201282189_1.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Conditional Logic to a Gen Template to Show or Hide Content",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:55Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/bxh1619201282189_1.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=bye1699036089712.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Connect an IL4 or MIL Salesforce Organization to Docusign",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:49Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/bye1699036089712.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=bzt1586134341821.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Delete a Gen Button",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:53Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/bzt1586134341821.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=cay1654320876587.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use the Docusign Setup Page to Administer Your Docusign Gen Account",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:50Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/cay1654320876587.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=cfa1586134349276.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Learn About Adding Child Objects to a Gen Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:54Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/cfa1586134349276.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=cfq1586134231641.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "\"Failed to Generate Lightning Component: Cannot Create a New Component with the Namespace: [Custom Object Name]\" Displays When I Try to Add a Gen Button",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:57Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/cfq1586134231641.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=cif1623740064281.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Step 3 (Optional): Remove Apps Launcher Custom Buttons from Your Layouts",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:59Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/cif1623740064281.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=cmn1628112474213.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Remove and Close Docusign Users",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:51Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/cmn1628112474213.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=crs1588512498923.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Download Agreement Cloud Editor Documents as Word Files",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:56Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/crs1588512498923.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=cur1626293246471.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Table Column XML Tags in a Word-Based Gen Template to Import Salesforce Data",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:55Z",
+      "chunks": 10,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/cur1626293246471.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=dds1603345228498.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "I See a Blank Screen When I Try to Grant Gen Permissions",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:58Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/dds1603345228498.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=djo1614894478713.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create a Document Rule in a Word-Based Gen Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:54Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/djo1614894478713.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=dlu1650561278732.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "A Red \"OK\" Error Displays When I Try to Access Any Docusign Component",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:58Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/dlu1650561278732.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=doi1628107496987.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Edit the Docusign App Permissions of Salesforce Users",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:51Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/doi1628107496987.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=dpp1615491778022.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use the Docusign Gen Tab of the CLM Document Generation Page",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:55Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/dpp1615491778022.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=dra1737744175418.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use SOQL Code to Filter and Sort Gen Data",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:54Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/dra1737744175418.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=dzh1586134267566.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Docusign Buttons, Links, or Actions to a Salesforce Layout",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:50Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/dzh1586134267566.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=dzl1586134206658.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "User Management for Docusign Gen, CLM, Negotiate, and eSignature for Salesforce",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:50Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/dzl1586134206658.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=ehh1586134268380.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Enable Translations for Your Salesforce Organization",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:51Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/ehh1586134268380.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=emw1684790368344.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "The “Select an Account” Page Prevents Me From Connecting Docusign and Salesforce",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:50Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/emw1684790368344.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=emw1684790368344_1.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "The “Select an Account” Page Prevents Me From Connecting Docusign and Salesforce",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:58Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/emw1684790368344_1.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=enx1586134354606.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add a Table to a Word-Based Gen Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:54Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/enx1586134354606.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=epu1646716431620.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use the Docusign Logs Tab to View Docusign Errors",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:50Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/epu1646716431620.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=etv1586134206174.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Open Docusign Apps Launcher in Your Salesforce Organization",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:50Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/etv1586134206174.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=fbz1628532547751.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "\"The User Is Not the Owner of the Lock\" Displays When I Edit a Gen Template or Envelope Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:58Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/fbz1628532547751.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=ffk1586134297621.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Step 3: Paste Anchor Text Fields Into Your Word Document",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:52Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/ffk1586134297621.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=ffk1586134297621_1.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Step 3: Paste Anchor Text Fields Into Your Word Document",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:52Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/ffk1586134297621_1.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=ffk1586134297621_2.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Step 3: Paste Anchor Text Fields Into Your Word Document",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:52Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/ffk1586134297621_2.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=fhy1646677982128.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Learn About Using the Default Docusign for Salesforce Tabs",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:50Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/fhy1646677982128.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=fsc1646690056619.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Access the Docusign Gen Templates Tab to Build and Edit Gen Templates",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:50Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/fsc1646690056619.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=fvj1713565839079.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add a Generate Agreement with Docusign Action to a Salesforce Flow",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:56Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/fvj1713565839079.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=fwi1586134297224.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Step 5: Preview Your Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:52Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/fwi1586134297224.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=fwi1586134297224_1.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Step 5: Preview Your Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:52Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/fwi1586134297224_1.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=fwi1586134297224_2.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Step 5: Preview Your Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:53Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/fwi1586134297224_2.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=gjc1623792237579.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Users to the Docusign Login Permission Set",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:51Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/gjc1623792237579.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=gqm1599194045432.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Enable Standard Docusign CLM Federated Security",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:59Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/gqm1599194045432.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=gww1586134337518.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Edit the Name of a Gen Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:53Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/gww1586134337518.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=gxl1586134297397.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Step 4: Upload the Word Document to Your Gen Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:52Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/gxl1586134297397.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=gxl1586134297397_1.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Step 4: Upload the Word Document to Your Gen Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:52Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/gxl1586134297397_1.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=gxl1586134297397_2.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Step 4: Upload the Word Document to Your Gen Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:52Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/gxl1586134297397_2.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=gyv1686944628002.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Set the Default Date and Time (Locale) Formatting of Gen Data Fields",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:54Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/gyv1686944628002.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=gzh1686882277803.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add New Currency Types to Your Salesforce Organization",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:51Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/gzh1686882277803.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=hak1586134277505.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Check the Activation Status of a Docusign for Salesforce User",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:50Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/hak1586134277505.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=hcp1623170637157.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "\"Unable to Download the ContentVersion from Salesforce for the ID” Displays When I Generate an Agreement",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:58Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/hcp1623170637157.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=hea1650558720593.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "I Cannot Link an Envelope Template to a Gen Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:58Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/hea1650558720593.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=hht1586134306427.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Preview an Agreement Cloud Editor Gen Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:56Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/hht1586134306427.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=hkh1622610912812.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Download Previous Versions of Docusign CLM, Gen, and eSignature for Salesforce",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:59Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/hkh1622610912812.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=hki1636868684641.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Step 6: Create a Person Account Button and Add it to the Account Layout",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:53Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/hki1636868684641.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=hvx1586134344563.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Does Not Match Conditional Logic in a Word-Based Gen Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:55Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/hvx1586134344563.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=hwo1696480365813.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "A \"Not Found\" Error Displays When I Use the Gen Agreement Cloud Editor",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:58Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/hwo1696480365813.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=iat1586134315670.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Customize Agreement Cloud Editor Template Text",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:56Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/iat1586134315670.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=ioe1586134255116.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Change the Default Language for Gen, Negotiate, eSignature for Salesforce, and CLM",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:51Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/ioe1586134255116.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=iok1687467521558.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Troubleshoot and Fix Gen Issues",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:57Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/iok1687467521558.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=irc1586134297835.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Step 2: Create Docusign and Salesforce Anchor Text Fields",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:52Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/irc1586134297835.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=irc1586134297835_1.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Step 2: Create Docusign and Salesforce Anchor Text Fields",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:52Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/irc1586134297835_1.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=irc1586134297835_2.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Step 2: Create Docusign and Salesforce Anchor Text Fields",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:52Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/irc1586134297835_2.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=ird1636867371186.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create a Gen Template using the Person Account Object",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:52Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/ird1636867371186.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=isj1586134263707.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add the Docusign Files Component to a Salesforce Layout",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:50Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/isj1586134263707.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=itz1588421826562.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Learn About Adding Document Rules to a Word-Based Gen Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:54Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/itz1588421826562.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=iwv1714686695526.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "The Generate Agreement with Docusign Action Failed in My Salesforce Flow",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:59Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/iwv1714686695526.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=jek1619195265896.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Filters to a Word-Based Gen Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:55Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/jek1619195265896.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=jhk1621491026561.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Gen Word Template Options: Create Button Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:55Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/jhk1621491026561.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=jik1697735894052.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Change the Docusign Template Used in a Salesforce Flow",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:56Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/jik1697735894052.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=jte1621489098984.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Gen XML Toolbox: Learn to Use Custom XML in Your Word-Based Gen Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:55Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/jte1621489098984.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=jtj1614664835837.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Enter a Verification Code to Access Docusign on a New Device",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:59Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/jtj1614664835837.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=juw1586134252760.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Import Custom Objects for Gen",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:50Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/juw1586134252760.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=jxl1681966371973.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Learn About Rebuilding Your Docusign Connection After Changes to Your Salesforce Domain Name",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:57Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/jxl1681966371973.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=kao1619201340651.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Group Tags in a Word-Based Gen Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:56Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/kao1619201340651.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=kbr1647193779879.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Configure Salesforce Settings to Simplify Docusign App Administration",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:51Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/kbr1647193779879.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=kdb1636868236978.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Step 1: Add a Name, Template Editor, and Select Account as the Data Source",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:52Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/kdb1636868236978.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=keb1628113418793.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Search for Docusign Users on the Docusign User Management Page",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:51Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/keb1628113418793.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=kqf1686095608923.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Currency and Locale Defaults to Your Gen Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:54Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/kqf1686095608923.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=ktj1621660808301.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Access the Gen Template Select Source Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:53Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/ktj1621660808301.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=kvs1727119250302.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create a Generate and Send Experience for Salesforce Flow",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:57Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/kvs1727119250302.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=ldc1586134295945.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Step 6: Add a Gen Custom Button to Your Salesforce Layout",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:52Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/ldc1586134295945.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=ldc1610646513281.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create a Gen for Billing Template to Generate Invoices",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:52Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/ldc1610646513281.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=lig1586134209279.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create a Gen Template with Microsoft Word",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:52Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/lig1586134209279.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=lip1592574174158.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Docusign IP Ranges to Salesforce to Prevent Errors",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:51Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/lip1592574174158.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=liv1586134278039.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Resend the Activation Email for a Docusign for Salesforce User",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:51Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/liv1586134278039.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=liy1686093065888.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Gen and Send Functionality to Your Gen Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:55Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/liy1686093065888.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=lmq1586134225107.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "\"Unable To Check Completion of Document Generation Argument Is Undefined\" Displays When I Attempt To Preview",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:57Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/lmq1586134225107.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=lvn1686252877409.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Enable or Disable the Gen Send for Signature Button",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:55Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/lvn1686252877409.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=lxs1621489455284.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Gen Word Template Options: Select Source Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:53Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/lxs1621489455284.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=mbd1586134342525.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Delete a Gen Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:53Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/mbd1586134342525.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=mor1615480798834.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Learn About Using Docusign Gen With Docusign CLM",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:55Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/mor1615480798834.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=mrr1588510303522.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Learn About Using SOQL-Based Table Filtering and Sorting in Gen",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:54Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/mrr1588510303522.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=mxk1586134341501.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Upload Documents, Change File Names, or Add Rules to a Gen Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:54Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/mxk1586134341501.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=nbq1646756159307.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use the Docusign Envelopes Tab to View the Details of an Envelope",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:50Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/nbq1646756159307.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=nci1586134336848.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Customize a Dynamic Table in an Agreement Cloud Editor Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:56Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/nci1586134336848.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=ncl1610479844444.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Clear User Settings Using the Apps Launcher TroubleShooting Tool",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:57Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/ncl1610479844444.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=ndk1614892150271.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Exception for Gen Template SOQL Sorting Rules",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:54Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/ndk1614892150271.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=nek1586134347401.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Change the Font Size and Style of a Word-Based Gen Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:54Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/nek1586134347401.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=nnl1586134232740.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Learn About Adding Conditional Logic to a Gen Template Word Document",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:55Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/nnl1586134232740.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=nok1698959626724.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Upgrade Docusign Apps Launcher in Your Salesforce Organization",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:49Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/nok1698959626724.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=npj1738122894339.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Learn About Using Gen Template Filtering to Import Only the Data You Need",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:55Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/npj1738122894339.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=nqk1629408501542.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "User Access Management in Salesforce With the Docusign Login Permission Set",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:51Z",
+      "chunks": 9,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/nqk1629408501542.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=ntr1586134210309.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use the Disconnect Link to Disconnect and Reconnect Docusign and Salesforce",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:59Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/ntr1586134210309.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=nxb1586134245032.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "I Want to Know More About How Gen Template Naming Conventions Work",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:58Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/nxb1586134245032.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=nyj1621662912687.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Access the Gen Word Template Upload Documents Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:54Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/nyj1621662912687.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=nyj1621662912687_1.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Access the Gen Word Template Upload Documents Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:55Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/nyj1621662912687_1.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=nzl1626294504201.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Learn About Using Group Tags in Gen to Merge Salesforce Data Into Tables",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:56Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/nzl1626294504201.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=obs1586134277758.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Reset the Password for a Docusign for Salesforce User",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:51Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/obs1586134277758.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=ocl1586134251977.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "I Cannot Uninstall the Docusign Gen Application",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:58Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/ocl1586134251977.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=ogj1586134254571.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Install Docusign Apps Launcher in Your Salesforce Organization",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:49Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/ogj1586134254571.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=oks1610512362945.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Disconnect Your Docusign Account and Preserve User Settings with the Apps Launcher TroubleShooting Tool",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:57Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/oks1610512362945.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=ouh1623793722030.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Remove Users From the Docusign Login Permission Set",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:51Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/ouh1623793722030.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=oyd1586134235375.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Docusign Creates Gen Templates That I Didn't Save",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:58Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/oyd1586134235375.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=par1683226869095.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Getting Started With Gen",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:49Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/par1683226869095.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=pay1650779719005.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Supported Devices, Operating Systems, and Browsers for Docusign Apps Launcher",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:49Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/pay1650779719005.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=pef1615188456390.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "\"Failed to Update One or More Metadata Items\" Displays When I Create a Gen for Billing Custom Button",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:58Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/pef1615188456390.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=pkr1586134231912.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Docusign Fails to Connect to Salesforce When I Enter My Docusign Administrator Credentials",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:57Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/pkr1586134231912.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=plx1597758869161.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Federated Security for Docusign CLM",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:59Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/plx1597758869161.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=pno1586134351679.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Child Objects to a Gen Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:54Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/pno1586134351679.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=pnw1623705527946.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Step 1: Remove Users from Apps Launcher Permission Sets",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:59Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/pnw1623705527946.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=ppq1681966676237.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Sync Domains to Rebuild Your Gen or eSignature Integration After a Salesforce Domain Name Change",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:57Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/ppq1681966676237.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=pql1586134255263.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Docusign Gen for Salesforce Administrator Overview",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:49Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/pql1586134255263.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=pqt1623258307236.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Start a Docusign Gen 30-Day Trial",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:49Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/pqt1623258307236.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=pru1586134359720.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Filter and Conditional Tags Together in a Word-Based Gen Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:56Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/pru1586134359720.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=pui1586134216490.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Gen Template Advanced Options: Microsoft Word",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:53Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/pui1586134216490.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=pwd1586134341196.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Conditional Logic in a Word-Based Gen Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:53Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/pwd1586134341196.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=pzt1586134333317.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add a Dynamic Table to an Agreement Cloud Editor Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:56Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/pzt1586134333317.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=qig1698441058832.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "The Document Generator User Does Not Display as the Owner in Salesforce Files",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:58Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/qig1698441058832.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=qig1698704091391.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Make a Standard Salesforce User Your Integration User",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:59Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/qig1698704091391.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=qnq1614667628308.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Connect a Docusign Production Account to Salesforce",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:49Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/qnq1614667628308.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=qsk1586134322865.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Child Objects to an Agreement Cloud Editor Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:56Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/qsk1586134322865.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=rag1597638195677.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Fix Account-Wide Issues Using the Docusign Apps Launcher Troubleshooting Page",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:57Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/rag1597638195677.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=rcq1586134340244.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Edit Salesforce Data Fields in a Word-Based Gen Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:53Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/rcq1586134340244.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=refbdaee1ac-b187-4df9-94f2-a094f9f47ef2.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Salesforce Connected App Security Changes",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:51Z",
+      "chunks": 11,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/refbdaee1ac-b187-4df9-94f2-a094f9f47ef2.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=rhi1657226496755.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Apps Launcher Integration User Best Practices",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:50Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/rhi1657226496755.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=rux1586134224850.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "\"You Must Have Docusign Generator Permissions to Perform This Operation\" Displays When I Try to Create a Gen Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:57Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/rux1586134224850.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=rwn1586134208474.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Clone a Gen Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:53Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/rwn1586134208474.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=scr1646715662157.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Access the Docusign Envelope Templates Tab to Build and Edit Envelope Templates",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:50Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/scr1646715662157.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=sfh1586134224432.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "“There Were Some Problems with Your Document Generation” Displays When I Generate an Agreement",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:57Z",
+      "chunks": 13,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/sfh1586134224432.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=sjf1589553864143.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Learn About Using XML to Customize a Word-Based Gen Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:55Z",
+      "chunks": 8,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/sjf1589553864143.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=sjm1686076461925.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create a One-Click Generation and Sending Experience",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:53Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/sjm1686076461925.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=smn1586134228747.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "\"Could Not Generate Document [100] Error Occurred Reference ID\" Displays When I Try to Generate or Preview a Document",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:57Z",
+      "chunks": 13,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/smn1586134228747.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=sqj1610517836441.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Reset Folder Permissions Using the Apps Launcher TroubleShooting Tool",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:57Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/sqj1610517836441.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=sqp1586134339354.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Upload a New Version of a Word Document in Your Gen Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:54Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/sqp1586134339354.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=sut1646711991124.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Change the Owner of a Gen Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:53Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/sut1646711991124.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=swo1740519895843.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Hyperforce with Docusign Apps Launcher",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:51Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/swo1740519895843.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=sxi1617919177931.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "\"You Must Have Docusign Billing Admin Permissions to Perform This Operation\" Displays When I Try to Create a Gen for Billing Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:58Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/sxi1617919177931.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=tbw1614895429176.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create Document Rules to Add Conditional Logic to a Word-Based Gen Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:54Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/tbw1614895429176.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=tet1586134342760.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Edit a Gen Button",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:53Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/tet1586134342760.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=tha1628110439784.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Remove Docusign App Access From a Salesforce User",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:51Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/tha1628110439784.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=tiy1615491633933.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use the CLM Tab of the CLM Document Generation Page",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:55Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/tiy1615491633933.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=tlx1621488778096.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Gen Word Template Options: Add Fields Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:53Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/tlx1621488778096.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=trbs9caec2d1-acc3-4b0c-9226-3218fef17c71.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "\"This Page Has an Error. You Might Just Need to Refresh It\" Displays When I Open Docusign for Salesforce Apps",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:59Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/trbs9caec2d1-acc3-4b0c-9226-3218fef17c71.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=tsk6312c996-938f-4f24-b11f-9da2f7887493.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Install and Configure the Docusign Connected App",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:51Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/tsk6312c996-938f-4f24-b11f-9da2f7887493.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=udy1726512459295.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Gen for Salesforce Flow",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:56Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/udy1726512459295.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=uly1586134226643.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "I Cannot Connect Salesforce to Docusign",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:57Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/uly1586134226643.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=umm1586134242254.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "I Want to Clone My Sandbox Gen Template and Use It in Production",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:58Z",
+      "chunks": 9,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/umm1586134242254.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=ump1623741000284.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Step 4: Uninstall Apps Launcher from Your organization",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:59Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/ump1623741000284.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=uwf1586134275195.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create Docusign for Salesforce Users",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:50Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/uwf1586134275195.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=uxq1614636863027.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Connect a Docusign Demo Account to Salesforce",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:49Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/uxq1614636863027.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=uxu1623708462949.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Step 2: Remove Apps Launcher Components from Your Layouts",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:59Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/uxu1623708462949.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=uxx1586134338952.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Change the Salesforce Data Source of Your Word-Based Gen Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:53Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/uxx1586134338952.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=vbn1599207323944.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Disable Docusign CLM Federated Security",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:59Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/vbn1599207323944.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=veb1586134342011.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Delete a Word Document from Your Gen Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:54Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/veb1586134342011.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=vgg1614494891133.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Step 1: Add a Name, Data Source, and Template Editor",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:52Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/vgg1614494891133.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=vli1610514116162.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Disconnect Docusign and Salesforce and Remove Users with the Apps Launcher TroubleShooting Tool",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:57Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/vli1610514116162.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=vqd1589553864435.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Learn About Using Conditional XML in the Test Attribute for Check Boxes, Picklists, and Fields",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:56Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/vqd1589553864435.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=vtb1586134226946.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "I Created New Docusign Users, But They Cannot Use Gen",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:57Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/vtb1586134226946.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=vvu1586134344292.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Match Conditional Logic in a Word-Based Gen Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:54Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/vvu1586134344292.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=vxk1586134289075.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Step 1: Choose a Name, Data Source, and Template Editor",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:52Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/vxk1586134289075.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=vxs1586134339522.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Delete Salesforce Fields from a Word-Based Gen Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:53Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/vxs1586134339522.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=was1621662565775.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Access the Gen Template Add Fields Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:53Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/was1621662565775.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=way1621663319299.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Access the Gen Word Template Create Button Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:55Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/way1621663319299.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=wdg1626193923585.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Repeat Tags in Gen to Import Data from Multiple Salesforce Objects",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:56Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/wdg1626193923585.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=woc1669675034471.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "My Gen for Billing Template Doesn't Generate or Send an Invoice When the Record Status Changes to \"Posted\"",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:58Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/woc1669675034471.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=wqa1677274147953.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "A Spinning Wheel Icon Displays When I Try to Open Docusign Applications",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:58Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/wqa1677274147953.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=wqi1586134323385.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Conditional Logic to an Agreement Cloud Editor Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:56Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/wqi1586134323385.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=wqo1586134247636.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "I Cannot Use the Gen Template Create Button Page to Remove a Button",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:58Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/wqo1586134247636.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=xbc1621487025657.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Gen Word Template Options: Upload Documents Step",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:54Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/xbc1621487025657.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=xcs1646713533209.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Edit a Gen Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:53Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/xcs1646713533209.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=xiw1586134356828.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Split and Nested Conditional Tags to a Gen Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:55Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/xiw1586134356828.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=xkm1586134206424.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Docusign Components to Salesforce Layouts",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:50Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/xkm1586134206424.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=xna1586134322115.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Learn to Customize Docusign Fields in a Gen Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:56Z",
+      "chunks": 10,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/xna1586134322115.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=xrh1686885796196.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Change the Currency Type of a Salesforce Record",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:51Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/xrh1686885796196.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=xrw1586134347651.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Learn About Formatting Gen Percentage, Currency, Date, Time, and Number Fields",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:55Z",
+      "chunks": 7,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/xrw1586134347651.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=xsx1586134308381.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Gen Template Advanced Options: Agreement Cloud Editor",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:56Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/xsx1586134308381.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=xxm1623778416524.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Understanding Docusign Permission Sets in Salesforce",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:51Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/xxm1623778416524.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=yhw1621279427803.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Duplicate Salesforce Documents Display When I Send Gen Agreements for Signature",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:58Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/yhw1621279427803.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=yif1586134243168.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "I Want to Remove a Data Field from My Gen Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:58Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/yif1586134243168.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=ymi1586134213877.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Activate Your Docusign for Salesforce User",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:59Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/ymi1586134213877.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=ynj1637170143807.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Step 7: Remove the Person Account Custom Button from the Accounts Layout",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:53Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/ynj1637170143807.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=ynp1680122164220.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Sync Domains to Rebuild Your CLM or CLM Essentials Integration After a Salesforce Domain Name Change",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:59Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/ynp1680122164220.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=ysz1686866281515.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Learn About Setting the Default Format of Currency, Date, and Time Data Fields",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:54Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/ysz1686866281515.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=ytt1602710410891.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Refresh or Reconnect a Salesforce Organization With Docusign CLM Federated Security",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:59Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/ytt1602710410891.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=yvx1603256593714.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Activate Docusign Gen from a Salesforce CPQ Plus License",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:50Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/yvx1603256593714.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=ywu1586134208345.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Edit or Delete a Gen Template or Custom Button",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:53Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/ywu1586134208345.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=yxb1637170224921.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Step 8: Add Your Template Button to the Salesforce Person Account Layout",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:53Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/yxb1637170224921.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=yxe1623689627503.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Uninstall Docusign Apps Launcher from Your Salesforce Organization",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:59Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/yxe1623689627503.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=yzs1586134269459.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Enable Translations for Your Salesforce User",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:51Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/yzs1586134269459.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=zbp1629859390541.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Learn How to Create and Manage Docusign Users in Salesforce",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:50Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/zbp1629859390541.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=zeh1586134329665.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Learn About Adding Tables to Agreement Cloud Editor Templates",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:56Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/zeh1586134329665.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=zfp1586134208988.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Learn About Connecting Salesforce and Docusign",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:49Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/zfp1586134208988.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=zfz1651526631752.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Object Key Prefixes to Identify an Envelope's Salesforce Object",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:50Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/zfz1651526631752.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=zgw1621457735347.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create Gen Templates to Automate Your Contract Process",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:51Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/zgw1621457735347.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=zju1698423050913.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Docusign Does Not Email Recipients When I Generate Invoices from a Gen for Billing Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:58Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/zju1698423050913.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=zou1626292813473.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Learn About Using Table Row XML Tags in Gen to Import Salesforce Data",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:55Z",
+      "chunks": 9,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/zou1626292813473.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=zqz1586134333505.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add a Standard Table to an Agreement Cloud Editor Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:56Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/zqz1586134333505.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=zwy1586134335972.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Customize a Standard Table in an Agreement Cloud Editor Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:56Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/zwy1586134335972.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=zzn1586134342246.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add a Document to a Gen Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:54Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/zzn1586134342246.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=izj1586134369853&topicId=zzx1652995543833.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Gen Template Recommended Limits",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T20:01:52Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/izj1586134369853/zzx1652995543833.md"
+    }
+  ]
+}

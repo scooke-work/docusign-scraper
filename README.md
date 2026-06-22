@@ -113,6 +113,14 @@ Currently committed under `data/`:
   — retrieving proof of completed ID Verification)
 - `docusign-tsp/` — 18 pages / 89 chunks (TSP API developer docs — Trust Service
   Provider program: concepts, get-started, API flow, and endpoint reference)
+- `docusign-iam-for-sales/` — 158 pages / 377 chunks (IAM for Sales on Salesforce:
+  install/setup, the embedded experience, and the Maestro-with-Salesforce steps)
+- `docusign-gen-for-salesforce/` — 250 pages / 467 chunks (Docusign Gen for
+  Salesforce document generation — user + admin guides)
+- `docusign-esignature-for-salesforce/` — 480 pages / 884 chunks (eSignature for
+  Salesforce admin + user guides, plus the Docusign Apps Launcher / DAL admin guide)
+- `docusign-agreement-prep/` — 46 pages / 104 chunks (Agreement Preparation — the
+  "create" stage: document editors, template builder, sender/signer fields)
 - `docusign-click/` — 45 pages / 288 chunks (Click API developer docs — clickwrap
   for high-volume low-risk acceptance — plus the product page)
 - `docusign-rooms/` — 296 pages / 1,086 chunks (Rooms for Real Estate/Mortgage:

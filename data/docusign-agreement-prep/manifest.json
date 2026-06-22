@@ -1,0 +1,466 @@
+{
+  "generated_at": "2026-06-22T19:56:31Z",
+  "source": "docusign-scraper",
+  "pages": [
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=als1679428547895&topicId=ahh1679704095661.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Conditional Rules and Syntax to Show Content",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:55:19Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/als1679428547895/ahh1679704095661.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=als1679428547895&topicId=bhu1681863487197.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Troubleshooting Syntax Errors With Document Generation Templates",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:55:19Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/als1679428547895/bhu1681863487197.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=als1679428547895&topicId=cah1680213420771.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Limitations and Considerations for Document Generation",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:55:18Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/als1679428547895/cah1680213420771.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=als1679428547895&topicId=con143e1ca0-b763-4e21-8183-d3f964492b32.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Agreement Type Detection",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:55:19Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/als1679428547895/con143e1ca0-b763-4e21-8183-d3f964492b32.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=als1679428547895&topicId=con1f1d1e0b-5f19-4e30-8985-a5f490084b66.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Choosing Between Document Editors",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:55:18Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/als1679428547895/con1f1d1e0b-5f19-4e30-8985-a5f490084b66.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=als1679428547895&topicId=con286e9ca5-5f12-41fc-9ac5-1e4754b9184d.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "About the Template Assistant",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:55:19Z",
+      "chunks": 8,
+      "has_content": true,
+      "markdown_path": "support/als1679428547895/con286e9ca5-5f12-41fc-9ac5-1e4754b9184d.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=als1679428547895&topicId=con38e467ca-8098-421b-96c0-4483e1313775.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Generate Agreements",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:55:19Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/als1679428547895/con38e467ca-8098-421b-96c0-4483e1313775.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=als1679428547895&topicId=con420d53d5-ddc0-47f8-ae6f-089d6bef1613.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Sender and Signer Fields",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:55:18Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/als1679428547895/con420d53d5-ddc0-47f8-ae6f-089d6bef1613.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=als1679428547895&topicId=con55500fea-5d4d-4105-9f0e-fc0fb8d71623.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Use Data from Third-Party Systems",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:55:19Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "support/als1679428547895/con55500fea-5d4d-4105-9f0e-fc0fb8d71623.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=als1679428547895&topicId=con69f37310-893b-4c6e-b9f9-41695d325749.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "About Agreement Preparation",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:55:18Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "support/als1679428547895/con69f37310-893b-4c6e-b9f9-41695d325749.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=als1679428547895&topicId=con9cb38a9f-b3cf-4d22-9fcc-be7062897c18.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Autoplacing Suggested Fields",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:55:18Z",
+      "chunks": 5,
+      "has_content": true,
+      "markdown_path": "support/als1679428547895/con9cb38a9f-b3cf-4d22-9fcc-be7062897c18.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=als1679428547895&topicId=cyi1682634136645.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Error: Invalid Data Field Type",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:55:19Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/als1679428547895/cyi1682634136645.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=als1679428547895&topicId=dtw1680044374844.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create a Sender Field in the Template Assistant",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:55:19Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/als1679428547895/dtw1680044374844.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=als1679428547895&topicId=ekg1679981354189.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Send a Document Generation Envelope",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:55:19Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/als1679428547895/ekg1679981354189.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=als1679428547895&topicId=ffc1707759927433.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create a Document Generation Template with the Agreement Template Builder",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:55:18Z",
+      "chunks": 4,
+      "has_content": true,
+      "markdown_path": "support/als1679428547895/ffc1707759927433.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=als1679428547895&topicId=fgl1724366647534.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Why Can't I Use a Document Generation Template To Send an Envelope?",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:55:19Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/als1679428547895/fgl1724366647534.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=als1679428547895&topicId=ftc1679700030026.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Document Generation Syntax",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:55:19Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "support/als1679428547895/ftc1679700030026.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=als1679428547895&topicId=gih1583277347533.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Delegated Permissions",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:55:20Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/als1679428547895/gih1583277347533.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=als1679428547895&topicId=gke1680044621975.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Preview a Generated Document in the Template Assistant",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:55:19Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/als1679428547895/gke1680044621975.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=als1679428547895&topicId=jct1697745471160.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Agreement Template Builder for Document Generation",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:55:18Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/als1679428547895/jct1697745471160.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=als1679428547895&topicId=kbb1723763558691.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Insert a Dynamic Table",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:55:18Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/als1679428547895/kbb1723763558691.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=als1679428547895&topicId=kgg1680241042480.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Insert Sender Fields and Dynamic Tables Into a Document",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:55:19Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/als1679428547895/kgg1680241042480.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=als1679428547895&topicId=kyy1679958874136.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Docusign Template Assistant for Word",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:55:19Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/als1679428547895/kyy1679958874136.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=als1679428547895&topicId=mfn1681841788279.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Error: Missing Field Brackets",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:55:19Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/als1679428547895/mfn1681841788279.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=als1679428547895&topicId=mic1682635154980.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Error Code: JsonReaderException",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:55:19Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/als1679428547895/mic1682635154980.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=als1679428547895&topicId=msu1680044506702.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add a Rule to Show or Hide Conditional Content",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:55:19Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/als1679428547895/msu1680044506702.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=als1679428547895&topicId=nan1681853631175.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Bulk Send With Document Generation",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:55:19Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/als1679428547895/nan1681853631175.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=als1679428547895&topicId=nhd1712957935412.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create a Dynamic Table in the Template Assistant",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:55:19Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/als1679428547895/nhd1712957935412.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=als1679428547895&topicId=oxy1682721288587.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Error: Data Field Is Not Included on Data-Entry Form",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:55:19Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/als1679428547895/oxy1682721288587.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=als1679428547895&topicId=pgq1681255844897.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Conditional Rules and Syntax for Suppressing Text",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:55:19Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/als1679428547895/pgq1681255844897.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=als1679428547895&topicId=pih1682631920629.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Error: Incorrect Placement of SuppressParagraph",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:55:19Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/als1679428547895/pih1682631920629.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=als1679428547895&topicId=pof1583277362435.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Permission Profiles",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:55:20Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/als1679428547895/pof1583277362435.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=als1679428547895&topicId=qqw1682712469814.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Troubleshooting Merged Data Errors",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:55:19Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/als1679428547895/qqw1682712469814.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=als1679428547895&topicId=qwk1702687799547.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create a Template from a Document",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:55:19Z",
+      "chunks": 3,
+      "has_content": true,
+      "markdown_path": "support/als1679428547895/qwk1702687799547.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=als1679428547895&topicId=rui1680044431435.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Create Sender Fields With JSON Syntax in the Template Assistant",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:55:19Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/als1679428547895/rui1680044431435.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=als1679428547895&topicId=shq1713209582306.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Upload Field Data for a Dynamic Table",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:55:19Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/als1679428547895/shq1713209582306.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=als1679428547895&topicId=shv1682118128930.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Error: Invalid Field Name",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:55:19Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/als1679428547895/shv1682118128930.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=als1679428547895&topicId=tsk22feeaa4-0a7b-4cf5-9b9c-5cbcbc1dc023.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add a Third-Party Field or Table to a Template",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:55:19Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/als1679428547895/tsk22feeaa4-0a7b-4cf5-9b9c-5cbcbc1dc023.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=als1679428547895&topicId=tsk9a177e7d-3dcc-4678-9e6a-173351fb8b08.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Preview a Generated Document",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:55:19Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/als1679428547895/tsk9a177e7d-3dcc-4678-9e6a-173351fb8b08.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=als1679428547895&topicId=tskce27c962-22c4-4dfa-b799-72c9a403d8ab.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add a Custom Agreement Field",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:55:18Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/als1679428547895/tskce27c962-22c4-4dfa-b799-72c9a403d8ab.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=als1679428547895&topicId=vki1683150267071.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Video: How to Use the Agreement Template Builder for Document Generation",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:55:18Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/als1679428547895/vki1683150267071.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=als1679428547895&topicId=vow1682453177695.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Error: Invalid Conditional Statement",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:55:19Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/als1679428547895/vow1682453177695.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=als1679428547895&topicId=wyk1682716442629.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Error: Value Provided Does Not Pass Validation",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:55:19Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/als1679428547895/wyk1682716442629.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=als1679428547895&topicId=xou1680241342792.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Edit a Sender Field in the Template Assistant",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:55:19Z",
+      "chunks": 1,
+      "has_content": true,
+      "markdown_path": "support/als1679428547895/xou1680241342792.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=als1679428547895&topicId=zhi1724987563409.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Dynamic Tables for Document Generation",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:55:18Z",
+      "chunks": 6,
+      "has_content": true,
+      "markdown_path": "support/als1679428547895/zhi1724987563409.md"
+    },
+    {
+      "source_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=als1679428547895&topicId=ziz1707785438108.html&_LANG=enus",
+      "site": "support.docusign.com",
+      "title": "Add Conditional Rules To Show or Hide Content",
+      "breadcrumb": [],
+      "scraped_at": "2026-06-22T19:55:18Z",
+      "chunks": 2,
+      "has_content": true,
+      "markdown_path": "support/als1679428547895/ziz1707785438108.md"
+    }
+  ]
+}
