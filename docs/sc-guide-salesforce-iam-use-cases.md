@@ -83,6 +83,23 @@ corpus page (`Configure a … Step`).
 - `Build a Docusign Workflow to Be Started By a Salesforce Flow` +
   `Configure a Start Docusign Workflow Step in Salesforce Flow` (headless / automation)
 
+**Step configuration notes** (verified from the corpus):
+- *Prereq for every SF step:* install the **Salesforce app from Docusign App
+  Center** and start from a base workflow (`Installing Extension Applications for
+  Workflow Builder`).
+- **Read from Salesforce** — as admin, **map workflow fields ↔ Salesforce fields**;
+  recipients then see imported record data on the envelope.
+- **Use Salesforce Files** — provide the **record ID**; Docusign pulls files from
+  the record's **Notes & Attachments**. Upload mode: **All Files**, **File Name
+  Contains**, or **Latest Document Only** (use *Latest Document Only* for the Gen
+  output in UC4/UC5).
+- **Agreement Desk step** — *+ Add a step → Agreement Desk → Create a Request*,
+  then pick the **Request type** (the type wired to your intake Web Form).
+- **Writeback to Salesforce** — map **workflow fields ↔ Salesforce fields**; this
+  one step can **update fields** (e.g. Opportunity Status), **save documents to the
+  record**, and **create new records** — i.e. it covers the plan's "Store Files to
+  Salesforce" + "Write to Salesforce" + "Update Opty Status."
+
 ---
 
 ## 4. Use-case recipes
