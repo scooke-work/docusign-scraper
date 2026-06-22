@@ -205,13 +205,14 @@
       <div class="ch">Obligation fields</div>
       <div class="row"><span class="fld">Obligation Name <span style="color:var(--hint)">&middot; required</span></span><span class="badge t-text">text</span></div>
       <div class="row"><span class="fld">Type</span><span class="badge t-enum">enum</span></div>
-      <div class="row"><span class="fld">Status</span><span class="badge t-enum">enum &#9888;</span></div>
-      <div class="row"><span class="fld">Owner <span style="color:var(--hint)">(Obligated Party)</span></span><span class="badge t-text">text</span></div>
+      <div class="row"><span class="fld">Status</span><span class="badge t-enum">enum</span></div>
+      <div class="row"><span class="fld">Owner <span style="color:var(--hint)">(assignee)</span></span><span class="badge t-text">text</span></div>
+      <div class="row"><span class="fld">Obligated Party</span><span class="badge t-text">text</span></div>
       <div class="row"><span class="fld">Due Date</span><span class="badge t-date">date</span></div>
       <div class="row"><span class="fld">Notice Period</span><span class="badge t-dur">duration</span></div>
       <div class="row"><span class="fld auto">&#9889; Notice Date</span><span class="badge t-date">date</span></div>
-      <div class="row"><span class="fld">Payment Value</span><span class="badge t-num">number</span></div>
-      <div class="row"><span class="fld">Frequency</span><span class="badge t-enum">enum &#9888;</span></div>
+      <div class="row"><span class="fld">Payment Value</span><span><span class="badge t-num">number</span> <span class="badge t-cur">currency</span></span></div>
+      <div class="row"><span class="fld">Frequency</span><span class="badge t-enum">enum</span></div>
       <div class="row"><span class="fld">Discounts</span><span class="badge t-text">text</span></div>
       <div class="row"><span class="fld">Repercussions</span><span class="badge t-text">text</span></div>
       <div class="row"><span class="fld">Description</span><span class="badge t-text">text</span></div>
@@ -246,23 +247,27 @@
       <div class="vals">Compliance &middot; Confidentiality &middot; Data breach &middot; Escalation &middot; Indemnification &middot; Insurance &middot; Limitation of liability &middot; Miscellaneous &middot; Notification &middot; Payment &middot; Renewal notification &middot; Service level agreements &middot; Subcontracting &middot; Termination &middot; Warranty &nbsp;&middot;&nbsp; <i style="color:var(--hint)">plus organization-defined custom types. AI auto-surfaces only Payment, Renewal &amp; Termination.</i></div>
     </div>
     <div class="cat">
-      <div class="catname">Frequency &middot; payment obligations</div>
-      <div class="vals"><span class="ev">One Time</span> <span class="partial">&#9888; the only value AI surfaces. The manual Frequency dropdown adds recurring options that Docusign does not publicly enumerate.</span></div>
+      <div class="catname">Status &middot; obligation</div>
+      <div class="vals"><span class="ev">Active</span><span class="ev">Fulfilled</span><span class="ev">Unfulfilled</span><span class="ev">Dependent</span></div>
     </div>
     <div class="cat">
-      <div class="catname">Status</div>
-      <div class="vals"><span class="partial">&#9888; A UI dropdown whose value set is not published in any Docusign source. (The documented Active / Expiring Soon / Renewing Soon / Effective Soon / Inactive values are <b>agreement</b>-level statuses, not obligation statuses.)</span></div>
+      <div class="catname">Frequency &middot; payment obligations</div>
+      <div class="vals"><span class="ev">One Time</span><span class="ev">Recurring</span></div>
+    </div>
+    <div class="cat">
+      <div class="catname">Payment value currency</div>
+      <div class="vals"><span style="font-size:12.5px">ISO 4217 currency codes (USD, EUR, GBP, AED, AFN, ALL, AMD, ANG, AOA, ARS, &hellip;)</span></div>
     </div>
   </div>
 
-  <div style="margin:16px 0 0;padding:11px 14px;border-left:3px solid #BA7517;background:var(--surface);border-radius:6px;font-size:12px;color:var(--muted);line-height:1.6">
-    <b style="color:var(--text)">&#9888; Deep-pass findings (still partial):</b> An exhaustive search (Agreement Manager API schema, support docs, community, release notes) did <b>not</b> surface the obligation <b>Status</b> or recurring <b>Frequency</b> value sets &mdash; these exist only in the live UI dropdowns and are not publicly documented. <b>Payment Value</b> is the obligation <i>amount</i> (monetary number + currency); <b>Discounts</b> has no documented type. <b>No obligations API:</b> the Agreement Manager API exposes only <span class="mono">getAgreement</span> / <span class="mono">getAgreementsList</span> &mdash; obligations are a UI/product feature with no API endpoint.
+  <div style="margin:16px 0 0;padding:11px 14px;border-left:3px solid #1D9E75;background:var(--surface);border-radius:6px;font-size:12px;color:var(--muted);line-height:1.6">
+    <b style="color:var(--text)">&#10003; Verified from the live UI</b> (Edit Obligation screen). These dropdown values are <b>not</b> published in Docusign's help docs or API &mdash; captured from the product UI: <b>Status</b> = Active / Fulfilled / Unfulfilled / Dependent; <b>Frequency</b> = One Time / Recurring; <b>Payment value</b> = amount (number) + currency (ISO 4217). <b>No obligations API:</b> the Agreement Manager API exposes only <span class="mono">getAgreement</span> / <span class="mono">getAgreementsList</span> &mdash; obligations are a UI/product feature. <b>Discounts</b> appears as an AI-extracted attribute but is not a field in the Edit Obligation form; its type is undocumented.
   </div>
 
   <div class="foot">
     <b>UI field types:</b> Text &middot; Number &middot; Date &middot; Currency &middot; Dropdown &nbsp;|&nbsp; <b>API data types:</b> string &middot; number &middot; datetime &middot; duration &middot; enum &middot; boolean. Custom fields support Text / Number / Date / Dropdown; plus custom_provisions for user-defined terms.<br>
     <b>Enum values</b> are the documented value sets (the pre-populated options used for filtering) from Docusign's <i>Extracted Agreement Insights and Definitions</i>. <b>Other</b> is the universal catch-all returned when the AI cannot locate the value in the agreement. The API returns equivalent <span class="mono">UPPER_SNAKE_CASE</span> codes (e.g. Auto-Renew&rarr;<span class="mono">AUTO_RENEW</span>, Yes, with conditions&rarr;<span class="mono">YES_WITH_CONDITIONS</span>, 30 days&rarr;<span class="mono">THIRTY_DAYS</span>; <span class="mono">SILENT</span> appears for unspecified). Value sets are English (U.S.) and vary slightly by language. <b>Type-specific enum fields</b> also surface for certain agreement types: <b>NDA Type</b> (Mutual; One Way), <b>Employment Type</b> (Fixed Term; Full Time; Intern; Part Time), <b>Party Role</b> (Buyer; Seller), <b>Late Fees Apply</b> (Yes; No).<br>
-    <b>&#9889; Auto-calculated</b> fields are the only ones Docusign documents as set from other fields. <b>Sources:</b> Agreement Manager API schema &amp; reference; Agreement Manager support (Fields Manager, Update Agreement Status, Extracted Agreement Insights &amp; Definitions); openapi-navigator schema definitions. <b>Obligations:</b> Agreement Manager support (Obligation Management, Manually Create an Obligation, Custom Obligation Types).
+    <b>&#9889; Auto-calculated</b> fields are the only ones Docusign documents as set from other fields. <b>Sources:</b> Agreement Manager API schema &amp; reference; Agreement Manager support (Fields Manager, Update Agreement Status, Extracted Agreement Insights &amp; Definitions); openapi-navigator schema definitions. <b>Obligations:</b> Agreement Manager support (Obligation Management, Manually Create an Obligation, Custom Obligation Types); enum values verified from the live Edit Obligation UI.
   </div>
 
 </div>
