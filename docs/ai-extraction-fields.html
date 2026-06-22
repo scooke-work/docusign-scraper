@@ -247,16 +247,16 @@
     </div>
     <div class="cat">
       <div class="catname">Frequency &middot; payment obligations</div>
-      <div class="vals"><span class="ev">One Time</span> <span class="partial">&#9888; only value documented in the corpus &mdash; full list to verify</span></div>
+      <div class="vals"><span class="ev">One Time</span> <span class="partial">&#9888; the only value AI surfaces. The manual Frequency dropdown adds recurring options that Docusign does not publicly enumerate.</span></div>
     </div>
     <div class="cat">
       <div class="catname">Status</div>
-      <div class="vals"><span class="partial">&#9888; status value set is not documented in the scraped corpus &mdash; to verify</span></div>
+      <div class="vals"><span class="partial">&#9888; A UI dropdown whose value set is not published in any Docusign source. (The documented Active / Expiring Soon / Renewing Soon / Effective Soon / Inactive values are <b>agreement</b>-level statuses, not obligation statuses.)</span></div>
     </div>
   </div>
 
   <div style="margin:16px 0 0;padding:11px 14px;border-left:3px solid #BA7517;background:var(--surface);border-radius:6px;font-size:12px;color:var(--muted);line-height:1.6">
-    <b style="color:var(--text)">&#9888; Needs verification</b> (corpus-only quick build): (1) the <b>Status</b> value set, (2) the full <b>Frequency</b> list beyond <i>One Time</i>, and (3) the exact type of <b>Payment Value</b> / <b>Discounts</b> (shown as number/text). Also: obligations are a UI/product feature &mdash; they are <b>not present in the documented Agreement Manager API <span class="mono">getAgreement</span> schema</b> (provisions only); whether an obligations API endpoint exists is not confirmed in the corpus.
+    <b style="color:var(--text)">&#9888; Deep-pass findings (still partial):</b> An exhaustive search (Agreement Manager API schema, support docs, community, release notes) did <b>not</b> surface the obligation <b>Status</b> or recurring <b>Frequency</b> value sets &mdash; these exist only in the live UI dropdowns and are not publicly documented. <b>Payment Value</b> is the obligation <i>amount</i> (monetary number + currency); <b>Discounts</b> has no documented type. <b>No obligations API:</b> the Agreement Manager API exposes only <span class="mono">getAgreement</span> / <span class="mono">getAgreementsList</span> &mdash; obligations are a UI/product feature with no API endpoint.
   </div>
 
   <div class="foot">
