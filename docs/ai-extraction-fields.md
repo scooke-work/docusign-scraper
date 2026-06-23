@@ -102,6 +102,49 @@ Type vocabulary: **date · duration · number · currency · enum · boolean · 
 
 *(Plus organization-defined custom agreement types.)*
 
+### Fields available by agreement type
+
+Every type includes the **universal fields**: Title · Parties · Execution Date · Effective Date · Expiration Date · Status · Line of Business. The table below shows which *additional* standard fields each type surfaces (✓ = present).
+
+| Agreement type | TCV | ACV | Term | Renew | Pay | LateFee | PriceCap% | LoLCap | Assign | GovLaw | Juris | TrmCause | TrmConv | Extra |
+|---|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:| --- |
+| Master Service Agreement / Statement of Work | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |  |
+| Non-Disclosure Agreement | ✓ | · | ✓ | ✓ | · | · | · | · | ✓ | ✓ | ✓ | ✓ | ✓ | NDA Type, Confidentiality Duration |
+| Change Order | ✓ | · | · | · | ✓ | · | · | · | ✓ | ✓ | ✓ | ✓ | ✓ |  |
+| Addendum / Amendment | ✓ | · | · | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | · | ✓ | ✓ | ✓ |  |
+| Lease / License / Services Agreement / Supply/Distribution | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |  |
+| Purchase Order | ✓ | ✓ | ✓ | · | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | · | · |  |
+| Engagement Letter | ✓ | ✓ | ✓ | · | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |  |
+| Fee | ✓ | · | · | · | ✓ | · | · | · | ✓ | · | ✓ | ✓ | ✓ |  |
+| Letter of Intent | ✓ | · | · | · | ✓ | · | · | · | · | · | ✓ | ✓ | ✓ |  |
+| Memorandum of Understanding | ✓ | · | · | · | ✓ | · | · | · | · | ✓ | ✓ | ✓ | ✓ |  |
+| Order Form | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |  |
+| Proposal / Quote | ✓ | · | · | · | ✓ | · | · | · | ✓ | · | ✓ | ✓ | ✓ |  |
+| Retainer | ✓ | ✓ | ✓ | · | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |  |
+| Service Level Agreement | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |  |
+| Terms and Conditions | · | · | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |  |
+| Appendix / Attachment / Exhibit | ✓ | · | ✓ | · | · | · | · | · | · | · | · | · | · |  |
+| Supplemental Document | ✓ | · | ✓ | · | · | · | · | · | ✓ | ✓ | ✓ | · | · |  |
+| Contractor Agreement / Consulting Agreement | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |  |
+| Franchise Agreement / Purchase Agreement | ✓ | · | ✓ | ✓ | ✓ | · | · | · | · | ✓ | ✓ | ✓ | ✓ |  |
+| Partnership Agreement | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |  |
+| Joint Venture Agreement | ✓ | · | ✓ | ✓ | ✓ | · | · | · | · | ✓ | ✓ | ✓ | ✓ |  |
+| Offer Letter | ✓ | · | · | · | ✓ | · | · | · | · | ✓ | ✓ | ✓ | ✓ |  |
+| Intellectual Property Assignment Agreement / Publishing Agreement / Investment Account Agreement / Wealth Management Agreement / Credit Card Agreement | ✓ | · | ✓ | · | ✓ | · | · | · | · | ✓ | ✓ | ✓ | ✓ |  |
+| Employment Separation Agreement | ✓ | ✓ | ✓ | · | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | · | ✓ |  |
+| Certificate of Insurance | · | · | ✓ | · | · | · | · | · | ✓ | · | ✓ | ✓ | ✓ |  |
+| Event / Marketing | ✓ | · | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |  |
+| Loan / Miscellaneous / Subscription | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |  |
+| Privacy and Security | ✓ | · | ✓ | ✓ | · | · | · | · | ✓ | ✓ | ✓ | ✓ | ✓ |  |
+| Release/Waiver | · | · | ✓ | · | · | · | · | · | ✓ | ✓ | ✓ | ✓ | ✓ |  |
+| Renewal | · | ✓ | ✓ | · | ✓ | ✓ | ✓ | ✓ | ✓ | · | ✓ | · | · |  |
+| Stock Purchase Agreement | ✓ | · | ✓ | ✓ | · | · | · | · | ✓ | ✓ | ✓ | ✓ | ✓ |  |
+| Termination | · | · | ✓ | · | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |  |
+
+**Non-agreement types** — *Application / Certificate / Form / Handbook / Notice / Plan / Policy / Report / Summary*: universal fields only. **Invoice**: universal + Total Contract Value, Renewal, Payment Terms, Late Payment Fee, Price Cap %.
+
+> Source: *Standard Fields for Agreement and Non-Agreement Types* (Agreement Manager support). NDA is the only type with extra fields (NDA Type, Confidentiality Duration). Note: Amendment/Addendum omit Governing Law; lightweight types (NDA, LOI, MOU, Fee, Proposal/Quote, Offer Letter) omit the financial cluster (ACV, Late Payment Fee, Price Cap %, LoL Cap).
+
 ---
 
 ## Part 2 — Agreement Obligations
