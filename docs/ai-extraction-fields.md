@@ -91,11 +91,13 @@ Type vocabulary: **date · duration · number · currency · enum · boolean · 
 > `THIRTY_DAYS`; `SILENT` appears for unspecified). Value sets are English (U.S.)
 > and vary slightly by language.
 >
-> **Standard vs. custom field types:** Standard (Docusign-provided) fields use the
-> full type set — **text · number · date · currency · dropdown** (the indicators
-> shown in the Fields Manager). When you **create a custom field**, the Field type
-> choices are limited to **Text / Number / Date / Dropdown** — *Currency is not a
-> custom-field option*; `custom_provisions` hold user-defined terms.
+> **Custom field types:** When you **create a custom field** (Fields Manager →
+> *Add a field*), the Field type choices are **Text · Number · Date · Dropdown ·
+> Currency** (verified from the live UI — the published support docs are stale and
+> list only the first four). The same set are the standard-field type indicators
+> shown in the Fields Manager. **Category** choices: General · Termination ·
+> Renewal · Payment · Legal and Compliance · Other. `custom_provisions` hold the
+> resulting user-defined terms.
 
 ### `type` enum — 49 standard agreement types (by category)
 
