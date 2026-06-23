@@ -89,8 +89,13 @@ Type vocabulary: **date · duration · number · currency · enum · boolean · 
 > the value. The API returns equivalent `UPPER_SNAKE_CASE` codes (Auto-Renew →
 > `AUTO_RENEW`, Yes, with conditions → `YES_WITH_CONDITIONS`, 30 days →
 > `THIRTY_DAYS`; `SILENT` appears for unspecified). Value sets are English (U.S.)
-> and vary slightly by language. Custom fields support Text / Number / Date /
-> Dropdown; custom_provisions hold user-defined terms.
+> and vary slightly by language.
+>
+> **Standard vs. custom field types:** Standard (Docusign-provided) fields use the
+> full type set — **text · number · date · currency · dropdown** (the indicators
+> shown in the Fields Manager). When you **create a custom field**, the Field type
+> choices are limited to **Text / Number / Date / Dropdown** — *Currency is not a
+> custom-field option*; `custom_provisions` hold user-defined terms.
 
 ### `type` enum — 49 standard agreement types (by category)
 
