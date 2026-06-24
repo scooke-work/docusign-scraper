@@ -198,7 +198,7 @@ created manually.
 
 ### Enum values
 
-**Type — 15 standard (+ custom):** Compliance · Confidentiality · Data breach · Escalation · Indemnification · Insurance · Limitation of liability · Miscellaneous · Notification · Payment · Renewal notification · Service level agreements · Subcontracting · Termination · Warranty
+**Type — 15 standard (+ custom):** Compliance · Confidentiality · Data Breach · Escalation · Indemnification · Insurance · Limitation of Liability · Miscellaneous · Notification · Payment · Renewal · Service Level Agreements · Subcontracting · Termination · Warranties *(verified from live UI; the support doc lists "Renewal notification" / "Warranty")*
 *(plus organization-defined custom types; AI auto-surfaces only Payment, Renewal & Termination).*
 
 **Status** — `Active` · `Fulfilled` · `Unfulfilled` · `Dependent`
