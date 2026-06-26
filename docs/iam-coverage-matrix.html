@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Docusign IAM — Edition × Application Coverage</title>
+<style>
+  :root{
+    --bg:#ffffff; --text:#1b1b1a; --muted:#6b6a65; --hint:#94938c;
+    --grid:#e4e2da; --rowalt:#faf9f5; --head:#f1efe8; --na:#cbc9c1;
+    --dot:#0F6E56; --doto:#9ec3b6;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --bg:#1c1c1b; --text:#e9e8e2; --muted:#a9a89f; --hint:#7c7b73;
+      --grid:#36352f; --rowalt:#242320; --head:#2a2925; --na:#56554f;
+      --dot:#5cae93; --doto:#4a6258;
+    }
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--text);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;}
+  .wrap{max-width:880px;margin:0 auto;padding:36px 24px 56px;}
+  h1{font-size:21px;font-weight:600;margin:0 0 4px;}
+  .sub{font-size:14px;color:var(--muted);margin:0 0 18px;}
+  table{border-collapse:collapse;width:100%;font-size:13.5px;}
+  th,td{border:1px solid var(--grid);padding:9px 8px;text-align:center;}
+  thead th{background:var(--head);font-weight:600;font-size:12.5px;}
+  thead th.ed small{display:block;font-weight:400;color:var(--muted);font-size:10px;margin-top:1px;}
+  tbody th{text-align:left;font-weight:500;white-space:nowrap;}
+  tbody tr:nth-child(even){background:var(--rowalt);}
+  .stage{display:inline-block;width:9px;height:9px;border-radius:2px;margin-right:8px;vertical-align:middle;}
+  .dot{color:var(--dot);font-size:15px;}
+  .doto{color:var(--doto);font-size:13px;}
+  .na{color:var(--na);}
+  .hrcol{background:repeating-linear-gradient(45deg,transparent,transparent 5px,rgba(150,147,140,0.07) 5px,rgba(150,147,140,0.07) 10px);}
+  .grouprow th{background:var(--head);font-size:11px;letter-spacing:.5px;text-transform:uppercase;color:var(--muted);font-weight:700;padding:6px 8px;}
+  .legend{font-size:12.5px;color:var(--muted);margin:16px 2px 0;line-height:1.9;}
+  .legend b{color:var(--text);}
+  .cap{font-size:12px;color:var(--hint);margin-top:14px;line-height:1.6;}
+  /* lifecycle accent colors */
+  .s-create{background:#0F6E56}.s-sign{background:#185FA5}.s-manage{background:#5A8A37}
+  .s-auto{background:#BA7517}.s-plat{background:#B4B2A9}.s-ai{background:#6A4BBE}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>IAM editions × applications — coverage matrix</h1>
+  <p class="sub">Which applications each Docusign IAM edition bundles, as documented. Read the legend — a blank cell means <i>not documented for that edition</i>, not necessarily excluded.</p>
+
+  <table>
+    <thead>
+      <tr>
+        <th style="text-align:left">Application</th>
+        <th class="ed">IAM Core<small>Std · Pro · Ent</small></th>
+        <th class="ed">IAM for CX<small>customer exp.</small></th>
+        <th class="ed">IAM for Sales<small>CRM-native</small></th>
+        <th class="ed hrcol">IAM for HR<small>early access</small></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="grouprow"><th colspan="5">Create</th></tr>
+      <tr><th><span class="stage s-create"></span>Agreement Prep</th>
+        <td class="na">·</td><td class="na">·</td><td class="dot">●</td><td class="hrcol na">n/d</td></tr>
+      <tr><th><span class="stage s-create"></span>Web Forms</th>
+        <td class="na">·</td><td class="dot">●</td><td class="doto">○</td><td class="hrcol na">n/d</td></tr>
+
+      <tr class="grouprow"><th colspan="5">Sign</th></tr>
+      <tr><th><span class="stage s-sign"></span>eSignature</th>
+        <td class="dot">●</td><td class="doto">○</td><td class="dot">●</td><td class="hrcol na">n/d</td></tr>
+      <tr><th><span class="stage s-sign"></span>ID Verification</th>
+        <td class="na">·</td><td class="doto">○</td><td class="doto">○</td><td class="hrcol na">n/d</td></tr>
+      <tr><th><span class="stage s-sign"></span>Connected Fields / Data Verification</th>
+        <td class="na">·</td><td class="dot">●</td><td class="dot">●</td><td class="hrcol na">n/d</td></tr>
+
+      <tr class="grouprow"><th colspan="5">Manage</th></tr>
+      <tr><th><span class="stage s-manage"></span>Agreement Manager</th>
+        <td class="dot">●</td><td class="na">·</td><td class="dot">●</td><td class="hrcol na">n/d</td></tr>
+      <tr><th><span class="stage s-manage"></span>Workspaces</th>
+        <td class="dot">●</td><td class="na">·</td><td class="na">·</td><td class="hrcol na">n/d</td></tr>
+
+      <tr class="grouprow"><th colspan="5">Automate</th></tr>
+      <tr><th><span class="stage s-auto"></span>Workflow Builder</th>
+        <td class="dot">●</td><td class="dot">●</td><td class="dot">●</td><td class="hrcol na">n/d</td></tr>
+      <tr><th><span class="stage s-auto"></span>Agreement Desk</th>
+        <td class="na">·</td><td class="na">·</td><td class="dot">●</td><td class="hrcol na">n/d</td></tr>
+
+      <tr class="grouprow"><th colspan="5">Platform services &amp; connectors</th></tr>
+      <tr><th><span class="stage s-plat"></span>App Center</th>
+        <td class="dot">●</td><td class="dot">●</td><td class="dot">●</td><td class="hrcol na">n/d</td></tr>
+      <tr><th><span class="stage s-plat"></span>Admin</th>
+        <td class="doto">○</td><td class="doto">○</td><td class="dot">●</td><td class="hrcol na">n/d</td></tr>
+      <tr><th><span class="stage s-plat"></span>Monitor <small style="color:var(--hint)">(extension)</small></th>
+        <td class="na">·</td><td class="na">·</td><td class="dot">●</td><td class="hrcol na">n/d</td></tr>
+      <tr><th><span class="stage s-plat"></span>Gen for Salesforce</th>
+        <td class="na">·</td><td class="na">·</td><td class="dot">●</td><td class="hrcol na">n/d</td></tr>
+
+      <tr class="grouprow"><th colspan="5">AI (spans every edition)</th></tr>
+      <tr><th><span class="stage s-ai"></span>Docusign Iris <small style="color:var(--hint)">(AI engine)</small></th>
+        <td class="dot">●</td><td class="dot">●</td><td class="dot">●</td><td class="hrcol dot">●</td></tr>
+      <tr><th><span class="stage s-ai"></span>AI Agents <small style="color:var(--hint)">(early access)</small></th>
+        <td class="doto">○</td><td class="doto">○</td><td class="doto">○</td><td class="hrcol na">n/d</td></tr>
+    </tbody>
+  </table>
+
+  <div class="legend">
+    <b><span class="dot">●</span> Included</b> — named in that edition's "What's included" list (or, for Sales, its license).<br>
+    <b><span class="doto">○</span> Base / in documented flows</b> — part of the foundation or shown in that edition's example workflows, but not in the headline list.<br>
+    <b><span class="na">·</span> Not documented</b> for this edition — absence ≠ exclusion; allowances vary by plan tier.<br>
+    <b><span class="na">n/d</span></b> — IAM for HR isn't in the scraped corpus (newer / early access), so its bundle is unknown apart from the platform-wide Iris engine.
+  </div>
+
+  <p class="cap">Sources: IAM Core / IAM for CX / IAM for Sales "What's included" overview pages (<code>data/docusign-iam-platform</code>) and the IAM-for-Sales license list (<code>data/docusign-agreement-prep</code>). This reflects documented bundling at scrape time; Docusign repackages editions and gates apps by plan tier (Standard/Professional/Enterprise), so confirm specifics against current Plans &amp; Pricing. See <a href="iam-products.md" style="color:inherit">iam-products.md</a> for per-product detail and <a href="iam-products.html" style="color:inherit">iam-products.html</a> for the platform map.</p>
+</div>
+</body>
+</html>

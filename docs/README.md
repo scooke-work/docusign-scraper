@@ -9,6 +9,9 @@ noted, verified against the live UI from screenshots). Start here.
   browser): a layered diagram of the editions, the applications grouped by
   agreement lifecycle (Create → Sign → Manage → Automate), platform services, and
   the Iris engine underneath.
+- **[iam-coverage-matrix.html](iam-coverage-matrix.html)** — **edition × application
+  coverage matrix**: which apps each edition (Core / CX / Sales / HR) bundles, with
+  a confidence legend (included vs. base-platform vs. not-documented).
 - **[iam-products.md](iam-products.md)** — Docusign IAM product summary: the
   editions (IAM Core / Sales / CX / HR) and every application (Agreement Manager,
   Agreement Desk, Agreement Prep, Workflow Builder, eSignature, Web Forms,
