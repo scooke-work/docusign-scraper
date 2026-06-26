@@ -65,9 +65,12 @@ Type vocabulary: **date · duration · number · currency · enum · boolean · 
 
 ### Document Details panel — fields by category (UI rendering)
 
-How the Agreement preview **Details pane** ("Document Details") groups the standard
-fields for display. **Agreement Type** sits at the top, above the category groups;
-the remaining fields render under five category headers in this order. `⚡` = auto‑set.
+How the Agreement preview **Details pane** — titled **"Review & edit details"**
+(AI‑Assisted) — groups the standard fields for display. **Agreement Type** sits at
+the top, above the category groups; the remaining fields render under five category
+headers in this order. Each category shows a review‑progress counter — **General**
+lists **13** fields (confirmed live: *"Reviewed 0/13"*), matching the table below.
+`⚡` = auto‑set.
 
 > Verified against the corpus: the category set (General · Termination · Renewal ·
 > Payment · Legal and Compliance · Other) matches the Fields Manager *Category*
@@ -84,7 +87,7 @@ the remaining fields render under five category headers in this order. `⚡` = a
 | **General** | Status | ⚡ `status` | enum |
 | | Title | (agreement title) | text |
 | | Parties | `parties` | object[] |
-| | Line of Business | `line_of_business` | text |
+| | Line of Business | `line_of_business` | enum |
 | | Total Contract Value | `total_agreement_value` (+ currency) | number |
 | | Annual Contract Value | `annual_agreement_value` (+ currency) | number |
 | | Execution Date | `execution_date` | date |
@@ -122,7 +125,9 @@ fields actually appear for a given agreement depends on its type — see
 
 ### Enum values
 
-**`category`** — `BusinessServices` · `HumanResources` · `Miscellaneous`
+**`category`** (agreement‑type classification) — `BusinessServices` · `HumanResources` · `Miscellaneous`
+
+**Line of Business** (`line_of_business`, dropdown — verified live UI) — **Human Resources** *(Employee data appears)* · **Sales** *(You are the seller)* · **Procurement** *(You are the buyer)* · **Unspecified**
 
 **`status`** (agreement) — UI: `Active` / `Inactive` · API: `PENDING` / `COMPLETE` / `INACTIVE`
 

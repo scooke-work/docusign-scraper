@@ -178,7 +178,7 @@
   <!-- ===================== DOCUMENT DETAILS PANEL (UI rendering by category) ===================== -->
   <div style="border-top:1px solid var(--border);margin:34px 0 18px;"></div>
   <p class="eyebrow">Document Details panel &middot; how fields render by category</p>
-  <p class="sub" style="margin-bottom:12px;">How the Agreement preview <b style="color:var(--text);font-weight:600">Details pane</b> groups the standard fields for display. <b style="color:var(--text);font-weight:600">Agreement Type</b> sits at the top; the rest render under five category headers. Each row shows the <b style="color:var(--text);font-weight:600">UI label</b> with the API field in <span class="mono" style="font-size:10px;color:var(--hint)">mono</span>. <span style="color:var(--auto);font-weight:600">&#9889;</span> auto-set &middot; <b>&dagger;</b> live-UI granularity not in the scraped docs.</p>
+  <p class="sub" style="margin-bottom:12px;">How the Agreement preview <b style="color:var(--text);font-weight:600">Details pane</b> &mdash; titled <b style="color:var(--text);font-weight:600">&ldquo;Review &amp; edit details&rdquo;</b> (AI-Assisted) &mdash; groups the standard fields. <b style="color:var(--text);font-weight:600">Agreement Type</b> sits at the top; the rest render under five category headers, each with a review-progress counter (<b style="color:var(--text);font-weight:600">General</b> lists 13, confirmed live as <i>&ldquo;Reviewed 0/13&rdquo;</i>). Each row shows the <b style="color:var(--text);font-weight:600">UI label</b> with the API field in <span class="mono" style="font-size:10px;color:var(--hint)">mono</span>. <span style="color:var(--auto);font-weight:600">&#9889;</span> auto-set &middot; <b>&dagger;</b> live-UI granularity not in the scraped docs.</p>
 
   <div class="card" style="margin-bottom:12px;border:2px solid var(--accent);">
     <div class="row" style="border-bottom:none;padding:2px 0;"><span>&#9656; <b>Agreement Type</b> <span class="mono" style="font-size:10px;color:var(--hint)">type</span></span><span class="badge t-enum">enum &middot; 49</span></div>
@@ -190,7 +190,8 @@
       <div class="row"><span><b style="color:var(--auto)">&#9889; Status</b> <span class="mono" style="font-size:10px;color:var(--hint)">status</span></span><span class="badge t-enum">enum</span></div>
       <div class="row"><span>Title</span><span class="badge t-text">text</span></div>
       <div class="row"><span>Parties <span class="mono" style="font-size:10px;color:var(--hint)">parties</span></span><span class="badge t-text">object[]</span></div>
-      <div class="row"><span>Line of Business <span class="mono" style="font-size:10px;color:var(--hint)">line_of_business</span></span><span class="badge t-text">text</span></div>
+      <div class="row"><span>Line of Business <span class="mono" style="font-size:10px;color:var(--hint)">line_of_business</span></span><span class="badge t-enum">enum</span></div>
+      <div class="row" style="border-bottom:none;padding-top:0"><span class="ev-wrap"><span class="ev">Human Resources</span><span class="ev">Sales</span><span class="ev">Procurement</span><span class="ev">Unspecified</span></span></div>
       <div class="row"><span>Total Contract Value <span class="mono" style="font-size:10px;color:var(--hint)">total_agreement_value</span></span><span class="badge t-num">number</span></div>
       <div class="row"><span>Annual Contract Value <span class="mono" style="font-size:10px;color:var(--hint)">annual_agreement_value</span></span><span class="badge t-num">number</span></div>
       <div class="row"><span>Execution Date <span class="mono" style="font-size:10px;color:var(--hint)">execution_date</span></span><span class="badge t-date">date</span></div>
