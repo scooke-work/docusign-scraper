@@ -63,6 +63,63 @@ Type vocabulary: **date · duration · number · currency · enum · boolean · 
 | **Governing** | `governing_law` | text |
 | | `jurisdiction` | text |
 
+### Document Details panel — fields by category (UI rendering)
+
+How the Agreement preview **Details pane** ("Document Details") groups the standard
+fields for display. **Agreement Type** sits at the top, above the category groups;
+the remaining fields render under five category headers in this order. `⚡` = auto‑set.
+
+> Verified against the corpus: the category set (General · Termination · Renewal ·
+> Payment · Legal and Compliance · Other) matches the Fields Manager *Category*
+> classification, and all display names are corroborated **except** the two marked
+> `†` below — *Original File Name* and the three *Assignment (…)* sub‑fields — which
+> reflect live‑UI granularity (the scraped docs show a single *Assignment* and only
+> *File Name*). *Other* / *Human Resources* carry no standard fields (they're for
+> custom fields), so they don't appear here.
+
+**▸ Agreement Type** → `type` · enum (49 values)
+
+| Category | Field (UI) | Maps to | Type |
+|----------|-----------|---------|------|
+| **General** | Status | ⚡ `status` | enum |
+| | Title | (agreement title) | text |
+| | Parties | `parties` | object[] |
+| | Line of Business | `line_of_business` | text |
+| | Total Contract Value | `total_agreement_value` (+ currency) | number |
+| | Annual Contract Value | `annual_agreement_value` (+ currency) | number |
+| | Execution Date | `execution_date` | date |
+| | Effective Date | `effective_date` | date |
+| | Expiration Date | `expiration_date` | date |
+| | Initial Term Length | `term_length` | duration |
+| | Original File Name `†` | (source file metadata) | text |
+| | File Name | (file metadata) | text |
+| | Languages | `languages` | string[] |
+| **Termination** | Termination for Cause – Notice Period | `termination_period_for_cause` | duration |
+| | Termination for Convenience – Notice Period | `termination_period_for_convenience` | duration |
+| **Renewal** | Renewal Type | `renewal_type` | enum |
+| | Renewal Notice Period | `renewal_notice_period` | duration |
+| | Renewal Notice Date | ⚡ `renewal_notice_date` | date |
+| | Renewal Term | `auto_renewal_term_length` | duration |
+| | Extension Period | `renewal_extension_period` | duration |
+| | Renewal Owner | `renewal_process_owner` | text |
+| | Additional Info | `renewal_additional_info` | text |
+| **Payment** | Payment Terms | `payment_terms_due_date` | enum |
+| | Late Fees Apply | `can_charge_late_payment_fees` | boolean |
+| | Late Fee % | `late_payment_fee_percent` | number |
+| | Price Cap Increase % | `price_cap_percent_increase` | number |
+| | Liability Cap Amount | `liability_cap_fixed_amount` (+ currency) | number |
+| | Liability Cap Multiplier | `liability_cap_multiplier` | number |
+| | Liability Cap Duration | `liability_cap_duration` | duration |
+| **Legal and Compliance** | Assignment (General) `†` | `assignment_type` | enum |
+| | Assignment (Change of Control) `†` | `assignment_change_of_control` | enum |
+| | Assignment (Termination Rights) `†` | `assignment_termination_rights` | enum |
+| | Governing Law | `governing_law` | text |
+| | Jurisdiction | `jurisdiction` | text |
+
+`†` live‑UI granularity not in the scraped docs (see note above). Which of these
+fields actually appear for a given agreement depends on its type — see
+[Fields available by agreement type](#fields-available-by-agreement-type).
+
 ### Enum values
 
 **`category`** — `BusinessServices` · `HumanResources` · `Miscellaneous`

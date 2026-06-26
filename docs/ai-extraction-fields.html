@@ -175,6 +175,71 @@
 
   </div>
 
+  <!-- ===================== DOCUMENT DETAILS PANEL (UI rendering by category) ===================== -->
+  <div style="border-top:1px solid var(--border);margin:34px 0 18px;"></div>
+  <p class="eyebrow">Document Details panel &middot; how fields render by category</p>
+  <p class="sub" style="margin-bottom:12px;">How the Agreement preview <b style="color:var(--text);font-weight:600">Details pane</b> groups the standard fields for display. <b style="color:var(--text);font-weight:600">Agreement Type</b> sits at the top; the rest render under five category headers. Each row shows the <b style="color:var(--text);font-weight:600">UI label</b> with the API field in <span class="mono" style="font-size:10px;color:var(--hint)">mono</span>. <span style="color:var(--auto);font-weight:600">&#9889;</span> auto-set &middot; <b>&dagger;</b> live-UI granularity not in the scraped docs.</p>
+
+  <div class="card" style="margin-bottom:12px;border:2px solid var(--accent);">
+    <div class="row" style="border-bottom:none;padding:2px 0;"><span>&#9656; <b>Agreement Type</b> <span class="mono" style="font-size:10px;color:var(--hint)">type</span></span><span class="badge t-enum">enum &middot; 49</span></div>
+  </div>
+
+  <div class="grid">
+    <div class="card">
+      <div class="ch">General</div>
+      <div class="row"><span><b style="color:var(--auto)">&#9889; Status</b> <span class="mono" style="font-size:10px;color:var(--hint)">status</span></span><span class="badge t-enum">enum</span></div>
+      <div class="row"><span>Title</span><span class="badge t-text">text</span></div>
+      <div class="row"><span>Parties <span class="mono" style="font-size:10px;color:var(--hint)">parties</span></span><span class="badge t-text">object[]</span></div>
+      <div class="row"><span>Line of Business <span class="mono" style="font-size:10px;color:var(--hint)">line_of_business</span></span><span class="badge t-text">text</span></div>
+      <div class="row"><span>Total Contract Value <span class="mono" style="font-size:10px;color:var(--hint)">total_agreement_value</span></span><span class="badge t-num">number</span></div>
+      <div class="row"><span>Annual Contract Value <span class="mono" style="font-size:10px;color:var(--hint)">annual_agreement_value</span></span><span class="badge t-num">number</span></div>
+      <div class="row"><span>Execution Date <span class="mono" style="font-size:10px;color:var(--hint)">execution_date</span></span><span class="badge t-date">date</span></div>
+      <div class="row"><span>Effective Date <span class="mono" style="font-size:10px;color:var(--hint)">effective_date</span></span><span class="badge t-date">date</span></div>
+      <div class="row"><span>Expiration Date <span class="mono" style="font-size:10px;color:var(--hint)">expiration_date</span></span><span class="badge t-date">date</span></div>
+      <div class="row"><span>Initial Term Length <span class="mono" style="font-size:10px;color:var(--hint)">term_length</span></span><span class="badge t-dur">duration</span></div>
+      <div class="row"><span>Original File Name <b>&dagger;</b></span><span class="badge t-text">text</span></div>
+      <div class="row"><span>File Name</span><span class="badge t-text">text</span></div>
+      <div class="row"><span>Languages <span class="mono" style="font-size:10px;color:var(--hint)">languages</span></span><span class="badge t-text">string[]</span></div>
+    </div>
+
+    <div class="card">
+      <div class="ch">Termination</div>
+      <div class="row"><span>Termination for Cause &ndash; Notice Period <span class="mono" style="font-size:10px;color:var(--hint)">termination_period_for_cause</span></span><span class="badge t-dur">duration</span></div>
+      <div class="row"><span>Termination for Convenience &ndash; Notice Period <span class="mono" style="font-size:10px;color:var(--hint)">termination_period_for_convenience</span></span><span class="badge t-dur">duration</span></div>
+    </div>
+
+    <div class="card">
+      <div class="ch">Renewal</div>
+      <div class="row"><span>Renewal Type <span class="mono" style="font-size:10px;color:var(--hint)">renewal_type</span></span><span class="badge t-enum">enum</span></div>
+      <div class="row"><span>Renewal Notice Period <span class="mono" style="font-size:10px;color:var(--hint)">renewal_notice_period</span></span><span class="badge t-dur">duration</span></div>
+      <div class="row"><span><b style="color:var(--auto)">&#9889; Renewal Notice Date</b> <span class="mono" style="font-size:10px;color:var(--hint)">renewal_notice_date</span></span><span class="badge t-date">date</span></div>
+      <div class="row"><span>Renewal Term <span class="mono" style="font-size:10px;color:var(--hint)">auto_renewal_term_length</span></span><span class="badge t-dur">duration</span></div>
+      <div class="row"><span>Extension Period <span class="mono" style="font-size:10px;color:var(--hint)">renewal_extension_period</span></span><span class="badge t-dur">duration</span></div>
+      <div class="row"><span>Renewal Owner <span class="mono" style="font-size:10px;color:var(--hint)">renewal_process_owner</span></span><span class="badge t-text">text</span></div>
+      <div class="row"><span>Additional Info <span class="mono" style="font-size:10px;color:var(--hint)">renewal_additional_info</span></span><span class="badge t-text">text</span></div>
+    </div>
+
+    <div class="card">
+      <div class="ch">Payment</div>
+      <div class="row"><span>Payment Terms <span class="mono" style="font-size:10px;color:var(--hint)">payment_terms_due_date</span></span><span class="badge t-enum">enum</span></div>
+      <div class="row"><span>Late Fees Apply <span class="mono" style="font-size:10px;color:var(--hint)">can_charge_late_payment_fees</span></span><span class="badge t-bool">boolean</span></div>
+      <div class="row"><span>Late Fee % <span class="mono" style="font-size:10px;color:var(--hint)">late_payment_fee_percent</span></span><span class="badge t-num">number</span></div>
+      <div class="row"><span>Price Cap Increase % <span class="mono" style="font-size:10px;color:var(--hint)">price_cap_percent_increase</span></span><span class="badge t-num">number</span></div>
+      <div class="row"><span>Liability Cap Amount <span class="mono" style="font-size:10px;color:var(--hint)">liability_cap_fixed_amount</span></span><span class="badge t-num">number</span></div>
+      <div class="row"><span>Liability Cap Multiplier <span class="mono" style="font-size:10px;color:var(--hint)">liability_cap_multiplier</span></span><span class="badge t-num">number</span></div>
+      <div class="row"><span>Liability Cap Duration <span class="mono" style="font-size:10px;color:var(--hint)">liability_cap_duration</span></span><span class="badge t-dur">duration</span></div>
+    </div>
+
+    <div class="card">
+      <div class="ch">Legal and Compliance</div>
+      <div class="row"><span>Assignment (General) <b>&dagger;</b> <span class="mono" style="font-size:10px;color:var(--hint)">assignment_type</span></span><span class="badge t-enum">enum</span></div>
+      <div class="row"><span>Assignment (Change of Control) <b>&dagger;</b> <span class="mono" style="font-size:10px;color:var(--hint)">assignment_change_of_control</span></span><span class="badge t-enum">enum</span></div>
+      <div class="row"><span>Assignment (Termination Rights) <b>&dagger;</b> <span class="mono" style="font-size:10px;color:var(--hint)">assignment_termination_rights</span></span><span class="badge t-enum">enum</span></div>
+      <div class="row"><span>Governing Law <span class="mono" style="font-size:10px;color:var(--hint)">governing_law</span></span><span class="badge t-text">text</span></div>
+      <div class="row"><span>Jurisdiction <span class="mono" style="font-size:10px;color:var(--hint)">jurisdiction</span></span><span class="badge t-text">text</span></div>
+    </div>
+  </div>
+
   <!-- AGREEMENT TYPE ENUM (49 values) -->
   <div class="types">
     <h3><span class="mono" style="font-size:12px">type</span> enum &mdash; 49 standard agreement types (by category)</h3>
