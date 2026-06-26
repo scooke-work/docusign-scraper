@@ -173,7 +173,9 @@ fields actually appear for a given agreement depends on its type — see
 
 ### Fields available by agreement type
 
-Every type includes the **universal fields**: Title · Parties · Execution Date · Effective Date · Expiration Date · Status · Line of Business. The table below shows which *additional* standard fields each type surfaces (✓ = present).
+Every type includes the **universal fields**: Title · Parties · Execution Date · Effective Date · Expiration Date · Status · Line of Business. The table below shows which *additional* standard fields each type surfaces (✓ = present). **Non-agreement** types (Application, Certificate, Invoice, etc.) are included at the bottom.
+
+> Verified against Docusign's *Standard Fields for Agreement and Non-Agreement Types* support article. Addendum/Amendment notably omit **Governing Law**; Employment Separation has only **Termination for Convenience**; Terms and Conditions has no **Total Contract Value**.
 
 | Agreement type | TCV | ACV | Term | Renew | Pay | LateFee | PriceCap% | LoLCap | Assign | GovLaw | Juris | TrmCause | TrmConv | Extra |
 |---|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:| --- |
@@ -209,6 +211,8 @@ Every type includes the **universal fields**: Title · Parties · Execution Date
 | Renewal | · | ✓ | ✓ | · | ✓ | ✓ | ✓ | ✓ | ✓ | · | ✓ | · | · |  |
 | Stock Purchase Agreement | ✓ | · | ✓ | ✓ | · | · | · | · | ✓ | ✓ | ✓ | ✓ | ✓ |  |
 | Termination | · | · | ✓ | · | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |  |
+| **Non-agreement:** Application / Certificate / Form / Handbook / Notice / Plan / Policy / Report / Summary | · | · | · | · | · | · | · | · | · | · | · | · | · | universal fields only |
+| **Non-agreement:** Invoice | ✓ | · | · | ✓ | ✓ | ✓ | ✓ | · | · | · | · | · | · |  |
 
 **Non-agreement types** — *Application / Certificate / Form / Handbook / Notice / Plan / Policy / Report / Summary*: universal fields only. **Invoice**: universal + Total Contract Value, Renewal, Payment Terms, Late Payment Fee, Price Cap %.
 
