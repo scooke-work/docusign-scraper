@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Docusign Iris — Chat Entry Points</title>
+<style>
+  :root{ --bg:#ffffff; --text:#1b1b1a; --muted:#6b6a65; --hint:#94938c; --line:#b9b8b1; }
+  @media (prefers-color-scheme: dark){
+    :root{ --bg:#1c1c1b; --text:#e9e8e2; --muted:#a9a89f; --hint:#7c7b73; --line:#56554f; }
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--text);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;}
+  .wrap{max-width:1000px;margin:0 auto;padding:36px 24px 56px;}
+  h1{font-size:21px;font-weight:600;margin:0 0 4px;}
+  .sub{font-size:14px;color:var(--muted);margin:0 0 16px;}
+  svg{width:100%;height:auto;display:block;}
+  .cap{font-size:12px;color:var(--hint);margin-top:12px;line-height:1.6;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Docusign Iris — where chat can be initiated</h1>
+  <p class="sub"><b style="color:var(--text);font-weight:600">Iris</b> is the AI engine, not one chat — it powers several conversational surfaces, each with its own entry points.</p>
+
+  <svg viewBox="0 0 956 470" xmlns="http://www.w3.org/2000/svg" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif">
+
+    <!-- connectors to Iris -->
+    <g fill="none" stroke="var(--line)" stroke-width="1.5">
+      <line x1="170" y1="232" x2="170" y2="300"/>
+      <line x1="478" y1="232" x2="478" y2="300"/>
+      <line x1="786" y1="232" x2="786" y2="300"/>
+    </g>
+
+    <!-- ===== CARD 1 — Agreement Desk (amber) ===== -->
+    <g>
+      <rect x="24" y="10" width="292" height="222" rx="10" fill="#FAEEDA" stroke="#BA7517" stroke-width="1.5"/>
+      <text x="38" y="35" font-size="13.5" font-weight="700" fill="#854F0B">AI‑Assisted Review · Chat</text>
+      <text x="38" y="51" font-size="10" font-style="italic" fill="#97600F">Agreement Desk — Microsoft Word add‑in</text>
+      <line x1="38" y1="60" x2="302" y2="60" stroke="#E2C79A" stroke-width="1"/>
+      <text x="38" y="82" font-size="11" font-weight="600" fill="#854F0B">① From a request record</text>
+      <text x="38" y="98" font-size="10" fill="#97600F">Requests → open → Documents →</text>
+      <text x="38" y="112" font-size="10" fill="#97600F">Options → Edit in Word</text>
+      <text x="38" y="138" font-size="11" font-weight="600" fill="#854F0B">② From the document preview</text>
+      <text x="38" y="154" font-size="10" fill="#97600F">preview shows AI‑Assisted Review</text>
+      <text x="38" y="180" font-size="11" font-weight="600" fill="#854F0B">③ Local doc in Word</text>
+      <text x="38" y="196" font-size="10" fill="#97600F">Home ribbon → AI‑Assisted Review</text>
+      <text x="38" y="220" font-size="9" font-style="italic" fill="#b9892f">Enterprise &amp; Sales plans · playbook perms</text>
+    </g>
+
+    <!-- ===== CARD 2 — eSignature (blue) ===== -->
+    <g>
+      <rect x="332" y="10" width="292" height="222" rx="10" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.5"/>
+      <text x="346" y="35" font-size="13.5" font-weight="700" fill="#0C447C">Signing AI · Ask a question</text>
+      <text x="346" y="51" font-size="10" font-style="italic" fill="#185FA5">Docusign eSignature</text>
+      <line x1="346" y1="60" x2="610" y2="60" stroke="#BcD6EF" stroke-width="1"/>
+      <text x="346" y="82" font-size="11" font-weight="600" fill="#0C447C">① From the signing experience</text>
+      <text x="346" y="98" font-size="10" fill="#185FA5">open the document while signing</text>
+      <text x="346" y="118" font-size="10" fill="#185FA5">→ AI Summary displays</text>
+      <text x="346" y="138" font-size="10" fill="#185FA5">→ select “Ask a question”</text>
+      <text x="346" y="162" font-size="10" fill="#185FA5">Answers cite the source clauses</text>
+      <text x="346" y="220" font-size="9" font-style="italic" fill="#5a8ec4">AI‑Assisted Summaries &amp; Q&amp;A</text>
+    </g>
+
+    <!-- ===== CARD 3 — Agents / external (violet) ===== -->
+    <g>
+      <rect x="640" y="10" width="292" height="222" rx="10" fill="#EEE9FB" stroke="#6A4BB8" stroke-width="1.5"/>
+      <text x="654" y="35" font-size="13.5" font-weight="700" fill="#45307F">Agent &amp; external chat</text>
+      <text x="654" y="51" font-size="10" font-style="italic" fill="#6A4BB8">Iris assistant · Agent Studio</text>
+      <line x1="654" y1="60" x2="918" y2="60" stroke="#CEC2EC" stroke-width="1"/>
+      <text x="654" y="82" font-size="11" font-weight="600" fill="#45307F">① Iris assistant / Agent Studio</text>
+      <text x="654" y="98" font-size="10" fill="#6A4BB8">invoke agents from chat</text>
+      <text x="654" y="124" font-size="11" font-weight="600" fill="#45307F">② MCP Server (Beta)</text>
+      <text x="654" y="140" font-size="10" fill="#6A4BB8">Claude · Gemini · ChatGPT</text>
+      <text x="654" y="166" font-size="11" font-weight="600" fill="#45307F">③ Microsoft Copilot Studio</text>
+      <text x="654" y="182" font-size="10" fill="#6A4BB8">chat from the Test pane</text>
+      <text x="654" y="220" font-size="9" font-style="italic" fill="#8a72c9">early access / Beta</text>
+    </g>
+
+    <!-- ===== IRIS ENGINE ===== -->
+    <g>
+      <rect x="24" y="300" width="908" height="56" rx="9" fill="#EEE9FB" stroke="#6A4BBE" stroke-width="2"/>
+      <text x="478" y="326" text-anchor="middle" font-size="15" font-weight="700" fill="#45307F">Docusign Iris · AI engine</text>
+      <text x="478" y="344" text-anchor="middle" font-size="10.5" fill="#6A4BBE">powers every chat surface above — extraction, summaries, Q&amp;A, redline &amp; agents</text>
+    </g>
+
+    <!-- ===== NOT DOCUMENTED ===== -->
+    <g>
+      <rect x="24" y="378" width="908" height="74" rx="9" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="1.2" stroke-dasharray="5 4"/>
+      <text x="40" y="400" font-size="11" font-weight="700" letter-spacing="0.3" fill="#5F5E5A">NOT DOCUMENTED IN CORPUS</text>
+      <text x="40" y="420" font-size="10.5" fill="#5F5E5A">• Agreement Manager <b>preview page</b> has AI suggestions + extraction + data review — <b>no free‑form chat</b> (Q&amp;A is eSignature‑only).</text>
+      <text x="40" y="438" font-size="10.5" fill="#5F5E5A">• In‑app entry points for the new <b>Docusign Iris assistant</b> (Momentum '26, early access) aren’t documented page‑by‑page → screenshot territory.</text>
+    </g>
+  </svg>
+
+  <p class="cap">Sources: <i>Chat in the AI‑Assisted Review add‑in for Agreement Desk</i>, <i>Use Docusign AI‑Assisted Signing Features</i>, and the AI Agents / MCP material (<code>data/docusign-iris-ai-assistant</code>, <code>data/docusign-esignature-support</code>, <code>data/docusign-ai-agents</code>). Detail in <a href="iris-chat-entry-points.md" style="color:inherit">iris-chat-entry-points.md</a>.</p>
+</div>
+</body>
+</html>

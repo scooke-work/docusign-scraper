@@ -30,6 +30,10 @@ noted, verified against the live UI from screenshots). Start here.
 - **[agreement-manager-ui-screens.md](agreement-manager-ui-screens.md)** — the UI
   screen inventory (pages, panes, dashboards, managers, dialogs) named in the
   Agreement Manager docs.
+- **[iris-chat-entry-points.md](iris-chat-entry-points.md)** /
+  **[.html](iris-chat-entry-points.html)** — where the Iris‑powered chat / Q&A
+  surfaces can be initiated (Agreement Desk request record · document preview ·
+  Word add‑in; eSignature "Ask a question"; agent/MCP/Copilot), with a visual.
 
 ## Salesforce / IAM-for-Sales build guide
 - **[sc-guide-salesforce-iam-use-cases.md](sc-guide-salesforce-iam-use-cases.md)** —
