@@ -5,6 +5,10 @@ Curated, human-readable references distilled from the scraped corpus under
 noted, verified against the live UI from screenshots). Start here.
 
 ## Products & platform
+- **[iam-products.html](iam-products.html)** — visual **product map** (open in a
+  browser): a layered diagram of the editions, the applications grouped by
+  agreement lifecycle (Create → Sign → Manage → Automate), platform services, and
+  the Iris engine underneath.
 - **[iam-products.md](iam-products.md)** — Docusign IAM product summary: the
   editions (IAM Core / Sales / CX / HR) and every application (Agreement Manager,
   Agreement Desk, Agreement Prep, Workflow Builder, eSignature, Web Forms,
