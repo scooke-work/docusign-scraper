@@ -12,6 +12,10 @@ noted, verified against the live UI from screenshots). Start here.
 - **[iam-coverage-matrix.html](iam-coverage-matrix.html)** — **edition × application
   coverage matrix**: which apps each edition (Core / CX / Sales / HR) bundles, with
   a confidence legend (included vs. base-platform vs. not-documented).
+- **[product-embedding.md](product-embedding.md)** — **product-in-product
+  embedding**: which products surface another product inside their UI (Workflow
+  Builder steps, Agreement Manager panes, eSignature signing, Salesforce DAL,
+  Word add-ins, App Center, MCP/Copilot), grouped by host with a quick matrix.
 - **[iam-products.md](iam-products.md)** — Docusign IAM product summary: the
   editions (IAM Core / Sales / CX / HR) and every application (Agreement Manager,
   Agreement Desk, Agreement Prep, Workflow Builder, eSignature, Web Forms,
